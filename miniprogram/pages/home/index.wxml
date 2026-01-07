@@ -82,8 +82,8 @@
       data-id="{{item.id}}"
       bindtap="onOpenDetail"
     >
-      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}" data-id="{{item.id}}" bindtap="onOpenDetail"></image>
-      <view class="reco-body" data-id="{{item.id}}" bindtap="onOpenDetail">
+      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
+      <view class="reco-body">
         <view class="title reco-title">{{item.title}}</view>
         <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
           <block wx:for="{{item.tags}}" wx:key="*this">
