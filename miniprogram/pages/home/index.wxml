@@ -1,0 +1,100 @@
+<view class="container">
+  <view class="search card">
+    <input
+      class="search-input"
+      placeholder="搜索食材/菜名（如：三文鱼、菠菜）"
+      value="{{query}}"
+      confirm-type="search"
+      bindinput="onQueryInput"
+      bindconfirm="onSearch"
+    />
+  </view>
+
+  <view class="profile card">
+    <view class="profile-row">
+      <view>
+        <view class="title">你好，宝宝今天 {{ageText}} 了</view>
+        <view class="muted">将根据月龄优先推荐适龄辅食</view>
+      </view>
+      <button class="btn-ghost small-btn" bindtap="onEditBirthday">
+        {{hasBirthday ? '修改生日' : '设置生日'}}
+      </button>
+    </view>
+  </view>
+
+  <view class="section">
+    <view class="section-title">
+      <view class="section-title-left">
+        <view class="section-accent"></view>
+        <text class="section-title-text">月龄导航</text>
+      </view>
+    </view>
+    <scroll-view class="nav-scroll" scroll-x="true" show-scrollbar="false">
+      <view class="nav-row">
+        <view
+          class="nav-pill {{activeBucket === '4-6' ? 'nav-pill-active' : ''}}"
+          hover-class="nav-pill-hover"
+          data-bucket="4-6"
+          bindtap="onNavBucket"
+        >4-6月</view>
+        <view
+          class="nav-pill {{activeBucket === '6-8' ? 'nav-pill-active' : ''}}"
+          hover-class="nav-pill-hover"
+          data-bucket="6-8"
+          bindtap="onNavBucket"
+        >6-8月</view>
+        <view
+          class="nav-pill {{activeBucket === '8-12' ? 'nav-pill-active' : ''}}"
+          hover-class="nav-pill-hover"
+          data-bucket="8-12"
+          bindtap="onNavBucket"
+        >8-12月</view>
+        <view
+          class="nav-pill {{activeBucket === '1+' ? 'nav-pill-active' : ''}}"
+          hover-class="nav-pill-hover"
+          data-bucket="1+"
+          bindtap="onNavBucket"
+        >1岁+</view>
+        <view
+          class="nav-pill {{activeBucket === '2+' ? 'nav-pill-active' : ''}}"
+          hover-class="nav-pill-hover"
+          data-bucket="2+"
+          bindtap="onNavBucket"
+        >2岁+</view>
+      </view>
+    </scroll-view>
+  </view>
+
+  <view class="section">
+    <view class="section-title">
+      <view class="section-title-left">
+        <view class="section-accent"></view>
+        <text class="section-title-text">每日推荐</text>
+      </view>
+      <text class="section-link" bindtap="onOpenAll">查看全部</text>
+    </view>
+    <view wx:if="{{reco.length === 0}}" class="muted">暂无数据</view>
+    <view
+      wx:for="{{reco}}"
+      wx:key="id"
+      class="reco-card card"
+      hover-class="reco-hover"
+      data-id="{{item.id}}"
+      bindtap="onOpenDetail"
+    >
+      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}" data-id="{{item.id}}" bindtap="onOpenDetail"></image>
+      <view class="reco-body" data-id="{{item.id}}" bindtap="onOpenDetail">
+        <view class="title reco-title">{{item.title}}</view>
+        <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
+          <block wx:for="{{item.tags}}" wx:key="*this">
+            <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
+          </block>
+        </view>
+        <view class="reco-meta">
+          <text class="tag">{{item.min_age_month}}m+</text>
+          <text class="muted">{{item.time_cost}}分钟 · 难度{{item.difficulty}}</text>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

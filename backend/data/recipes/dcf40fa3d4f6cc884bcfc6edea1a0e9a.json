@@ -1,0 +1,78 @@
+{
+  "id": "dcf40fa3d4f6cc884bcfc6edea1a0e9a",
+  "title": "Strawberry Mango Feta Toast",
+  "min_age_month": 12,
+  "tags": [
+    "早餐",
+    "水果",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/Mango%20Toast%20Final.jpg",
+  "nutrition_tip": "Diced strawberries, mango, and fat-free feta cheese provide the perfect balance…",
+  "ingredients": [
+    {
+      "name": "mango (ripe, divided)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "strawberries (divided)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Feta cheese (fat-free, crumbles)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basil (leave, plus 2 tablespoons for topping)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Peel and pit mango. Dice 3/4 of mango and 3/4 of strawberries; place in large bowl with feta cheese. Put remaining fruit, 1/4 cup basil, vinegar, and oil in a blender and blend."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Pour blended vinaigrette over fruit-feta mix and toss gently."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Chop remaining basil leaves."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Toast bread slices and cut each slice diagonally."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Top toast points with dressed fruit-feta mix and chopped basil."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-04-26",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/strawberry-mango-feta-toast",
+  "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/strawberry-mango-feta-toast-points",
+  "source_name": "Nutrition.gov (USDA)"
+}

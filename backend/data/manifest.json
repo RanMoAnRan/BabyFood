@@ -1,0 +1,22 @@
+{
+  "version": "2026-01-07T09:56:09Z",
+  "updated_at": "2026-01-07T09:56:09Z",
+  "recipe_count": 20,
+  "latest_ids": [
+    "e64358bbba6d95695846e65fc8cdba11",
+    "f2ad0c707a675329a05dc414dda3649a",
+    "edd7ff443da4daa0b49912713c8e79f8",
+    "dc0d98cde77a5ce4e7f7f2d69bdc358f",
+    "0a3fc2d969eede82c28a62b63c0679e6",
+    "fa3291e4e71d681adc1793467df8e0bb",
+    "919305218644e7db5e60c413af61abf1",
+    "6d5a157835e4e6ef288a087fffc5d48f",
+    "89325112e89a52936067de876e399ee2",
+    "dcf40fa3d4f6cc884bcfc6edea1a0e9a"
+  ],
+  "source": {
+    "name": "Nutrition.gov (USDA)",
+    "base_url": "https://www.nutrition.gov/recipes/search",
+    "note": "USDA/NAL 站点内容一般为 public domain，但仍建议保留 source_url/origin_url 以便溯源。"
+  }
+}

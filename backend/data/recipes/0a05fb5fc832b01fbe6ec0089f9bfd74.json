@@ -1,0 +1,53 @@
+{
+  "id": "0a05fb5fc832b01fbe6ec0089f9bfd74",
+  "title": "Homemade Hummus",
+  "min_age_month": 8,
+  "tags": [
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/Hummus.jpeg",
+  "nutrition_tip": "This classic garbanzo bean dip is easy to make and a versatile dish. Serve hummu…",
+  "ingredients": [
+    {
+      "name": "chickpeas (also known as garbanzo beans, cooked)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "tahini (sesame paste, substitute peanut butter for a sweet taste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Mash the garbanzo beans until smooth (if you have a blender, put the beans and lemon juice into it and blend)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add the garlic, lemon juice, tahini and oil. Mix well."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-04-02",
+  "updated_at": "2026-01-07T09:46:14Z",
+  "source_url": "https://www.nutrition.gov/recipes/homemade-hummus",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/hummus",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,73 @@
+page {
+  background: #FFFBF0; /* Slightly warmer off-white */
+  color: #5D5D5D;
+  font-size: 30rpx;
+  font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica,
+    Segoe UI, Arial, Roboto, 'PingFang SC', 'miui', 'Hiragino Sans GB', 'Microsoft Yahei',
+    sans-serif;
+  line-height: 1.6;
+}
+
+.container {
+  padding: 30rpx;
+  padding-bottom: calc(30rpx + 140rpx + env(safe-area-inset-bottom));
+}
+
+.card {
+  background: #ffffff;
+  border-radius: 32rpx; /* Softer rounded corners */
+  box-shadow: 0 8rpx 20rpx rgba(239, 214, 172, 0.15); /* Warmer, softer shadow */
+  overflow: hidden; /* Ensure content respects border radius */
+}
+
+.title {
+  color: #333333;
+  font-weight: 700;
+  letter-spacing: 1rpx;
+}
+
+.muted {
+  color: #999999;
+  font-size: 26rpx;
+}
+
+.btn {
+  background: linear-gradient(135deg, #FFD580 0%, #FFC145 100%); /* Gradient for depth */
+  border-radius: 999rpx;
+  padding: 20rpx 40rpx;
+  font-weight: 600;
+  color: #5A3E00;
+  font-size: 30rpx;
+  box-shadow: 0 6rpx 16rpx rgba(255, 193, 69, 0.3);
+  border: none;
+}
+
+.btn::after {
+  border: none;
+}
+
+.btn-ghost {
+  background: #ffffff;
+  border: 2rpx solid #E0E0E0;
+  color: #666666;
+  border-radius: 999rpx;
+  padding: 16rpx 32rpx;
+  font-size: 28rpx;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6rpx 20rpx;
+  border-radius: 12rpx;
+  background: #E8F5E9; /* Softer mint background */
+  color: #2E7D32;
+  font-size: 24rpx;
+  font-weight: 600;
+}
+
+.danger {
+  color: #E57373;
+  font-weight: 700;
+}

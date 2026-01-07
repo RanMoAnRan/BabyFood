@@ -1,0 +1,68 @@
+{
+  "id": "0a3fc2d969eede82c28a62b63c0679e6",
+  "title": "Chicken Salad and Peach Sandwich",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "水果",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/Peach-chickensalad.jpg",
+  "nutrition_tip": "Elevate your chicken salad sandwich with the addition of sweet peaches.&nbsp;",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "chicken (diced, cooked)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "peach (slices, drained and diced)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "celery (diced)",
+      "amount": "1 stalk"
+    },
+    {
+      "name": "apple (diced)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "onion (diced)",
+      "amount": "1 small"
+    },
+    {
+      "name": "mayonnaise (nonfat)",
+      "amount": "1 1 / 2 tablespoons"
+    },
+    {
+      "name": "walnut (chopped)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Mix together the chicken, apples, peaches, celery, onion, walnuts, and mayonnaise in a small bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Spoon mixture onto 2 slices of the bread."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-07-24",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/chicken-salad-and-peach-sandwich",
+  "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/chicken-salad-and-peach-sandwich",
+  "source_name": "Nutrition.gov (USDA)"
+}

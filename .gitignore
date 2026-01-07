@@ -1,0 +1,21 @@
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+*.swp
+*.swo
+
+# WeChat DevTools
+.wechatide/
+miniprogram_npm/
+project.private.config.json
+miniprogram/project.config.json
+
+# Local env
+.env
+.venv/
+.python-version
+.tool-versions

@@ -1,0 +1,8 @@
+{
+  "version": "seed-1",
+  "updated_at": "2024-01-01T00:00:00Z",
+  "recipe_count": 1,
+  "latest_ids": ["demo_pumpkin_potato"],
+  "notes": "本地种子数据，仅用于首次启动或离线兜底。"
+}
+

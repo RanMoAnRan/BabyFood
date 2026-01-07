@@ -1,0 +1,79 @@
+{
+  "id": "2d35e4548ad4f72264916b36a903f9a9",
+  "title": "Couscous With Carrots, Walnuts, and Raisins",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/couscous.jpeg",
+  "nutrition_tip": "This quick-cooking grain dish has a touch of sweet and nutty flavors to go with…",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "walnut (coarsely chopped)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 8 teaspoon"
+    },
+    {
+      "name": "pumpkin pie spice (or cinnamon)",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 1 / 3 cups"
+    },
+    {
+      "name": "raisins",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots (rinsed, peeled, and shredded or thinly sliced, cut in half)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a 4-quart saucepan over medium heat, cook and stir couscous, olive oil, walnuts, salt, pepper, and spice just until couscous begins to brown."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Slowly add water, then raisins and carrots. Cover. Bring to a boil over high heat."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Remove from the heat, and let stand for 10 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Fluff with a fork. Serve immediately."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-03-20",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/couscous-carrots-walnuts-and-raisins",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=8&amp;rId=56",
+  "source_name": "Nutrition.gov (USDA)"
+}

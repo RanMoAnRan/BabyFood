@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/home/index",
+    "pages/list/index",
+    "pages/detail/index",
+    "pages/profile/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "宝宝辅食",
+    "navigationBarBackgroundColor": "#FFFBF0",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#FFFBF0",
+    "backgroundTextStyle": "light"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#999999",
+    "selectedColor": "#F9A825",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/profile/index",
+        "text": "我的"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "dc0d98cde77a5ce4e7f7f2d69bdc358f",
+  "title": "Red, White, and Green Grilled Cheese",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/AdobeStock_498217013.jpeg",
+  "nutrition_tip": "Switch up your cold sandwich with this delicious red, white, and green grilled c…",
+  "ingredients": [
+    {
+      "name": "garlic (minced, about 1/2 clove)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion (minced, about 1/2 cup)",
+      "amount": "1 small"
+    },
+    {
+      "name": "spinach (frozen, thawed, drained or 2 bags (10 oz each) fresh leaf spinach)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "8 slices"
+    },
+    {
+      "name": "tomato (rinsed, cut into 4 slices)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mozzarella cheese (shredded, part-skim)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non stick spray",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 400 °F. Place a large baking sheet in the oven to preheat for about 10 minutes."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat garlic with cooking spray in a medium sauté pan over medium heat. Cook until soft, but not browned. Add onions, and continue to cook until the onions are soft, but not browned."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add spinach, and toss gently. Cook until the spinach is heated throughout. Season with pepper, and set aside to cool."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "When the spinach and onions are cool, assemble each sandwich with one slice of bread on the bottom, one tomato slice, ½ cup of spinach mixture, ¼ cup of cheese, and a second slice of bread on the top. (For picky eaters, see Healthy Eating Two Ways suggestion below.)"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Spray the preheated nonstick baking sheet with cooking spray. Place the sandwiches on the baking sheet. Bake for 10 minutes, or until the bottom of each sandwich is browned."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Carefully flip sandwiches, and bake for an additional 5 minutes, or until both sides are browned. Serve immediately."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-07-24",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/red-white-and-green-grilled-cheese",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=9&amp;rId=149",
+  "source_name": "Nutrition.gov (USDA)"
+}

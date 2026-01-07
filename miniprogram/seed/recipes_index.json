@@ -1,0 +1,16 @@
+{
+  "version": "seed-1",
+  "items": [
+    {
+      "id": "demo_pumpkin_potato",
+      "title": "奶香南瓜土豆泥",
+      "min_age_month": 6,
+      "tags": ["6m+", "补锌", "通便", "早餐"],
+      "difficulty": 1,
+      "time_cost": 15,
+      "cover_image": "https://via.placeholder.com/800x600.png?text=BabyFood",
+      "publish_date": "2023-10-27"
+    }
+  ]
+}
+

@@ -1,0 +1,56 @@
+<view class="container">
+  <view class="card block">
+    <view class="block-title">宝宝管理</view>
+    <view class="row">
+      <view class="muted">宝宝生日</view>
+      <picker mode="date" value="{{birthday}}" start="2018-01-01" end="2035-12-31" bindchange="onBirthdayChange">
+        <view class="picker">{{birthday || '请选择'}}</view>
+      </picker>
+    </view>
+  </view>
+
+  <view class="fav-section">
+    <view class="block-title">我的收藏</view>
+    <view wx:if="{{favItems.length === 0}}" class="muted">还没有收藏</view>
+    <view
+      wx:for="{{favItems}}"
+      wx:key="id"
+      class="reco-card card"
+      hover-class="reco-hover"
+      data-id="{{item.id}}"
+      bindtap="onOpenDetail"
+    >
+      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
+      <view class="reco-body">
+        <view class="title reco-title">{{item.title}}</view>
+        <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
+          <block wx:for="{{item.tags}}" wx:key="*this">
+            <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
+          </block>
+        </view>
+        <view class="reco-bottom">
+          <view class="reco-meta">
+            <text class="tag">{{item.min_age_month}}m+</text>
+            <text class="muted">{{item.time_cost}}分钟</text>
+          </view>
+          <button class="btn-ghost reco-del" data-id="{{item.id}}" catchtap="onRemoveFav">删除</button>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view class="card block">
+    <view class="block-title">数据管理</view>
+    <view class="btn-row">
+      <button class="btn-ghost" bindtap="onClearDataCache">清除数据缓存</button>
+      <button class="btn" bindtap="onCheckUpdate">检查更新</button>
+    </view>
+    <view class="muted note">清除数据缓存不会删除生日与收藏</view>
+  </view>
+
+  <view class="card block">
+    <view class="block-title">关于</view>
+    <view class="muted">本工具仅供辅食参考，具体喂养请结合医生建议与过敏史。</view>
+    <view class="muted">数据需确保来源合规并保留溯源链接。</view>
+  </view>
+</view>

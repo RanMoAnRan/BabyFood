@@ -1,0 +1,72 @@
+{
+  "id": "2cd72f21b6986f4e76bc4f2f59c79d51",
+  "title": "Cabbage Comfort",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/CabbageComfort.jpg",
+  "nutrition_tip": "Cabbage, onion, and caraway seeds make this simple and inexpensive side dish a f…",
+  "ingredients": [
+    {
+      "name": "onion (sliced)",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cabbage (sliced)",
+      "amount": "4 1 / 2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat oil in a large sauté pan."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Sauté onion over medium heat, until light brown, about 5 to 6 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add sliced cabbage, salt, black pepper, and caraway seeds."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Stir and cook for 30 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Serve immediately."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-02-27",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/cabbage-comfort",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/cabbage-comfort",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "919305218644e7db5e60c413af61abf1",
+  "title": "Quick Lasagna",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/AdobeStock_100521407.jpeg",
+  "nutrition_tip": "This cheesy and hearty lasagna only takes one pan and is ready in 45 minutes.",
+  "ingredients": [
+    {
+      "name": "ground beef (lean, 15% fat or less)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic (minced )",
+      "amount": "1 clove"
+    },
+    {
+      "name": "tomato sauce (spaghettie sauce, dividied)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "parsley (fresh, chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "basil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cottage cheese (low-fat)",
+      "amount": "1 pint"
+    },
+    {
+      "name": "mozzarella cheese (divided)",
+      "amount": "2 / 3 cup"
+    },
+    {
+      "name": "lasagna noodle (uncooked)",
+      "amount": "6"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 / 3 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Rinse or scrub fresh vegetables under running water before preparing."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "In a 10-inch skillet or large saucepan, cook ground beef over medium-high heat (350 degrees F in an electric skillet) until it is no longer pink."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Drain the fat. Add the onion and cook until it is soft."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Add garlic, 1 cup of the spaghetti sauce and herbs. Stir and spread mixture evenly in the skillet."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Reduce heat to low (200 degrees F in an electric skillet), spread cottage cheese over mixture and sprinkle with half of the mozzarella. Top with 4 noodles, breaking remaining 2 to fill in open spaces."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Pour remaining spaghetti sauce evenly over the top of noodles; gently press noodles down to moisten."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Cover and simmer 15 to 20 minutes until noodles are tender. Top with remaining mozzarella and parmesan cheese, cover and simmer 2 more minutes or until cheeses are melted."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Let stand covered for 5 to 10 minutes before serving."
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-06-21",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/quick-lasagna",
+  "origin_url": "https://foodhero.org/recipes/quick-lasagna",
+  "source_name": "Nutrition.gov (USDA)"
+}

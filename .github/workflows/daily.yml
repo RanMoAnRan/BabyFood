@@ -1,0 +1,42 @@
+name: Daily Update
+
+on:
+  schedule:
+    # 北京时间 03:00 ≈ UTC 19:00
+    - cron: "0 19 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r backend/requirements.txt
+
+      - name: Run daily job
+        env:
+          DATA_VERSION: ${{ github.run_id }}
+        run: python backend/daily_job.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backend/data
+          git commit -m "chore(data): daily update"
+          git push

@@ -1,0 +1,112 @@
+{
+  "id": "fcd5bf28ef8a01892eaec4cd6d79505d",
+  "title": "Quick and Easy Pizza",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/Pizza.jpeg",
+  "nutrition_tip": "This recipe uses a traditional pizza dough recipe with yeast, but only needs 15…",
+  "ingredients": [
+    {
+      "name": "flour (all-purpose (divided in half))",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast (instant)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water (warm (110 to 115 degrees F))",
+      "amount": "2 / 3 cup"
+    },
+    {
+      "name": "water (warm (110 to 115 degrees F))",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "non stick spray",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese (part-skim, shredded)",
+      "amount": "6 ounces"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 375 °F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Collect, shred, and measure all ingredients before starting to prepare the recipe."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "In a medium bowl, mix 1 cup flour, yeast, sugar, and water with a spoon."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Gradually stir in the other cup of flour until the mixture forms a ball."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Dust a cutting board or clean countertop surface with flour. Put the ball of dough on the surface, then use your clean hands to knead the dough on the surface for about 5 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Spray a bowl with nonstick cooking spray. Put the dough in the bowl, and cover it with a clean dishtowel. Put the bowl on the oven while it is preheating (but not on a burner that is turned on), and let it sit for 10 to 15 minutes (preheating the oven will cause the stovetop to be slightly warm and will help the dough rise)."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Spray a 12-inch x 16-inch baking sheet with nonstick cooking spray. Spread the dough into an even layer on the baking sheet. Spread the dough into an even layer on the baking sheet. For a thicker crust, use a smaller baking sheet."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Add a thin layer of the Easy Marinara Sauce from the Eating Smart, Being Active Let's Cook! Cookbook , leaving a 1/2 inch crust on all edges."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Add the shredded cheese and pizza toppings. Be careful not to put too many toppings on the pizza, or it will be soggy."
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "Bake for approximately 15 minutes until the crust is brown and the cheese melts and is slightly browned in spots."
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours. Eat within 3 to 5 days."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-02-27",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/quick-and-easy-pizza",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/quick-and-easy-pizza",
+  "source_name": "Nutrition.gov (USDA)"
+}

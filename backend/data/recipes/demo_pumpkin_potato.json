@@ -1,0 +1,31 @@
+{
+  "id": "demo_pumpkin_potato",
+  "title": "奶香南瓜土豆泥",
+  "min_age_month": 6,
+  "tags": ["6m+", "补锌", "通便", "早餐"],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "https://via.placeholder.com/800x600.png?text=BabyFood",
+  "nutrition_tip": "南瓜含有丰富的果胶，能保护胃肠道粘膜。",
+  "ingredients": [
+    { "name": "老南瓜", "amount": "30g" },
+    { "name": "土豆", "amount": "50g" },
+    { "name": "配方奶", "amount": "30ml" }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "https://via.placeholder.com/800x600.png?text=Step+1",
+      "text": "南瓜和土豆去皮切块，上锅蒸15分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "https://via.placeholder.com/800x600.png?text=Step+2",
+      "text": "倒入料理机，加入配方奶搅打细腻。"
+    }
+  ],
+  "warnings": ["如果不甜可以不加糖", "1岁以内严禁加盐"],
+  "source_url": "https://example.com/recipe/demo",
+  "publish_date": "2023-10-27",
+  "updated_at": "2024-01-01T00:00:00Z"
+}

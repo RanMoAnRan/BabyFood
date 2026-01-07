@@ -1,0 +1,59 @@
+<view class="container">
+  <view class="filters card">
+    <view class="filters-row">
+      <input
+        class="search-input"
+        placeholder="搜索菜名/食材"
+        value="{{query}}"
+        confirm-type="search"
+        bindinput="onQueryInput"
+        bindconfirm="applyFilters"
+      />
+      <button class="btn-ghost small-btn" bindtap="onClear">清空</button>
+    </view>
+
+    <scroll-view class="chips" scroll-x="true">
+      <view class="chip {{activeTag === '' ? 'chip-active' : ''}}" data-tag="" bindtap="onTagTap">全部</view>
+      <view wx:for="{{tagOptions}}" wx:key="*this" class="chip {{activeTag === item ? 'chip-active' : ''}}" data-tag="{{item}}" bindtap="onTagTap">
+        {{item}}
+      </view>
+    </scroll-view>
+  </view>
+
+  <view class="meta muted">
+    已显示 {{filtered.length}} / {{totalCount}}
+  </view>
+
+  <view class="grid">
+    <view class="col">
+      <view wx:for="{{left}}" wx:key="id" class="item card" data-id="{{item.id}}" bindtap="onOpenDetail">
+        <image class="img" mode="aspectFill" src="{{item.cover_image}}"></image>
+        <view class="body">
+          <view class="title">{{item.title}}</view>
+          <view class="row">
+            <text class="tag">{{item.min_age_month}}m+</text>
+            <text class="muted">{{item.time_cost}}分钟</text>
+          </view>
+        </view>
+      </view>
+    </view>
+
+    <view class="col">
+      <view wx:for="{{right}}" wx:key="id" class="item card" data-id="{{item.id}}" bindtap="onOpenDetail">
+        <image class="img" mode="aspectFill" src="{{item.cover_image}}"></image>
+        <view class="body">
+          <view class="title">{{item.title}}</view>
+          <view class="row">
+            <text class="tag">{{item.min_age_month}}m+</text>
+            <text class="muted">{{item.time_cost}}分钟</text>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <view wx:if="{{filtered.length === 0}}" class="empty muted">没有匹配的辅食</view>
+
+  <view wx:if="{{filtered.length > 0 && hasMore}}" class="load muted">下拉加载更多…</view>
+  <view wx:if="{{filtered.length > 0 && !hasMore}}" class="load muted">没有更多了</view>
+</view>

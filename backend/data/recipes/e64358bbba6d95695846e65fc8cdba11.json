@@ -1,0 +1,75 @@
+{
+  "id": "e64358bbba6d95695846e65fc8cdba11",
+  "title": "Three Sisters Salad",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/three%20sisters%20salad.jpg",
+  "nutrition_tip": "ᏎᎷ (she-lu) corn, ᏚᏯ (tu-ya) beans, and ᏩᎩᎦ (wa-gi-ga) squash are the three main…",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "vinegar (white)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "corn (drained)",
+      "amount": "2 cans"
+    },
+    {
+      "name": "black beans (drained and rinsed)",
+      "amount": "2 cans"
+    },
+    {
+      "name": "zucchini (chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "squash (yellow, chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "bell peppers (green, chopped)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a small sauce pan, mix ¼ cup sugar, ¼ cup vinegar, 2Tablespoons olive oil over medium heat. Heat until hot but NOT boiling. Remove from heat"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a large bowl, mix 2 corn, beans, zucchini, squash, onion and green pepper"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Pour cooled dressing mixture over vegetables and toss. Chill in the refrigerator at least 30 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-10-31",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/three-sisters-salad",
+  "origin_url": "https://food.ebci-nsn.gov/2021/07/19/three-sisters-salad/",
+  "source_name": "Nutrition.gov (USDA)"
+}

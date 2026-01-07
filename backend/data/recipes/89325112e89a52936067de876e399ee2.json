@@ -1,0 +1,73 @@
+{
+  "id": "89325112e89a52936067de876e399ee2",
+  "title": "5 A Day Salad",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/5%20A%20Day%20Salad%20Pic%201.jpg",
+  "nutrition_tip": "This nutrient-packed salad uses ten different vegetables, and each serving is eq…",
+  "ingredients": [
+    {
+      "name": "spinach leaves (fresh)",
+      "amount": "4 cups"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "4 cups"
+    },
+    {
+      "name": "bell pepper ((red, yellow, orange, or green), chopped)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "broccoli (fresh, chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cauliflower (fresh, chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "squash (yellow, fresh, sliced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber (sliced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots (chopped)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "zucchini (fresh, sliced)",
+      "amount": "1 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash all of the vegetables and mix them together in a large mixing bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Top this colorful meal with the nonfat or low-fat dressing of your choice."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-05-17",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/5-day-salad",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/5-day-salad",
+  "source_name": "Nutrition.gov (USDA)"
+}

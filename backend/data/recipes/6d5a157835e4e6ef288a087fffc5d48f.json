@@ -1,0 +1,51 @@
+{
+  "id": "6d5a157835e4e6ef288a087fffc5d48f",
+  "title": "Watermelon Cooler",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/AdobeStock_341248440.jpeg",
+  "nutrition_tip": "A refreshing kid-approved drink with only 2 ingredients.",
+  "ingredients": [
+    {
+      "name": "watermelon (cubed, seeds removed)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Rinse or scrub fresh fruits under running water before preparing."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Place watermelon and juice in blender. Blend until smooth and serve right away."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-06-21",
+  "updated_at": "2026-01-07T08:49:09Z",
+  "source_url": "https://www.nutrition.gov/recipes/watermelon-cooler",
+  "origin_url": "https://foodhero.org/recipes/watermelon-cooler",
+  "source_name": "Nutrition.gov (USDA)"
+}

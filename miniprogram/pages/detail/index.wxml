@@ -1,0 +1,52 @@
+<view>
+  <swiper class="hero" indicator-dots="true" autoplay="false" circular="true">
+    <swiper-item>
+      <image class="hero-img" mode="aspectFill" src="{{recipe.cover_image}}"></image>
+    </swiper-item>
+  </swiper>
+
+  <view class="container">
+    <view class="title h1">{{recipe.title}}</view>
+    <view class="meta">
+      <text class="tag">{{recipe.min_age_month}}m+</text>
+      <text class="muted">{{recipe.time_cost}}分钟 · 难度{{recipe.difficulty}}</text>
+    </view>
+
+    <view wx:if="{{recipe.warnings && recipe.warnings.length}}" class="warn card">
+      <view class="danger">喂养提示</view>
+      <view wx:for="{{recipe.warnings}}" wx:key="*this" class="warn-item">{{item}}</view>
+    </view>
+
+    <view wx:if="{{recipe.nutrition_tip}}" class="tip card">
+      <view class="tip-title">营养小黑板</view>
+      <view class="tip-text">{{recipe.nutrition_tip}}</view>
+    </view>
+
+    <view class="section-title">食材清单</view>
+    <view class="ing card">
+      <view wx:for="{{recipe.ingredients}}" wx:key="name" class="ing-row">
+        <text class="ing-name">{{item.name}}</text>
+        <text class="muted">{{item.amount}}</text>
+      </view>
+    </view>
+
+    <view class="section-title">制作步骤</view>
+    <view class="steps">
+      <view wx:for="{{recipe.steps}}" wx:key="step_index" class="step card">
+        <view class="step-head">
+          <view class="step-index">步骤 {{item.step_index}}</view>
+        </view>
+        <image wx:if="{{item.img}}" class="step-img" mode="widthFix" src="{{item.img}}"></image>
+        <view class="step-text">{{item.text}}</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="toolbar">
+    <button class="tool-btn {{isFav ? 'tool-active' : ''}}" bindtap="onToggleFav">
+      {{isFav ? '已收藏' : '收藏'}}
+    </button>
+    <button class="tool-btn tool-share" open-type="share">分享</button>
+  </view>
+</view>
+
