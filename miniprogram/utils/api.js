@@ -34,7 +34,8 @@ async function fetchManifest({ force = false } = {}) {
   const cached = storage.get(STORAGE_KEYS.manifest, null);
   if (!force && cached && cached.version) return cached;
 
-  const url = withQuery(joinUrl(CDN_BASE, PATHS.manifest), force ? { t: Date.now() } : {});
+  const needBust = force || !cached || !cached.version;
+  const url = withQuery(joinUrl(CDN_BASE, PATHS.manifest), needBust ? { t: Date.now() } : {});
   try {
     const data = await request.requestJson(url);
     if (data && data.version) storage.set(STORAGE_KEYS.manifest, data);
