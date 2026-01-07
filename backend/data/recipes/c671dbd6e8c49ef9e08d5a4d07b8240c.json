@@ -1,0 +1,73 @@
+{
+  "id": "c671dbd6e8c49ef9e08d5a4d07b8240c",
+  "title": "Roast Chicken",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/161791942adbe3916b2a6f8778c3e030.webp",
+  "nutrition_tip": "Serve this roasted chicken as a centerpiece at dinner, or add it to salads, sand…",
+  "ingredients": [
+    {
+      "name": "Italian seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt and pepper (to taste)",
+      "amount": ""
+    },
+    {
+      "name": "whole chicken",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil (or canola oil)",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 375 degrees F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Combine Italian seasoning, garlic powder, salt, and pepper."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Rub chicken with oil, then rub with spice mixture."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Place chicken breast-side down in Dutch oven or roasting pan."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake, uncovered, until internal temperature reaches at least 165 degrees F."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Let chicken rest for ten minutes before cutting."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-12-16",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/roast-chicken",
+  "origin_url": "https://reallifegoodfood.umn.edu/cook/roast-chicken",
+  "source_name": "Nutrition.gov (USDA)"
+}

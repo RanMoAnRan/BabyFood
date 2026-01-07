@@ -1,0 +1,80 @@
+{
+  "id": "fc025ce2ee750837af5a4cb31db6b44d",
+  "title": "Watermelon Feta Salad",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "水果",
+    "乳制品"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/d78cd318e2693f1c135844bc54e1bde1.webp",
+  "nutrition_tip": "Cool, crisp, refreshing watermelon tossed gingerly with salty feta and a light w…",
+  "ingredients": [
+    {
+      "name": "watermelon (cut into 1 inch pieces)",
+      "amount": "5 cups"
+    },
+    {
+      "name": "Feta cheese (cut into 1/4 inch pieces)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chives (fresh, thinly sliced)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "white balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil (extra virgin)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": ""
+    },
+    {
+      "name": "black pepper (to taste)",
+      "amount": ""
+    },
+    {
+      "name": "mint (fresh, cut into thin ribbons)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Place the watermelon, feta cheese, chives and mint in a medium bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a separate bowl, mix olive oil, white balsamic vinegar, and honey. Whisk ingredients together until the honey is dissolved. Season with salt and black pepper."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine dressing with watermelon mixture. Toss until everything is evenly coated with dressing."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Serve and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/watermelon-feta-salad",
+  "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/15%20Watermelon%20Feta%20Salad.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

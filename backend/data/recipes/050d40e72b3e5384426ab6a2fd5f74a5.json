@@ -1,0 +1,111 @@
+{
+  "id": "050d40e72b3e5384426ab6a2fd5f74a5",
+  "title": "Two-Bean Chili",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/bffa41f6b8f8bd6568c1e8458743eb95.webp",
+  "nutrition_tip": "Prepare this chili in advance, and bring a bowl to work for a filling, weekday l…",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion (diced)",
+      "amount": "1"
+    },
+    {
+      "name": "celery (diced)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "carrots (diced)",
+      "amount": "2"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "cumin (ground)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 1 / 2 teaspoons"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cans"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black beans (drained)",
+      "amount": "1 can"
+    },
+    {
+      "name": "kidney beans",
+      "amount": "1 can"
+    },
+    {
+      "name": "sweet potato (raw, grated)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green pepper (chopped)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "zucchini (or summer squash, chopped)",
+      "amount": "1 small"
+    },
+    {
+      "name": "salt and pepper (to taste)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Brown the ground beef, onion, celery, carrots, and garlic in a large saucepan. Drain and rinse to reduce the fat content."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add the rest of the ingredients, except for the salt and pepper. Mix well and add water if the chili is too thick."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Cook for about 10 minutes until the vegetables are cooked and the flavor has blended. Season with salt and pepper if needed."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-12-16",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/two-bean-chili",
+  "origin_url": "https://reallifegoodfood.umn.edu/cook/two-bean-chili",
+  "source_name": "Nutrition.gov (USDA)"
+}

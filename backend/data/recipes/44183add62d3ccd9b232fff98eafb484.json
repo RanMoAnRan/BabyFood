@@ -1,0 +1,102 @@
+{
+  "id": "44183add62d3ccd9b232fff98eafb484",
+  "title": "Moroccan Spiced Turkey Burger",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/7ed7583dd7aa93ddef614af3f61a2fac.webp",
+  "nutrition_tip": "A change-up to the traditional summer grilling fare to perfectly pair with a sav…",
+  "ingredients": [
+    {
+      "name": "ground turkey",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 1 / 4 teaspoons"
+    },
+    {
+      "name": "cumin (ground)",
+      "amount": "3 / 4 teaspoon"
+    },
+    {
+      "name": "coriander (ground)",
+      "amount": "3 / 4 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "3 / 4 teaspoon"
+    },
+    {
+      "name": "nutmeg (ground)",
+      "amount": "1 / 8 teaspoon"
+    },
+    {
+      "name": "seasoned salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "yellow onion (minced)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine spices in a small bowl with salt and black pepper."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Peel onion and garlic, place in a food processor and pulse until you reach a fine dice (1/8 inch). If no food processor is available, onion and garlic can be cut by hand using a knife and cutting board."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "In a medium bowl, mix ground turkey, spices, onion and garlic together."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Divide turkey mixture into 8 even portions. Form each portion into patties and place in the refrigerator for 10 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Preheat grill or grill pan on medium high heat. Note: This burger can be cooked on the stove-top in a medium pan if grill or grill pan are unavailable. Pan spray can be utilized for a medium pan or grill pan but is not needed for a grill."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Once heated, add burgers to the grill and cook on each side until and internal temperature of 165°F is achieved or the burger is cooked thoroughly. Approximately 4 minutes each side."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Serve on a fresh bun, top with red pepper spread and ENJOY!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/moroccan-spiced-turkey-burger",
+  "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/Moroccan%20spiced%20turkey%20burger.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "0b91dac3960cc94eda27cf10adcefd12",
+  "title": "Creamy Veggie Dip",
+  "min_age_month": 8,
+  "tags": [
+    "点心",
+    "乳制品"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/9d5ae69794446be92dd2bd6bfceb8a9b.webp",
+  "nutrition_tip": "This twist on a typical onion dip is a heart healthy option made with low-fat or…",
+  "ingredients": [
+    {
+      "name": "Greek yogurt (plain low-fat or non-fat)",
+      "amount": "1 can"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme (dried )",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a bowl, combine the yogurt and seasonings. Stir until thoroughly combined."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Refrigerate for 1 hour or more to let the flavors marinate. When ready to use, just stir and dip!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-10-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/creamy-veggie-dip",
+  "origin_url": "https://wicworks.fns.usda.gov/recipe/creamy-veggie-dip",
+  "source_name": "Nutrition.gov (USDA)"
+}

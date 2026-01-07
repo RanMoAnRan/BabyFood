@@ -1,0 +1,60 @@
+{
+  "id": "26f7b9083b8353e762e4de3ab5ab3af1",
+  "title": "Roasted Pumpkin Seeds",
+  "min_age_month": 8,
+  "tags": [
+    "点心",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/d728edacca576b7d78297855a90c44fd.webp",
+  "nutrition_tip": "Save the seeds from your baking pumpkin to create a tasty snack. These pumpkin s…",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 2 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 / 2 tablespoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Rinse the pumpkin seeds, and remove any stringy pumpkin pulp. Dry the seeds thoroughly."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "In a large bowl, mix all ingredients until all the pumpkin seeds are evenly coated."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Spread the seeds onto a baking tray and bake for 15-20 minutes or until golden brown, stirring halfway through."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Remove from the oven and cool before enjoying!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-09-27",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/roasted-pumpkin-seeds",
+  "origin_url": "https://wicworks.fns.usda.gov/recipe/roasted-pumpkin-seeds",
+  "source_name": "Nutrition.gov (USDA)"
+}

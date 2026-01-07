@@ -1,0 +1,103 @@
+{
+  "id": "5d9bc40c14a8121f00274ab4939f0044",
+  "title": "Red Pepper Spread",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/2ca0556c9d602826d5d8e166ab921354.webp",
+  "nutrition_tip": "This savory spread highlights summer’s bounty of eggplant and red peppers. Perfe…",
+  "ingredients": [
+    {
+      "name": "eggplant (peeled and diced, 1/2 inch pieces [about 1 medium eggplant])",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion (white, diced, 1/2 inch pieces [about 1 small onion])",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bell pepper (red, diced, 1/2 inch pieces [about 4 large peppers])",
+      "amount": "4 cups"
+    },
+    {
+      "name": "garlic (peeled and crushed)",
+      "amount": "8 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 1 / 4 teaspoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "smoked paprika (sweet paprika can be substituted)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar (white)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Pre-heat oven to 350°F. Peel and dice the eggplant, onions and red peppers. Crush garlic with garlic press or back of a knife."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a medium colander, add eggplant and mix with ¼ tsp. of salt (Reserve the remaining 1 tsp. for later in the recipe). Place the colander in the sink or over a bowl, as the salt will cause the eggplant to release water. Let eggplant sit for 15 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Line a plate with paper towels. Remove eggplant from colander and place on plate. Pat eggplant dry with towels."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "In a large bowl, add eggplant, onions, red peppers, and garlic. In the same bowl add, balsamic vinegar, 2 Tbsp. of olive oil (reserve the remaining 2 Tbsp.), 1 tsp. salt, black pepper, sugar and paprika. Mix until the vegetables are coated evenly."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "On a medium baking tray or roasting pan, spread vegetable mixture evenly and place into a 350°F oven."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Roast vegetables for 10 minutes, remove and mix vegetables thoroughly. Then place the vegetables back in the oven another for 15 minutes or until they are cooked through and begin to brown on the edges."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Place cooked vegetables in a food processor or blender. Slowly add the remaining 2 Tbsp. of olive oil while you are pureeing the mixture. Once done, the final consistency should be smooth and spreadable."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Use spread for dipping any of your favorite vegetables, tortilla chips or pita bread. This spread is designed to pair perfectly with our Moroccan Spiced Turkey Burger. Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/red-pepper-spread",
+  "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/Red%20Pepper%20Spread.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

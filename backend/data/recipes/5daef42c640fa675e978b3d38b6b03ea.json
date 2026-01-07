@@ -1,0 +1,103 @@
+{
+  "id": "5daef42c640fa675e978b3d38b6b03ea",
+  "title": "Stir-Fry Noodles with Peanut Sauce",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/1193eb98b2d47f93eda68a8a4a24930b.webp",
+  "nutrition_tip": "Enjoy the flavors of peanuts, chili pepper, and ginger in this stir-fry recipe.",
+  "ingredients": [
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ramen-style noodles (3 ounces each)",
+      "amount": "2 packages"
+    },
+    {
+      "name": "chicken breasts (boneless, skinless, cut in thin strips)",
+      "amount": "2"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh ginger (finely chopped [or 1/2 teaspoon ground ginger])",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots (thinly sliced, about 2 cups)",
+      "amount": "2"
+    },
+    {
+      "name": "cabbage (large head, thinly sliced, about 6 cups)",
+      "amount": "1"
+    },
+    {
+      "name": "green onions (thinly sliced)",
+      "amount": "1 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Bring 4 cups water to boil in a 2 to 3 quart saucepan. Add noodles, cover, and remove from heat (do not add flavor packets). Wait one minute, drain noodles and set aside."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a small saucepan, combine peanut butter, soy sauce, and 1/2 cup water. Heat over low heat, stirring until smooth. Remove from heat."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Heat oil in a large skillet over medium-high heat (350 degrees in an electric skillet). Add chicken and cook until no longer pink when cut, about 3 to 5 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add red pepper, ginger, and carrots and cook for 2 to 3 minutes. Add cabbage and cook 3 to 4 minutes or until cabbage is crisp-tender."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Stir in green onions, cooked noodles and peanut sauce. Toss and serve immediately."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/stir-fry-noodles-peanut-sauce",
+  "origin_url": "https://foodhero.org/recipes/stir-fry-noodles-with-peanut-sauce",
+  "source_name": "Nutrition.gov (USDA)"
+}

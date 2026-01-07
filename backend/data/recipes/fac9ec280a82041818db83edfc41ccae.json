@@ -1,0 +1,101 @@
+{
+  "id": "fac9ec280a82041818db83edfc41ccae",
+  "title": "Sunshine Roll-Ups",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "水果",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/8c6cb83e86647992417f8252964f1a13.webp",
+  "nutrition_tip": "This Asian-inspired wrap is both savory and sweet, and makes a satisfying lunch…",
+  "ingredients": [
+    {
+      "name": "chicken (cooked, diced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "celery (finely chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mandarin oranges (canned, drained)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion (minced [green, red, or yellow])",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder (or 2 cloves garlic)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tortilla (whole wheat)",
+      "amount": "1 large"
+    },
+    {
+      "name": "lettuce leaves (washed and patted dry)",
+      "amount": "4 medium"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In medium bowl, mix chicken, celery, oranges, and onions."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add mayonnaise, soy sauce, garlic, and pepper. Mix gently until chicken mixture is coated."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Lay tortilla on clean cutting board or large plate. With a knife or clean scissors, cut tortilla into four quarters."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Place 1 lettuce leaf on each tortilla quarter, trimming leaf so it doesn’t hang over edge of tortilla."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Place 1/4 of chicken mixture in the middle of each lettuce leaf."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Roll tortillas up into a cone, with the two straight edges coming together and the curved edge creating the opening of the cone. Eat like a sandwich!"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/sunshine-roll-ups",
+  "origin_url": "https://foodhero.org/recipes/sunshine-roll-ups",
+  "source_name": "Nutrition.gov (USDA)"
+}

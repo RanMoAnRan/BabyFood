@@ -1,0 +1,64 @@
+{
+  "id": "ccab3e2867f42eb02d36a291b3c5607f",
+  "title": "Southwestern Stuffed Potatoes",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/bcd41c1a80d4bdb7159f54738c50e77a.webp",
+  "nutrition_tip": "Cook these customizable potatoes in less than 15 minutes.",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "black beans (rinsed, drained )",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salsa",
+      "amount": "3 / 4 cup"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheese ((try cheddar, pepper jack, or Mexican blend))",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Scrub potatoes well. Poke each potato with a fork 2 or 3 times. Microwave on high for 5 minutes, turn potatoes over, and microwave another 3 to 5 minutes, or until easily pierced with a fork. Set aside."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a microwave safe bowl, combine beans, salsa and corn. Microwave for 2-3 minutes, stirring occasionally, until heated through."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Cut potatoes in half length-wise and flatten with a fork. Divide bean mixture between the four halves. Sprinkle with cheese and serve warm."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-09-27",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/southwestern-stuffed-potatoes",
+  "origin_url": "https://foodhero.org/recipes/southwestern-stuffed-potatoes",
+  "source_name": "Nutrition.gov (USDA)"
+}

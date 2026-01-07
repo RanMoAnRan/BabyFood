@@ -1,0 +1,107 @@
+{
+  "id": "b041d2657f8593eb50a1cb3ed40fe1f7",
+  "title": "Ramen Noodle Skillet",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/81a55cacc3c1d7677eb75dab67ba8a15.webp",
+  "nutrition_tip": "Elevate your package of noodles with healthier homemade seasoning and vegetables…",
+  "ingredients": [
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt (or to taste)",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "black pepper (or to taste)",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "canola oil (or vegetable)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion (choped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrots (chopped or sliced)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "broccoli (frozen stir fry mixture)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tofu (cut into bite-sized pieces, cooked)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ramen-style noodles (soy flavored, broken into pieces, discard sasoning packet)",
+      "amount": "1 package"
+    },
+    {
+      "name": "Homemade Ramen Seasoning",
+      "amount": "1"
+    },
+    {
+      "name": "vegetable broth (sodium-free)",
+      "amount": "2 cups"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat oil in a large skillet. Add onion and carrots and sauté until soft (about 5 minutes)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Thaw the broccoli mixture in the microwave and drain."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add the broccoli mixture and cooked tofu to the skillet. Stir and heat (about 1-2 minutes)."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add the homemade ramen seasoning to the broth and stir into the skillet."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Break apart the ramen noodles. Add to the skillet when the broth simmers. Stir to moisten the noodles."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Cover the skillet and cook until done (about 2 minutes). Serve immediately."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-09-27",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/ramen-noodle-skillet",
+  "origin_url": "https://extension.umaine.edu/food-health/recipes/ramen-noodle-skillet/",
+  "source_name": "Nutrition.gov (USDA)"
+}

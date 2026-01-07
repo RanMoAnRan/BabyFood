@@ -1,0 +1,103 @@
+{
+  "id": "0deba9d239c487f176038140efda2213",
+  "title": "Burrito Bowls",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/061bbb7091d365bd832f739440efce02.webp",
+  "nutrition_tip": "Try this tortilla-less take on a burrito for an easy lunch or dinner.",
+  "ingredients": [
+    {
+      "name": "rice (uncooked, brown or white)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black beans (drained and rinsed)",
+      "amount": "1 can"
+    },
+    {
+      "name": "cilantro (fresh, chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "lime (juiced)",
+      "amount": "1 / 2"
+    },
+    {
+      "name": "onion (halved and sliced)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper (cut in strips)",
+      "amount": "1"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ground beef (lean, or ground turkey or chicken)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Cook rice according to package directions."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat oil in pan over medium-high heat. Add onions and peppers. Sauté until tender. Stirring occasionally. Place on a clean plate or bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "In the same pan, add meat and sauté until browned. Add chili powder, garlic powder, and cumin and stir until combined. Set aside."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "When rice is finished cooking, turn off heat. Fluff with fork. Add fresh cilantro, rinsed black beans, lime juice, and salt to taste. Stir to combine."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Assemble burrito bowls and top with desired toppings. Try shredded lettuce, salsa, jalapenos, plain yogurt."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours and use within 4 days."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-12-16",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/burrito-bowls",
+  "origin_url": "https://reallifegoodfood.umn.edu/cook/burrito-bowls",
+  "source_name": "Nutrition.gov (USDA)"
+}

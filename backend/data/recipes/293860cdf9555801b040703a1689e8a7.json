@@ -1,0 +1,66 @@
+{
+  "id": "293860cdf9555801b040703a1689e8a7",
+  "title": "Easy Salsa",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/e95c0dcbe337379558084b36a8a4ad52.webp",
+  "nutrition_tip": "This fresh tomato salsa adds flavor to meals and pairs well with whole grain chi…",
+  "ingredients": [
+    {
+      "name": "roma tomatoes (about 14, diced)",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green chiles (chopped, 4 oz each)",
+      "amount": "2 cans"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "cilantro (chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tabasco sauce (to taste)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine all ingredients in a bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Refrigerate."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/easy-salsa",
+  "origin_url": "https://web.extension.illinois.edu/fiesta/recipe.cfm?lang=en&amp;id=39",
+  "source_name": "Nutrition.gov (USDA)"
+}

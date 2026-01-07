@@ -1,0 +1,43 @@
+{
+  "id": "7e69c41f21cd011e76fa5af6bf319249",
+  "title": "Fresh Mango Salsa",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/f267ace49a0665dc0ba7a8020be52b94.webp",
+  "nutrition_tip": "This sweet and tangy salsa pairs perfectly with grilled or baked fish or chicken…",
+  "ingredients": [
+    {
+      "name": "mango (peeled, pitted and diced or 1 cup thawed frozen chunks)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red onion (diced)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cilantro (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "lime juice (bottled or fresh)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [],
+  "warnings": [],
+  "publish_date": "2023-05-31",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/fresh-mango-salsa",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/mango-salsa",
+  "source_name": "Nutrition.gov (USDA)"
+}

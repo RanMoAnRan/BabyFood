@@ -1,0 +1,94 @@
+{
+  "id": "7dc3ee7e742c1d8a8e0e1dc41763e4d3",
+  "title": "Homemade Bagels",
+  "min_age_month": 12,
+  "tags": [
+    "早餐",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/becb16c2d1b08233fa19e409f5a95a88.webp",
+  "nutrition_tip": "Did you know that you can make your own fresh, delicious, whole-grain rich bagel…",
+  "ingredients": [
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water (warm)",
+      "amount": "1 1 / 2 cups"
+    },
+    {
+      "name": "flour (whole wheat)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "flour (all purpose)",
+      "amount": "1 1 / 4 cups"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon (optional)",
+      "amount": ""
+    },
+    {
+      "name": "sugar (optional)",
+      "amount": ""
+    },
+    {
+      "name": "salt (optional)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Mix sugar, yeast, water, and flours together."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Rub inside of bowl with oil. Place dough in bowl and flip to coat with oil. Let rise 30 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Punch down dough and divide into 16 portions. Shape into a ball and poke a hole through the middle with your fingers."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Place on a well-greased baking sheet and cover with a towel to rise again for 15-20 minutes. Put 2 inches of water in a pot and heat to boiling."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Using a slotted spoon, gently place each bagel into a rapidly boiling water for 1 minute on each side. Remove and dry on a towel. Place back on baking sheet. If desired, sprinkle bagels with cinnamon/sugar or salt."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Bake at 475°F for 8-12 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-12-27",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/homemade-bagels",
+  "origin_url": "https://wyoextension.org/simply-centsible-nutrition/bagels/",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "b3b22badd7d3f7f7f1ca4f80272841f1",
+  "title": "Overnight Oatmeal",
+  "min_age_month": 8,
+  "tags": [
+    "早餐",
+    "水果",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/b4e774c862110bc2dee78aeea6ebad2a.webp",
+  "nutrition_tip": "Prepare this recipe the night before, and enjoy as a grab-and-go breakfast or a…",
+  "ingredients": [
+    {
+      "name": "rolled oats (uncooked, old fashioned)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt (low-fat)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk (nonfat or 1%)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "berries (fresh or frozen)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple (chopped [about 1/3 medium apple, 3” diameter])",
+      "amount": "1 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a medium bowl, mix oats, yogurt and milk."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add the fruit now or add just before eating."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Cover and refrigerate oatmeal mixture for 6-12 hours. For grab-and-go breakfasts, place scoops of mixture in small dishes or spoon into small containers with lids."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/overnight-oatmeal",
+  "origin_url": "https://foodhero.org/recipes/overnight-oatmeal",
+  "source_name": "Nutrition.gov (USDA)"
+}

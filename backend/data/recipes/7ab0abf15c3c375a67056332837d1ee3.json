@@ -1,0 +1,75 @@
+{
+  "id": "7ab0abf15c3c375a67056332837d1ee3",
+  "title": "Citrus Salad with Lemon Yogurt",
+  "min_age_month": 8,
+  "tags": [
+    "早餐",
+    "点心",
+    "水果",
+    "乳制品"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/ee1ccacf5b9141151b3927cb08e0e2fe.webp",
+  "nutrition_tip": "End your meal with this sweet and healthy fruit salad.",
+  "ingredients": [
+    {
+      "name": "oranges (peeled and chopped)",
+      "amount": "3"
+    },
+    {
+      "name": "grapefruit (pink or red, peeled and chopped)",
+      "amount": "2"
+    },
+    {
+      "name": "red grapes (seedless, halved)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yogurt (low-fat, lemon)",
+      "amount": "1 container"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "On a cutting board, cut tops and bottoms off of oranges and grapefruits so each piece of fruit has two flat ends."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place fruit on one flat end and carefully cut off peel and pith from top to bottom."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Once peel is removed, chop up fruit. The fewer cuts made, the more juice will be kept in the fruit."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Halve the grapes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Toss fruit in a bowl and refrigerate until thoroughly chilled, approximately 2 hours."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Add honey to yogurt. Drizzle mixture over fruit just before serving."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-12-16",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/citrus-salad-lemon-yogurt",
+  "origin_url": "https://reallifegoodfood.umn.edu/cook/citrus-salad-lemon-yogurt",
+  "source_name": "Nutrition.gov (USDA)"
+}

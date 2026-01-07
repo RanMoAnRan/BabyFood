@@ -1,0 +1,105 @@
+{
+  "id": "ff5b5625d3ac9aec6e8443e22ef415a0",
+  "title": "Pozole with Chicken",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/15d5caf503977c44b664bf2fde7034e7.webp",
+  "nutrition_tip": "As the weather cools down, enjoy this stew made with hominy, red chile sauce, an…",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 can"
+    },
+    {
+      "name": "garlic (minced (or 1/2 teaspoon garlic powder))",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red chili sauce ((10 oz))",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "hominy ((15 oz) drained and rinsed)",
+      "amount": "1 can"
+    },
+    {
+      "name": "chicken (cooked, shredded)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cabbage (shredded, optional)",
+      "amount": ""
+    },
+    {
+      "name": "radish (sliced, optional)",
+      "amount": ""
+    },
+    {
+      "name": "lime juice (optional)",
+      "amount": ""
+    },
+    {
+      "name": "cilantro (chopped, optional)",
+      "amount": ""
+    },
+    {
+      "name": "avocados (diced or sliced, optional)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a large saucepan on medium heat, sauté onion in oil until it begins to soften, about 5 minutes. Add garlic and continue cooking for 1 minute."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add the chile sauce, broth, cumin, oregano and hominy to the onion and bring to a boil, stirring. Reduce heat and simmer uncovered for 10 minutes. Stir in the chicken and heat through, about 2 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Spoon into shallow bowls and add toppings as desired."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-08-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/pozole-chicken",
+  "origin_url": "https://foodhero.org/recipes/pozole-chicken",
+  "source_name": "Nutrition.gov (USDA)"
+}

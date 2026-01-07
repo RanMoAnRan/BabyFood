@@ -1,0 +1,79 @@
+{
+  "id": "2b41eb1ee4cf8f8f2b4ed3ecd80cb619",
+  "title": "Curried Chicken Wraps",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "水果",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/9b25fddf40ea38873bccb221f6511d91.webp",
+  "nutrition_tip": "You can use curry powder in a variety of recipes.&nbsp;In this recipe, it adds a…",
+  "ingredients": [
+    {
+      "name": "Greek yogurt (non-fat, plain)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "chicken (boneless, skinless, cooked, 1/4\" diced; or 6 ounces)",
+      "amount": "1 1 / 2 cups"
+    },
+    {
+      "name": "apples (fresh, unpeeled, 1/4\" diced; gently wash apples under running water before cutting)",
+      "amount": "1 3 / 4 cups"
+    },
+    {
+      "name": "raisins (golden)",
+      "amount": "3 / 4 cup"
+    },
+    {
+      "name": "tortillas (whole-wheat; 8\" across, at least 42 grams or 1 1/2 ounces each)",
+      "amount": "6"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water for at least 20 seconds."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a medium bowl, combine yogurt and curry powder. Stir until well-blended."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Using a rubber spatula, fold in chicken, apples, and raisins (see notes)."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Place ½ cup chicken salad in the center of each tortilla. Fold each side of tortilla in, then roll up."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Place seam-side down on a cutting board and cut in half."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Serve 2 halves."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2022-09-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/curried-chicken-wraps",
+  "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
+  "source_name": "Nutrition.gov (USDA)"
+}

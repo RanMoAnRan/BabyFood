@@ -1,0 +1,56 @@
+{
+  "id": "c3830421770b6e601f4bc9139e0314e7",
+  "title": "Peanut Butter Balls",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蛋白质",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/a9d53150059d308c36d0d3e887b5da1c.webp",
+  "nutrition_tip": "Calling all peanut butter lovers! Try these snack bites, sweetened with a touch…",
+  "ingredients": [
+    {
+      "name": "peanut butter",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "instant dry milk powder (nonfat)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "whole grain cereal (crushed flakes)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Mix peanut butter, honey and dry milk in a bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Shape into 1-inch balls. Roll in cereal."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Chill until form for 30 minutes or longer."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/peanut-butter-balls",
+  "origin_url": "https://extension.umaine.edu/food-health/recipes/peanut-butter-balls/",
+  "source_name": "Nutrition.gov (USDA)"
+}

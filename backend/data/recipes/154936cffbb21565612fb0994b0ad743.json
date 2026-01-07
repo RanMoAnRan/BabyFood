@@ -1,0 +1,52 @@
+{
+  "id": "154936cffbb21565612fb0994b0ad743",
+  "title": "Oven-Fried Yuca",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/72d0c62e6cdb1cf011f25005b40553a4.webp",
+  "nutrition_tip": "Crispy and delicious! Use cooking spray to cut back on fat.",
+  "ingredients": [
+    {
+      "name": "yuca (fresh, cut into 3-inch sections and peeled; or 1 pound peeled frozen yuca or cassava)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Nonstick cooking spray",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a kettle, combine the yuca with enough cold water to cover it by 1 inch. Bring the water to a boil, and slowly simmer the yuca for 20 to 30 minutes, or until it is tender."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Transfer the yuca with a slotted spoon to a cutting board, let it cool, and cut it lengthwise into ¾-inch-wide wedges, discarding the thin woody core."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Spray a cookie sheet lightly with the cooking spray. Spread yuca wedges in a single layer on the cookie sheet, and spray the wedges with cooking spray. Cover with foil and bake for 8 minutes. Uncover and return to oven to bake for an additional 7 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/oven-fried-yuca",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=10&amp;rId=166",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "9ad7bd36c8896f09093b221d933e9a81",
+  "title": "Avocado Melon Breakfast Smoothie",
+  "min_age_month": 8,
+  "tags": [
+    "早餐",
+    "点心",
+    "水果",
+    "蔬菜",
+    "乳制品"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/1f36a02e7c2293d7761519eeaa551615.webp",
+  "nutrition_tip": "Enjoy a breakfast full of fruits and vegetables with this breakfast smoothie.&nb…",
+  "ingredients": [
+    {
+      "name": "avocados (ripe)",
+      "amount": "1 large"
+    },
+    {
+      "name": "honeydew melon (chunks (about 1 slice))",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 1 / 2 teaspoons"
+    },
+    {
+      "name": "milk (fat free)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yogurt (fat-free, plain)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple juice (100% juice)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Cut avocado in half, remove pit."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Scoop out flesh, place in blender."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add remaining ingredients; blend well."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Serve cold. (Keeps well in refrigerator up to 24 hours. If made ahead, stir gently before pouring into glasses.)"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-12-11",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/avocado-melon-breakfast-smoothie",
+  "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/avocado-melon-breakfast-smoothie",
+  "source_name": "Nutrition.gov (USDA)"
+}

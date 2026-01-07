@@ -1,0 +1,85 @@
+{
+  "id": "66b9b8f5cc0d9e8bd16baf65108062b1",
+  "title": "Veggie Skillet Eggs",
+  "min_age_month": 12,
+  "tags": [
+    "早餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/0ac6f0698a641779c86acfb611b9bc7e.webp",
+  "nutrition_tip": "Quick and healthy breakfast packed with protein, veggies, and cheddar cheese.",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "oregano (or basil)",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "cheddar cheese (shredded)",
+      "amount": "1 / 3 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic (chopped)",
+      "amount": "1 clove"
+    },
+    {
+      "name": "mixed vegetables ( fresh, canned, or frozen )",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato (sliced)",
+      "amount": "1 medium"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Beat eggs with pepper, oregano or basil, and cheese in a medium bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat oil in a medium skillet. Add onion, garlic, and other vegetables and cook on medium (300 degrees F in an electric skillet) until soft."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Pour egg mixture over vegetables. With knife or spatula, lift outer edges of eggs so egg mixture flows to the bottom of the pan."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Cook until eggs are set, about 6 minutes. Top with tomato slices."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Cut into 8 wedges; serve hot."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-10-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/veggie-skillet-eggs",
+  "origin_url": "https://foodhero.org/recipes/veggie-skillet-eggs",
+  "source_name": "Nutrition.gov (USDA)"
+}

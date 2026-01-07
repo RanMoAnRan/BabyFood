@@ -1,0 +1,50 @@
+{
+  "id": "0b4257097ddc477fbd42a2f0bead40ca",
+  "title": "Cranberry Wojapi",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "点心",
+    "水果"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/64d7c3c94a1498b683533b748d808740.webp",
+  "nutrition_tip": "Try this traditional Native American cranberry sauce which uses dried cranberrie…",
+  "ingredients": [
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "cornstarch (mixed with 3/4 cup water)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a large saucepan, combine ingredients and bring to a boil."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Reduce heat and simmer until mixture is thickened and cranberries are plumped."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-10-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/cranberry-wojapi",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/cranberry-wojapi",
+  "source_name": "Nutrition.gov (USDA)"
+}

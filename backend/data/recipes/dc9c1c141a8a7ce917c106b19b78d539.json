@@ -1,0 +1,62 @@
+{
+  "id": "dc9c1c141a8a7ce917c106b19b78d539",
+  "title": "Asparagus with Lemon Sauce",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/56f92fd79991001884484515795f74e5.webp",
+  "nutrition_tip": "Lemon sauce makes fresh asparagus the perfect side dish for any occasion.",
+  "ingredients": [
+    {
+      "name": "asparagus (rinsed and trimmed)",
+      "amount": "20 spears"
+    },
+    {
+      "name": "lemon (rinsed (for peel and juice))",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mayonnaise (reduced-fat)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parsley (dried)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper (ground)",
+      "amount": "1 / 8 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 16 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Place 1 inch of water in a 4-quart pot with a lid. Place a steamer basket inside the pot, and add asparagus. Cover and bring to a boil over high heat. Reduce heat to medium. Cook for 5–10 minutes, until asparagus is easily pierced with a sharp knife. Do not overcook."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "While the asparagus cooks, grate the lemon zest into a small bowl. Cut the lemon in half and squeeze the juice into the bowl. Use the back of a spoon to press out extra juice and remove pits. Add mayonnaise, parsley, pepper, and salt. Stir well. Set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "When the asparagus is tender, remove the pot from the heat. Place asparagus spears in a serving bowl. Drizzle the lemon sauce evenly over the asparagus (about 1½ teaspoons per portion) and serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-02-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/asparagus-lemon-sauce",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=7&amp;rId=69",
+  "source_name": "Nutrition.gov (USDA)"
+}

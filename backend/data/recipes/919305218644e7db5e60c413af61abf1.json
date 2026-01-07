@@ -11,7 +11,7 @@
   ],
   "difficulty": 1,
   "time_cost": 10,
-  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/AdobeStock_100521407.jpeg",
+  "cover_image": "images/90bf345ab2b69f051af9aa9f2c603999.webp",
   "nutrition_tip": "This cheesy and hearty lasagna only takes one pan and is ready in 45 minutes.",
   "ingredients": [
     {
@@ -113,7 +113,7 @@
   ],
   "warnings": [],
   "publish_date": "2024-06-21",
-  "updated_at": "2026-01-07T08:49:09Z",
+  "updated_at": "2026-01-07T15:22:44Z",
   "source_url": "https://www.nutrition.gov/recipes/quick-lasagna",
   "origin_url": "https://foodhero.org/recipes/quick-lasagna",
   "source_name": "Nutrition.gov (USDA)"

@@ -1,0 +1,64 @@
+{
+  "id": "71bd37801035472ad682d21ff2d1664a",
+  "title": "Pita Pizzas",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/0cfb690f69ab6008383af9fa3e9aa224.webp",
+  "nutrition_tip": "Personal pita pizzas are fun to make, and even more fun to eat!",
+  "ingredients": [
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken breasts (grilled, boneless, skinless, diced [about 2 small breasts])",
+      "amount": "1 cup"
+    },
+    {
+      "name": "broccoli (rinsed, chopped, and cooked)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese (grated)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basil (fresh, rinsed, dried, and chopped [or 1 teaspoon dried])",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pitas (whole-wheat, 6 1/2-inch)",
+      "amount": "4"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven or toaster oven to 450°F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "For each pizza, spread ¼ cup tomato sauce on a pita and top with ¼ cup chicken, ¼ cup broccoli, ½ tablespoon parmesan cheese, and ¼ tablespoon chopped basil."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Place pitas on a nonstick baking sheet and bake for about 5–8 minutes until golden brown and chicken is heated through. Serve immediately."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-20",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/pita-pizzas",
+  "origin_url": "https://www.nhlbi.nih.gov/health/educational/wecan/eat-right/pita-pizza.htm",
+  "source_name": "Nutrition.gov (USDA)"
+}

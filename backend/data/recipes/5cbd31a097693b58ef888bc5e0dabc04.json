@@ -1,0 +1,71 @@
+{
+  "id": "5cbd31a097693b58ef888bc5e0dabc04",
+  "title": "Turkey Ginger Rice Lettuce Wrap",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/4f368d807e462461687ff642caeaf712.webp",
+  "nutrition_tip": "This Turkey Ginger Rice&nbsp;Lettuce Wrap is a healthy and delicious low-carbohy…",
+  "ingredients": [
+    {
+      "name": "soy sauce (reduced-sodium)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "sugar (granulated or brown)",
+      "amount": "3 teaspoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground turkey (lean, 15% fat or less)",
+      "amount": "3 pounds"
+    },
+    {
+      "name": "celery (stalks, sliced)",
+      "amount": "2"
+    },
+    {
+      "name": "carrots (shredded)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "ginger root (minced, or 3/4 teaspoon ground ginger)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder (or 1 clove garlic, minced)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water chestnuts (8 ounces, drained and chopped)",
+      "amount": "1 can"
+    },
+    {
+      "name": "brown rice (cooked)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "8 large"
+    }
+  ],
+  "steps": [],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/turkey-ginger-rice-lettuce-wrap",
+  "origin_url": "https://foodhero.org/recipes/turkey-ginger-rice-lettuce-wraps",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "a663adfd77c4a9e34b477cdd37cfe7cc",
+  "title": "Fried Rice",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/0276922cbd2ef077bd06ae9bc4238dee.webp",
+  "nutrition_tip": "Make frozen veggies taste great with this easy&nbsp;Fried Rice recipe. Try pairi…",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mixed vegetables (frozen)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "brown rice (cooked)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sauce (less-sodium)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 5 / 8 teaspoons"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 5 / 8 teaspoons"
+    },
+    {
+      "name": "egg (beaten)",
+      "amount": "3 / 8"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat oil in a skillet (or wok) on medium heat."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add vegetables to skillet and cook until tender, stirring occasionally."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add rice, soy sauce, garlic powder, and onion powder to vegetables and mix well. Cook until rice is fully reheated."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Push rice mixture to sides of pan, making a hole in the center. Pour egg into center of skillet and scramble, continuing to stir until almost done."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Mix the egg through the rice mixture. Continue to stir mixture until the egg is fully cooked."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/fried-rice",
+  "origin_url": "https://eatsmartmovemoreva.org/recipes/fried-rice/",
+  "source_name": "Nutrition.gov (USDA)"
+}

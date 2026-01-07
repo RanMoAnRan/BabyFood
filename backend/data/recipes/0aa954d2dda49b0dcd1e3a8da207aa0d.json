@@ -1,0 +1,67 @@
+{
+  "id": "0aa954d2dda49b0dcd1e3a8da207aa0d",
+  "title": "Savory Oatmeal",
+  "min_age_month": 8,
+  "tags": [
+    "早餐",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/79bd81b8c64400ba1834616283e51a85.webp",
+  "nutrition_tip": "Switch up your morning bowl of oats with this savory oatmeal recipe made with ch…",
+  "ingredients": [
+    {
+      "name": "milk (nonfat or 1%)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "vegetable broth (reduced-sodium)",
+      "amount": "1 1 / 2 cups"
+    },
+    {
+      "name": "oats (steel cut )",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "cheddar cheese (reduced-fat, shredded)",
+      "amount": "1 / 3 cup"
+    },
+    {
+      "name": "green onions (diced)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "tomatoes (diced)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine milk and broth in a medium saucepan over high heat. Heat until mixture starts to boil."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Stir in oats and reduce heat to a simmer. Cook for 25 to 30 minutes, stirring occasionally, until liquid is absorbed. Oats should be tender and cooked through."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Stir in cheese and green onion. Top with tomatoes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-09-27",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/savory-oatmeal",
+  "origin_url": "https://foodhero.org/recipes/savory-oatmeal",
+  "source_name": "Nutrition.gov (USDA)"
+}

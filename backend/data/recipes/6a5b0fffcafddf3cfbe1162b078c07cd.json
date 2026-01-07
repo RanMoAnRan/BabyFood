@@ -1,0 +1,78 @@
+{
+  "id": "6a5b0fffcafddf3cfbe1162b078c07cd",
+  "title": "Roasted Brussels Sprouts",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/5bf628a72c0a89399daac068903555d0.webp",
+  "nutrition_tip": "Roasting Brussels sprouts creates a warm, flavorful, and versatile vegetable dis…",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "6 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 8 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 8 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Preheat oven to 400 degrees F."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Wash and trim Brussels sprouts. Cut large Brussels sprouts in half from top to bottom; leave small Brussels sprouts whole."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "In a large bowl, toss Brussels sprouts with the oil, salt, and pepper."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Place Brussels sprouts in a single layer on a large baking sheet. Lining the baking sheet with foil or baking parchment will help with clean-up."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Roast for 20 to 30 minutes, stirring once after 10 to 15 minutes. Sprouts should be tender and browned."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Remove from oven and drizzle with lemon juice."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-02-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/roasted-brussels-sprouts",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/roasted-brussels-sprouts",
+  "source_name": "Nutrition.gov (USDA)"
+}

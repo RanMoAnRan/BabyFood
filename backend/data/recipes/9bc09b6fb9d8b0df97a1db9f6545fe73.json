@@ -1,0 +1,92 @@
+{
+  "id": "9bc09b6fb9d8b0df97a1db9f6545fe73",
+  "title": "Fruity French Toast Casserole",
+  "min_age_month": 12,
+  "tags": [
+    "早餐",
+    "水果",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/fd3c4a022fd25fb622cdfe0f638d71a1.webp",
+  "nutrition_tip": "A baked version of French toast with your favorite fruit. Ready in about an hour…",
+  "ingredients": [
+    {
+      "name": "bread slice (cubed, whole-wheat)",
+      "amount": "8 cups"
+    },
+    {
+      "name": "fruit (sliced or chopped fruit, fresh, frozen, or canned and drained)",
+      "amount": "2 cans"
+    },
+    {
+      "name": "eggs (slightly beaten)",
+      "amount": "4 large"
+    },
+    {
+      "name": "milk (low-fat)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "butter (softened )",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "flour ( all-purpose or whole-wheat)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Lightly oil an 8x8-inch baking dish or 2-quart casserole. Add bread cubes and fruit."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a medium bowl, blend eggs, milk, vanilla and 1/4 cup sugar. Pour over bread and fruit. Stir gently to wet all bread with egg mixture. Wash hands after handling raw eggs."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Cover and refrigerate until all liquid is absorbed, about 30 minutes or overnight."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Just before baking, remove casserole from refrigerator. Preheat oven to 350 degrees F."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Make the topping: In a small bowl, combine the softened margarine, 1/4 cup sugar, and flour with a fork until crumbly."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Uncover the casserole and sprinkle topping over fruit. Bake until completely set and starting to brown, about 35 to 40 minutes or until the internal temperature reaches 160 degrees F on a food thermometer. A longer baking time is needed when the dish is chilled overnight. Serve warm."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-10-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/fruity-french-toast-casserole",
+  "origin_url": "https://foodhero.org/recipes/fruity-french-toast-casserole",
+  "source_name": "Nutrition.gov (USDA)"
+}

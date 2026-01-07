@@ -1,0 +1,90 @@
+{
+  "id": "03ccfc5039822065abd4aca35c8ba581",
+  "title": "Easy Stroganoff",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/06918717ffa825882efa1623a9286446.webp",
+  "nutrition_tip": "This healthy take on traditional beef stroganoff uses lean meat, plain yogurt, a…",
+  "ingredients": [
+    {
+      "name": "whole grain egg noodles (uncooked)",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "ground beef (lean; or ground turkey)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "bell pepper (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "canned mushroom pieces (drained)",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper (ground)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "beef bouillon granules",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "plain yogurt (low fat)",
+      "amount": "1 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a saucepan, prepare noodles according to package directions. Drain when cooked."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Meanwhile, brown ground beef or turkey and onions in a skillet until meat is no longer pink and onions are"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "translucent."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add pepper, mushroom pieces, garlic powder, black pepper, and beef bouillon."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Cover and let simmer for 15 minutes. Add yogurt during last 5 minutes of cooking time."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "To serve, place 1 cup of egg noodles on plate. Top with ½ cup of beef or turkey mixture."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/easy-stroganoff",
+  "origin_url": "https://efnep.ifas.ufl.edu/media/efnepifasufledu/pdfs/tc-recipes/Easy-Stroganoff.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

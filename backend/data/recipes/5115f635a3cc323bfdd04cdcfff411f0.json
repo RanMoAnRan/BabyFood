@@ -1,0 +1,75 @@
+{
+  "id": "5115f635a3cc323bfdd04cdcfff411f0",
+  "title": "Sauteed Cauliflower Rice",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/c79ae520d78a239783d0c6b912339dc1.webp",
+  "nutrition_tip": "Cauliflower can be made into a rice alternative with just a few simple ingredien…",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion (diced)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "garlic (minced, (or 1/4 teaspoon garlic powder))",
+      "amount": "1 clove"
+    },
+    {
+      "name": "cauliflower (grated or finely chopped (4-5 cups))",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "lemon juice ((optional))",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "parsley (chopped (optional))",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat oil in a large skillet or saucepan on medium heat. Add onion and cook until soft, 3 to 5 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add garlic, cauliflower, salt and pepper. Stir until cauliflower is tender, 3 to 5 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Stir in lemon juice and sprinkle with parsley, if desired. Serve warm."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-03-31",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/sauteed-cauliflower-rice",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/sauteed-cauliflower-rice",
+  "source_name": "Nutrition.gov (USDA)"
+}

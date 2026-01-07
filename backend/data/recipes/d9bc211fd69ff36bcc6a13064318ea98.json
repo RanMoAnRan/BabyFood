@@ -1,0 +1,92 @@
+{
+  "id": "d9bc211fd69ff36bcc6a13064318ea98",
+  "title": "Shredded Zucchini and Pasta",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/579f0f09dd8d0a2e767526cb085614d0.webp",
+  "nutrition_tip": "Couple bow-tie pasta with veggies for a dish kids&nbsp;will love.",
+  "ingredients": [
+    {
+      "name": "pasta (farfalle/bow-tie, whole-wheat, uncooked)",
+      "amount": "1 1 / 4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic (clove, minced)",
+      "amount": "1 1 / 2 teaspoons"
+    },
+    {
+      "name": "zucchini (fresh, unpeeled, shredded; gently wash zucchini under running water before shredding)",
+      "amount": "3 1 / 2 cups"
+    },
+    {
+      "name": "salt (table)",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "black pepper (ground)",
+      "amount": "1 / 8 teaspoon"
+    },
+    {
+      "name": "parmesan cheese (grated)",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water for at least 20 seconds."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a medium pot, bring water to a boil on medium-high heat. Add pasta. Cook for 8 minutes or until al dente (soft to the touch and firm to the bite). Drain water from pasta. Rinse well with cold water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Heat oil in a medium nonstick sauté pan on medium heat. Add garlic. Cook for 15–20 seconds. Stir constantly."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Increase heat to medium-high. Add zucchini, salt, and pepper. Cook for 10 more minutes. Stir frequently. Cook until temperature reaches 140°F."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Add cooked pasta to pan. Cook for about 2 minutes. Heat to 140°F or higher for at least 15 seconds. Remove from heat."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Sprinkle with parmesan cheese."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Serve ⅔ cup."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2022-09-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/shredded-zucchini-and-pasta",
+  "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
+  "source_name": "Nutrition.gov (USDA)"
+}

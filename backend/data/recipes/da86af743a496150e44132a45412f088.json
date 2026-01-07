@@ -1,0 +1,39 @@
+{
+  "id": "da86af743a496150e44132a45412f088",
+  "title": "Spider Sandwich",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/4f02a708880e81a3f24ad8520d11f67b.webp",
+  "nutrition_tip": "Kids will love this tasty spider sandwich for an after school snack.",
+  "ingredients": [
+    {
+      "name": "bread slice (whole wheat)",
+      "amount": "1 slice"
+    },
+    {
+      "name": "nut butter (or cream cheese)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pretzel sticks",
+      "amount": "6 medium"
+    },
+    {
+      "name": "blueberry (or black bean)",
+      "amount": "1 medium"
+    }
+  ],
+  "steps": [],
+  "warnings": [],
+  "publish_date": "2023-07-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/spider-sandwich",
+  "origin_url": "https://eclkc.ohs.acf.hhs.gov/oral-health/cooks-corner-recipes-healthy-snacks/spider-sandwich",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "6660f4fcc2e2e0aa323ff8bd8d39c80a",
+  "title": "Tortilla Cups with Eggs",
+  "min_age_month": 12,
+  "tags": [
+    "早餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/bb70153ff413f3fd828a4bdc3a8681dc.webp",
+  "nutrition_tip": "Pack these protein-rich tortilla cups for hungry kids when on the go.",
+  "ingredients": [
+    {
+      "name": "tortillas (6-inch, flour)",
+      "amount": "4"
+    },
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "mushrooms (chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "bell pepper (chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 350 degrees F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Gently rub produce under cool running water."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Cut each tortilla in half and then in half again. This will result in four equal pieces per tortilla."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Spray six muffin tin cups with non-stick cooking spray. Overlap two to three pieces of tortilla in each muffin tin to cover completely and create a cup. Press into muffin tin. Spray with nonstick cooking spray."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Bake tortilla cups for 10 minutes. Remove from oven and set aside to cool."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Mix eggs, mushrooms, bell peppers and black pepper in a medium mixing bowl."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Pour egg mixture equally into tortilla cups."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Cook for 20-25 minutes until eggs are cooked through, or when internal temperature reaches 160 degrees F."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/tortilla-cups-eggs",
+  "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/tortilla-cups-eggs",
+  "source_name": "Nutrition.gov (USDA)"
+}

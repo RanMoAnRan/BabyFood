@@ -1,0 +1,87 @@
+{
+  "id": "d8cb6247264a9463dbc178e9354005ed",
+  "title": "Apple Spinach Salad",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "水果",
+    "蔬菜",
+    "乳制品"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/ef3502b37fe5313f32f31796ba45182c.webp",
+  "nutrition_tip": "Add more fruits and vegetables to your day with this simple, flavorful salad.",
+  "ingredients": [
+    {
+      "name": "spinach leaves",
+      "amount": "4 cups"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 1 / 2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "red onion (chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "apple (tart, cut into bite-sized chunks)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "raisins (or dried cranberries)",
+      "amount": "1 / 4 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash spinach thoroughly. Pat dry or spin in a salad spinner."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Tear spinach into bite-sized pieces and place in a large bowl. Set aside"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "In a small bowl mix oil, vinegar, sugar, and salt."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add the apple, onion, and dried fruit to the oil mixture and toss to coat apples. Let stand ten minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Combine ingredients together in the large bowl of spinach and serve."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Refrigerate leftovers."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-12-16",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/apple-spinach-salad",
+  "origin_url": "https://reallifegoodfood.umn.edu/salads/apple-spinach-salad",
+  "source_name": "Nutrition.gov (USDA)"
+}

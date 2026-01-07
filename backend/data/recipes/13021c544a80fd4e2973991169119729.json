@@ -1,0 +1,99 @@
+{
+  "id": "13021c544a80fd4e2973991169119729",
+  "title": "Grilled Mushroom Burger with White-Bean Puree",
+  "min_age_month": 6,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/ae8ee1902399ea58252c9a01854a44e8.webp",
+  "nutrition_tip": "The whole family will enjoy these home-made mushroom burgers any night of the we…",
+  "ingredients": [
+    {
+      "name": "garlic (cloves, minced)",
+      "amount": "2 large"
+    },
+    {
+      "name": "thyme (fresh)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cannellini beans (cooked or canned, drained and rinsed )",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "portobella mushroom (caps, stems trimmed)",
+      "amount": "8 large"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "4 teaspoons"
+    },
+    {
+      "name": "onion (red, peeled and cut into thin rings)",
+      "amount": "2 large"
+    },
+    {
+      "name": "hamburger buns (whole-grain)",
+      "amount": "4 large"
+    },
+    {
+      "name": "cheddar cheese (thinly sliced, 4 equal portions)",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "arugula (rinsed well and dried)",
+      "amount": "1 / 2 ounce"
+    },
+    {
+      "name": "Nonstick cooking spray (for onions)",
+      "amount": "1 ounce"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat grill or grill pan over medium heat."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a food processor or blender, combine 1/4 of garlic (about 1/2 teaspoon), 1 tablespoon thyme, beans and 1 teaspoon oil: process to form a smooth and spreadable paste. If mixture it too thick, add 1 teaspoon water. Season with pepper and pulse to combine. Set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine remaining garlic, tablespoon thyme, and oil on a plate or baking pan. Gently toss mushroom caps in the mixture. Season with pepper and drizzle with vinegar. Lightly coat onion slices with cooking spray; grill until lightly charred on both sides. Transfer onions to a clean plate; keep warm."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Grill mushrooms stem side up until browned and juices have begun to collect in centers, about 5 minutes. Flip mushrooms, and continue cooking until center is tender, about 4 minutes more."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Split hamburger buns in half and place cut side down on grill; cook until warm and toasted. Spread 1/4 cup puree on bottom half of each bun, top with two grilled mushroom caps. Layer each with sliced cheese, grilled onions, and a small handful of arugula. Top each with matching roll halves, and serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-08-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/grilled-mushroom-burger-white-bean-puree",
+  "origin_url": "https://bean.idaho.gov/recipe/grilled-mushroom-burger-with-white-bean-puree/",
+  "source_name": "Nutrition.gov (USDA)"
+}

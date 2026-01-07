@@ -1,0 +1,73 @@
+{
+  "id": "a2090e65c4372318787f4f50678c58ca",
+  "title": "Baked Acorn Squash with Apples",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "水果",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/417606a80dae1ea7c17b09caf2d33901.webp",
+  "nutrition_tip": "This fall-inspired recipe is a warm, sweet side dish.",
+  "ingredients": [
+    {
+      "name": "acorn squashes",
+      "amount": "2 small"
+    },
+    {
+      "name": "nutmeg",
+      "amount": ""
+    },
+    {
+      "name": "apple (chopped)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "butter (or margarine)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 / 4 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Cut squash in halves and scoop out seeds."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place squash in a baking dish with hollow side up; fill centers with apple."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Pour a little water into the dish. Cover and bake at 350°F for 30 minutes, or until partly done."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Sprinkle with salt, sugar, and nutmeg and dot with fat."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake uncovered about 45 minutes, or until the squash is soft."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/baked-acorn-squash-apples",
+  "origin_url": "https://naldc.nal.usda.gov/catalog/1789377",
+  "source_name": "Nutrition.gov (USDA)"
+}

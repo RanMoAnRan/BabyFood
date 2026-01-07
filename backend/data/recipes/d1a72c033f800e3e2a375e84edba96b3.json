@@ -1,0 +1,101 @@
+{
+  "id": "d1a72c033f800e3e2a375e84edba96b3",
+  "title": "Peanutty Stew",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/e7d230e4e954185e911dd8cb908b6c67.webp",
+  "nutrition_tip": "This creamy Peanutty Stew can warm you up on a cold fall or winter day.",
+  "ingredients": [
+    {
+      "name": "brown rice (instant)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth (reduced sodium; or chicken broth)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dehydrated onion (minced)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder (or 4 cloves garlic)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red pepper (optional)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sweet potato (diced, peeled; or yam)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomatoes (14.5 ounces, diced, with liquid)",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "peanut butter (creamy)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "milk (nonfat or 1%)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baby spinach leaves (coarsely chopped)",
+      "amount": "3 cups"
+    },
+    {
+      "name": "peanuts (chopped, dry roasted [optional])",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onion (thinly sliced [optional])",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine first 9 ingredients in a soup pot. Bring to a boil, then turn down to medium low, cover and simmer for 10 minutes."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Stir in peanut butter and milk. Return to a gentle simmer and cook uncovered for 5 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Stir in spinach and cook until wilted, 2 to 3 minutes. Remove from heat. Top with peanuts and green onion, if desired."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/peanutty-stew",
+  "origin_url": "https://foodhero.org/recipes/peanutty-stew",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,89 @@
+{
+  "id": "9b62aee522925f9d1fbd218a54eabf83",
+  "title": "Chicken Creole",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/013409272203758107e51791e6afd66e.webp",
+  "nutrition_tip": "Is your pantry stocked with canned tomatoes? Try this Chicken Creole recipe.",
+  "ingredients": [
+    {
+      "name": "chickens (2 to 2-1/2 pounds each)",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper (to taste)",
+      "amount": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "fat (chicken fat may be used)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "bell pepper (green, chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "tomatoes (fresh or canned)",
+      "amount": "2 1 / 2 cups"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Cut chickens into serving pieces. Roll in mixture of the flour, salt, pepper, and paprika."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Brown chicken in melted fat in a frying pan. Add onion; cook 2 to 3 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add the water, cover, and simmer about 30 minutes or until almost tender, adding more water if necessary. Stir occasionally to keep from sticking."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add green pepper and tomatoes. Simmer about 30 minutes longer."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Serve on seasoned hot noodles or rice."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/chicken-creole",
+  "origin_url": "https://naldc.nal.usda.gov/catalog/1789476",
+  "source_name": "Nutrition.gov (USDA)"
+}

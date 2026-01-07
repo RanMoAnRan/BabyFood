@@ -1,0 +1,63 @@
+{
+  "id": "12d55dd13231bed54dc89ead559c8d0c",
+  "title": "Avocado and Corn Salsa",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/69f2b7f499495e05595969ab25161c68.webp",
+  "nutrition_tip": "Combine avocados and corn with fresh cilantro and lime in this tasty side.&nbsp;",
+  "ingredients": [
+    {
+      "name": "avocados (diced)",
+      "amount": "1 large"
+    },
+    {
+      "name": "corn (frozen, thawed)",
+      "amount": "3 / 4 cup"
+    },
+    {
+      "name": "tomato (grape, quartered)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "cilantro (fresh)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Toss avocado, corn, tomatoes, cilantro, lime juice, and salt in a medium bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Chill one hour and then serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-12-11",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/avocado-and-corn-salsa",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/avocado-and-corn-salsa",
+  "source_name": "Nutrition.gov (USDA)"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "8262cdb5a2cdd94c4cc31911429e684a",
+  "title": "Foil Dinners",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/b56b3a23eb1008ba5a321a68e6b4ee10.webp",
+  "nutrition_tip": "Cook these veggie and meat foil packets in the oven, on the grill, or over a cam…",
+  "ingredients": [
+    {
+      "name": "ground beef (or ground turkey, lean, rinsed and drained)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "potatoes (scrubbed, eyes removed, sliced)",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion (peeled and sliced)",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots (scrubbed and sliced)",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "Salt, pepper, or other seasonings (such as garlic salt or barbecue seasoning, to taste)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 350 degrees F. Mix 1/2 teaspoon salt into ground beef. Shape meat into 4 flat patties about the size of the palm of your hand."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Lay each patty on a piece of foil about 15 inches long. Wash hands carefully after handling raw meat."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Top each patty with slices of potato, onion, and carrots."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add salt, pepper, and other seasonings if desired."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Wrap each pile in foil and seal tightly. Place on cookie sheet if desired."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Bake for 1 hour."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Carefully remove very hot packages from oven onto serving plate. Puncture foil to release steam. Cool for several minutes before unwrapping. Before serving, be sure beef is thoroughly cooked. The beef should not be pink and juices should be clear."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours of cooking."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-12-16",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/foil-dinners",
+  "origin_url": "https://reallifegoodfood.umn.edu/cook/foil-dinners",
+  "source_name": "Nutrition.gov (USDA)"
+}

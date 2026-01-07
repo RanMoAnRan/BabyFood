@@ -1,0 +1,66 @@
+{
+  "id": "4611b96e8d598572aa5770c7a9418bfd",
+  "title": "Breakfast Banana Split",
+  "min_age_month": 8,
+  "tags": [
+    "早餐",
+    "点心",
+    "水果",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/228dcf3ac9c895dd00a372b146a15976.webp",
+  "nutrition_tip": "This energy-boosting Breakfast Banana Split recipe is a great way to start the d…",
+  "ingredients": [
+    {
+      "name": "banana",
+      "amount": "1 small"
+    },
+    {
+      "name": "cereal (oat, corn, or granola)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "yogurt (low-fat vanilla or strawberry)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "honey (optional, skip for children under the age of one)",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "pineapple (canned, tidbits or chunks, drained)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Peel and split banana lengthwise. Place half in two separate cereal bowls."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Over each banana, spoon yogurt, sprinkle cereal and drizzle honey, if desired."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Top with pineapple and serve immediately."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/breakfast-banana-split",
+  "origin_url": "https://foodhero.org/recipes/breakfast-banana-split",
+  "source_name": "Nutrition.gov (USDA)"
+}

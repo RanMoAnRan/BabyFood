@@ -1,0 +1,106 @@
+{
+  "id": "40cc99114b0c986a80a8bdf1b63184bc",
+  "title": "Quinoa and Black Bean Salad",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/6d57d13f3adc609597b5e37a5e6f85b3.webp",
+  "nutrition_tip": "This delightful chilled salad works as an entree or a side dish.",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 1 / 2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 1 / 2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "coriander (ground [dried cilantro seeds])",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "cilantro (chopped)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions (minced)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "black beans (15 1/2 oz, low-sodium, drained and rinsed)",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomatoes (chopped)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bell pepper (red, chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper (green, chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "chilis (fresh green, minced; or to taste)",
+      "amount": "2"
+    },
+    {
+      "name": "Ground black pepper (to taste)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Rinse the quinoa in cold water. Boil 1½ cups water in a saucepan, then add the quinoa. Return to boil, then simmer until the water is absorbed, 10 to 15 minutes. Cool for 15 minutes."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "While the quinoa is cooking, mix olive oil, lime juice, cumin, coriander, cilantro, and scallions in a small bowl, and set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine chopped vegetables with the black beans in a large bowl, and set aside."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Once the quinoa has cooled, combine all ingredients and mix well."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Cover and refrigerate until ready to serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/quinoa-and-black-bean-salad",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=0&amp;rId=191",
+  "source_name": "Nutrition.gov (USDA)"
+}

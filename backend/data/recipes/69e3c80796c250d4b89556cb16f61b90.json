@@ -1,0 +1,76 @@
+{
+  "id": "69e3c80796c250d4b89556cb16f61b90",
+  "title": "Vietnamese Fresh Summer Rolls",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/f2e74597aa5b3bf1c55cf14ee39f257d.webp",
+  "nutrition_tip": "Quick and refreshing appetizer made with fresh vegetables and herbs",
+  "ingredients": [
+    {
+      "name": "carrots (cut into long, thin strips)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cucumber (seeded and cut into long, thin strips)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "scallions (minced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro (fresh, chopped)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "mint (fresh, chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "rice paper wrapper",
+      "amount": "8"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Toss first six ingredients in a large bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Soak one rice paper wrapper in warm water until soft (1 to 2 minutes). Shake off excess water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Place vegetable filling off-center on rice paper, and fold like an egg roll (tuck in the sides to keep the filling inside)."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Repeat with remaining vegetable filling and rice paper wrappers."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Once you have assembled all of the summer rolls, serve immediately."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-02-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/vietnamese-fresh-summer-rolls",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=0&amp;cId=7&amp;rId=247",
+  "source_name": "Nutrition.gov (USDA)"
+}

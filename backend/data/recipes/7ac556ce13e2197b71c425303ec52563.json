@@ -1,0 +1,189 @@
+{
+  "id": "7ac556ce13e2197b71c425303ec52563",
+  "title": "Empanadas Verdes",
+  "min_age_month": 6,
+  "tags": [
+    "正餐",
+    "点心",
+    "蔬菜",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/0ead45eb13aaae56573890ec5f3dbecd.webp",
+  "nutrition_tip": "Tiny pies filled with mashed plantains and cheese.",
+  "ingredients": [
+    {
+      "name": "plantains (green)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red onion (cut in 1/4-inch strips)",
+      "amount": "1 / 2 medium"
+    },
+    {
+      "name": "cheese ((any cheese that does well with heat like Queso Fresco or mozzarella))",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "flour ((plus more for sprinkling and dusting))",
+      "amount": "3 cups"
+    },
+    {
+      "name": "butter ((the colder the better))",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 1 / 2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "water (with ice)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "oil (for frying)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Boil the plantain."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "While the plantain is boiling, sauté the onion in olive oil until caramelized."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Set onions aside."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "When the plantain is fork-tender, drain the water and reserve the liquid."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Mash the plantain, adding the liquid as necessary (it should be the consistency of mashed potatoes)."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Add olive oil and salt to taste and set aside."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Set cheese to the side along with mashed plantains and onions."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Mix the flour, sugar, baking powder, and salt."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Cut the butter/lard into small pieces and add to the dry ingredients."
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "With your hands, work the butter into the flour until the batter is uniformly like bread crumbs."
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "Add the cream and water."
+    },
+    {
+      "step_index": 12,
+      "img": "",
+      "text": "Keep mixing and kneading until well mixed, adding flour or more ice water as needed."
+    },
+    {
+      "step_index": 13,
+      "img": "",
+      "text": "It should make a nice dough ball."
+    },
+    {
+      "step_index": 14,
+      "img": "",
+      "text": "Divide the dough in half and refrigerate one half while you work with the other half."
+    },
+    {
+      "step_index": 15,
+      "img": "",
+      "text": "Don’t overwork the dough, or the butter will melt and change the consistency and texture."
+    },
+    {
+      "step_index": 16,
+      "img": "",
+      "text": "Grab a small piece of dough and make a ball."
+    },
+    {
+      "step_index": 17,
+      "img": "",
+      "text": "Flour your workspace and roll the ball out thin to the size of a softball."
+    },
+    {
+      "step_index": 18,
+      "img": "",
+      "text": "Fill with a tablespoon or so of filling."
+    },
+    {
+      "step_index": 19,
+      "img": "",
+      "text": "Add a bit of cheese and onions in the center."
+    },
+    {
+      "step_index": 20,
+      "img": "",
+      "text": "Fold the dough over to make a half-circle and crimp the edges with a fork."
+    },
+    {
+      "step_index": 21,
+      "img": "",
+      "text": "Repeat this process with all the remaining dough and filling."
+    },
+    {
+      "step_index": 22,
+      "img": "",
+      "text": "Heat oil for frying in a large pot."
+    },
+    {
+      "step_index": 23,
+      "img": "",
+      "text": "Fry empanadas until golden brown."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-03-31",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/empanadas-verdes",
+  "origin_url": "https://www.peacecorps.gov/educators/resources/recipe-empanadas-verdes/",
+  "source_name": "Nutrition.gov (USDA)"
+}

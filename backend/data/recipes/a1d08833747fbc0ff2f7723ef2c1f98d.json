@@ -1,0 +1,101 @@
+{
+  "id": "a1d08833747fbc0ff2f7723ef2c1f98d",
+  "title": "Microwave Beef Enchiladas",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蛋白质",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/0131f3fa4219ae91c90fe23f9de86710.webp",
+  "nutrition_tip": "Cook these cheesy beef enchiladas entirely in your microwave in less than 30 min…",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "spinach (chopped)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cheddar cheese (shredded)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "whole wheat tortillas (or corn tortillas)",
+      "amount": "6"
+    },
+    {
+      "name": "green onions (for garnish)",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Crumble beef into a 2 quart microwave-safe casserole and stir in the chopped onion. Cover loosely and microwave on high for 4-5 minutes until the beef reaches 155° F. Stir every 2 minutes."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Once the meat is cooked, stir to break up the meat and drain the extra fat into a spare bowl and throw away when cool."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Stir in the spinach, 3/4 cup shredded cheese, yogurt, salt and pepper. Cover and set aside."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Warm tortillas in the microwave if desired."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Spoon ⅓ cup filling into the center and fold up. Lay flat in the casserole pan with the seam facing down."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Mix all ingredients for the enchilada sauce in a microwave safe container. Cover and microwave on high for 4-6 minutes."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Pour sauce over tortillas and microwave again on high for 7-9 minutes."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Garnish with 1/4 cup shredded cheese."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-11-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/microwave-beef-enchiladas",
+  "origin_url": "https://www.mass.gov/doc/beef-enchiladas-0/download",
+  "source_name": "Nutrition.gov (USDA)"
+}

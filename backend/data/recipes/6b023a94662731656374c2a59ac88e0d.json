@@ -1,0 +1,85 @@
+{
+  "id": "6b023a94662731656374c2a59ac88e0d",
+  "title": "Homemade Guacamole",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/dc2ac4a3755f27de3f5b243e659bfc0e.webp",
+  "nutrition_tip": "Are you an avocado fan? Bring homemade guacamole to your table with this recipe.",
+  "ingredients": [
+    {
+      "name": "avocados (ripe)",
+      "amount": "3"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "roma tomatoes (diced)",
+      "amount": "2"
+    },
+    {
+      "name": "red onion (chopped)",
+      "amount": "1 1 / 5 cups"
+    },
+    {
+      "name": "jalapeno pepper (chopped [note: include seeds if you want extra spice/heat])",
+      "amount": "1 / 2"
+    },
+    {
+      "name": "cilantro (fresh, chopped [or 2 tsp dried cilantro])",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Gently rub produce under cool running water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Cut avocados in half, remove pit, and scoop pulp into a medium bowl."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Mash avocado pulp with a fork and mix in remaining ingredients."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Stir to combine. Serve with raw vegetable sticks or baked tortilla chips."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/homemade-guacamole",
+  "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/homemade-guacamole",
+  "source_name": "Nutrition.gov (USDA)"
+}

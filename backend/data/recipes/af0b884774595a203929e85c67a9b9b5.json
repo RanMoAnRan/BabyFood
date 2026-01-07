@@ -1,0 +1,96 @@
+{
+  "id": "af0b884774595a203929e85c67a9b9b5",
+  "title": "Summer Squash Kabobs",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/0862ece2fdda6df831250ee0c625cd39.webp",
+  "nutrition_tip": "The enjoyment of fresh produce enhanced with summer-centric flavors.",
+  "ingredients": [
+    {
+      "name": "onion (red, cut into 1 inch pieces)",
+      "amount": "1 large"
+    },
+    {
+      "name": "squashes (green, cut into 3/4 inch thick rounds)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "squash (yellow, cut into 3/4 inch thick rounds)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 / 2 pint"
+    },
+    {
+      "name": "basil (fresh, cut into ribbons [about 6 leaves])",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano (fresh, finely chopped [about 6 sprigs])",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "2 1 / 2 teaspoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5 cloves"
+    },
+    {
+      "name": "garlic (finely chopped)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "lemon juice (1 whole lemon)",
+      "amount": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 / 4 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a medium bowl, whisk together garlic, herbs, lemon, salt, black pepper, red wine vinegar and olive oil to create a marinade."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place onions, yellow squash, green squash and tomatoes in a 1 gallon freezer bag. Pour marinade in bag and shake until all vegetables are coated. Let sit for at least 1 hour. Vegetables can marinate for up to 24 hours, in refrigerator, if you prefer to prep ahead."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "After vegetables are done marinating, prepare skewers starting with green squash flesh side out, then onion, tomato, yellow squash, onion, tomato, and finish with green squash."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Place constructed kabobs on a hot grill and cook for about 7 minutes on each side brushing every few minutes with marinade until cooked through. The squash will be tender and the onions will have a slight char on the edges."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Serve on the skewers or off the skewer. Enjoy on any summer night."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/summer-squash-kabobs",
+  "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/4%20Summer%20Squash%20Kebobs.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

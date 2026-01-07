@@ -1,0 +1,107 @@
+{
+  "id": "c488cb8af66899511cd4a365c77e4ac4",
+  "title": "Cranberry Apple Farro Stuffing",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "水果",
+    "蔬菜",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/75fbd43e00ef410223ef0f2d80fa605f.webp",
+  "nutrition_tip": "A change up to this year’s traditional Thanksgiving stuffing.",
+  "ingredients": [
+    {
+      "name": "farro (dried)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion (red, chopped)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "celery (chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "Granny Smith apples (diced)",
+      "amount": "3 / 4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions (chopped [green onion])",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "parsley (fresh)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "2 2 / 3 cups"
+    },
+    {
+      "name": "seasoned salt",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "black pepper (ground)",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "cranberries (dried)",
+      "amount": "1 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a small pot over high heat bring the stock to a boil. Once the stock achieves a bowl add the farro and stir. Reduce heat to low and cover allow to cook for 15-20 minutes or until all liquid is gone."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place a sauté pan over medium heat and add olive oil."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Once the onions become translucent add the apples and scallions."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Continue to sauté for 1-2 minutes until apples soften slightly."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Combine the farro and sauté mixtures in a mixing bowl. Add the garlic powder, lemon juice, scallions, parsley, seasoned salt, black pepper and cranberries."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Serve as a Thanksgiving alternative or with any fall inspired dish. Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/cranberry-apple-farro-stuffing",
+  "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/7%20Cranberry%20Apple%20Farro%20Stuffing.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

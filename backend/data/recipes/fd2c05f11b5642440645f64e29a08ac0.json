@@ -1,0 +1,84 @@
+{
+  "id": "fd2c05f11b5642440645f64e29a08ac0",
+  "title": "Cowboy Caviar",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/fa2feadb7bff7c202382c248201c8019.webp",
+  "nutrition_tip": "This salsa is a party favorite. Using pantry items liked canned beans, corn, and…",
+  "ingredients": [
+    {
+      "name": "kidney beans (drained, (15 ounces, low-sodium))",
+      "amount": "1 can"
+    },
+    {
+      "name": "black beans (drained, (15 ounces, low-sodium))",
+      "amount": "1 can"
+    },
+    {
+      "name": "corn (drained, (15 ounces, low-sodium))",
+      "amount": "1 can"
+    },
+    {
+      "name": "tomatoes (crushed, (15 ounces))",
+      "amount": "1 can"
+    },
+    {
+      "name": "green chiles (chopped, (4 ounces) )",
+      "amount": "1 can"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime (juiced (optional))",
+      "amount": "3 medium"
+    },
+    {
+      "name": "salt ((to taste, optional))",
+      "amount": ""
+    },
+    {
+      "name": "black pepper ((to taste, optional))",
+      "amount": ""
+    },
+    {
+      "name": "hot sauce ((to taste, optional))",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Mix kidney beans, black beans, corn, tomatoes, chilies, and onion in a large bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add lime juice (if using) and oil, toss gently to combine. Taste. Add small amount of salt and pepper if desired."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Serve by itself, with raw vegetables and/or corn chips."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-06-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/cowboy-caviar",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/cowboy-caviar-bean-salsa",
+  "source_name": "Nutrition.gov (USDA)"
+}

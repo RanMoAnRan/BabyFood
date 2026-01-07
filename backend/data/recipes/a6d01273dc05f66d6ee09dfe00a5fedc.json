@@ -1,0 +1,58 @@
+{
+  "id": "a6d01273dc05f66d6ee09dfe00a5fedc",
+  "title": "Do-It-Yourself Trail Mix",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/5c03621e36e0072cdbc0883c31b03b6f.webp",
+  "nutrition_tip": "Keep your energy level up during outdoor adventures with this Do-It-Yourself Tra…",
+  "ingredients": [
+    {
+      "name": "whole grain cereal (square type)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole grain cereal (O type)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole grain cereal (puff type)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried fruit (of your choice)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pretzels (small)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuts (small)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Set out a bowl of each ingredient with a serving spoon."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Let guests add a spoon of each ingredient to a plastic bag or other container. Shake to mix. Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/do-it-yourself-trail-mix",
+  "origin_url": "https://foodhero.org/recipes/do-it-yourself-trail-mix",
+  "source_name": "Nutrition.gov (USDA)"
+}

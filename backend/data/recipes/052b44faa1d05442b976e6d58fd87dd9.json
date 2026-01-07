@@ -1,0 +1,34 @@
+{
+  "id": "052b44faa1d05442b976e6d58fd87dd9",
+  "title": "Eagle Nest",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/f6ce42d7511c476bfeac3bec4f597c9d.webp",
+  "nutrition_tip": "Kids can enjoy making this healthy, fun, and easy after-school snack using peach…",
+  "ingredients": [
+    {
+      "name": "peach (canned, halved (2 peach halves))",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cottage cheese (low-fat)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "raisins (about 6 raisins )",
+      "amount": "1 / 2 tablespoon"
+    }
+  ],
+  "steps": [],
+  "warnings": [],
+  "publish_date": "2023-07-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/eagle-nest",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/eagle-nest",
+  "source_name": "Nutrition.gov (USDA)"
+}

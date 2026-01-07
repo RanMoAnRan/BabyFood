@@ -1,0 +1,82 @@
+{
+  "id": "5e40f1c1b94c4acb1d6cb1629864d33e",
+  "title": "Roasted Root Vegetables",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/5b8b25fd5084d41d045105167e735b8a.webp",
+  "nutrition_tip": "Let root veggies shine! Bring out the flavor of sweet potatoes, rutabaga, carrot…",
+  "ingredients": [
+    {
+      "name": "sweet potato (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "rutabaga (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "onion (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "potato (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "carrots (chopped)",
+      "amount": "2"
+    },
+    {
+      "name": "turnip (chopped)",
+      "amount": "1"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "parmesan cheese (reduced fat)",
+      "amount": "3 ounces"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 / 4 ounce"
+    },
+    {
+      "name": "sage (ground)",
+      "amount": "1 / 4 ounce"
+    },
+    {
+      "name": "rosemary (dried)",
+      "amount": "1 / 4 ounce"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat oven to 350°F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Evenly spread all vegetables on a baking sheet or baking dish. Drizzle oil and seasonings over vegetables. Toss to combine. Bake 30-40 minutes or until all vegetables are tender."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Sprinkle with Parmesan cheese before serving."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/roasted-root-vegetables",
+  "origin_url": "https://eatsmartmovemoreva.org/recipes/roasted-root-vegetables/",
+  "source_name": "Nutrition.gov (USDA)"
+}

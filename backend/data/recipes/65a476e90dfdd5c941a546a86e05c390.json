@@ -1,0 +1,87 @@
+{
+  "id": "65a476e90dfdd5c941a546a86e05c390",
+  "title": "Vegetable Stir Fry",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/db3bc196384caad36c6b97dc4105724e.webp",
+  "nutrition_tip": "This Vegetable Stir-Fry recipe is a healthier version of a popular take-out food…",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "2 1 / 8 teaspoons"
+    },
+    {
+      "name": "broccoli (chopped)",
+      "amount": "1 head"
+    },
+    {
+      "name": "cauliflower (chopped)",
+      "amount": "1 head"
+    },
+    {
+      "name": "celery (stalks, sliced)",
+      "amount": "2"
+    },
+    {
+      "name": "carrots (sliced)",
+      "amount": "2"
+    },
+    {
+      "name": "bell pepper (sliced)",
+      "amount": "1"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "12 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 5 / 8 teaspoons"
+    },
+    {
+      "name": "soy sauce (less-sodium)",
+      "amount": "1 5 / 8 teaspoons"
+    },
+    {
+      "name": "brown rice (cooked)",
+      "amount": "2 cups"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat oil in a skillet over medium-high heat. Add broccoli, cauliflower, celery, and carrots. Cook for 2 minutes. Add bell pepper and cook for 2 more minutes."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a mixing bowl, combine pineapple juice, sugar, lemon juice, cornstarch, and soy sauce. Next, add the sauce to the skillet. Bring to a boil and cook for 1 minute or until the sauce thickens. Pour sauce over vegetables."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Serve over brown rice."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/vegetable-stir-fry",
+  "origin_url": "https://eatsmartmovemoreva.org/recipes/chinese-vegetable-stir-fry/",
+  "source_name": "Nutrition.gov (USDA)"
+}

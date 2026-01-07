@@ -1,0 +1,86 @@
+{
+  "id": "a1d5695e468a15a4fa1adf5e2914cea7",
+  "title": "Avocado Deviled Eggs",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/0a0c791d1222a09ec4e21cca7519cd33.webp",
+  "nutrition_tip": "These avocado deviled eggs are great as a snack or side.&nbsp;",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "avocados (peeled and pit removed)",
+      "amount": "1 / 4 large"
+    },
+    {
+      "name": "lemon juice (or vinegar (e.g. white distilled, apple cider), to taste)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil (or avocado oil, as needed to adjust the consistency)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt ( to taste)",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "black pepper (to taste)",
+      "amount": "1 pinch"
+    },
+    {
+      "name": "paprika (to taste)",
+      "amount": "1 pinch"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "To hard-boil eggs, place in a medium to large saucepan and cover with water by about 1 inch. Bring the water to a boil, then turn off the heat and cover with a lid. Let sit for 12-13 minutes, then carefully transfer to ice water"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Peel the hardboiled eggs, then slice in half lengthwise."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Remove the yolks from the egg halves and transfer to a small bowl. Mash into small pieces with a fork."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add the avocado, lemon juice or vinegar, oil, salt, and black pepper. Mash with the fork to combine, adding more lemon juice or vinegar and/or oil to adjust the flavor and consistency as desired."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Using two spoons, one to scoop and one to scrape, divide the egg yolk-avocado mixture between the egg white halves (~1 tablespoon each)."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Sprinkle the paprika over the tops of the filled eggs."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Serve right away, or chill before serving if desired."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-10-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/avocado-deviled-eggs",
+  "origin_url": "https://www.nutrition.va.gov/docs/Recipes/Breakfast/AvocadoDeviledEggsOCT2022.pdf",
+  "source_name": "Nutrition.gov (USDA)"
+}

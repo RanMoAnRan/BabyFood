@@ -1,0 +1,42 @@
+{
+  "id": "4892c3625588844420c723df92839d41",
+  "title": "Salmon Salad Mix",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/62c2a7dcce3b1e4d5b912ad02a186241.webp",
+  "nutrition_tip": "This protein-packed salmon salad mix takes only 10 minutes to make!&nbsp;",
+  "ingredients": [
+    {
+      "name": "salmon (14.75 oz, drained)",
+      "amount": "1 can"
+    },
+    {
+      "name": "pickle relish (dill or sweet or chopped pickles)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain yogurt (nonfat)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mayonnaise (light)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice (about 1/2 lemon)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "steps": [],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/salmon-salad-mix",
+  "origin_url": "https://foodhero.org/recipes/salmon-salad-mix",
+  "source_name": "Nutrition.gov (USDA)"
+}

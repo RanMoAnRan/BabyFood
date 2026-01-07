@@ -1,0 +1,100 @@
+{
+  "id": "dc54c087495cdeef8f53e4b3272ee9e4",
+  "title": "Leek and Mushroom Orzo",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/e6d2b1a43f9a3ac735894d95debfd70c.webp",
+  "nutrition_tip": "Cook this delicious pasta dish in 45 minutes that will taste great for dinner an…",
+  "ingredients": [
+    {
+      "name": "leek (chopped)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "mushrooms (sliced)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "orzo (dry)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomatoes (chopped)",
+      "amount": "1 1 / 2 cups"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 / 4 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Sauté leeks in oil in a medium skillet over medium heat, stirring occasionally, until the leeks are soft (about 5 minutes)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add mushrooms and cook until soft (about 5 minutes)."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Stir in the orzo and toast lightly, stirring frequently, for about 3 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add broth and bring to a boil. Reduce heat to simmer, stirring occasionally, until the orzo is almost tender, about 8 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Add the tomatoes and simmer until orzo is tender (about 2 minutes)."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Remove from heat and stir in cream cheese, garlic powder, salt and pepper. Serve warm."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-09-27",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/leek-and-mushroom-orzo",
+  "origin_url": "https://medlineplus.gov/recipes/leek-and-mushroom-orzo/",
+  "source_name": "Nutrition.gov (USDA)"
+}

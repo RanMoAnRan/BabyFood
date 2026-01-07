@@ -1,0 +1,86 @@
+{
+  "id": "e8e881fed28756e6f94ee99d19c81f44",
+  "title": "Homemade Chicken and Dumplings",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/0fb740bc279ff94e849c76905d0c5bb7.webp",
+  "nutrition_tip": "Make this tasty, home-cooked comfort food in less than 35 minutes with pre-cooke…",
+  "ingredients": [
+    {
+      "name": "chicken broth (low-sodium)",
+      "amount": "2 1 / 4 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "onion (peeled and chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mixed vegetables (frozen (corn, peas, carrots, and green beans))",
+      "amount": "4 1 / 2 cups"
+    },
+    {
+      "name": "chicken (cooked and chopped)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "thyme (dried)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "prepared baking mix (reduced fat)",
+      "amount": "1 1 / 4 cups"
+    },
+    {
+      "name": "milk (low-fat)",
+      "amount": "1 / 3 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a large pot, combine chicken broth, water, onion, vegetables, chicken, and thyme."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Cover and bring to a boil over medium-high heat. Reduce heat and simmer for 15 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Place baking mix in a small bowl. Remove 2 tablespoons and stir into pot to thicken stew."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add milk and egg to remaining baking mix and stir with a fork to blend. Drop rounded tablespoons of dough into hot chicken mixture. Cook over low heat, uncovered, for 5 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Cover and cook for 5 minutes more. Serve while hot."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-11-30",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/homemade-chicken-and-dumplings",
+  "origin_url": "https://calfreshhealthyliving.cdph.ca.gov/en/recipes/Pages/Chicken-and-Dumplings.aspx",
+  "source_name": "Nutrition.gov (USDA)"
+}

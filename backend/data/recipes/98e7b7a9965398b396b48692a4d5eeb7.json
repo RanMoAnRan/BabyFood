@@ -1,0 +1,123 @@
+{
+  "id": "98e7b7a9965398b396b48692a4d5eeb7",
+  "title": "Puerto Rican Yellow Plantain and Meat Casserole",
+  "min_age_month": 8,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/d416badad3a2528e7af4cff6d57fe425.webp",
+  "nutrition_tip": "The natural sweetness of the plantains enhances the flavor of this Puerto Rican…",
+  "ingredients": [
+    {
+      "name": "ground beef (lean)",
+      "amount": "1 1 / 2 pounds"
+    },
+    {
+      "name": "bell peppers (green, without seeds, chopped)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion (yellow, chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "3"
+    },
+    {
+      "name": "cilantro (chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "beef broth (low-sodium)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ajicitos (tiny sweet peppers)",
+      "amount": "5"
+    },
+    {
+      "name": "annatto paste (achiote)",
+      "amount": "1 / 2 tablespoon"
+    },
+    {
+      "name": "garlic (finely chopped)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plantains (yellow, ripe and peeled)",
+      "amount": "8 large"
+    },
+    {
+      "name": "water",
+      "amount": "10 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg whites (beaten)",
+      "amount": "5"
+    },
+    {
+      "name": "green beans (cooked)",
+      "amount": "1 1 / 2 cups"
+    },
+    {
+      "name": "mozzarella cheese (shredded, low-fat)",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Brown the ground beef in a large pot. Drain the fat and add the remaining filling ingredients. Cook over medium heat for 5 minutes. Set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Boil the peeled plantains in 10 cups of water until soft, then drain. In a large bowl, mash the plantains, then add the olive oil. Mix well, making it into a soft dough."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "In a separate bowl, beat the egg whites until they are foamy."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Spread half of the plantain dough in an 11\" × 14\" baking pan. Add a layer of the meat filling, egg whites, and half of the green beans."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Repeat these layers, and top with a final layer of plantains and egg whites. Sprinkle with the mozzarella cheese."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Bake for 20 minutes. Cut into 12 servings."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/puerto-rican-yellow-plantain-and-meat-casserole",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=1&amp;rId=206",
+  "source_name": "Nutrition.gov (USDA)"
+}

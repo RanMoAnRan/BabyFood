@@ -1,0 +1,95 @@
+{
+  "id": "e848dd67d9bfe7de77035e02ce487c62",
+  "title": "Asparagus Mushroom Melt",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜",
+    "乳制品",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/444db32463b669bb5189aea4745ae992.webp",
+  "nutrition_tip": "This warm, cheesy sandwich will make your taste buds water.",
+  "ingredients": [
+    {
+      "name": "English muffins",
+      "amount": "4"
+    },
+    {
+      "name": "onion (finely minced)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushrooms (chopped)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "asparagus (trimmed and sliced crosswise into 1/2 inch rounds)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "thyme (ground, or oregano or basil)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 dash"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 dash"
+    },
+    {
+      "name": "mozzarella cheese (3 ounces, shredded)",
+      "amount": "3 / 4 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Toast muffin halves and place on a baking sheet in a single layer."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a large skillet over medium-high heat, sauté onions and mushrooms in oil, stirring often, until just beginning to brown."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add asparagus, seasoning and vinegar. Sauté, stirring often, until asparagus is barely tender. Season lightly with salt and pepper."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Divide the vegetable mixture equally onto the muffin halves. Top each muffin with shredded cheese."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Broil muffins until the cheese melts. Watch carefully to avoid burning."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Refrigerate leftovers within 2 hours."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-29",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/asparagus-mushroom-melt",
+  "origin_url": "https://foodhero.org/recipes/asparagus-mushroom-melt",
+  "source_name": "Nutrition.gov (USDA)"
+}

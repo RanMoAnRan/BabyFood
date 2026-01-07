@@ -8,7 +8,7 @@
   ],
   "difficulty": 1,
   "time_cost": 5,
-  "cover_image": "https://www.nutrition.gov/sites/default/files/recipe_images/couscous.jpeg",
+  "cover_image": "images/3f54f9deba83929e82c9c6bf4480d680.webp",
   "nutrition_tip": "This quick-cooking grain dish has a touch of sweet and nutty flavors to go with…",
   "ingredients": [
     {
@@ -72,7 +72,7 @@
   ],
   "warnings": [],
   "publish_date": "2024-03-20",
-  "updated_at": "2026-01-07T08:49:09Z",
+  "updated_at": "2026-01-07T15:22:44Z",
   "source_url": "https://www.nutrition.gov/recipes/couscous-carrots-walnuts-and-raisins",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=8&amp;rId=56",
   "source_name": "Nutrition.gov (USDA)"

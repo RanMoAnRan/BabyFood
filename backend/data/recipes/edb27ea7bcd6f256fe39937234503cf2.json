@@ -1,0 +1,60 @@
+{
+  "id": "edb27ea7bcd6f256fe39937234503cf2",
+  "title": "Velvety Avocado Pesto Dip",
+  "min_age_month": 8,
+  "tags": [
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/067df346e99e9bb854aedefa862a4de9.webp",
+  "nutrition_tip": "Elevate traditional guacamole with basil and pine nuts to create this velvety di…",
+  "ingredients": [
+    {
+      "name": "avocados (peeled, pitted, cut into pieces)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "basil (leaves)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "nuts (pine nuts, unsalted)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic (cloves)",
+      "amount": "3 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a food processor or blender, process all the ingredients for about 3 minutes, or until the mixture is fluffy and creamy."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2023-12-11",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/velvety-avocado-pesto-dip",
+  "origin_url": "https://www.tn.gov/wfhtn/resources/recipes/snacks/velvety-avocado-pesto-dip.html",
+  "source_name": "Nutrition.gov (USDA)"
+}

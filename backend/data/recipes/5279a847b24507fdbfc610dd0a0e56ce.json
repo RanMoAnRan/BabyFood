@@ -1,0 +1,58 @@
+{
+  "id": "5279a847b24507fdbfc610dd0a0e56ce",
+  "title": "Pea Guacamole",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/dc2acd68289915d40b2a00451ae40f64.webp",
+  "nutrition_tip": "Check out this tasty, bright, and satisfying guacamole that put the humble green…",
+  "ingredients": [
+    {
+      "name": "peas (frozen, thawed)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grape tomatoes (halved)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "red onion (chopped)",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "green chiles (canned, drained, diced)",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "cilantro (chopped)",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic (fresh, minced)",
+      "amount": "1 clove"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "salt (to taste)",
+      "amount": ""
+    }
+  ],
+  "steps": [],
+  "warnings": [],
+  "publish_date": "2023-08-28",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/pea-guacamole",
+  "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/pea-guacamole",
+  "source_name": "Nutrition.gov (USDA)"
+}

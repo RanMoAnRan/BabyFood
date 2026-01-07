@@ -1,0 +1,71 @@
+{
+  "id": "6f5528173a7adf78a5a0bcf51a156d8d",
+  "title": "Super Quick Chunky Tomato Sauce",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蔬菜"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/a8c2afa7329a7eee593075a416277bc7.webp",
+  "nutrition_tip": "Enjoy this quick, chunky tomato sauce over whole grain pasta.",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic (chopped, about 1 clove)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "roasted red peppers (1 jar, drained and diced [or substitute fresh roasted red peppers])",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "diced tomatoes (14.5 oz each, no-salt-added)",
+      "amount": "2 cans"
+    },
+    {
+      "name": "tomato juice (5 1/2 oz, low-sodium)",
+      "amount": "1 can"
+    },
+    {
+      "name": "basil (fresh, rinsed, dried, and chopped [or 1 teaspoon dried])",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 / 4 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "In a medium saucepan, heat olive oil and garlic over medium heat. Cook until soft, but not browned (for about 30 seconds)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Add diced red peppers, and continue to cook for 2–3 minutes, until the peppers begin to sizzle."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add tomatoes, tomato juice, basil, and pepper. Bring to a boil. Simmer for 10 minutes, or until the sauce thickens slightly. (Sauce can be puréed for picky eaters.)."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Use immediately. Or, refrigerate in a tightly sealed container for 3–5 days or freeze for 1–2 months."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/super-quick-chunky-tomato-sauce",
+  "origin_url": "https://www.nhlbi.nih.gov/health/educational/wecan/eat-right/tomato-sauce.htm",
+  "source_name": "Nutrition.gov (USDA)"
+}

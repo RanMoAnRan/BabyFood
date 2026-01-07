@@ -1,0 +1,87 @@
+{
+  "id": "586e5dcb5a7ff00f317fdf6a207b88cd",
+  "title": "Apple Nachos",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "水果",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/4a174f7d53dfe668d2a9932aa2ffaab7.webp",
+  "nutrition_tip": "These healthy, fruity nachos are simple enough for kids to make.&nbsp;",
+  "ingredients": [
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "apples (thinly sliced)",
+      "amount": "2 medium"
+    },
+    {
+      "name": "sunflower seeds (unsalted and shelled)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried cranberries (unsweetened [or raisins])",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "chocolate chips (mini)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "peanut butter (creamy style)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "5 1 / 2 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Gently rub apples under cool running water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add lemon juice to sliced apples to reduce browning."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Spread apple slices on a plate."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Top apple slices with sunflower seeds, dried cranberries, and mini chocolate chips."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Combine peanut butter and honey in a small, microwaveable safe container. Microwave 20 seconds and stir until smooth. Be careful when removing from microwave."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Drizzle peanut butter sauce over apple slices."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/apple-nachos",
+  "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/apple-nachos",
+  "source_name": "Nutrition.gov (USDA)"
+}

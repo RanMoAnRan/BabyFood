@@ -1,0 +1,69 @@
+{
+  "id": "67ae33df1f279d759ed9e1e36f1ec93a",
+  "title": "Banana Oatmeal Cookies",
+  "min_age_month": 8,
+  "tags": [
+    "点心",
+    "水果",
+    "谷物"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/f6402d5a6a572e0d51885dc7553c57e6.webp",
+  "nutrition_tip": "Looking for a no-added-sugar snack? Try these Banana Oatmeal Cookies for a pick-…",
+  "ingredients": [
+    {
+      "name": "banana (very ripe)",
+      "amount": "2"
+    },
+    {
+      "name": "oats (quick or old-fashioned)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "raisins",
+      "amount": "1 / 2 cup"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 350 degrees."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In a medium bowl, mash bananas with a fork until mostly smooth."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add oats, cinnamon, vanilla and raisins. Mix well."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Drop spoonfuls of dough onto lightly sprayed or oiled baking sheet. Flatten with the back of a spoon or bottom of a drinking glass."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake 10 to 15 minutes. Remove from oven and let cool before serving."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/banana-oatmeal-cookies",
+  "origin_url": "https://foodhero.org/recipes/banana-oatmeal-cookies",
+  "source_name": "Nutrition.gov (USDA)"
+}

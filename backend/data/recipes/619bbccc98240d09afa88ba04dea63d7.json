@@ -1,0 +1,73 @@
+{
+  "id": "619bbccc98240d09afa88ba04dea63d7",
+  "title": "Crunchy Chickpea Snacks",
+  "min_age_month": 12,
+  "tags": [
+    "点心",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/87c711f3c73918ffa8c61cb1cd448cf3.webp",
+  "nutrition_tip": "Lightly toasted and crunchy, these savory chickpea snacks are a must-have!&nbsp;",
+  "ingredients": [
+    {
+      "name": "chickpeas (garbanzo beans, 14-15 ounce can)",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 / 4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 / 2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 / 8 teaspoon"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 400 degrees F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Wash hands with soap and water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Drain and rinse canned chickpeas. Spread onto plate or cutting board. Pat dry with a clean towel. Add to small bowl."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add vegetable oil, salt, cumin, and black pepper to bowl with chickpeas. Mix until oil and spices are evenly distributed."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Spray nonstick cooking spray onto a baking pan or cookie sheet. Spread out chickpeas onto pan."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Bake for 40-50 minutes, until chickpeas are lightly toasted."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/crunchy-chickpea-snacks",
+  "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/crunchy-chickpea-snacks",
+  "source_name": "Nutrition.gov (USDA)"
+}

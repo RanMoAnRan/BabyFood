@@ -1,0 +1,75 @@
+{
+  "id": "0ac67c76c688deaf8f7972dd9916f913",
+  "title": "Turkey Meatloaf",
+  "min_age_month": 12,
+  "tags": [
+    "正餐",
+    "蛋白质"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/a9303fbdd685c818663f42dc30f518c2.webp",
+  "nutrition_tip": "Enjoy a healthier version of an old dinner favorite.",
+  "ingredients": [
+    {
+      "name": "ground turkey (lean)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "rolled oats (dry)",
+      "amount": "1 / 2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion (dehydrated [or 1 small onion, minced])",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1 / 4 cup"
+    },
+    {
+      "name": "celery (chopped)",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic (minced)",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "bell pepper (green, seeded and diced)",
+      "amount": "1 / 2"
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat oven to 350°F."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Combine all ingredients and mix well."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Bake in loaf pan for 25 minutes (to a minimum internal temperature of 165°F)."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Cut into five slices and serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-01",
+  "updated_at": "2026-01-07T15:22:44Z",
+  "source_url": "https://www.nutrition.gov/recipes/turkey-meatloaf",
+  "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=2&amp;rId=187",
+  "source_name": "Nutrition.gov (USDA)"
+}
