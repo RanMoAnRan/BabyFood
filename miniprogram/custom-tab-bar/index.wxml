@@ -1,32 +1,31 @@
-<cover-view class="tabbar">
-  <cover-view class="tabbar-inner">
-    <cover-view
-      class="tab-item"
+<view class="tabbar">
+  <view class="tabbar-inner">
+    <view
+      class="tab-item {{selected == 0 ? 'tab-item-active' : ''}}"
       data-index="0"
       bindtap="onTap"
+      hover-class="tab-item-hover"
+      hover-stay-time="80"
     >
-      <cover-view class="bubble {{selected === 0 ? 'bubble-active' : ''}}">
-        <cover-view class="icon icon-home">
-          <cover-view class="home-roof"></cover-view>
-          <cover-view class="home-body"></cover-view>
-        </cover-view>
-      </cover-view>
-      <cover-view class="label {{selected === 0 ? 'label-active' : ''}}">首页</cover-view>
-    </cover-view>
+      <view class="icon icon-home">
+        <view class="home-roof"></view>
+        <view class="home-body"></view>
+      </view>
+      <view class="label">首页</view>
+    </view>
 
-    <cover-view
-      class="tab-item"
+    <view
+      class="tab-item {{selected == 1 ? 'tab-item-active' : ''}}"
       data-index="1"
       bindtap="onTap"
+      hover-class="tab-item-hover"
+      hover-stay-time="80"
     >
-      <cover-view class="bubble {{selected === 1 ? 'bubble-active' : ''}}">
-        <cover-view class="icon icon-user">
-          <cover-view class="user-head"></cover-view>
-          <cover-view class="user-body"></cover-view>
-        </cover-view>
-      </cover-view>
-      <cover-view class="label {{selected === 1 ? 'label-active' : ''}}">我的</cover-view>
-    </cover-view>
-  </cover-view>
-</cover-view>
-
+      <view class="icon icon-user">
+        <view class="user-head"></view>
+        <view class="user-body"></view>
+      </view>
+      <view class="label">我的</view>
+    </view>
+  </view>
+</view>

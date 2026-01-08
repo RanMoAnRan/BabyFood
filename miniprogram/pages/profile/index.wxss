@@ -1,6 +1,6 @@
 .block {
-  padding: 30rpx;
-  margin-bottom: 24rpx;
+  padding: 28rpx;
+  margin-bottom: 22rpx;
 }
 
 .fav-section {
@@ -10,7 +10,7 @@
 .block-title {
   font-size: 34rpx;
   font-weight: 800;
-  color: #333;
+  color: #0F172A;
   margin-bottom: 24rpx;
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@
   display: block;
   width: 8rpx;
   height: 32rpx;
-  background: #FFD580;
+  background: #F97316;
   border-radius: 4rpx;
   margin-right: 16rpx;
 }
@@ -31,7 +31,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 20rpx 0;
-  border-bottom: 2rpx dashed #eee;
+  border-bottom: 2rpx dashed rgba(15, 23, 42, 0.12);
 }
 
 .row:last-child {
@@ -40,10 +40,11 @@
 
 .picker {
   padding: 12rpx 24rpx;
-  border-radius: 12rpx;
-  background: #F5F5F5;
-  color: #333;
-  font-weight: 500;
+  border-radius: 999rpx;
+  background: rgba(15, 23, 42, 0.04);
+  border: 2rpx solid rgba(15, 23, 42, 0.08);
+  color: #0F172A;
+  font-weight: 700;
 }
 
 .reco-card {
@@ -52,11 +53,6 @@
   flex-direction: row;
   align-items: stretch;
   overflow: hidden;
-}
-
-.reco-hover {
-  transform: scale(0.99);
-  opacity: 0.95;
 }
 
 .reco-img {
@@ -118,8 +114,8 @@
   padding: 10rpx 18rpx;
   line-height: 1.2;
   border-radius: 999rpx;
-  color: #E57373;
-  border-color: rgba(229, 115, 115, 0.45);
+  color: #EF4444;
+  border-color: rgba(239, 68, 68, 0.35);
 }
 
 .btn-row {

@@ -1,6 +1,6 @@
 {
   "id": "c488cb8af66899511cd4a365c77e4ac4",
-  "title": "Cranberry Apple Farro Stuffing",
+  "title": "蔓越莓苹果法罗馅",
   "min_age_month": 12,
   "tags": [
     "正餐",
@@ -11,91 +11,91 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/75fbd43e00ef410223ef0f2d80fa605f.webp",
-  "nutrition_tip": "A change up to this year’s traditional Thanksgiving stuffing.",
+  "nutrition_tip": "今年传统的感恩节馅料有所改变。",
   "ingredients": [
     {
-      "name": "farro (dried)",
-      "amount": "1 cup"
+      "name": "法罗（干）",
+      "amount": "1 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons"
+      "name": "橄榄油",
+      "amount": "2汤匙"
     },
     {
-      "name": "onion (red, chopped)",
-      "amount": "1 / 2 cup"
+      "name": "洋葱（红，切碎）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "celery (chopped)",
-      "amount": "1 / 4 cup"
+      "name": "芹菜（切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "Granny Smith apples (diced)",
-      "amount": "3 / 4 cup"
+      "name": "青苹果（切块）",
+      "amount": "3 / 4 杯"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 / 4 teaspoon"
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 tablespoon"
+      "name": "柠檬汁",
+      "amount": "1汤匙"
     },
     {
-      "name": "scallions (chopped [green onion])",
-      "amount": "1 / 4 cup"
+      "name": "葱（切碎[葱]）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "parsley (fresh)",
-      "amount": "1 cup"
+      "name": "欧芹（新鲜）",
+      "amount": "1 杯"
     },
     {
-      "name": "vegetable stock",
-      "amount": "2 2 / 3 cups"
+      "name": "蔬菜高汤",
+      "amount": "2 2 / 3 杯"
     },
     {
-      "name": "seasoned salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "black pepper (ground)",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒（磨碎）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "cranberries (dried)",
-      "amount": "1 cup"
+      "name": "蔓越莓（干）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a small pot over high heat bring the stock to a boil. Once the stock achieves a bowl add the farro and stir. Reduce heat to low and cover allow to cook for 15-20 minutes or until all liquid is gone."
+      "text": "在小锅中用高温将汤煮沸。一旦高汤达到一个碗，加入法罗并搅拌。将火调小，盖上锅盖，煮 15-20 分钟或直至所有液体消失。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place a sauté pan over medium heat and add olive oil."
+      "text": "将炒锅放在中火上，加入橄榄油。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Once the onions become translucent add the apples and scallions."
+      "text": "一旦洋葱变成半透明，加入苹果和葱。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Continue to sauté for 1-2 minutes until apples soften slightly."
+      "text": "继续炒1-2分钟，直到苹果稍微变软。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Combine the farro and sauté mixtures in a mixing bowl. Add the garlic powder, lemon juice, scallions, parsley, seasoned salt, black pepper and cranberries."
+      "text": "将法罗和炒混合物放入搅拌碗中混合。加入大蒜粉、柠檬汁、葱、欧芹、调味盐、黑胡椒和蔓越莓。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve as a Thanksgiving alternative or with any fall inspired dish. Enjoy!"
+      "text": "Serve as a Thanksgiving alternative or with any fall inspired dish.享受！"
     }
   ],
   "warnings": [],

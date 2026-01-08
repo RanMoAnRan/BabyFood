@@ -1,6 +1,6 @@
 {
   "id": "874f692621453c80d1e7bd4f2173378e",
-  "title": "Veggie Omelet in a Mug",
+  "title": "杯子里的蔬菜煎蛋卷",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -11,58 +11,58 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/56eaf08b43d7838c4f3f7813d2b6bb85.webp",
-  "nutrition_tip": "Making a veggie omelet has never been so easy! Combine all of your ingredients i…",
+  "nutrition_tip": "制作素食煎蛋卷从未如此简单！将所有成分混合在一起……",
   "ingredients": [
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "2"
     },
     {
-      "name": "milk (low-fat or nonfat/skim)",
-      "amount": "2 tablespoons"
+      "name": "牛奶（低脂或脱脂/脱脂）",
+      "amount": "2汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 pinch"
+      "name": "盐",
+      "amount": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "name": "pepper",
-      "amount": "1 pinch"
+      "amount": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
-      "name": "mushrooms (finely chopped)",
+      "name": "蘑菇（切碎）",
       "amount": ""
     },
     {
-      "name": "cheddar cheese",
-      "amount": "2 tablespoons"
+      "name": "切达干酪",
+      "amount": "2汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Lightly grease the inside of a 12-ounce microwave-safe mug."
+      "text": "在 12 盎司微波炉专用马克杯的内部涂抹少许油脂。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Use a fork to combine the eggs, milk, salt and pepper in the mug and stir well. Mix in the vegetables and cheese."
+      "text": "用叉子将鸡蛋、牛奶、盐和胡椒粉放入杯子中，搅拌均匀。加入蔬菜和奶酪。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Microwave on HIGH for 45 seconds. Stir. Return to the microwave and cook on HIGH until the mixture has puffed and set, 60 to 90 seconds. The omelet may look wet on the top but it will dry as it cools."
+      "text": "微波炉高火加热 45 秒。搅拌。返回微波炉并用高火烹饪 60 至 90 秒，直至混合物膨化并凝固。煎蛋卷的顶部可能看起来很湿，但冷却后就会变干。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],

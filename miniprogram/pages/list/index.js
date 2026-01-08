@@ -20,7 +20,7 @@ Page({
     query: "",
     bucket: "",
     activeTag: "",
-    tagOptions: ["早餐", "正餐", "点心", "儿童友好", "30分钟内", "蔬菜", "蛋白质", "水果", "乳制品", "谷物"],
+    tagOptions: ["早餐", "正餐", "点心"],
     indexItems: [],
     filteredAll: [],
     filtered: [],
@@ -49,19 +49,7 @@ Page({
     try {
       const index = await api.fetchIndex();
       const items = (index && index.items) || [];
-      const tagCounts = new Map();
-      items.forEach((it) => {
-        (it.tags || []).forEach((t) => {
-          if (!t) return;
-          tagCounts.set(t, (tagCounts.get(t) || 0) + 1);
-        });
-      });
-      const dynamicTags = Array.from(tagCounts.entries())
-        .sort((a, b) => b[1] - a[1])
-        .map(([t]) => t)
-        .slice(0, 16);
-      const tagOptions = Array.from(new Set(this.data.tagOptions.concat(dynamicTags)));
-      this.setData({ indexItems: items, tagOptions });
+      this.setData({ indexItems: items });
       this.applyFilters();
     } finally {
       wx.hideLoading();

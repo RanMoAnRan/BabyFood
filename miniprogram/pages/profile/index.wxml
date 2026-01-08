@@ -1,4 +1,4 @@
-<view class="container">
+<view class="container safe-tabbar">
   <view class="card block">
     <view class="block-title">宝宝管理</view>
     <view class="row">
@@ -16,7 +16,7 @@
       wx:for="{{favItems}}"
       wx:key="id"
       class="reco-card card"
-      hover-class="reco-hover"
+      hover-class="card-hover"
       data-id="{{item.id}}"
       bindtap="onOpenDetail"
     >

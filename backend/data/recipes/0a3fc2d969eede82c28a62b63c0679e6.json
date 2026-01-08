@@ -1,6 +1,6 @@
 {
   "id": "0a3fc2d969eede82c28a62b63c0679e6",
-  "title": "Chicken Salad and Peach Sandwich",
+  "title": "鸡肉沙拉和桃子三明治",
   "min_age_month": 12,
   "tags": [
     "正餐",
@@ -12,51 +12,51 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/b7963b3859241cccc895fe9b19d7cd05.webp",
-  "nutrition_tip": "Elevate your chicken salad sandwich with the addition of sweet peaches.&nbsp;",
+  "nutrition_tip": "添加甜桃，让您的鸡肉沙拉三明治更加美味。",
   "ingredients": [
     {
-      "name": "whole wheat bread",
-      "amount": "4 slices"
+      "name": "全麦面包",
+      "amount": "4片"
     },
     {
-      "name": "chicken (diced, cooked)",
-      "amount": "1 / 2 cup"
+      "name": "鸡肉（切丁，煮熟）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "peach (slices, drained and diced)",
-      "amount": "1 / 2 cup"
+      "name": "桃子（切片，沥干，切丁）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "celery (diced)",
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
       "amount": "1 stalk"
     },
     {
-      "name": "apple (diced)",
-      "amount": "1 / 2 cup"
+      "name": "苹果（切丁）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "onion (diced)",
-      "amount": "1 small"
+      "name": "洋葱（切丁）",
+      "amount": "1 小号"
     },
     {
-      "name": "mayonnaise (nonfat)",
-      "amount": "1 1 / 2 tablespoons"
+      "name": "蛋黄酱（脱脂）",
+      "amount": "1 1 / 2 汤匙"
     },
     {
-      "name": "walnut (chopped)",
-      "amount": "1 tablespoon"
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "amount": "1汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Mix together the chicken, apples, peaches, celery, onion, walnuts, and mayonnaise in a small bowl."
+      "text": "将鸡肉、苹果、桃子、芹菜、洋葱、核桃和蛋黄酱放入一个小碗中混合。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Spoon mixture onto 2 slices of the bread."
+      "text": "将混合物舀到两片面包上。"
     }
   ],
   "warnings": [],

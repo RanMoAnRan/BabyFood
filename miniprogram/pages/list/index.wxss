@@ -1,11 +1,9 @@
 .filters {
-  padding: 24rpx;
-  background: #fff;
   position: sticky;
-  top: 0;
+  top: 12rpx;
   z-index: 10;
-  box-shadow: 0 4rpx 12rpx rgba(0,0,0,0.03);
-  border-radius: 0 0 32rpx 32rpx;
+  padding: 18rpx;
+  background: rgba(255, 255, 255, 0.92);
 }
 
 .filters-row {
@@ -14,28 +12,49 @@
   align-items: center;
 }
 
+.filters-search {
+  flex: 1;
+  height: 84rpx;
+  padding: 0 20rpx;
+  border-radius: 999rpx;
+  display: flex;
+  align-items: center;
+  gap: 14rpx;
+  background: rgba(15, 23, 42, 0.04);
+  border: 2rpx solid rgba(15, 23, 42, 0.06);
+}
+
+.search-icon {
+  flex: 0 0 auto;
+}
+
 .search-input {
   flex: 1;
-  background: #F5F5F5;
-  border-radius: 40rpx;
-  padding: 16rpx 32rpx;
   font-size: 28rpx;
-  height: 72rpx;
+  height: 64rpx;
+  color: #0F172A;
+}
+
+.search-placeholder {
+  color: #94A3B8;
 }
 
 .small-btn {
   font-size: 26rpx;
-  padding: 14rpx 24rpx;
-  border: none;
-  background: #eee;
-  color: #666;
-  border-radius: 40rpx;
+  padding: 12rpx 22rpx;
 }
 
 .chips {
   white-space: nowrap;
   margin-top: 20rpx;
-  padding-bottom: 4rpx; /* Prevent scrollbar overlap visual */
+  padding-bottom: 4rpx;
+}
+
+.chips::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+  color: transparent;
 }
 
 .chip {
@@ -43,32 +62,37 @@
   align-items: center;
   justify-content: center;
   margin-right: 16rpx;
-  padding: 12rpx 28rpx;
+  padding: 12rpx 26rpx;
   border-radius: 999rpx;
-  background: #F5F5F5;
-  color: #666;
+  background: rgba(15, 23, 42, 0.04);
+  color: #334155;
   font-size: 26rpx;
-  font-weight: 500;
-  transition: all 0.2s;
-  border: none;
+  font-weight: 700;
+  transition: transform 0.15s ease, opacity 0.15s ease, background 0.15s ease;
+  border: 2rpx solid rgba(15, 23, 42, 0.06);
 }
 
 .chip-active {
-  background: #FFD580;
-  color: #5A3E00;
-  font-weight: 700;
+  background: linear-gradient(135deg, #FDBA74 0%, #F97316 100%);
+  color: #ffffff;
+  border-color: transparent;
+}
+
+.chip-hover {
+  transform: translateY(2rpx);
+  opacity: 0.92;
 }
 
 .meta {
-  margin-top: 24rpx;
-  padding: 0 24rpx;
+  margin-top: 18rpx;
+  padding: 0;
   font-size: 24rpx;
 }
 
 .grid {
-  margin: 24rpx;
+  margin-top: 18rpx;
   display: flex;
-  gap: 20rpx;
+  gap: 16rpx;
   align-items: flex-start;
 }
 
@@ -76,7 +100,7 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 20rpx;
+  gap: 16rpx;
 }
 
 .item {
@@ -86,7 +110,7 @@
 
 .img {
   width: 100%;
-  height: 280rpx;
+  height: 260rpx;
   background: #f0f0f0;
 }
 
@@ -110,12 +134,10 @@
 .empty {
   margin-top: 100rpx;
   text-align: center;
-  color: #999;
 }
 
 .load {
   margin-top: 24rpx;
   padding-bottom: 40rpx;
   text-align: center;
-  color: #999;
 }

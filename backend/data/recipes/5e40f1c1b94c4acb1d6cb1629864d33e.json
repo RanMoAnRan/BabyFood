@@ -1,6 +1,6 @@
 {
   "id": "5e40f1c1b94c4acb1d6cb1629864d33e",
-  "title": "Roasted Root Vegetables",
+  "title": "烤根类蔬菜",
   "min_age_month": 12,
   "tags": [
     "正餐",
@@ -9,68 +9,68 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/5b8b25fd5084d41d045105167e735b8a.webp",
-  "nutrition_tip": "Let root veggies shine! Bring out the flavor of sweet potatoes, rutabaga, carrot…",
+  "nutrition_tip": "让根茎类蔬菜闪闪发光！ Bring out the flavor of sweet potatoes, rutabaga, carrot…",
   "ingredients": [
     {
-      "name": "sweet potato (chopped)",
+      "name": "红薯（切碎）",
       "amount": "1"
     },
     {
-      "name": "rutabaga (chopped)",
+      "name": "芜菁甘蓝（切碎）",
       "amount": "1"
     },
     {
-      "name": "onion (chopped)",
+      "name": "洋葱（切碎）",
       "amount": "1"
     },
     {
-      "name": "potato (chopped)",
+      "name": "土豆（切碎）",
       "amount": "1"
     },
     {
-      "name": "carrots (chopped)",
+      "name": "胡萝卜（切碎）",
       "amount": "2"
     },
     {
-      "name": "turnip (chopped)",
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
       "amount": "1"
     },
     {
-      "name": "olive oil",
-      "amount": "1 tablespoon"
+      "name": "橄榄油",
+      "amount": "1汤匙"
     },
     {
-      "name": "parmesan cheese (reduced fat)",
-      "amount": "3 ounces"
+      "name": "帕尔马干酪（低脂）",
+      "amount": "3盎司"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 / 4 ounce"
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "amount": "1 / 4 盎司"
     },
     {
-      "name": "sage (ground)",
-      "amount": "1 / 4 ounce"
+      "name": "鼠尾草（地面）",
+      "amount": "1 / 4 盎司"
     },
     {
-      "name": "rosemary (dried)",
-      "amount": "1 / 4 ounce"
+      "name": "迷迭香（干）",
+      "amount": "1 / 4 盎司"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oven to 350°F."
+      "text": "将烤箱加热至 350°F。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Evenly spread all vegetables on a baking sheet or baking dish. Drizzle oil and seasonings over vegetables. Toss to combine. Bake 30-40 minutes or until all vegetables are tender."
+      "text": "将所有蔬菜均匀地铺在烤盘或烤盘上。将油和调味料淋在蔬菜上。搅拌混合。烘烤 30-40 分钟或直至所有蔬菜变软。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Sprinkle with Parmesan cheese before serving."
+      "text": "食用前撒上帕尔马干酪。"
     }
   ],
   "warnings": [],

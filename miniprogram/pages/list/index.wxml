@@ -1,20 +1,36 @@
-<view class="container">
+<view class="container safe-bottom">
   <view class="filters card">
     <view class="filters-row">
-      <input
-        class="search-input"
-        placeholder="搜索菜名/食材"
-        value="{{query}}"
-        confirm-type="search"
-        bindinput="onQueryInput"
-        bindconfirm="applyFilters"
-      />
+      <view class="filters-search">
+        <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
+        <input
+          class="search-input"
+          placeholder="搜索菜名/食材"
+          placeholder-class="search-placeholder"
+          value="{{query}}"
+          confirm-type="search"
+          bindinput="onQueryInput"
+          bindconfirm="applyFilters"
+        />
+      </view>
       <button class="btn-ghost small-btn" bindtap="onClear">清空</button>
     </view>
 
-    <scroll-view class="chips" scroll-x="true">
-      <view class="chip {{activeTag === '' ? 'chip-active' : ''}}" data-tag="" bindtap="onTagTap">全部</view>
-      <view wx:for="{{tagOptions}}" wx:key="*this" class="chip {{activeTag === item ? 'chip-active' : ''}}" data-tag="{{item}}" bindtap="onTagTap">
+    <scroll-view class="chips" scroll-x="true" enhanced show-scrollbar="{{false}}">
+      <view
+        class="chip {{activeTag === '' ? 'chip-active' : ''}}"
+        hover-class="chip-hover"
+        data-tag=""
+        bindtap="onTagTap"
+      >全部</view>
+      <view
+        wx:for="{{tagOptions}}"
+        wx:key="*this"
+        class="chip {{activeTag === item ? 'chip-active' : ''}}"
+        hover-class="chip-hover"
+        data-tag="{{item}}"
+        bindtap="onTagTap"
+      >
         {{item}}
       </view>
     </scroll-view>
@@ -26,7 +42,14 @@
 
   <view class="grid">
     <view class="col">
-      <view wx:for="{{left}}" wx:key="id" class="item card" data-id="{{item.id}}" bindtap="onOpenDetail">
+      <view
+        wx:for="{{left}}"
+        wx:key="id"
+        class="item card"
+        hover-class="card-hover"
+        data-id="{{item.id}}"
+        bindtap="onOpenDetail"
+      >
         <image class="img" mode="aspectFill" src="{{item.cover_image}}"></image>
         <view class="body">
           <view class="title">{{item.title}}</view>
@@ -39,7 +62,14 @@
     </view>
 
     <view class="col">
-      <view wx:for="{{right}}" wx:key="id" class="item card" data-id="{{item.id}}" bindtap="onOpenDetail">
+      <view
+        wx:for="{{right}}"
+        wx:key="id"
+        class="item card"
+        hover-class="card-hover"
+        data-id="{{item.id}}"
+        bindtap="onOpenDetail"
+      >
         <image class="img" mode="aspectFill" src="{{item.cover_image}}"></image>
         <view class="body">
           <view class="title">{{item.title}}</view>

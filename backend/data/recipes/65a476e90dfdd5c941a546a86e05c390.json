@@ -1,6 +1,6 @@
 {
   "id": "65a476e90dfdd5c941a546a86e05c390",
-  "title": "Vegetable Stir Fry",
+  "title": "蔬菜炒",
   "min_age_month": 12,
   "tags": [
     "正餐",
@@ -10,72 +10,72 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/db3bc196384caad36c6b97dc4105724e.webp",
-  "nutrition_tip": "This Vegetable Stir-Fry recipe is a healthier version of a popular take-out food…",
+  "nutrition_tip": "这个蔬菜炒菜食谱是流行外卖食品的健康版本……",
   "ingredients": [
     {
-      "name": "canola oil",
-      "amount": "2 1 / 8 teaspoons"
+      "name": "菜籽油",
+      "amount": "2 1 / 8 茶匙"
     },
     {
-      "name": "broccoli (chopped)",
-      "amount": "1 head"
+      "name": "西兰花（切碎）",
+      "amount": "1 头"
     },
     {
-      "name": "cauliflower (chopped)",
-      "amount": "1 head"
+      "name": "花椰菜（切碎）",
+      "amount": "1 头"
     },
     {
-      "name": "celery (stalks, sliced)",
+      "name": "芹菜（茎，切片）",
       "amount": "2"
     },
     {
-      "name": "carrots (sliced)",
+      "name": "胡萝卜（切片）",
       "amount": "2"
     },
     {
-      "name": "bell pepper (sliced)",
+      "name": "灯笼椒（切片）",
       "amount": "1"
     },
     {
-      "name": "pineapple juice",
-      "amount": "12 tablespoons"
+      "name": "菠萝汁",
+      "amount": "12汤匙"
     },
     {
-      "name": "sugar",
-      "amount": "1 tablespoon"
+      "name": "糖",
+      "amount": "1汤匙"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 tablespoon"
+      "name": "柠檬汁",
+      "amount": "1汤匙"
     },
     {
-      "name": "cornstarch",
-      "amount": "1 5 / 8 teaspoons"
+      "name": "玉米淀粉",
+      "amount": "1 5 / 8 茶匙"
     },
     {
-      "name": "soy sauce (less-sodium)",
-      "amount": "1 5 / 8 teaspoons"
+      "name": "酱油（低钠）",
+      "amount": "1 5 / 8 茶匙"
     },
     {
-      "name": "brown rice (cooked)",
-      "amount": "2 cups"
+      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "amount": "2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oil in a skillet over medium-high heat. Add broccoli, cauliflower, celery, and carrots. Cook for 2 minutes. Add bell pepper and cook for 2 more minutes."
+      "text": "在煎锅中用中高火加热油。加入西兰花、花椰菜、芹菜和胡萝卜。煮2分钟。加入甜椒，再煮 2 分钟。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a mixing bowl, combine pineapple juice, sugar, lemon juice, cornstarch, and soy sauce. Next, add the sauce to the skillet. Bring to a boil and cook for 1 minute or until the sauce thickens. Pour sauce over vegetables."
+      "text": "在搅拌碗中，将菠萝汁、糖、柠檬汁、玉米淀粉和酱油混合。接下来，将酱汁加入煎锅中。煮沸并煮 1 分钟或直至酱汁变稠。将酱汁倒在蔬菜上。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Serve over brown rice."
+      "text": "与糙米一起食用。"
     }
   ],
   "warnings": [],

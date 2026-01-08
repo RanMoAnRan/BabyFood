@@ -1,6 +1,6 @@
 {
   "id": "f2ad0c707a675329a05dc414dda3649a",
-  "title": "Maple Brined Pork Chops",
+  "title": "枫盐腌猪排",
   "min_age_month": 12,
   "tags": [
     "正餐",
@@ -10,60 +10,60 @@
   "difficulty": 1,
   "time_cost": 45,
   "cover_image": "images/878b56655f1065f04c4cf5ef1ab29c71.webp",
-  "nutrition_tip": "Pork and peaches are the perfect pairing for your next BBQ. This sweet and savor…",
+  "nutrition_tip": "Pork and peaches are the perfect pairing for your next BBQ.这甜甜的味道……",
   "ingredients": [
     {
-      "name": "water",
-      "amount": "1 cup"
+      "name": "水",
+      "amount": "1 杯"
     },
     {
-      "name": "maple syrup",
-      "amount": "1 / 3 cup"
+      "name": "枫糖浆",
+      "amount": "1 / 3 杯"
     },
     {
-      "name": "salt",
-      "amount": "2 tablespoons"
+      "name": "盐",
+      "amount": "2汤匙"
     },
     {
-      "name": "peppercorn",
-      "amount": "1 1 / 2 teaspoons"
+      "name": "花椒",
+      "amount": "1 1 / 2 茶匙"
     },
     {
-      "name": "bay leaves (dried)",
+      "name": "月桂叶（干）",
       "amount": "1"
     },
     {
-      "name": "ice cube",
-      "amount": "2 cups"
+      "name": "冰块",
+      "amount": "2 杯"
     },
     {
-      "name": "pork chop (bone-in, 3/4 inch thick, 8-ounce each)",
+      "name": "猪排（带骨，3/4 英寸厚，每块 8 盎司）",
       "amount": "4"
     },
     {
-      "name": "vegetable oil",
+      "name": "植物油",
       "amount": ""
     },
     {
-      "name": "peach (ripe, firm, halved, pitted)",
-      "amount": "3 medium"
+      "name": "桃子（成熟、坚硬、切半、去核）",
+      "amount": "3 中等"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat grill to medium heat for direct grilling. Remove pork chops from brine; pat dry with paper towels. Discard brine."
+      "text": "将烤架预热至中火，以便直接烧烤。将猪排从盐水中取出；用纸巾拍干。丢弃盐水。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Brush grill grate with vegetable oil. Place pork chops on center of grate; place peach halves, cut sides down, on outer edge of grill. Grill, covered, for 8 to 12 minutes or until the internal temperature of the pork reaches 145° F and peaches have grill marks, turning chops over halfway through grilling."
+      "text": "用植物油刷烤架。将猪排放在炉排中央；将桃子切成两半，切边朝下，放在烤架的外边缘。盖上盖子，烧烤 8 至 12 分钟，或直至猪肉内部温度达到 145°F，桃子出现烧烤痕迹，在烧烤过程中将排骨翻面。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Transfer pork chops to a platter. Loosely cover with foil; let rest for 3 minutes. Cut peaches into wedges; serve with pork or, if desired, use peaches in salad."
+      "text": "将猪排转移到盘子上。用箔纸松散地覆盖；休息 3 分钟。将桃子切成楔形；与猪肉一起食用，或者如果需要，可以在沙拉中使用桃子。"
     }
   ],
   "warnings": [],

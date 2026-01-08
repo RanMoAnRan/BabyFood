@@ -2,10 +2,11 @@
   <swiper class="hero" indicator-dots="true" autoplay="false" circular="true">
     <swiper-item>
       <image class="hero-img" mode="aspectFill" src="{{recipe.cover_image}}"></image>
+      <view class="hero-shade"></view>
     </swiper-item>
   </swiper>
 
-  <view class="container">
+  <view class="container safe-toolbar">
     <view class="title h1">{{recipe.title}}</view>
     <view class="meta">
       <text class="tag">{{recipe.min_age_month}}m+</text>
@@ -34,7 +35,8 @@
     <view class="steps">
       <view wx:for="{{recipe.steps}}" wx:key="step_index" class="step card">
         <view class="step-head">
-          <view class="step-index">步骤 {{item.step_index}}</view>
+          <view class="step-badge">{{item.step_index}}</view>
+          <view class="step-head-text">步骤 {{item.step_index}}</view>
         </view>
         <image wx:if="{{item.img}}" class="step-img" mode="widthFix" src="{{item.img}}"></image>
         <view class="step-text">{{item.text}}</view>
@@ -49,4 +51,3 @@
     <button class="tool-btn tool-share" open-type="share">分享</button>
   </view>
 </view>
-

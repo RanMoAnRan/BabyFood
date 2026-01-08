@@ -7,15 +7,15 @@
   ],
   "window": {
     "navigationBarTitleText": "宝宝辅食",
-    "navigationBarBackgroundColor": "#FFFBF0",
+    "navigationBarBackgroundColor": "#FDFBF7",
     "navigationBarTextStyle": "black",
-    "backgroundColor": "#FFFBF0",
+    "backgroundColor": "#FDFBF7",
     "backgroundTextStyle": "light"
   },
   "tabBar": {
     "custom": true,
-    "color": "#999999",
-    "selectedColor": "#F9A825",
+    "color": "#94A3B8",
+    "selectedColor": "#F97316",
     "backgroundColor": "#FFFFFF",
     "borderStyle": "white",
     "list": [

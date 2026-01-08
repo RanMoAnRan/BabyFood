@@ -1,8 +1,10 @@
-<view class="container">
-  <view class="search card">
+<view class="container safe-tabbar">
+  <view class="searchbar card">
+    <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
     <input
       class="search-input"
       placeholder="搜索食材/菜名（如：三文鱼、菠菜）"
+      placeholder-class="search-placeholder"
       value="{{query}}"
       confirm-type="search"
       bindinput="onQueryInput"
@@ -29,7 +31,7 @@
         <text class="section-title-text">月龄导航</text>
       </view>
     </view>
-    <scroll-view class="nav-scroll" scroll-x="true" show-scrollbar="false">
+    <scroll-view class="nav-scroll" scroll-x="true" enhanced show-scrollbar="{{false}}">
       <view class="nav-row">
         <view
           class="nav-pill {{activeBucket === '4-6' ? 'nav-pill-active' : ''}}"
@@ -78,7 +80,7 @@
       wx:for="{{reco}}"
       wx:key="id"
       class="reco-card card"
-      hover-class="reco-hover"
+      hover-class="card-hover"
       data-id="{{item.id}}"
       bindtap="onOpenDetail"
     >
