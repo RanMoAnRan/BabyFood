@@ -10,9 +10,24 @@ function splitColumns(items) {
   return { left, right };
 }
 
+function fuzzyMatch(text, query) {
+  if (!query) return true;
+  text = text.toLowerCase();
+  query = query.toLowerCase();
+  let i = 0, j = 0;
+  while (i < text.length && j < query.length) {
+    if (text[i] === query[j]) {
+      j++;
+    }
+    i++;
+  }
+  return j === query.length;
+}
+
 function paginate(items, page, pageSize) {
+  const start = 0; // consistent start
   const end = Math.max(0, page) * Math.max(1, pageSize);
-  return items.slice(0, end);
+  return items.slice(start, end);
 }
 
 Page({
@@ -36,7 +51,7 @@ Page({
   async onLoad(options) {
     const query = options && options.q ? decodeURIComponent(options.q) : "";
     const bucket = options && options.bucket ? decodeURIComponent(options.bucket) : "";
-    
+
     if (bucket) {
       wx.setNavigationBarTitle({ title: `${bucket} 辅食` });
     } else if (query) {
@@ -49,7 +64,8 @@ Page({
     try {
       const index = await api.fetchIndex();
       const items = (index && index.items) || [];
-      this.setData({ indexItems: items });
+      // Randomize the order
+      this.setData({ indexItems: this.shuffle(items) });
       this.applyFilters();
     } finally {
       wx.hideLoading();
@@ -67,6 +83,7 @@ Page({
 
   onQueryInput(e) {
     this.setData({ query: (e.detail && e.detail.value) || "" });
+    this.applyFilters();
   },
 
   onTagTap(e) {
@@ -117,7 +134,8 @@ Page({
       items = items.filter((x) => {
         const title = (x.title || "").toLowerCase();
         const tags = (x.tags || []).join(" ").toLowerCase();
-        return title.includes(q) || tags.includes(q);
+        // Check title or tags using fuzzy match
+        return fuzzyMatch(title, q) || fuzzyMatch(tags, q);
       });
     }
 
@@ -128,5 +146,14 @@ Page({
   onOpenDetail(e) {
     const id = e.currentTarget.dataset.id;
     wx.navigateTo({ url: `/pages/detail/index?id=${encodeURIComponent(id)}` });
+  },
+
+  shuffle(array) {
+    const arr = array.slice();
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
   },
 });

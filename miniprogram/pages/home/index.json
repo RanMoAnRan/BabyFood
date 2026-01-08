@@ -1,4 +1,4 @@
 {
-  "navigationBarTitleText": "宝宝辅食"
+  "navigationBarTitleText": "宝宝辅食",
+  "enablePullDownRefresh": true
 }
-

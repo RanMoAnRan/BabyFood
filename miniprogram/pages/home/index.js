@@ -56,20 +56,30 @@ Page({
   async loadData() {
     wx.showLoading({ title: "加载中" });
     try {
-      const [manifest, index] = await Promise.all([api.fetchManifest(), api.fetchIndex()]);
-      const latestIds = (manifest && manifest.latest_ids) || [];
+      const index = await api.fetchIndex();
       const items = (index && index.items) || [];
 
-      const map = new Map(items.map((x) => [x.id, x]));
-      let reco = latestIds.map((id) => map.get(id)).filter(Boolean).slice(0, 10);
-      if (reco.length === 0 && items.length > 0) {
-        // 容灾：manifest/index 不一致或网络降级时，至少展示列表前 N 条
-        reco = items.slice(0, 10);
-      }
+      // Randomly shuffle items to pick recommendations
+      const reco = this.shuffle(items).slice(0, 10);
       this.setData({ reco });
     } finally {
       wx.hideLoading();
+      wx.stopPullDownRefresh();
     }
+  },
+
+  shuffle(array) {
+    const arr = array.slice();
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  },
+
+  onPullDownRefresh() {
+    this.refreshProfile();
+    this.loadData();
   },
 
   onQueryInput(e) {
