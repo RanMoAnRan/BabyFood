@@ -1,6 +1,6 @@
 {
   "id": "160fc3768f4dad33023d145f8f252528",
-  "title": "西兰花土豆汤",
+  "title": "Broccoli Potato Soup",
   "min_age_month": 8,
   "tags": [
     "正餐",
@@ -10,57 +10,57 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/a305e0f569ed1b51c894f92648e35df8.webp",
-  "nutrition_tip": "在寒冷的日子里做西兰花土豆汤来温暖自己。",
+  "nutrition_tip": "Make Broccoli Potato Soup on a chilly day to warm yourself up.",
   "ingredients": [
     {
-      "name": "西兰花（冷冻，切碎）",
-      "amount": "40 盎司"
+      "name": "broccoli (frozen, chopped)",
+      "amount": "40 ounces"
     },
     {
-      "name": "水",
-      "amount": "4 杯"
+      "name": "water",
+      "amount": "4 cups"
     },
     {
-      "name": "洋葱（切碎）",
+      "name": "onion (chopped)",
       "amount": "1"
     },
     {
-      "name": "鸡汤块（低钠）",
+      "name": "chicken bouillon cubes (low sodium)",
       "amount": "4"
     },
     {
-      "name": "淡奶（脱脂）",
-      "amount": "2 杯"
+      "name": "evaporated milk (nonfat)",
+      "amount": "2 cups"
     },
     {
-      "name": "马铃薯片",
-      "amount": "1 杯"
+      "name": "potato flakes",
+      "amount": "1 cup"
     },
     {
-      "name": "切达干酪（切丝，低脂）",
-      "amount": "4汤匙"
+      "name": "cheddar cheese (shredded, reduced fat)",
+      "amount": "4 tablespoons"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "将西兰花、水、洋葱和肉汤块放入汤锅中混合。煮沸并减少热量。盖上锅盖，小火煮约 10 分钟，直至蔬菜变软。"
+      "text": "Combine broccoli, water, onion, and bouillon cubes in a stockpot. Bring to a boil and reduce heat. Cover and simmer until vegetables are tender, about 10 minutes."
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "加入牛奶并慢慢拌入土豆片。煮，不断搅拌，直至变稠。"
+      "text": "Add milk and slowly stir in potato flakes. Cook, stirring constantly, until thickened."
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "上面撒上奶酪即可食用。"
+      "text": "Serve with sprinkled cheese on top."
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-08T19:17:39Z",
   "source_url": "https://www.nutrition.gov/recipes/broccoli-potato-soup",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/broccoli-potato-soup/",
   "source_name": "Nutrition.gov (USDA)"
