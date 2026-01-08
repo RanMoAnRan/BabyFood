@@ -2,8 +2,18 @@ Component({
   data: {
     selected: 0,
     list: [
-      { pagePath: "/pages/home/index", text: "首页" },
-      { pagePath: "/pages/profile/index", text: "我的" },
+      {
+        pagePath: "/pages/home/index",
+        text: "首页",
+        iconPath: "/images/tabbar/home.svg",
+        selectedIconPath: "/images/tabbar/home-active.svg"
+      },
+      {
+        pagePath: "/pages/profile/index",
+        text: "我的",
+        iconPath: "/images/tabbar/user.svg",
+        selectedIconPath: "/images/tabbar/user-active.svg"
+      },
     ],
   },
 

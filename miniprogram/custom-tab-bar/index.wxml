@@ -1,31 +1,16 @@
 <view class="tabbar">
   <view class="tabbar-inner">
     <view
-      class="tab-item {{selected == 0 ? 'tab-item-active' : ''}}"
-      data-index="0"
+      wx:for="{{list}}"
+      wx:key="pagePath"
+      class="tab-item {{selected === index ? 'tab-item-active' : ''}}"
+      data-index="{{index}}"
       bindtap="onTap"
       hover-class="tab-item-hover"
       hover-stay-time="80"
     >
-      <view class="icon icon-home">
-        <view class="home-roof"></view>
-        <view class="home-body"></view>
-      </view>
-      <view class="label">首页</view>
-    </view>
-
-    <view
-      class="tab-item {{selected == 1 ? 'tab-item-active' : ''}}"
-      data-index="1"
-      bindtap="onTap"
-      hover-class="tab-item-hover"
-      hover-stay-time="80"
-    >
-      <view class="icon icon-user">
-        <view class="user-head"></view>
-        <view class="user-body"></view>
-      </view>
-      <view class="label">我的</view>
+      <image class="icon" src="{{selected === index ? item.selectedIconPath : item.iconPath}}"></image>
+      <view class="label">{{item.text}}</view>
     </view>
   </view>
 </view>
