@@ -1,70 +1,76 @@
 {
   "id": "8bd3d168c4ca27a8aea014f0fd2e66cc",
-  "title": "Crunchy Chicken Nuggets",
+  "title": "脆皮鸡块",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/c986c80289f14a64b3ed9e08e8a7d2ed.webp",
-  "nutrition_tip": "Both kids and adults will love these oven-baked chicken nuggets.",
+  "nutrition_tip": "孩子和大人都会喜欢这些烤箱烤鸡块。",
   "ingredients": [
     {
-      "name": "chicken breasts (boneless, skinless, cut into 1-inch cubes)",
-      "amount": "1 pound"
+      "name": "鸡胸肉（去骨，去皮，切成1英寸的方块）",
+      "amount": "1 磅"
     },
     {
-      "name": "barbeque sauce",
-      "amount": "1 / 2 cup"
+      "name": "烧烤酱",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "cereal (flakes)",
-      "amount": "3 cups"
+      "name": "麦片（片）",
+      "amount": "3 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 375 degrees."
+      "text": "将烤箱预热至 375 度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix chicken and barbeque sauce in a large bowl."
+      "text": "将鸡肉和烧烤酱放入一个大碗中混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour cereal flakes into a large plastic bag and crush into small pieces."
+      "text": "将谷物片倒入一个大塑料袋中，然后压碎成小块。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Place chicken pieces in the bag, reseal, and toss to coat."
+      "text": "将鸡块放入袋子中，重新密封，然后搅拌均匀。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Lightly coat a baking sheet with cooking spray. Arrange coated chicken pieces on the baking sheet."
+      "text": "在烤盘上轻轻涂上烹饪喷雾。将涂有涂层的鸡块放在烤盘上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake until crispy and golden brown and chicken is no longer pink inside, about 20 to 25 minutes."
+      "text": "烘烤约 20 至 25 分钟，直至酥脆、呈金黄色，鸡肉内部不再呈粉红色。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/crunchy-chicken-nuggets",
   "origin_url": "https://foodhero.org/recipes/crunchy-chicken-nuggets",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "50f0d2baa5a17bad357b1510596cf220",
+    "translated": true
+  }
 }

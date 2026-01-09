@@ -1,46 +1,46 @@
 {
   "id": "0ac67c76c688deaf8f7972dd9916f913",
-  "title": "Turkey Meatloaf",
+  "title": "火鸡肉卷",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/a9303fbdd685c818663f42dc30f518c2.webp",
-  "nutrition_tip": "Enjoy a healthier version of an old dinner favorite.",
+  "nutrition_tip": "享受传统晚餐最爱的健康版本。",
   "ingredients": [
     {
-      "name": "ground turkey (lean)",
-      "amount": "1 pound"
+      "name": "碎火鸡（瘦肉）",
+      "amount": "1 磅"
     },
     {
-      "name": "rolled oats (dry)",
-      "amount": "1 / 2 cup"
+      "name": "燕麦片（干）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "egg",
-      "amount": "1 large"
+      "name": "蛋",
+      "amount": "1 个大"
     },
     {
-      "name": "onion (dehydrated [or 1 small onion, minced])",
-      "amount": "1 tablespoon"
+      "name": "洋葱（脱水[或 1 个小洋葱，切碎]）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "ketchup",
-      "amount": "1 / 4 cup"
+      "name": "番茄酱",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "celery (chopped)",
-      "amount": "2 stalks"
+      "name": "芹菜（切碎）",
+      "amount": "2 茎"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "2 cloves"
+      "name": "大蒜（切碎）",
+      "amount": "2 丁香"
     },
     {
-      "name": "bell pepper (green, seeded and diced)",
+      "name": "灯笼椒（绿色，去籽，切丁）",
       "amount": "1 / 2"
     }
   ],
@@ -48,28 +48,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 350°F."
+      "text": "将烤箱预热至 350°F。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine all ingredients and mix well."
+      "text": "将所有成分混合并搅拌均匀。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in loaf pan for 25 minutes (to a minimum internal temperature of 165°F)."
+      "text": "在面包盘中烘烤 25 分钟（内部温度最低为 165°F）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cut into five slices and serve."
+      "text": "切成五片即可食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/turkey-meatloaf",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=2&amp;rId=187",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "27b998805cc2fc7f29c8926cda46809f",
+    "translated": true
+  }
 }

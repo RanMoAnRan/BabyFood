@@ -1,9 +1,9 @@
 {
   "id": "919305218644e7db5e60c413af61abf1",
-  "title": "Quick Lasagna",
+  "title": "简易千层宽面",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "乳制品",
@@ -12,109 +12,114 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/90bf345ab2b69f051af9aa9f2c603999.webp",
-  "nutrition_tip": "This cheesy and hearty lasagna only takes one pan and is ready in 45 minutes.",
+  "nutrition_tip": "这款芝士丰盛的烤宽面条只需一锅，45 分钟内即可做好。",
   "ingredients": [
     {
-      "name": "ground beef (lean, 15% fat or less)",
-      "amount": "1 pound"
+      "name": "碎牛肉（瘦肉，脂肪含量不超过 15%）",
+      "amount": "1 磅"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 large"
+      "name": "洋葱（切碎）",
+      "amount": "1 个大"
     },
     {
-      "name": "garlic (minced )",
-      "amount": "1 clove"
+      "name": "大蒜（切碎）",
+      "amount": "1 丁香"
     },
     {
-      "name": "tomato sauce (spaghettie sauce, dividied)",
-      "amount": "2 cups"
+      "name": "番茄酱（意大利面酱，分次使用）",
+      "amount": "2 杯"
     },
     {
-      "name": "parsley (fresh, chopped)",
-      "amount": "1 / 4 cup"
+      "name": "欧芹（新鲜，切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "oregano",
-      "amount": "1 teaspoon"
+      "name": "牛至",
+      "amount": "1 茶匙"
     },
     {
-      "name": "basil",
-      "amount": "1 teaspoon"
+      "name": "罗勒",
+      "amount": "1 茶匙"
     },
     {
-      "name": "cottage cheese (low-fat)",
-      "amount": "1 pint"
+      "name": "干酪（低脂）",
+      "amount": "1 品脱"
     },
     {
-      "name": "mozzarella cheese (divided)",
-      "amount": "2 / 3 cup"
+      "name": "马苏里拉奶酪（分次使用）",
+      "amount": "2 / 3 杯"
     },
     {
-      "name": "lasagna noodle (uncooked)",
+      "name": "千层面（生）",
       "amount": "6"
     },
     {
-      "name": "grated parmesan cheese",
-      "amount": "1 / 3 cup"
+      "name": "磨碎的帕尔马干酪",
+      "amount": "1 / 3 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Rinse or scrub fresh vegetables under running water before preparing."
+      "text": "准备前用流水冲洗或擦洗新鲜蔬菜。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "In a 10-inch skillet or large saucepan, cook ground beef over medium-high heat (350 degrees F in an electric skillet) until it is no longer pink."
+      "text": "在 10 英寸煎锅或大平底锅中，用中高温（电煎锅中为 350 华氏度）煮碎牛肉，直至其不再呈粉红色。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Drain the fat. Add the onion and cook until it is soft."
+      "text": "沥干脂肪。加入洋葱，煮至变软。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add garlic, 1 cup of the spaghetti sauce and herbs. Stir and spread mixture evenly in the skillet."
+      "text": "加入大蒜、1 杯意大利面酱和香草。将混合物搅拌并均匀地铺入煎锅中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Reduce heat to low (200 degrees F in an electric skillet), spread cottage cheese over mixture and sprinkle with half of the mozzarella. Top with 4 noodles, breaking remaining 2 to fill in open spaces."
+      "text": "将热量调低（电煎锅中温度为 200 华氏度），将干酪铺在混合物上，撒上一半马苏里拉奶酪。上面放 4 根面条，折断剩下的 2 根以填补空缺。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Pour remaining spaghetti sauce evenly over the top of noodles; gently press noodles down to moisten."
+      "text": "将剩余的意大利面酱均匀地倒在面条上；轻轻地按下面条以使其湿润。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Cover and simmer 15 to 20 minutes until noodles are tender. Top with remaining mozzarella and parmesan cheese, cover and simmer 2 more minutes or until cheeses are melted."
+      "text": "盖上锅盖，煮 15 至 20 分钟，直至面条变软。在上面放上剩余的马苏里拉奶酪和帕尔马干酪，盖上锅盖，再煮 2 分钟或直至奶酪融化。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Let stand covered for 5 to 10 minutes before serving."
+      "text": "上菜前盖上盖子静置 5 到 10 分钟。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-06-21",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/quick-lasagna",
   "origin_url": "https://foodhero.org/recipes/quick-lasagna",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c7abe14b3d6e690f7476aaf55138702e",
+    "translated": true
+  }
 }

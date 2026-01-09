@@ -1,90 +1,96 @@
 {
   "id": "3a9b0f3b66096cb9436ba0a1cb2286d3",
-  "title": "Red Lentil Latkes",
+  "title": "红扁豆土豆饼",
   "min_age_month": 12,
   "tags": [
     "早餐",
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4d0ec41ced0e205899d7f08e80af47d7.webp",
-  "nutrition_tip": "Traditionally, latkes are pancakes made from potatoes, but these latkes also inc…",
+  "nutrition_tip": "传统上，马铃薯饼是用土豆制成的煎饼，但这些马铃薯饼还包含......",
   "ingredients": [
     {
-      "name": "lentils (red, dry)",
-      "amount": "1 / 2 cup"
+      "name": "小扁豆（红，干）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "potato (peeling is optional)",
-      "amount": "1 medium"
+      "name": "土豆（去皮可选）",
+      "amount": "1 个中等"
     },
     {
-      "name": "egg",
-      "amount": "1 large"
+      "name": "蛋",
+      "amount": "1 个大"
     },
     {
-      "name": "garlic (finely sliced)",
-      "amount": "1 clove"
+      "name": "大蒜（切细片）",
+      "amount": "1 丁香"
     },
     {
-      "name": "grated parmesan cheese",
-      "amount": "2 tablespoons"
+      "name": "磨碎的帕尔马干酪",
+      "amount": "2 汤匙"
     },
     {
-      "name": "hot sauce (optional)",
-      "amount": "1 dash"
+      "name": "辣酱（可选）",
+      "amount": "1 破折号"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "black pepper (to taste, optional)",
+      "name": "黑胡椒（适量，可选）",
       "amount": ""
     },
     {
-      "name": "canola oil",
-      "amount": "2 tablespoons"
+      "name": "菜籽油",
+      "amount": "2 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add the lentils to a medium saucepan and add water to cover by about an inch. Bring to a boil, then lower heat to a simmer and cook until tender, about 15 minutes. Drain and set aside."
+      "text": "将扁豆放入一个中等大小的平底锅中，加水覆盖约一英寸。煮沸，然后转小火煮至变软，大约需要 15 分钟。沥干并放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Meanwhile, remove the excess water from the potato: you can either squeeze it by the handful, or put the entire pile on a clean tea towel and wring it out."
+      "text": "同时，除去土豆中多余的水：您可以一把抓起它，或者将整堆土豆放在干净的茶巾上并拧干。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Crack the egg in a medium bowl and beat it lightly. Add the potato, cooked lentils, garlic, green onion, and cheese and hot sauce if you're using them in a medium bowl. Add the salt and a good grinding of black pepper, and stir until combined."
+      "text": "将鸡蛋打入一个中等大小的碗中，轻轻搅拌。如果您在中型碗中使用土豆、煮熟的扁豆、大蒜、葱、奶酪和辣酱，请添加它们。加入盐和磨碎的黑胡椒，搅拌直至混合。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Heat a large skillet over medium heat, then add a generous drizzle of oil (1-2 Tablespoons). Working in batches, so as not to crowd the pan, add clumps of the potato-lentil mixture (about the size of a golf ball or slightly larger works well), and flatten each as soon as it's in the pan, making them about a half inch thick."
+      "text": "用中火加热大煎锅，然后加入大量油（1-2 汤匙）。分批工作，以免挤满锅，加入马铃薯扁豆混合物块（大约高尔夫球大小或稍大一些效果更好），并在将其放入锅中后立即压平，使其厚约半英寸。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cook for about 4-5 minutes per side, until the latkes are deeply golden brown and cooked through. Add a little more oil to the pan for each additional batch. Serve immediately or keep the latkes warm in a 200°F oven for up to an hour."
+      "text": "每面煮约 4-5 分钟，直到马铃薯饼呈深金黄色并煮熟。每增加一批，就在锅中多加一点油。立即食用，或者将马铃薯饼放在 200°F 的烤箱中保温一小时。"
     }
   ],
   "warnings": [],
   "publish_date": "2022-11-17",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/red-lentil-latkes",
   "origin_url": "https://snaped.fns.usda.gov/resources/nutrition-education-materials/healthy-thrifty-holiday-menus/hanukkah",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a9f8e838e865cb222f487ac5b4939985",
+    "translated": true
+  }
 }

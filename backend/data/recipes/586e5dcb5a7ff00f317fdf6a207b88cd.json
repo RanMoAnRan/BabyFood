@@ -1,87 +1,92 @@
 {
   "id": "586e5dcb5a7ff00f317fdf6a207b88cd",
-  "title": "Apple Nachos",
+  "title": "苹果片“那乔”",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4a174f7d53dfe668d2a9932aa2ffaab7.webp",
-  "nutrition_tip": "These healthy, fruity nachos are simple enough for kids to make.&nbsp;",
+  "nutrition_tip": "这些健康、果味的玉米片对于孩子来说制作起来很简单。",
   "ingredients": [
     {
-      "name": "lemon juice",
-      "amount": "1 teaspoon"
+      "name": "柠檬汁",
+      "amount": "1 茶匙"
     },
     {
-      "name": "apples (thinly sliced)",
-      "amount": "2 medium"
+      "name": "苹果（切成薄片）",
+      "amount": "2 个中等"
     },
     {
-      "name": "sunflower seeds (unsalted and shelled)",
-      "amount": "2 tablespoons"
+      "name": "葵花籽（无盐，去壳）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "dried cranberries (unsweetened [or raisins])",
-      "amount": "1 / 4 cup"
+      "name": "蔓越莓干（不加糖[或葡萄干]）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "chocolate chips (mini)",
-      "amount": "1 tablespoon"
+      "name": "巧克力片（迷你）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "peanut butter (creamy style)",
-      "amount": "2 tablespoons"
+      "name": "花生酱（奶油风格）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "honey",
-      "amount": "5 1 / 2 tablespoons"
+      "name": "亲爱的",
+      "amount": "5 1 / 2 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Gently rub apples under cool running water."
+      "text": "在凉爽的流水下轻轻擦拭苹果。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add lemon juice to sliced apples to reduce browning."
+      "text": "在苹果片中加入柠檬汁以减少褐变。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spread apple slices on a plate."
+      "text": "将苹果片铺在盘子上。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Top apple slices with sunflower seeds, dried cranberries, and mini chocolate chips."
+      "text": "在苹果片上撒上葵花籽、蔓越莓干和迷你巧克力片。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Combine peanut butter and honey in a small, microwaveable safe container. Microwave 20 seconds and stir until smooth. Be careful when removing from microwave."
+      "text": "将花生酱和蜂蜜放入一个小型、可微波安全的容器中。微波炉加热 20 秒，搅拌至光滑。从微波炉中取出时要小心。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Drizzle peanut butter sauce over apple slices."
+      "text": "将花生酱淋在苹果片上。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/apple-nachos",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/apple-nachos",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c3a2105f78b70059477c6b6a3c9a6f41",
+    "translated": true
+  }
 }

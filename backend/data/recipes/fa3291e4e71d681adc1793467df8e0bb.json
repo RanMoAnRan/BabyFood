@@ -1,30 +1,30 @@
 {
   "id": "fa3291e4e71d681adc1793467df8e0bb",
-  "title": "Watermelon Sundaes",
+  "title": "西瓜圣代",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/7a9aaade99f00e6ae16b4b1497743234.webp",
-  "nutrition_tip": "These ice cream-free Red, White and Blue Sundaes are filled with generous scoops…",
+  "nutrition_tip": "这些不含冰淇淋的红、白、蓝圣代冰淇淋里装满了大量的勺子……",
   "ingredients": [
     {
-      "name": "watermelon (balls)",
-      "amount": "44 cups"
+      "name": "西瓜（球）",
+      "amount": "44 杯"
     },
     {
-      "name": "blueberry (fresh)",
-      "amount": "2 cups"
+      "name": "蓝莓（新鲜）",
+      "amount": "2 杯"
     },
     {
-      "name": "whipped topping",
-      "amount": "4 tablespoons"
+      "name": "搅打配料",
+      "amount": "4 汤匙"
     },
     {
-      "name": "sprinkles (optional)",
+      "name": "洒水（可选）",
       "amount": ""
     }
   ],
@@ -32,28 +32,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gently mix together the watermelon and blueberries."
+      "text": "轻轻地将西瓜和蓝莓混合在一起。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Divide among 4 sundae bowls."
+      "text": "分成 4 个圣代碗。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Top each with a tablespoon of whipped topping and sprinkle with red ,white and blue sprinkles."
+      "text": "在每个上面放一汤匙打发的配料，并撒上红色、白色和蓝色的糖粒。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Serve immediately."
+      "text": "立即上菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-06-21",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/watermelon-sundaes",
   "origin_url": "https://fruitsandveggies.org/recipes/red-white-and-blue-watermelon-sundaes-2/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b8a62288d715ae5126b51e690ff963f4",
+    "translated": true
+  }
 }

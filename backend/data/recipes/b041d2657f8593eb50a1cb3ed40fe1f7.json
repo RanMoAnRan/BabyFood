@@ -1,9 +1,10 @@
 {
   "id": "b041d2657f8593eb50a1cb3ed40fe1f7",
-  "title": "Ramen Noodle Skillet",
+  "title": "拉面煎锅",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "谷物"
@@ -11,97 +12,102 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/81a55cacc3c1d7677eb75dab67ba8a15.webp",
-  "nutrition_tip": "Elevate your package of noodles with healthier homemade seasoning and vegetables…",
+  "nutrition_tip": "用更健康的自制调味料和蔬菜来提升你的面条包装......",
   "ingredients": [
     {
-      "name": "ground ginger",
-      "amount": "1 teaspoon"
+      "name": "姜末",
+      "amount": "1 茶匙"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "onion powder",
-      "amount": "1 teaspoon"
+      "name": "洋葱粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "salt (or to taste)",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐（或适量）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "black pepper (or to taste)",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒（或适量）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "canola oil (or vegetable)",
-      "amount": "2 teaspoons"
+      "name": "菜籽油（或蔬菜）",
+      "amount": "2 茶匙"
     },
     {
-      "name": "onion (choped)",
-      "amount": "1 cup"
+      "name": "洋葱（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "carrots (chopped or sliced)",
-      "amount": "1 medium"
+      "name": "胡萝卜（切碎或切片）",
+      "amount": "1 个中等"
     },
     {
-      "name": "broccoli (frozen stir fry mixture)",
-      "amount": "2 cups"
+      "name": "西兰花（冷冻炒混合物）",
+      "amount": "2 杯"
     },
     {
-      "name": "tofu (cut into bite-sized pieces, cooked)",
-      "amount": "2 cups"
+      "name": "豆腐（切成一口大小的块，煮熟）",
+      "amount": "2 杯"
     },
     {
-      "name": "ramen-style noodles (soy flavored, broken into pieces, discard sasoning packet)",
-      "amount": "1 package"
+      "name": "拉面（酱油味，切碎，丢弃佐料包）",
+      "amount": "1 包"
     },
     {
-      "name": "Homemade Ramen Seasoning",
+      "name": "自制拉面调味料",
       "amount": "1"
     },
     {
-      "name": "vegetable broth (sodium-free)",
-      "amount": "2 cups"
+      "name": "蔬菜汤（无钠）",
+      "amount": "2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oil in a large skillet. Add onion and carrots and sauté until soft (about 5 minutes)."
+      "text": "在大煎锅中加热油。加入洋葱和胡萝卜，炒至软（约 5 分钟）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Thaw the broccoli mixture in the microwave and drain."
+      "text": "在微波炉中解冻西兰花混合物并沥干。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add the broccoli mixture and cooked tofu to the skillet. Stir and heat (about 1-2 minutes)."
+      "text": "将西兰花混合物和煮熟的豆腐放入煎锅中。搅拌并加热（约1-2分钟）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add the homemade ramen seasoning to the broth and stir into the skillet."
+      "text": "将自制拉面调味料加入肉汤中，然后放入煎锅中搅拌。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Break apart the ramen noodles. Add to the skillet when the broth simmers. Stir to moisten the noodles."
+      "text": "将拉面分开。当肉汤沸腾时加入煎锅。搅拌使面条湿润。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cover the skillet and cook until done (about 2 minutes). Serve immediately."
+      "text": "盖上煎锅，煮至熟（约 2 分钟）。立即上菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-09-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/ramen-noodle-skillet",
   "origin_url": "https://extension.umaine.edu/food-health/recipes/ramen-noodle-skillet/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9ebfd47e100fc43e11c6bcf8f8c53100",
+    "translated": true
+  }
 }

@@ -1,51 +1,56 @@
 {
   "id": "6d5a157835e4e6ef288a087fffc5d48f",
-  "title": "Watermelon Cooler",
+  "title": "西瓜清凉饮",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/e59855b47d82056224dc80bfe929a9aa.webp",
-  "nutrition_tip": "A refreshing kid-approved drink with only 2 ingredients.",
+  "nutrition_tip": "一款深受儿童喜爱的清爽饮料，仅含 2 种成分。",
   "ingredients": [
     {
-      "name": "watermelon (cubed, seeds removed)",
-      "amount": "3 cups"
+      "name": "西瓜（切块，去籽）",
+      "amount": "3 杯"
     },
     {
-      "name": "orange juice",
-      "amount": "1 / 2 cup"
+      "name": "橙汁",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Rinse or scrub fresh fruits under running water before preparing."
+      "text": "准备前用流水冲洗或擦洗新鲜水果。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place watermelon and juice in blender. Blend until smooth and serve right away."
+      "text": "将西瓜和果汁放入搅拌机中。搅拌至光滑并立即食用。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-06-21",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/watermelon-cooler",
   "origin_url": "https://foodhero.org/recipes/watermelon-cooler",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e08992d351ae5a1d65e1235613299d91",
+    "translated": true
+  }
 }

@@ -1,62 +1,67 @@
 {
   "id": "a1670c795e00aa2ce0f9fce982bf0952",
-  "title": "Broccoli Cheese Bites",
+  "title": "西兰花芝士球",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/99159d86d6fc78e5acd4fae008186131.webp",
-  "nutrition_tip": "Kids will love these broccoli bites for a snack or a side.&nbsp;",
+  "nutrition_tip": "孩子们会喜欢这些西兰花作为零食或配菜。",
   "ingredients": [
     {
-      "name": "broccoli, rinsed, chopped, and cooked",
-      "amount": "2 cups"
+      "name": "西兰花，冲洗、切碎并煮熟",
+      "amount": "2 杯"
     },
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "2"
     },
     {
-      "name": "oil",
-      "amount": "2 tablespoons"
+      "name": "石油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "bread crumbs",
-      "amount": "1 / 2 cup"
+      "name": "面包屑",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "cheese (cheddar, Colby-Jack, or Parmesan )",
-      "amount": "1 / 2 cup"
+      "name": "奶酪（切达干酪、科尔比杰克干酪或帕尔马干酪）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Mix all the ingredients."
+      "text": "混合所有成分。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Shape the mixture into patties 1 inch in diameter."
+      "text": "将混合物成型为直径 1 英寸的肉饼。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat the oil in a skillet, then add the patties and cook until both sides are crispy."
+      "text": "在煎锅中加热油，然后加入肉饼，煮至两面酥脆。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/broccoli-cheese-bites",
   "origin_url": "https://eclkc.ohs.acf.hhs.gov/oral-health/cooks-corner-recipes-healthy-snacks/broccoli-cheese-bites",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2e67e028929ae885d2c70c41057f9f63",
+    "translated": true
+  }
 }

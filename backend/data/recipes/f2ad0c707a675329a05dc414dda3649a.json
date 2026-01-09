@@ -1,16 +1,16 @@
 {
   "id": "f2ad0c707a675329a05dc414dda3649a",
-  "title": "枫盐腌猪排",
+  "title": "枫糖猪排",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "水果",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 45,
   "cover_image": "images/878b56655f1065f04c4cf5ef1ab29c71.webp",
-  "nutrition_tip": "Pork and peaches are the perfect pairing for your next BBQ.这甜甜的味道……",
+  "nutrition_tip": "猪肉和桃子是您下次烧烤的完美搭配。这甜甜的味道……",
   "ingredients": [
     {
       "name": "水",
@@ -22,10 +22,10 @@
     },
     {
       "name": "盐",
-      "amount": "2汤匙"
+      "amount": "2 汤匙"
     },
     {
-      "name": "花椒",
+      "name": "胡椒",
       "amount": "1 1 / 2 茶匙"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "name": "桃子（成熟、坚硬、切半、去核）",
-      "amount": "3 中等"
+      "amount": "3 个中等"
     }
   ],
   "steps": [
@@ -58,7 +58,7 @@
     {
       "step_index": 2,
       "img": "",
-      "text": "用植物油刷烤架。将猪排放在炉排中央；将桃子切成两半，切边朝下，放在烤架的外边缘。盖上盖子，烧烤 8 至 12 分钟，或直至猪肉内部温度达到 145°F，桃子出现烧烤痕迹，在烧烤过程中将排骨翻面。"
+      "text": "在烤架上刷上植物油。将猪排放在炉排中央；将桃子切成两半，切边朝下，放在烤架的外边缘。盖上盖子，烧烤 8 至 12 分钟，或直至猪肉内部温度达到 145°F，桃子出现烧烤痕迹，在烧烤过程中将排骨翻面。"
     },
     {
       "step_index": 3,
@@ -68,8 +68,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/maple-brined-pork-chops",
   "origin_url": "https://www.pork.org/maple-brined-pork-chops-with-grilled-peaches/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "efbcb397bcc0bd58ead3a13ce67e6beb",
+    "translated": true
+  }
 }

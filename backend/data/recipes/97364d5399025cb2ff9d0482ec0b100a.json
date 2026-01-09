@@ -1,6 +1,6 @@
 {
   "id": "97364d5399025cb2ff9d0482ec0b100a",
-  "title": "White Bean and Egg Shakshuka",
+  "title": "白豆鸡蛋北非蛋",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/deb21c358f64e53104e40ee8f376273e.webp",
-  "nutrition_tip": "Never skip breakfast again with this quick microwavable recipe.&nbsp;",
+  "nutrition_tip": "有了这个快速微波炉食谱，再也不用不吃早餐了。",
   "ingredients": [
     {
-      "name": "tomato sauce (no-salt added)",
-      "amount": "1 / 4 cup"
+      "name": "番茄酱（不加盐）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "beans (white (e.g. Cannellini, Great Northern), drained and rinsed)",
-      "amount": "1 / 4 cup"
+      "name": "豆（白豆（例如 Cannellini、Great Northern），沥干并冲洗）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "thyme (dried)",
-      "amount": "1 / 4 teaspoon"
+      "name": "百里香（干）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "paprika (sweet or smoked)",
-      "amount": "1 / 4 teaspoon"
+      "name": "辣椒粉（甜或烟熏）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "onion powder",
-      "amount": "1 / 4 teaspoon"
+      "name": "洋葱粉",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 pinch"
+      "name": "大蒜粉",
+      "amount": "1 捏"
     },
     {
-      "name": "salt",
-      "amount": "1 pinch"
+      "name": "盐",
+      "amount": "1 捏"
     },
     {
-      "name": "Ground black pepper",
-      "amount": "1 pinch"
+      "name": "黑胡椒粉",
+      "amount": "1 捏"
     },
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "2"
     }
   ],
@@ -53,38 +53,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Coat the inside of a microwave-safe bowl with cooking spray."
+      "text": "在微波炉安全碗的内部涂上烹饪喷雾。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add the tomato sauce, beans, thyme, paprika, onion powder, garlic powder, salt, and black pepper. Stir to combine."
+      "text": "加入番茄酱、豆类、百里香、辣椒粉、洋葱粉、大蒜粉、盐和黑胡椒。搅拌混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Make a well in the center of the sauce, and crack the eggs into it."
+      "text": "在酱汁的中心挖一个洞，然后将鸡蛋打入其中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Microwave on high power (default setting) for 1 minute."
+      "text": "高功率微波炉（默认设置）1 分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Continue cooking in 20-second bursts at 80% power until the egg yolks and whites are set. Depending on your microwave, this will take about 2-4 minutes in total."
+      "text": "以 80% 功率继续烹饪 20 秒，直至蛋黄和蛋白凝固。根据您的微波炉的不同，这总共需要大约 2-4 分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve warm."
+      "text": "趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-01-12",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/white-bean-and-egg-shakshuka",
   "origin_url": "https://www.nutrition.va.gov/Recipes/Breakfast/docs/White-Bean-and-Egg-ShakshukaJUL2021.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "44b75331f447f9db64ec6cf52197a4ca",
+    "translated": true
+  }
 }

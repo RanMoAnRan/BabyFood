@@ -3,14 +3,14 @@
   "title": "西兰花土豆汤",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
     "蔬菜",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/a305e0f569ed1b51c894f92648e35df8.webp",
-  "nutrition_tip": "在寒冷的日子里做西兰花土豆汤来温暖自己。",
+  "nutrition_tip": "在寒冷的天做西兰花土豆汤来暖身。",
   "ingredients": [
     {
       "name": "西兰花（冷冻，切碎）",
@@ -33,12 +33,12 @@
       "amount": "2 杯"
     },
     {
-      "name": "马铃薯片",
+      "name": "土豆片",
       "amount": "1 杯"
     },
     {
       "name": "切达干酪（切丝，低脂）",
-      "amount": "4汤匙"
+      "amount": "4 汤匙"
     }
   ],
   "steps": [
@@ -55,13 +55,18 @@
     {
       "step_index": 3,
       "img": "",
-      "text": "上面撒上奶酪即可食用。"
+      "text": "上桌时撒上奶酪。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/broccoli-potato-soup",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/broccoli-potato-soup/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "865468ec9b8ad13e5f213b17af15e0d3",
+    "translated": true
+  }
 }

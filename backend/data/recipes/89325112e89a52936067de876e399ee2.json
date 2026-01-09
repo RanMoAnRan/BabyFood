@@ -1,73 +1,79 @@
 {
   "id": "89325112e89a52936067de876e399ee2",
-  "title": "5 A Day Salad",
+  "title": "每日五蔬果沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/a037eb6953cd6dc6b8349ffa8dcf4355.webp",
-  "nutrition_tip": "This nutrient-packed salad uses ten different vegetables, and each serving is eq…",
+  "nutrition_tip": "这种营养丰富的沙拉使用了十种不同的蔬菜，每份都均衡...",
   "ingredients": [
     {
-      "name": "spinach leaves (fresh)",
-      "amount": "4 cups"
+      "name": "菠菜叶（新鲜）",
+      "amount": "4 杯"
     },
     {
-      "name": "romaine lettuce",
-      "amount": "4 cups"
+      "name": "生菜",
+      "amount": "4 杯"
     },
     {
-      "name": "bell pepper ((red, yellow, orange, or green), chopped)",
-      "amount": "2 cups"
+      "name": "甜椒（（红色、黄色、橙色或绿色），切碎）",
+      "amount": "2 杯"
     },
     {
-      "name": "cherry tomatoes",
-      "amount": "2 cups"
+      "name": "樱桃番茄",
+      "amount": "2 杯"
     },
     {
-      "name": "broccoli (fresh, chopped)",
-      "amount": "1 cup"
+      "name": "西兰花（新鲜，切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "cauliflower (fresh, chopped)",
-      "amount": "1 cup"
+      "name": "花椰菜（新鲜，切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "squash (yellow, fresh, sliced)",
-      "amount": "1 cup"
+      "name": "南瓜（黄色，新鲜，切片）",
+      "amount": "1 杯"
     },
     {
-      "name": "cucumber (sliced)",
-      "amount": "1 cup"
+      "name": "黄瓜（切片）",
+      "amount": "1 杯"
     },
     {
-      "name": "carrots (chopped)",
-      "amount": "2 cups"
+      "name": "胡萝卜（切碎）",
+      "amount": "2 杯"
     },
     {
-      "name": "zucchini (fresh, sliced)",
-      "amount": "1 cup"
+      "name": "西葫芦（新鲜，切片）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash all of the vegetables and mix them together in a large mixing bowl."
+      "text": "清洗所有蔬菜并在一个大搅拌碗中将它们混合在一起。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Top this colorful meal with the nonfat or low-fat dressing of your choice."
+      "text": "在这顿色彩缤纷的饭菜上加上您选择的脱脂或低脂调料。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-05-17",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/5-day-salad",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/5-day-salad",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6587074adb4f7c6b6d1e9da6188d3c5f",
+    "translated": true
+  }
 }

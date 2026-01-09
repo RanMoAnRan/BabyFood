@@ -1,76 +1,82 @@
 {
   "id": "cd14d34cfbf224d10c201bbe9bd378c1",
-  "title": "Argentinian Chimichurri Sauce",
+  "title": "阿根廷青酱",
   "min_age_month": 12,
   "tags": [
-    "正餐"
+    "午餐",
+    "晚餐"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/657e83f20c5ac3fa892e32abf6f9006d.webp",
-  "nutrition_tip": "Add some South American flair to your meal with this flavorful sauce, which can…",
+  "nutrition_tip": "用这种美味的酱汁为您的餐点增添一些南美风味，它可以……",
   "ingredients": [
     {
-      "name": "parsley (lightly packed and chopped without the stalks)",
-      "amount": "1 cup"
+      "name": "欧芹（轻轻包装并切碎，不含茎）",
+      "amount": "1 杯"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "4 cloves"
+      "name": "大蒜（切碎）",
+      "amount": "4 丁香"
     },
     {
-      "name": "salt",
-      "amount": "1 / 8 teaspoon"
+      "name": "盐",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "peppercorn (freshly ground)",
-      "amount": "1 / 4 teaspoon"
+      "name": "胡椒（现磨）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "red pepper flakes",
-      "amount": "1 / 2 teaspoon"
+      "name": "红辣椒片",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "oregano (dried)",
-      "amount": "1 tablespoon"
+      "name": "牛至（干）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "green onion (minced)",
-      "amount": "2 tablespoons"
+      "name": "葱（切碎）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "olive oil",
-      "amount": "1 / 2 cup"
+      "name": "橄榄油",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "vinegar",
-      "amount": "3 / 4 cup"
+      "name": "醋",
+      "amount": "3 / 4 杯"
     },
     {
-      "name": "lemon juice (fresh)",
-      "amount": "3 tablespoons"
+      "name": "柠檬汁（新鲜）",
+      "amount": "3 汤匙"
     },
     {
-      "name": "water",
-      "amount": "1 / 4 cup"
+      "name": "水",
+      "amount": "1 / 4 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Place all the ingredients in a blender or food processor and pulse until well chopped, but not pureed."
+      "text": "将所有原料放入搅拌机或食品加工机中，搅拌直至充分切碎，但不要制成泥状。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Spoon the sauce over grilled meats, poultry, seafood, or vegetables. This sauce can also be used as a marinade."
+      "text": "用勺子将酱汁浇在烤肉、家禽、海鲜或蔬菜上。这种酱汁也可以用作腌料。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-02-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/argentinian-chimichurri-sauce",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/argentinian-chimichurri-sauce",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f9f169855d63960f3e5dc0ba97e2eaad",
+    "translated": true
+  }
 }

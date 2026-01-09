@@ -1,9 +1,10 @@
 {
   "id": "fcd5bf28ef8a01892eaec4cd6d79505d",
-  "title": "Quick and Easy Pizza",
+  "title": "简易披萨",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "乳制品",
     "谷物"
@@ -11,102 +12,107 @@
   "difficulty": 1,
   "time_cost": 30,
   "cover_image": "images/a425bb8814e00f8d7bfa4ed5aa9bed96.webp",
-  "nutrition_tip": "This recipe uses a traditional pizza dough recipe with yeast, but only needs 15…",
+  "nutrition_tip": "这个食谱使用传统的披萨面团配方和酵母，但只需要 15...",
   "ingredients": [
     {
-      "name": "flour (all-purpose (divided in half))",
-      "amount": "2 cups"
+      "name": "面粉（通用（分成两半））",
+      "amount": "2 杯"
     },
     {
-      "name": "yeast (instant)",
-      "amount": "1 tablespoon"
+      "name": "酵母（速溶）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "sugar",
-      "amount": "1 tablespoon"
+      "name": "糖",
+      "amount": "1 汤匙"
     },
     {
-      "name": "water (warm (110 to 115 degrees F))",
-      "amount": "2 / 3 cup"
+      "name": "水（温水（110 至 115 华氏度））",
+      "amount": "2 / 3 杯"
     },
     {
-      "name": "water (warm (110 to 115 degrees F))",
-      "amount": "2 tablespoons"
+      "name": "水（温水（110 至 115 华氏度））",
+      "amount": "2 汤匙"
     },
     {
-      "name": "non stick spray",
-      "amount": "2 ounces"
+      "name": "不粘喷雾",
+      "amount": "2 盎司"
     },
     {
-      "name": "marinara sauce",
-      "amount": "1 cup"
+      "name": "番茄酱",
+      "amount": "1 杯"
     },
     {
-      "name": "mozzarella cheese (part-skim, shredded)",
-      "amount": "6 ounces"
+      "name": "马苏里拉奶酪（部分脱脂，切丝）",
+      "amount": "6 盎司"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 375 °F."
+      "text": "将烤箱预热至 375 °F。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Collect, shred, and measure all ingredients before starting to prepare the recipe."
+      "text": "在开始准备食谱之前收集、切碎并测量所有成分。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "In a medium bowl, mix 1 cup flour, yeast, sugar, and water with a spoon."
+      "text": "在一个中等大小的碗中，用勺子混合 1 杯面粉、酵母、糖和水。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Gradually stir in the other cup of flour until the mixture forms a ball."
+      "text": "逐渐搅拌另一杯面粉，直至混合物形成球。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Dust a cutting board or clean countertop surface with flour. Put the ball of dough on the surface, then use your clean hands to knead the dough on the surface for about 5 minutes."
+      "text": "在切菜板上撒上面粉或在干净的台面上撒上面粉。将面团放在表面上，然后用干净的手将面团揉在表面上约5分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Spray a bowl with nonstick cooking spray. Put the dough in the bowl, and cover it with a clean dishtowel. Put the bowl on the oven while it is preheating (but not on a burner that is turned on), and let it sit for 10 to 15 minutes (preheating the oven will cause the stovetop to be slightly warm and will help the dough rise)."
+      "text": "用不粘烹饪喷雾喷洒碗。将面团放入碗中，并用干净的抹布盖住。在预热时将碗放在烤箱上（但不要放在打开的燃烧器上），并让它静置 10 到 15 分钟（预热烤箱会使炉灶稍微温暖，有助于面团发酵）。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Spray a 12-inch x 16-inch baking sheet with nonstick cooking spray. Spread the dough into an even layer on the baking sheet. Spread the dough into an even layer on the baking sheet. For a thicker crust, use a smaller baking sheet."
+      "text": "在 12 英寸 x 16 英寸烤盘上喷洒不粘烹饪喷雾。将面团均匀地铺在烤盘上。将面团均匀地铺在烤盘上。对于较厚的外皮，请使用较小的烤盘。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Add a thin layer of the Easy Marinara Sauce from the Eating Smart, Being Active Let's Cook! Cookbook , leaving a 1/2 inch crust on all edges."
+      "text": "添加一层薄薄的“聪明饮食，积极行动”中的简易海纳拉酱，让我们一起做饭吧！食谱，在所有边缘留下 1/2 英寸的外壳。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Add the shredded cheese and pizza toppings. Be careful not to put too many toppings on the pizza, or it will be soggy."
+      "text": "添加切碎的奶酪和披萨配料。注意披萨上的配料不要太多，不然会湿透的。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Bake for approximately 15 minutes until the crust is brown and the cheese melts and is slightly browned in spots."
+      "text": "烘烤约 15 分钟，直至外皮变成棕色，奶酪融化并出现轻微的褐色斑点。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours. Eat within 3 to 5 days."
+      "text": "在 2 小时内将剩菜冷藏。 3到5天内吃完。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-02-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/quick-and-easy-pizza",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/quick-and-easy-pizza",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1746b21960aa799f24a4ab81cd3b0320",
+    "translated": true
+  }
 }

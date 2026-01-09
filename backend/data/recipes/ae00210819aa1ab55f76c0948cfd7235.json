@@ -1,9 +1,9 @@
 {
   "id": "ae00210819aa1ab55f76c0948cfd7235",
-  "title": "鸡肉、火鸡或猪肉蔬菜汤",
+  "title": "鸡肉/火鸡/猪肉蔬菜汤",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
     "蔬菜",
     "蛋白质"
   ],
@@ -18,18 +18,18 @@
     },
     {
       "name": "洋葱（切块）",
-      "amount": "1 小号"
+      "amount": "1 个小"
     },
     {
       "name": "芹菜（茎，切块）",
-      "amount": "1 小号"
+      "amount": "1 个小"
     },
     {
       "name": "西红柿（罐装或煮熟的）",
       "amount": "1 / 2 杯"
     },
     {
-      "name": "玉米（整粒，罐装或煮熟的）",
+      "name": "玉米（整粒，罐装或煮熟）",
       "amount": "1 杯"
     },
     {
@@ -46,7 +46,7 @@
     {
       "step_index": 2,
       "img": "",
-      "text": "盖上锅盖，轻轻煮约 30 分钟，直至蔬菜变软。"
+      "text": "盖上盖子，轻轻煮约 30 分钟，直至蔬菜变软。"
     },
     {
       "step_index": 3,
@@ -56,8 +56,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/vegetable-soup-chicken-turkey-or-pork",
   "origin_url": "https://naldc.nal.usda.gov/catalog/5804388",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ed0e5ce164b46e66ac9189526411454e",
+    "translated": true
+  }
 }

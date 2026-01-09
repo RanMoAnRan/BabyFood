@@ -1,86 +1,91 @@
 {
   "id": "a1d5695e468a15a4fa1adf5e2914cea7",
-  "title": "Avocado Deviled Eggs",
+  "title": "牛油果魔鬼蛋",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/0a0c791d1222a09ec4e21cca7519cd33.webp",
-  "nutrition_tip": "These avocado deviled eggs are great as a snack or side.&nbsp;",
+  "nutrition_tip": "这些鳄梨芥末蛋非常适合作为零食或配菜。",
   "ingredients": [
     {
-      "name": "eggs",
-      "amount": "2 large"
+      "name": "鸡蛋",
+      "amount": "2 大"
     },
     {
-      "name": "avocados (peeled and pit removed)",
-      "amount": "1 / 4 large"
+      "name": "牛油果（去皮、去核）",
+      "amount": "1 / 4 大"
     },
     {
-      "name": "lemon juice (or vinegar (e.g. white distilled, apple cider), to taste)",
-      "amount": "1 teaspoon"
+      "name": "柠檬汁（或醋（例如白蒸馏酒、苹果酒），适量）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "olive oil (or avocado oil, as needed to adjust the consistency)",
-      "amount": "1 teaspoon"
+      "name": "橄榄油（或鳄梨油，根据需要调整稠度）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "salt ( to taste)",
-      "amount": "1 pinch"
+      "name": "盐（适量）",
+      "amount": "1 捏"
     },
     {
-      "name": "black pepper (to taste)",
-      "amount": "1 pinch"
+      "name": "黑胡椒（适量）",
+      "amount": "1 捏"
     },
     {
-      "name": "paprika (to taste)",
-      "amount": "1 pinch"
+      "name": "辣椒粉（适量）",
+      "amount": "1 捏"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "To hard-boil eggs, place in a medium to large saucepan and cover with water by about 1 inch. Bring the water to a boil, then turn off the heat and cover with a lid. Let sit for 12-13 minutes, then carefully transfer to ice water"
+      "text": "要煮鸡蛋，请将其放入中号至大号平底锅中，并用水覆盖约 1 英寸。将水煮沸，然后关掉火并盖上盖子。静置 12-13 分钟，然后小心地转移到冰水中"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Peel the hardboiled eggs, then slice in half lengthwise."
+      "text": "将煮熟的鸡蛋剥皮，然后纵向切成两半。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Remove the yolks from the egg halves and transfer to a small bowl. Mash into small pieces with a fork."
+      "text": "将蛋黄从半个鸡蛋中取出并转移到一个小碗中。用叉子捣碎成小块。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add the avocado, lemon juice or vinegar, oil, salt, and black pepper. Mash with the fork to combine, adding more lemon juice or vinegar and/or oil to adjust the flavor and consistency as desired."
+      "text": "添加鳄梨、柠檬汁或醋、油、盐和黑胡椒。用叉子捣碎混合，添加更多柠檬汁或醋和/或油以根据需要调整风味和稠度。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Using two spoons, one to scoop and one to scrape, divide the egg yolk-avocado mixture between the egg white halves (~1 tablespoon each)."
+      "text": "使用两把勺子，一把舀，一把刮，将蛋黄-鳄梨混合物分成两半蛋清（每半汤匙约 1 汤匙）。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Sprinkle the paprika over the tops of the filled eggs."
+      "text": "将辣椒粉撒在填满鸡蛋的顶部。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve right away, or chill before serving if desired."
+      "text": "立即食用，或者根据需要在食用前冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/avocado-deviled-eggs",
   "origin_url": "https://www.nutrition.va.gov/docs/Recipes/Breakfast/AvocadoDeviledEggsOCT2022.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "50522cd70213a91de6b788668fb41169",
+    "translated": true
+  }
 }

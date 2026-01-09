@@ -1,43 +1,44 @@
 {
   "id": "a663adfd77c4a9e34b477cdd37cfe7cc",
-  "title": "Fried Rice",
+  "title": "炒饭",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/0276922cbd2ef077bd06ae9bc4238dee.webp",
-  "nutrition_tip": "Make frozen veggies taste great with this easy&nbsp;Fried Rice recipe. Try pairi…",
+  "nutrition_tip": "用这个简单的炒饭食谱让冷冻蔬菜味道鲜美。尝试配对...",
   "ingredients": [
     {
-      "name": "canola oil",
-      "amount": "1 tablespoon"
+      "name": "菜籽油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "mixed vegetables (frozen)",
-      "amount": "3 cups"
+      "name": "混合蔬菜（冷冻）",
+      "amount": "3 杯"
     },
     {
-      "name": "brown rice (cooked)",
-      "amount": "2 cups"
+      "name": "糙米（煮熟）",
+      "amount": "2 杯"
     },
     {
-      "name": "soy sauce (less-sodium)",
-      "amount": "1 tablespoon"
+      "name": "酱油（低钠）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 5 / 8 teaspoons"
+      "name": "大蒜粉",
+      "amount": "1 5 / 8 茶匙"
     },
     {
-      "name": "onion powder",
-      "amount": "1 5 / 8 teaspoons"
+      "name": "洋葱粉",
+      "amount": "1 5 / 8 茶匙"
     },
     {
-      "name": "egg (beaten)",
+      "name": "鸡蛋（打散）",
       "amount": "3 / 8"
     }
   ],
@@ -45,33 +46,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oil in a skillet (or wok) on medium heat."
+      "text": "在平底锅（或炒锅）中用中火加热油。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add vegetables to skillet and cook until tender, stirring occasionally."
+      "text": "将蔬菜放入煎锅中，煮至变软，偶尔搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add rice, soy sauce, garlic powder, and onion powder to vegetables and mix well. Cook until rice is fully reheated."
+      "text": "将米饭、酱油、大蒜粉和洋葱粉加入蔬菜中，搅拌均匀。煮至米饭完全重新加热。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Push rice mixture to sides of pan, making a hole in the center. Pour egg into center of skillet and scramble, continuing to stir until almost done."
+      "text": "将米饭混合物推到锅的两侧，在中心打一个洞。将鸡蛋倒入煎锅中心并炒，继续搅拌直至几乎熟透。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Mix the egg through the rice mixture. Continue to stir mixture until the egg is fully cooked."
+      "text": "将鸡蛋与米饭混合物混合。继续搅拌混合物直至鸡蛋完全煮熟。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/fried-rice",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/fried-rice/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c2eb7740260eef16e3671c766b878bba",
+    "translated": true
+  }
 }

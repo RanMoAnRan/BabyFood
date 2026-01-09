@@ -1,9 +1,9 @@
 {
   "id": "78ecf10b2fe01cf779f4b1b164267a9e",
-  "title": "Healthy Carrot Cake Cookies",
+  "title": "健康胡萝卜蛋糕饼干",
   "min_age_month": 6,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "蔬菜",
     "谷物"
@@ -11,118 +11,123 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/537ed08b7d8fa75c3e4933bf763fa5d3.webp",
-  "nutrition_tip": "Share this healthy carrot cake cookie recipe with family and friends. Children l…",
+  "nutrition_tip": "与家人和朋友分享这个健康的胡萝卜蛋糕饼干食谱。孩子们…",
   "ingredients": [
     {
-      "name": "brown sugar (packed)",
-      "amount": "1 / 2 cup"
+      "name": "红糖（包装）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "sugar",
-      "amount": "1 / 2 cup"
+      "name": "糖",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "oil",
-      "amount": "1 / 2 cup"
+      "name": "石油",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "applesauce (or other fruit puree)",
-      "amount": "1 / 2 cup"
+      "name": "苹果酱（或其他水果泥）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "2"
     },
     {
-      "name": "vanilla",
-      "amount": "1 teaspoon"
+      "name": "香草",
+      "amount": "1 茶匙"
     },
     {
-      "name": "flour",
-      "amount": "1 cup"
+      "name": "面粉",
+      "amount": "1 杯"
     },
     {
-      "name": "whole wheat flour",
-      "amount": "1 cup"
+      "name": "全麦面粉",
+      "amount": "1 杯"
     },
     {
-      "name": "baking soda",
-      "amount": "1 teaspoon"
+      "name": "小苏打",
+      "amount": "1 茶匙"
     },
     {
-      "name": "baking powder",
-      "amount": "1 teaspoon"
+      "name": "泡打粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "cinnamon (ground)",
-      "amount": "1 teaspoon"
+      "name": "肉桂（磨碎）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "nutmeg (ground)",
-      "amount": "1 / 2 teaspoon"
+      "name": "肉豆蔻（磨碎）",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "ginger (ground)",
-      "amount": "1 teaspoon"
+      "name": "生姜（磨碎）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "rolled oats (old fashioned, raw)",
-      "amount": "2 cups"
+      "name": "燕麦片（老式，生）",
+      "amount": "2 杯"
     },
     {
-      "name": "carrots (finely grated, about 3 large)",
-      "amount": "5 1 / 2 cups"
+      "name": "胡萝卜（细碎，大约 3 个大）",
+      "amount": "5 1 / 2 杯"
     },
     {
-      "name": "raisins (or golden raisins)",
-      "amount": "1 cup"
+      "name": "葡萄干（或金色葡萄干）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oven to 350 degrees."
+      "text": "将烤箱加热至 350 度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a large bowl, mix sugars, oil, applesauce, eggs, and vanilla thoroughly."
+      "text": "在一个大碗中，将糖、油、苹果酱、鸡蛋和香草精充分混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "In a separate bowl, stir dry ingredients together."
+      "text": "在另一个碗中，将干成分搅拌在一起。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Blend dry ingredients into wet mixture. Stir in raisins and carrots."
+      "text": "将干成分混合成湿混合物。拌入葡萄干和胡萝卜。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Drop by teaspoonfuls on greased baking sheet."
+      "text": "将一茶匙滴在涂有油脂的烤盘上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake 12 to 15 minutes until golden brown."
+      "text": "烘烤 12 至 15 分钟直至金黄色。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Store in airtight container."
+      "text": "存放在密封容器中。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/healthy-carrot-cake-cookies",
   "origin_url": "https://foodhero.org/recipes/healthy-carrot-cake-cookies",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4365034ca13cf4f0c3313ea308ff4866",
+    "translated": true
+  }
 }

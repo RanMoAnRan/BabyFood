@@ -1,58 +1,63 @@
 {
   "id": "5279a847b24507fdbfc610dd0a0e56ce",
-  "title": "Pea Guacamole",
+  "title": "豌豆鳄梨酱",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/dc2acd68289915d40b2a00451ae40f64.webp",
-  "nutrition_tip": "Check out this tasty, bright, and satisfying guacamole that put the humble green…",
+  "nutrition_tip": "看看这个美味、明亮、令人满意的鳄梨酱，它把不起眼的绿色变成了......",
   "ingredients": [
     {
-      "name": "peas (frozen, thawed)",
-      "amount": "2 cups"
+      "name": "豌豆（冷冻、解冻）",
+      "amount": "2 杯"
     },
     {
-      "name": "lime juice",
-      "amount": "2 tablespoons"
+      "name": "酸橙汁",
+      "amount": "2 汤匙"
     },
     {
-      "name": "grape tomatoes (halved)",
-      "amount": "1 / 2 cup"
+      "name": "葡萄番茄（减半）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "red onion (chopped)",
-      "amount": "1 / 4 cup"
+      "name": "红洋葱（切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "green chiles (canned, drained, diced)",
-      "amount": "4 ounces"
+      "name": "青辣椒（罐装、沥干、切丁）",
+      "amount": "4 盎司"
     },
     {
-      "name": "cilantro (chopped)",
-      "amount": "3 tablespoons"
+      "name": "香菜（切碎）",
+      "amount": "3 汤匙"
     },
     {
-      "name": "garlic (fresh, minced)",
-      "amount": "1 clove"
+      "name": "大蒜（新鲜，切碎）",
+      "amount": "1 丁香"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "salt (to taste)",
+      "name": "盐（适量）",
       "amount": ""
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-08-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/pea-guacamole",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/pea-guacamole",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8543816b949d8b8f1232a0e539d37bce",
+    "translated": true
+  }
 }

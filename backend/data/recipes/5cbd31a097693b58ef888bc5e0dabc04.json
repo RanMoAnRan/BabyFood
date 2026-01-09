@@ -1,71 +1,76 @@
 {
   "id": "5cbd31a097693b58ef888bc5e0dabc04",
-  "title": "Turkey Ginger Rice Lettuce Wrap",
+  "title": "火鸡姜汁米饭生菜卷",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/4f368d807e462461687ff642caeaf712.webp",
-  "nutrition_tip": "This Turkey Ginger Rice&nbsp;Lettuce Wrap is a healthy and delicious low-carbohy…",
+  "nutrition_tip": "这款火鸡姜饭生菜卷是一种健康美味的低碳水化合物......",
   "ingredients": [
     {
-      "name": "soy sauce (reduced-sodium)",
-      "amount": "3 tablespoons"
+      "name": "酱油（低钠）",
+      "amount": "3 汤匙"
     },
     {
-      "name": "sugar (granulated or brown)",
-      "amount": "3 teaspoons"
+      "name": "糖（粒状或棕色）",
+      "amount": "3 茶匙"
     },
     {
-      "name": "sesame oil",
-      "amount": "2 teaspoons"
+      "name": "芝麻油",
+      "amount": "2 茶匙"
     },
     {
-      "name": "hot sauce",
-      "amount": "1 teaspoon"
+      "name": "辣酱",
+      "amount": "1 茶匙"
     },
     {
-      "name": "ground turkey (lean, 15% fat or less)",
-      "amount": "3 pounds"
+      "name": "碎火鸡（瘦肉，脂肪含量不超过 15%）",
+      "amount": "3 磅"
     },
     {
-      "name": "celery (stalks, sliced)",
+      "name": "芹菜（茎，切片）",
       "amount": "2"
     },
     {
-      "name": "carrots (shredded)",
-      "amount": "2 medium"
+      "name": "胡萝卜（切丝）",
+      "amount": "2 个中等"
     },
     {
-      "name": "ginger root (minced, or 3/4 teaspoon ground ginger)",
-      "amount": "1 tablespoon"
+      "name": "姜根（切碎，或 3/4 茶匙姜末）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "garlic powder (or 1 clove garlic, minced)",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉（或 1 瓣大蒜，切碎）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "water chestnuts (8 ounces, drained and chopped)",
-      "amount": "1 can"
+      "name": "荸荠（8 盎司，沥干并切碎）",
+      "amount": "1 罐"
     },
     {
-      "name": "brown rice (cooked)",
-      "amount": "2 cups"
+      "name": "糙米（煮熟）",
+      "amount": "2 杯"
     },
     {
-      "name": "lettuce leaves",
-      "amount": "8 large"
+      "name": "生菜叶",
+      "amount": "8 大"
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/turkey-ginger-rice-lettuce-wrap",
   "origin_url": "https://foodhero.org/recipes/turkey-ginger-rice-lettuce-wraps",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f92d45bb8f5235b5bb6dab254f08d571",
+    "translated": true
+  }
 }

@@ -1,58 +1,63 @@
 {
   "id": "04944b5327e290eea76bb159753ab02f",
-  "title": "Summer Breeze Smoothie",
+  "title": "夏日微风果昔",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ebcdabda94ab57be19164a393ee01402.webp",
-  "nutrition_tip": "Enjoy this cool fruity drink in the summer heat.",
+  "nutrition_tip": "在炎热的夏季享用这款清凉的果味饮料。",
   "ingredients": [
     {
-      "name": "yogurt (plain, nonfat)",
-      "amount": "1 cup"
+      "name": "酸奶（原味、脱脂）",
+      "amount": "1 杯"
     },
     {
-      "name": "strawberry",
-      "amount": "6 medium"
+      "name": "草莓",
+      "amount": "6 中"
     },
     {
-      "name": "pineapple (crushed, canned in juice)",
-      "amount": "1 cup"
+      "name": "菠萝（压碎，果汁罐头）",
+      "amount": "1 杯"
     },
     {
-      "name": "banana",
-      "amount": "1 medium"
+      "name": "香蕉",
+      "amount": "1 个中等"
     },
     {
-      "name": "vanilla",
-      "amount": "1 teaspoon"
+      "name": "香草",
+      "amount": "1 茶匙"
     },
     {
-      "name": "ice cube",
-      "amount": "4 medium"
+      "name": "冰块",
+      "amount": "4 个中等"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Place all ingredients in blender and puree until smooth."
+      "text": "将所有原料放入搅拌机中，打成泥，直至光滑。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Serve in frosted glass."
+      "text": "用磨砂玻璃盛装。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-05-31",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/summer-breeze-smoothie",
   "origin_url": "https://www.nhlbi.nih.gov/health/educational/wecan/eat-right/summer-breeze-smoothie.htm",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "45be98c5b29301197fcd1d25e1ddc2be",
+    "translated": true
+  }
 }

@@ -1,64 +1,70 @@
 {
   "id": "b72ddfc446941f0e9d42122477a501ae",
-  "title": "Griddle Fry Bread",
+  "title": "煎饼",
   "min_age_month": 12,
   "tags": [
     "早餐",
-    "正餐",
-    "点心",
+    "午餐",
+    "晚餐",
+    "小吃",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/edaf6e4cbfd4899b52fbb71b5248d791.webp",
-  "nutrition_tip": "This variation of a Navajo bread uses half whole wheat flour for added nutrition…",
+  "nutrition_tip": "这种纳瓦霍面包的变体使用一半全麦面粉来增加营养......",
   "ingredients": [
     {
-      "name": "flour (white)",
-      "amount": "1 1 / 2 cups"
+      "name": "面粉（白）",
+      "amount": "1 1 / 2 杯"
     },
     {
-      "name": "whole wheat flour",
-      "amount": "1 1 / 2 cups"
+      "name": "全麦面粉",
+      "amount": "1 1 / 2 杯"
     },
     {
-      "name": "baking powder",
-      "amount": "2 tablespoons"
+      "name": "泡打粉",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 pinch"
+      "name": "盐",
+      "amount": "1 捏"
     },
     {
-      "name": "water (warm)",
-      "amount": "1 1 / 2 cups"
+      "name": "水（温）",
+      "amount": "1 1 / 2 杯"
     },
     {
-      "name": "canola oil (plus extra for the pan)",
-      "amount": "1 / 4 cup"
+      "name": "菜籽油（加上平底锅的额外油）",
+      "amount": "1 / 4 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a large bowl, mix the flours, baking powder, and salt. Whisk together well (or use fork). Add warm water and oil and mix just until blended. If you like firmer bread mix on floured flat surface about 10 times."
+      "text": "在一个大碗中，混合面粉、泡打粉和盐。搅拌均匀（或使用叉子）。加入温水和油，搅拌直至混合。如果您喜欢较硬的面包，请在撒了面粉的平面上搅拌约 10 次。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Let it rest for a minute, and then spread out onto a lightly sprayed cookie sheet to 1 inch thickness. Poke holes in the dough using a fork."
+      "text": "让它休息一分钟，然后铺在轻轻喷涂的饼干片上，厚度为 1 英寸。用叉子在面团上戳洞。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Cook in a greased frying pan over medium heat, allowing about 15 minutes for each side. Use two lifters for easy turning."
+      "text": "在涂有油脂的煎锅中用中火烹饪，每面煎约 15 分钟。使用两个升降机可以轻松转动。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/griddle-fry-bread",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/griddle-fry-bread",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d00a4fec8359b8b224304f4522f0b84f",
+    "translated": true
+  }
 }

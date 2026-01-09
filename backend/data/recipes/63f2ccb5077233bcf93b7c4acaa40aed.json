@@ -1,9 +1,10 @@
 {
   "id": "63f2ccb5077233bcf93b7c4acaa40aed",
-  "title": "蘑菇牛肉马虎乔",
+  "title": "蘑菇牛肉汉堡",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "谷物"
@@ -11,7 +12,7 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/43a61d9fe67ad6ea86196431baa4009c.webp",
-  "nutrition_tip": "炒蘑菇时，切碎的蘑菇与碎肉无缝混合。交换或...",
+  "nutrition_tip": "切碎的蘑菇在炒时与碎肉无缝混合。交换或...",
   "ingredients": [
     {
       "name": "蘑菇（白色按钮）",
@@ -43,22 +44,22 @@
     },
     {
       "name": "辣椒粉",
-      "amount": "1汤匙"
+      "amount": "1 汤匙"
     },
     {
       "name": "红糖",
-      "amount": "3茶匙"
+      "amount": "3 茶匙"
     },
     {
-      "name": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "name": "苹果醋",
       "amount": "1 茶匙"
     },
     {
       "name": "黑胡椒（磨碎）",
-      "amount": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "汉堡面包（全麦）",
+      "name": "汉堡包（全麦）",
       "amount": "4"
     }
   ],
@@ -66,7 +67,7 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know."
+      "text": "将蘑菇切碎至与煮熟的碎牛肉近似的大小和质地。"
     },
     {
       "step_index": 2,
@@ -91,7 +92,7 @@
     {
       "step_index": 6,
       "img": "",
-      "text": "将洋葱和大蒜加入锅中； cook until golden."
+      "text": "将洋葱和大蒜加入锅中；煮至金黄色。"
     },
     {
       "step_index": 7,
@@ -106,8 +107,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-02-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/mushroom-beef-sloppy-joes",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/mushroom-beef-sloppy-joes",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e1fe38d8a08e9dd7f97ba4c289dda53f",
+    "translated": true
+  }
 }

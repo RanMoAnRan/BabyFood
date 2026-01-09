@@ -1,9 +1,9 @@
 {
   "id": "5daef42c640fa675e978b3d38b6b03ea",
-  "title": "Stir-Fry Noodles with Peanut Sauce",
+  "title": "花生酱炒面",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "谷物"
@@ -11,93 +11,98 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/1193eb98b2d47f93eda68a8a4a24930b.webp",
-  "nutrition_tip": "Enjoy the flavors of peanuts, chili pepper, and ginger in this stir-fry recipe.",
+  "nutrition_tip": "在这个炒菜食谱中享受花生、辣椒和生姜的味道。",
   "ingredients": [
     {
-      "name": "water",
-      "amount": "4 cups"
+      "name": "水",
+      "amount": "4 杯"
     },
     {
-      "name": "ramen-style noodles (3 ounces each)",
-      "amount": "2 packages"
+      "name": "拉面（每份 3 盎司）",
+      "amount": "2 包"
     },
     {
-      "name": "chicken breasts (boneless, skinless, cut in thin strips)",
+      "name": "鸡胸肉（去骨、去皮、切成细条）",
       "amount": "2"
     },
     {
-      "name": "peanut butter",
-      "amount": "1 / 4 cup"
+      "name": "花生酱",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "soy sauce",
-      "amount": "2 tablespoons"
+      "name": "酱油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "water",
-      "amount": "1 cup"
+      "name": "水",
+      "amount": "1 杯"
     },
     {
-      "name": "vegetable oil",
-      "amount": "1 tablespoon"
+      "name": "植物油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "red pepper flakes",
-      "amount": "1 teaspoon"
+      "name": "红辣椒片",
+      "amount": "1 茶匙"
     },
     {
-      "name": "fresh ginger (finely chopped [or 1/2 teaspoon ground ginger])",
-      "amount": "1 teaspoon"
+      "name": "新鲜姜（切碎[或 1/2 茶匙姜末]）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "carrots (thinly sliced, about 2 cups)",
+      "name": "胡萝卜（切成薄片，约2杯）",
       "amount": "2"
     },
     {
-      "name": "cabbage (large head, thinly sliced, about 6 cups)",
+      "name": "卷心菜（大头，薄片，约6杯）",
       "amount": "1"
     },
     {
-      "name": "green onions (thinly sliced)",
-      "amount": "1 cup"
+      "name": "大葱（切成薄片）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Bring 4 cups water to boil in a 2 to 3 quart saucepan. Add noodles, cover, and remove from heat (do not add flavor packets). Wait one minute, drain noodles and set aside."
+      "text": "将 4 杯水放入 2 至 3 夸脱的平底锅中煮沸。加入面条，盖上盖子，然后离火（不要添加调味包）。等一分钟，沥干面条，放在一边。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a small saucepan, combine peanut butter, soy sauce, and 1/2 cup water. Heat over low heat, stirring until smooth. Remove from heat."
+      "text": "在一个小平底锅中，混合花生酱、酱油和 1/2 杯水。小火加热，搅拌直至光滑。从火上移开。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat oil in a large skillet over medium-high heat (350 degrees in an electric skillet). Add chicken and cook until no longer pink when cut, about 3 to 5 minutes."
+      "text": "在大煎锅中用中高火加热油（电煎锅为 350 度）。加入鸡肉，煮约 3 至 5 分钟，直至切块时鸡肉不再呈粉红色。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add red pepper, ginger, and carrots and cook for 2 to 3 minutes. Add cabbage and cook 3 to 4 minutes or until cabbage is crisp-tender."
+      "text": "加入红辣椒、生姜和胡萝卜，煮 2 至 3 分钟。加入卷心菜，煮 3 至 4 分钟或直至卷心菜变脆。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Stir in green onions, cooked noodles and peanut sauce. Toss and serve immediately."
+      "text": "加入葱、煮熟的面条和花生酱。立即搅拌并食用。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/stir-fry-noodles-peanut-sauce",
   "origin_url": "https://foodhero.org/recipes/stir-fry-noodles-with-peanut-sauce",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "24394be531f4a63087b07b6b249617c8",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "66b9b8f5cc0d9e8bd16baf65108062b1",
-  "title": "Veggie Skillet Eggs",
+  "title": "蔬菜煎蛋",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -10,76 +10,81 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/0ac6f0698a641779c86acfb611b9bc7e.webp",
-  "nutrition_tip": "Quick and healthy breakfast packed with protein, veggies, and cheddar cheese.",
+  "nutrition_tip": "快速健康的早餐，富含蛋白质、蔬菜和切达干酪。",
   "ingredients": [
     {
-      "name": "eggs",
-      "amount": "6 large"
+      "name": "鸡蛋",
+      "amount": "6 大"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "oregano (or basil)",
-      "amount": "1 / 2 teaspoon"
+      "name": "牛至（或罗勒）",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "cheddar cheese (shredded)",
-      "amount": "1 / 3 cup"
+      "name": "切达干酪（切丝）",
+      "amount": "1 / 3 杯"
     },
     {
-      "name": "oil",
-      "amount": "2 teaspoons"
+      "name": "石油",
+      "amount": "2 茶匙"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 small"
+      "name": "洋葱（切碎）",
+      "amount": "1 个小"
     },
     {
-      "name": "garlic (chopped)",
-      "amount": "1 clove"
+      "name": "大蒜（切碎）",
+      "amount": "1 丁香"
     },
     {
-      "name": "mixed vegetables ( fresh, canned, or frozen )",
-      "amount": "2 cups"
+      "name": "混合蔬菜（新鲜、罐装或冷冻）",
+      "amount": "2 杯"
     },
     {
-      "name": "tomato (sliced)",
-      "amount": "1 medium"
+      "name": "番茄（切片）",
+      "amount": "1 个中等"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Beat eggs with pepper, oregano or basil, and cheese in a medium bowl."
+      "text": "将鸡蛋与胡椒、牛至或罗勒以及奶酪放入一个中等大小的碗中搅拌。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat oil in a medium skillet. Add onion, garlic, and other vegetables and cook on medium (300 degrees F in an electric skillet) until soft."
+      "text": "在中型煎锅中加热油。加入洋葱、大蒜和其他蔬菜，用中火（电煎锅中 300 华氏度）煮至软。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour egg mixture over vegetables. With knife or spatula, lift outer edges of eggs so egg mixture flows to the bottom of the pan."
+      "text": "将鸡蛋混合物倒在蔬菜上。用刀或抹刀提起鸡蛋的外边缘，使鸡蛋混合物流到锅底。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cook until eggs are set, about 6 minutes. Top with tomato slices."
+      "text": "煮至鸡蛋凝固，大约需要 6 分钟。上面放上番茄片。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Cut into 8 wedges; serve hot."
+      "text": "切成8块；趁热上桌。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/veggie-skillet-eggs",
   "origin_url": "https://foodhero.org/recipes/veggie-skillet-eggs",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0f2e1df6f6af01a991102c2d1b244e39",
+    "translated": true
+  }
 }

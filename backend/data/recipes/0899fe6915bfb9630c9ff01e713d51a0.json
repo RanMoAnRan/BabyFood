@@ -1,18 +1,18 @@
 {
   "id": "0899fe6915bfb9630c9ff01e713d51a0",
-  "title": "Banana Ice Cream",
+  "title": "香蕉冰淇淋",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/f8fa77290022a88554bb6dfaa831bd88.webp",
-  "nutrition_tip": "This frozen treat uses only one simple and cost-friendly ingredient: bananas.",
+  "nutrition_tip": "这种冷冻食品仅使用一种简单且成本低廉的成分：香蕉。",
   "ingredients": [
     {
-      "name": "bananas",
+      "name": "香蕉",
       "amount": "6"
     }
   ],
@@ -20,28 +20,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Peel bananas and put in freezer."
+      "text": "将香蕉去皮并放入冰箱。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Wait for bananas to freeze (three hours or more) then remove."
+      "text": "等待香蕉冻结（三个小时或更长时间），然后取出。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place bananas in food processor for about five minutes."
+      "text": "将香蕉放入食品加工机中约五分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Take out of processor and enjoy."
+      "text": "从处理器中取出并享受。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/banana-ice-cream",
   "origin_url": "https://reallifegoodfood.umn.edu/snacks-and-sweets/banana-ice-cream",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "125fd590c0b7a990cfff771a69e33517",
+    "translated": true
+  }
 }

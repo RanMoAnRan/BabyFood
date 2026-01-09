@@ -1,6 +1,6 @@
 {
   "id": "376b568c52c43425dd5500dca8c5f72e",
-  "title": "Broccoli-Cheddar Frittata",
+  "title": "西兰花切达干酪煎蛋饼",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -11,75 +11,80 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/45d65ead775c797e91fe1a4edf6675ec.webp",
-  "nutrition_tip": "Prep and cook in about 30 minutes makes this frittata an easy breakfast for both…",
+  "nutrition_tip": "准备和烹饪大约需要 30 分钟，这使得这个菜肉馅煎蛋饼成为了一份简单的早餐......",
   "ingredients": [
     {
-      "name": "broccoli (frozen, chopped)",
-      "amount": "10 ounces"
+      "name": "西兰花（冷冻，切碎）",
+      "amount": "10 盎司"
     },
     {
-      "name": "water",
+      "name": "水",
       "amount": ""
     },
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "8"
     },
     {
-      "name": "milk (nonfat or low-fat)",
+      "name": "牛奶（脱脂或低脂）",
       "amount": ""
     },
     {
-      "name": "mustard",
-      "amount": "2 teaspoons"
+      "name": "芥末",
+      "amount": "2 茶匙"
     },
     {
-      "name": "seasoned salt",
-      "amount": "1 teaspoon"
+      "name": "调味盐",
+      "amount": "1 茶匙"
     },
     {
-      "name": "pepper",
+      "name": "胡椒",
       "amount": ""
     },
     {
-      "name": "cheddar cheese (shredded, reduced-fat)",
-      "amount": "3 cups"
+      "name": "切达干酪（切丝，低脂）",
+      "amount": "3 杯"
     },
     {
-      "name": "green onions (chopped)",
-      "amount": "1 tablespoon"
+      "name": "葱（切碎）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "carrots (diced)",
-      "amount": "1 small"
+      "name": "胡萝卜（切丁）",
+      "amount": "1 个小"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine broccoli, carrot, if desired, and water in 10-inch nonstick skillet. Cook over medium heat until tender, stirring occasionally to break up broccoli, about 10 minutes; drain well."
+      "text": "将西兰花、胡萝卜（如果需要）和水放入 10 英寸不粘锅中。用中火煮约10分钟，直至西兰花变软，偶尔搅拌以打碎西兰花；排水良好。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat eggs, milk, mustard, salt and pepper in large bowl until blended. Add broccoli mixture, cheese and green onion; mix well."
+      "text": "在大碗中搅拌鸡蛋、牛奶、芥末、盐和胡椒直至混合。加入西兰花混合物、奶酪和葱；搅拌均匀。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Coat same skillet with cooking spray; heat over medium heat until eggs are almost set, 8 to 10 minutes."
+      "text": "在同一个煎锅上涂上烹饪喷雾；用中火加热8到10分钟，直到鸡蛋几乎凝固。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Remove from heat. Cover and let stand until eggs are completely set and no visible liquid egg remains, 8 to 10 minutes. Cut into wedges."
+      "text": "远离火源。盖上盖子，静置 8 到 10 分钟，直至鸡蛋完全凝固并且没有可见的液体鸡蛋残留。切成楔形。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-01-18",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/broccoli-cheddar-frittata",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/broccoli-cheddar-frittata",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b7ecb4e85bcd5256a371c97f3a9a7213",
+    "translated": true
+  }
 }

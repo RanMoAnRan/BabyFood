@@ -1,6 +1,6 @@
 {
   "id": "dcf40fa3d4f6cc884bcfc6edea1a0e9a",
-  "title": "Strawberry Mango Feta Toast",
+  "title": "草莓芒果费塔芝士吐司",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -11,68 +11,73 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/9e834feaf2b0fc696eb94093783b7885.webp",
-  "nutrition_tip": "Diced strawberries, mango, and fat-free feta cheese provide the perfect balance…",
+  "nutrition_tip": "草莓丁、芒果和脱脂羊奶酪提供了完美的平衡……",
   "ingredients": [
     {
-      "name": "mango (ripe, divided)",
-      "amount": "1 medium"
+      "name": "芒果（成熟，分开）",
+      "amount": "1 个中等"
     },
     {
-      "name": "strawberries (divided)",
-      "amount": "2 cups"
+      "name": "草莓（分次使用）",
+      "amount": "2 杯"
     },
     {
-      "name": "Feta cheese (fat-free, crumbles)",
-      "amount": "1 / 2 cup"
+      "name": "羊奶酪（脱脂，碎）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "balsamic vinegar",
-      "amount": "2 tablespoons"
+      "name": "香醋",
+      "amount": "2 汤匙"
     },
     {
-      "name": "basil (leave, plus 2 tablespoons for topping)",
-      "amount": "1 cup"
+      "name": "罗勒（留下，加 2 汤匙作为配料）",
+      "amount": "1 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons"
+      "name": "橄榄油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "whole wheat bread",
-      "amount": "4 slices"
+      "name": "全麦面包",
+      "amount": "4 片"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Peel and pit mango. Dice 3/4 of mango and 3/4 of strawberries; place in large bowl with feta cheese. Put remaining fruit, 1/4 cup basil, vinegar, and oil in a blender and blend."
+      "text": "芒果去皮去核。 3/4 芒果、3/4 草莓切丁；放入装有羊奶酪的大碗中。将剩余的水果、1/4 杯罗勒、醋和油放入搅拌机中搅拌。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Pour blended vinaigrette over fruit-feta mix and toss gently."
+      "text": "将混合油醋汁倒在水果羊乳酪混合物上，轻轻搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Chop remaining basil leaves."
+      "text": "切碎剩余的罗勒叶。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Toast bread slices and cut each slice diagonally."
+      "text": "烤面包片并将每片对角切开。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Top toast points with dressed fruit-feta mix and chopped basil."
+      "text": "在吐司上撒上水果羊乳酪混合物和切碎的罗勒。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-04-26",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/strawberry-mango-feta-toast",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/strawberry-mango-feta-toast-points",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2a7706cbfccf2612e7861be359f45a72",
+    "translated": true
+  }
 }

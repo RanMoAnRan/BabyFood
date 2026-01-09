@@ -1,9 +1,9 @@
 {
   "id": "c47c67a4d75d4a8e2dbe55ca7fe0ba8d",
-  "title": "Pupusas Revueltas (Salvadoran-Style Stuffed Masa Cakes)",
+  "title": "萨尔瓦多混合馅饼",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "谷物"
@@ -11,95 +11,100 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/4a2a402e8771d546bfc5d106487032e3.webp",
-  "nutrition_tip": "This tasty Salvadoran dish is often paired with a traditional cabbage salad call…",
+  "nutrition_tip": "这道美味的萨尔瓦多菜肴通常与传统的卷心菜沙拉搭配……",
   "ingredients": [
     {
-      "name": "ground chicken breast",
-      "amount": "1 pound"
+      "name": "碎鸡胸肉",
+      "amount": "1 磅"
     },
     {
-      "name": "vegetable oil",
-      "amount": "1 tablespoon"
+      "name": "植物油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "onion (finely diced)",
-      "amount": "1 / 2 small"
+      "name": "洋葱（切细丁）",
+      "amount": "1 / 2 小"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "1 clove"
+      "name": "大蒜（切碎）",
+      "amount": "1 丁香"
     },
     {
-      "name": "bell pepper (green, seeded and minced)",
-      "amount": "1 medium"
+      "name": "灯笼椒（绿色，去籽，切碎）",
+      "amount": "1 个中等"
     },
     {
-      "name": "tomato (finely chopped)",
-      "amount": "1 small"
+      "name": "番茄（切碎）",
+      "amount": "1 个小"
     },
     {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "盐",
+      "amount": "1 茶匙"
     },
     {
-      "name": "corn flour (instant [masa harina])",
-      "amount": "5 cups"
+      "name": "玉米粉（速溶 [masa harina]）",
+      "amount": "5 杯"
     },
     {
-      "name": "water",
-      "amount": "6 cups"
+      "name": "水",
+      "amount": "6 杯"
     },
     {
-      "name": "mozzarella cheese (low-fat, grated)",
-      "amount": "1 / 2 pound"
+      "name": "马苏里拉奶酪（低脂，磨碎）",
+      "amount": "1 / 2 磅"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oil in a large nonstick pan. Add chicken, and sauté until chicken turns white. Constantly stir the chicken to make sure it is evenly cooked."
+      "text": "在一个大的不粘锅中加热油。加入鸡肉，炒至鸡肉变白。不断搅拌鸡肉，确保受热均匀。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add onion, garlic, green pepper, tomato, and salt, and mix well. Cook over medium heat until the mixture is cooked through (to a minimum internal temperature of 165°F). Remove the pan from the stove. Put the mixture in a bowl and cool in the refrigerator."
+      "text": "加入洋葱、大蒜、青椒、番茄和盐，搅拌均匀。用中火煮直至混合物煮熟（最低内部温度为 165°F）。从炉子上取下锅。将混合物放入碗中并放入冰箱中冷却。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "While the chicken mixture is cooling, place the corn flour in a large mixing bowl and gradually stir in enough water to make a stiff tortilla-like dough."
+      "text": "当鸡肉混合物冷却时，将玉米粉放入一个大搅拌碗中，逐渐加入足够的水，制成坚​​硬的玉米饼状面团。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "When the chicken mixture has cooled, mix in the cheese."
+      "text": "当鸡肉混合物冷却后，加入奶酪。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Divide the dough into 24 portions. With your hands, roll the dough into balls. Press a hole in each ball with your thumb."
+      "text": "将面团分成24份。用手将面团揉成球状。用拇指在每个球上按一个洞。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Put about a tablespoon of the chicken mixture into the hole formed in each ball. Fold the dough over to completely enclose it. Press the ball out with your palms to form a disk."
+      "text": "将大约一汤匙鸡肉混合物放入每个球上形成的孔中。将面团折叠起来，将其完全包住。用手掌将球压出，形成圆盘。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "In a very hot iron skillet, cook the pupusas on each side until golden brown."
+      "text": "在一个非常热的铁锅中，将 pupusas 两面煎至金黄色。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Serve hot with Encurtido Salvadoreño ."
+      "text": "与 Encurtido Salvadoreño 一起趁热享用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/pupusas-revueltas-salvadoran-style-stuffed-masa-cakes",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=0&amp;rId=176",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e9f2dbf41fdf9e32a48cbc65ed5d8710",
+    "translated": true
+  }
 }

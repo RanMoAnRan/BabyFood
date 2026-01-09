@@ -15,9 +15,9 @@ SEARCH_URL = f"{BASE}/recipes/search"
 
 MEAL_MAP = {
     "Breakfast": "早餐",
-    "Lunch": "正餐",
-    "Dinner": "正餐",
-    "Snack": "点心",
+    "Lunch": "午餐",
+    "Dinner": "晚餐",
+    "Snack": "小吃",
 }
 
 TAG_MAP = {

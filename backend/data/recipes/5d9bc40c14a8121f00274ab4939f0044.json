@@ -1,103 +1,108 @@
 {
   "id": "5d9bc40c14a8121f00274ab4939f0044",
-  "title": "Red Pepper Spread",
+  "title": "红椒酱",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/2ca0556c9d602826d5d8e166ab921354.webp",
-  "nutrition_tip": "This savory spread highlights summer’s bounty of eggplant and red peppers. Perfe…",
+  "nutrition_tip": "这种美味的酱凸显了夏天丰富的茄子和红辣椒。完美…",
   "ingredients": [
     {
-      "name": "eggplant (peeled and diced, 1/2 inch pieces [about 1 medium eggplant])",
-      "amount": "2 cups"
+      "name": "茄子（去皮并切丁，1/2 英寸的块 [约 1 个中等大小的茄子]）",
+      "amount": "2 杯"
     },
     {
-      "name": "onion (white, diced, 1/2 inch pieces [about 1 small onion])",
-      "amount": "1 cup"
+      "name": "洋葱（白色，切丁，1/2 英寸块 [约 1 个小洋葱]）",
+      "amount": "1 杯"
     },
     {
-      "name": "bell pepper (red, diced, 1/2 inch pieces [about 4 large peppers])",
-      "amount": "4 cups"
+      "name": "灯笼椒（红色，切丁，1/2 英寸块 [约 4 个大辣椒]）",
+      "amount": "4 杯"
     },
     {
-      "name": "garlic (peeled and crushed)",
-      "amount": "8 cloves"
+      "name": "大蒜（去皮并压碎）",
+      "amount": "8 丁香"
     },
     {
-      "name": "olive oil",
-      "amount": "4 tablespoons"
+      "name": "橄榄油",
+      "amount": "4 汤匙"
     },
     {
-      "name": "balsamic vinegar",
-      "amount": "2 tablespoons"
+      "name": "香醋",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 1 / 4 teaspoons"
+      "name": "盐",
+      "amount": "1 1 / 4 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "smoked paprika (sweet paprika can be substituted)",
-      "amount": "1 tablespoon"
+      "name": "烟熏辣椒粉（可以用甜辣椒粉代替）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "sugar (white)",
-      "amount": "2 tablespoons"
+      "name": "糖（白）",
+      "amount": "2 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Pre-heat oven to 350°F. Peel and dice the eggplant, onions and red peppers. Crush garlic with garlic press or back of a knife."
+      "text": "将烤箱预热至 350°F。将茄子、洋葱和红辣椒去皮并切丁。用压蒜器或刀背压碎大蒜。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a medium colander, add eggplant and mix with ¼ tsp. of salt (Reserve the remaining 1 tsp. for later in the recipe). Place the colander in the sink or over a bowl, as the salt will cause the eggplant to release water. Let eggplant sit for 15 minutes."
+      "text": "在一个中等漏勺中，加入茄子并与 1/4 茶匙混合。盐（保留剩余的 1 茶匙，以供稍后在食谱中使用）。将滤锅放入水槽或碗上方，因为盐会导致茄子释放水分。让茄子静置 15 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Line a plate with paper towels. Remove eggplant from colander and place on plate. Pat eggplant dry with towels."
+      "text": "在盘子上铺上纸巾。将茄子从滤锅中取出并放在盘子上。用毛巾将茄子拍干。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "In a large bowl, add eggplant, onions, red peppers, and garlic. In the same bowl add, balsamic vinegar, 2 Tbsp. of olive oil (reserve the remaining 2 Tbsp.), 1 tsp. salt, black pepper, sugar and paprika. Mix until the vegetables are coated evenly."
+      "text": "在一个大碗中，加入茄子、洋葱、红辣椒和大蒜。在同一个碗中加入 2 汤匙香醋。橄榄油（保留剩余的 2 汤匙）、1 茶匙。盐、黑胡椒、糖和辣椒粉。搅拌直至蔬菜均匀地涂上一层。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "On a medium baking tray or roasting pan, spread vegetable mixture evenly and place into a 350°F oven."
+      "text": "在中型烤盘或烤盘上，均匀地铺上蔬菜混合物，然后放入 350°F 的烤箱中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Roast vegetables for 10 minutes, remove and mix vegetables thoroughly. Then place the vegetables back in the oven another for 15 minutes or until they are cooked through and begin to brown on the edges."
+      "text": "将蔬菜烤 10 分钟，取出并充分混合。然后将蔬菜放回烤箱中，再烤 15 分钟，或直至蔬菜完全煮熟并边缘开始变成棕色。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Place cooked vegetables in a food processor or blender. Slowly add the remaining 2 Tbsp. of olive oil while you are pureeing the mixture. Once done, the final consistency should be smooth and spreadable."
+      "text": "将煮熟的蔬菜放入食品加工机或搅拌机中。慢慢添加剩余的 2 汤匙。将混合物制成泥状时加入橄榄油。完成后，最终的稠度应该是光滑且可涂抹的。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Use spread for dipping any of your favorite vegetables, tortilla chips or pita bread. This spread is designed to pair perfectly with our Moroccan Spiced Turkey Burger. Enjoy!"
+      "text": "使用涂抹酱来蘸取您最喜欢的蔬菜、玉米片或皮塔面包。这种涂抹酱旨在与我们的摩洛哥五香火鸡汉堡完美搭配。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/red-pepper-spread",
   "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/Red%20Pepper%20Spread.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "96b62bb8e25fef0fa8e2ddf4b84a708e",
+    "translated": true
+  }
 }

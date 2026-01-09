@@ -1,78 +1,83 @@
 {
   "id": "6a5b0fffcafddf3cfbe1162b078c07cd",
-  "title": "Roasted Brussels Sprouts",
+  "title": "烤抱子甘蓝",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/5bf628a72c0a89399daac068903555d0.webp",
-  "nutrition_tip": "Roasting Brussels sprouts creates a warm, flavorful, and versatile vegetable dis…",
+  "nutrition_tip": "烤球芽甘蓝创造出一种温暖、可口、多功能的蔬菜菜肴……",
   "ingredients": [
     {
-      "name": "Brussels sprouts",
-      "amount": "6 cups"
+      "name": "球芽甘蓝",
+      "amount": "6 杯"
     },
     {
-      "name": "vegetable oil",
-      "amount": "1 tablespoon"
+      "name": "植物油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 8 teaspoon"
+      "name": "盐",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 teaspoon"
+      "name": "柠檬汁",
+      "amount": "1 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat oven to 400 degrees F."
+      "text": "将烤箱预热至 400 华氏度。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Wash and trim Brussels sprouts. Cut large Brussels sprouts in half from top to bottom; leave small Brussels sprouts whole."
+      "text": "清洗并修剪抱子甘蓝。将大球芽甘蓝从上到下切成两半；将小抱子甘蓝保留完整。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "In a large bowl, toss Brussels sprouts with the oil, salt, and pepper."
+      "text": "在一个大碗中，将球芽甘蓝与油、盐和胡椒粉一起搅拌。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Place Brussels sprouts in a single layer on a large baking sheet. Lining the baking sheet with foil or baking parchment will help with clean-up."
+      "text": "将球芽甘蓝单层放在大烤盘上。在烤盘上铺上箔纸或烤羊皮纸将有助于清理。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Roast for 20 to 30 minutes, stirring once after 10 to 15 minutes. Sprouts should be tender and browned."
+      "text": "烤20至30分钟，10至15分钟后搅拌一次。豆芽应该是嫩的并且呈棕色。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Remove from oven and drizzle with lemon juice."
+      "text": "从烤箱中取出，淋上柠檬汁。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/roasted-brussels-sprouts",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/roasted-brussels-sprouts",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fa0bd05178a0351ed826cad3e72d0a40",
+    "translated": true
+  }
 }

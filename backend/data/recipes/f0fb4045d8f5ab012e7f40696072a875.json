@@ -1,51 +1,56 @@
 {
   "id": "f0fb4045d8f5ab012e7f40696072a875",
-  "title": "Pineapple Frozen Fruit Pops",
+  "title": "菠萝冰棍",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/b360485872d95e7b86ca3b6625399699.webp",
-  "nutrition_tip": "These frozen fruit pops contain fruit, juice, and low-fat yogurt to create a ref…",
+  "nutrition_tip": "这些冷冻水果汽水含有水果、果汁和低脂酸奶，可以作为参考……",
   "ingredients": [
     {
-      "name": "pineapple (crushed)",
-      "amount": "1 cup"
+      "name": "菠萝（压碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "yogurt (low-fat, fruit flavored)",
-      "amount": "1 cup"
+      "name": "酸奶（低脂、水果味）",
+      "amount": "1 杯"
     },
     {
-      "name": "orange juice (frozen, concentrate (thawed))",
-      "amount": "6 ounces"
+      "name": "橙汁（冷冻、浓缩（解冻））",
+      "amount": "6 盎司"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Mix the ingredients in a medium-size bowl. Divide into 4 paper cups."
+      "text": "将原料混合在一个中等大小的碗中。分成4个纸杯。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Freeze until slushy - about 60 minutes. Insert a wooden stick half way through the center of each fruit pop."
+      "text": "冷冻至泥状 - 大约 60 分钟。在每个水果棒的中心插入一根木棍。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Freeze until hard or at least 4 hours. Peel away the paper cup before you eat the fruit pop."
+      "text": "冷冻直至变硬或至少 4 小时。吃水果汽水之前，请剥掉纸杯。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-06-20",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/pineapple-frozen-fruit-pops",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/frozen-fruit-pops",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2059d96db5332f2a14d3cac245b28249",
+    "translated": true
+  }
 }

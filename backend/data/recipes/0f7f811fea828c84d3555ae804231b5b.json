@@ -1,89 +1,94 @@
 {
   "id": "0f7f811fea828c84d3555ae804231b5b",
-  "title": "Homemade Ricotta Cheese",
+  "title": "自制乳清干酪",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/f14d41ffa617dc2101639f12f411d0fa.webp",
-  "nutrition_tip": "This fresh cheese is incredibly simple to make! Kids will get a kick out of this…",
+  "nutrition_tip": "这种新鲜奶酪的制作非常简单！孩子们会从中得到乐趣……",
   "ingredients": [
     {
-      "name": "milk (whole, unflavored)",
-      "amount": "1 gallon"
+      "name": "牛奶（全脂，无味）",
+      "amount": "1 加仑"
     },
     {
-      "name": "lemon juice (or white distilled vinegar )",
-      "amount": "6 tablespoons"
+      "name": "柠檬汁（或白蒸馏醋）",
+      "amount": "6 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "盐",
+      "amount": "1 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 2 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 2 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Over medium-high heat, gradually warm up milk to 180-185 degrees Fahrenheit. This will take 15-20 minutes with almost constant stirring."
+      "text": "用中高温，将牛奶逐渐加热至 180-185 华氏度。这将需要 15-20 分钟，并且几乎不断搅拌。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Milk burns easily, so use a wooden spoon or plastic spatula to frequently stir the milk."
+      "text": "牛奶很容易烧焦，因此请使用木勺或塑料抹刀经常搅拌牛奶。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "While the milk is heating, prepare a fine strainer over a bowl. If you have cheesecloth, use this in addition to the strainer."
+      "text": "加热牛奶时，在碗上准备一个细滤器。如果您有粗棉布，除了过滤器之外还可以使用它。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "When the milk reaches 180, reduce heat to low and stir in lemon juice or vinegar."
+      "text": "当牛奶达到 180 时，将火调小并加入柠檬汁或醋。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Stir for 2 minutes. You will see the curds (solids) separate from the whey (liquids)."
+      "text": "搅拌 2 分钟。您将看到凝乳（固体）与乳清（液体）分离。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Turn off heat and leave pot undisturbed for 20 minutes. After 20 minutes, you will see that most of the curds have floated to the top."
+      "text": "关掉火，让锅静置 20 分钟。 20分钟后，你会看到大部分凝乳都浮到了上面。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "With a ladle, spoon curds into strainer set over bowl until nothing remains in the pot."
+      "text": "用勺子将凝乳舀入碗上的过滤器中，直到锅中没有残留。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Stir curds until almost all the whey has strained through into the bowl. You will want to leave enough liquid to keep the ricotta moist, but you can always stir in a few tablespoons of milk or cream if the curds look too dry."
+      "text": "搅拌凝乳，直到几乎所有乳清都滤入碗中。您需要留下足够的液体以保持乳清干酪湿润，但如果凝乳看起来太干，您可以随时搅拌几汤匙牛奶或奶油。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Season with salt and pepper, or leave plain."
+      "text": "用盐和胡椒调味，或者保持原味。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Allow ricotta to cool to room temperature before putting in airtight container and refrigerating. Lasts up to a week in the fridge."
+      "text": "将乳清干酪冷却至室温，然后放入密封容器并冷藏。在冰箱中可保存长达一周。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-05-31",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-ricotta-cheese",
   "origin_url": "https://www.maine.gov/doe/schools/nutrition/programs/culinary/recipesandphotos",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0e48e4051bb7c0c00fd7bea19502b92e",
+    "translated": true
+  }
 }

@@ -1,10 +1,10 @@
 {
   "id": "63bdb75e7d1df2779000ecc6df7cc8cf",
-  "title": "Baked Carrot Fries With Yogurt-Sunflower Seed Butter Dip",
+  "title": "烤胡萝卜条配酸奶瓜子酱",
   "min_age_month": 8,
   "tags": [
-    "正餐",
-    "点心",
+    "午餐",
+    "小吃",
     "蔬菜",
     "蛋白质",
     "乳制品"
@@ -12,34 +12,39 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/691637f8a7650358416b29c72b049839.webp",
-  "nutrition_tip": "Give your baby carrots a makeover. Serve these&nbsp;baked carrots with a tasty d…",
+  "nutrition_tip": "给你的小胡萝卜换个造型。将这些烤胡萝卜与美味的食物一起上桌……",
   "ingredients": [
     {
-      "name": "Greek yogurt (non-fat, plain; or 1 1/2 cups + 2 tablespoons)",
-      "amount": "1 5 / 8 cups"
+      "name": "希腊酸奶（脱脂、原味；或 1 1/2 杯 + 2 汤匙）",
+      "amount": "1 5 / 8 杯"
     },
     {
-      "name": "sunflower seed butter (or 1/4 cup + 2 tablespoons)",
-      "amount": "3 / 8 cup"
+      "name": "葵花籽黄油（或 1/4 杯 + 2 汤匙）",
+      "amount": "3 / 8 杯"
     },
     {
-      "name": "baby carrots (fresh; or 1 pound 10 ounces)",
-      "amount": "6 cups"
+      "name": "小胡萝卜（新鲜；或 1 磅 10 盎司）",
+      "amount": "6 杯"
     },
     {
-      "name": "salt (table)",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐（餐桌）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "canola oil",
-      "amount": "2 1 / 4 teaspoons"
+      "name": "菜籽油",
+      "amount": "2 1 / 4 茶匙"
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/baked-carrot-fries-yogurt-sunflower-seed-butter-dip",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ccd405107b586797cf16f2c73acc3b17",
+    "translated": true
+  }
 }

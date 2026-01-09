@@ -1,9 +1,10 @@
 {
   "id": "a88fccf3bc50b148c6ae8d7405b19be8",
-  "title": "Beyond Basic Grilled Cheese",
+  "title": "升级版烤芝士",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "乳制品",
     "谷物"
@@ -11,57 +12,62 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/ce041f656132bb9577738f4b2ce702ff.webp",
-  "nutrition_tip": "Elevate this classic favorite from ordinary to extraordinary using different che…",
+  "nutrition_tip": "使用不同的方法将这个经典的最爱从普通提升到非凡......",
   "ingredients": [
     {
-      "name": "whole wheat bread",
-      "amount": "2 slices"
+      "name": "全麦面包",
+      "amount": "2 片"
     },
     {
-      "name": "cheese (grated, try Munster, Monterey jack or mozzarella))",
-      "amount": "1 cup"
+      "name": "奶酪（磨碎，尝试明斯特奶酪、蒙特利杰克奶酪或马苏里拉奶酪））",
+      "amount": "1 杯"
     },
     {
-      "name": "broccoli (or cauliflower, roasted, cut into small pieces or use fresh veggies of your choice))",
-      "amount": "1 / 2 cup"
+      "name": "西兰花（或花椰菜，烤，切成小块或使用您选择的新鲜蔬菜））",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat the pan on medium. Spray the pan with a thin coat of the oil/oil spray if needed."
+      "text": "用中火加热平底锅。如果需要，在平底锅上喷上一层薄薄的油/油喷雾。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Lay one slice of bread in the pan."
+      "text": "将一片面包放入锅中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Spoon the harissa (or other savory spread) on one slice, and spread it out evenly."
+      "text": "将哈里萨辣酱（或其他美味酱）舀到一片上，然后均匀地铺开。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add half of the grated cheese, spreading it out evenly."
+      "text": "加入一半磨碎的奶酪，均匀地铺开。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add the vegetables and top with the remaining cheese, being sure to cover the vegetables."
+      "text": "添加蔬菜，并在上面放上剩余的奶酪，确保覆盖蔬菜。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Grill the sandwich three minutes on each side or until the slices have browned to perfection. Slice the sandwich on a diagonal and enjoy with a side salad, veggie soup, and/or seasonal fruit."
+      "text": "将三明治每面烤三分钟，或直到切片变成完美的棕色。将三明治沿对角线切成薄片，搭配沙拉、蔬菜汤和/或时令水果享用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-03-31",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/beyond-basic-grilled-cheese",
   "origin_url": "https://wicworks.fns.usda.gov/recipe/beyond-basic-grilled-cheese",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c16fd2d038abb20fd08c60d8d5fd2159",
+    "translated": true
+  }
 }

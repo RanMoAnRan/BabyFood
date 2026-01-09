@@ -1,6 +1,6 @@
 {
   "id": "d9d35acb9a9d672a90e15c36d1ca413c",
-  "title": "Berry Bread Pudding",
+  "title": "浆果面包布丁",
   "min_age_month": 8,
   "tags": [
     "早餐",
@@ -10,22 +10,22 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/3492fc0d19a2c662ce4f7cca7083dce7.webp",
-  "nutrition_tip": "This no-cook variation of bread pudding, uses bread, berries, yogurt, and time t…",
+  "nutrition_tip": "这种无需烹饪的面包布丁，使用面包、浆果、酸奶和时间……",
   "ingredients": [
     {
-      "name": "berries ((unsweetened frozen blueberries, sliced strawberries, or raspberries), thawed)",
-      "amount": "1 1 / 2 cups"
+      "name": "浆果（（不加糖的冷冻蓝莓、切片草莓或覆盆子），解冻）",
+      "amount": "1 1 / 2 杯"
     },
     {
-      "name": "whole wheat bread (crust removed)",
-      "amount": "5 slices"
+      "name": "全麦面包（去皮）",
+      "amount": "5 片"
     },
     {
-      "name": "powdered sugar (optional)",
-      "amount": "1 / 2 teaspoon"
+      "name": "糖粉（可选）",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "yogurt (vanilla, low-fat, optional)",
+      "name": "酸奶（香草、低脂、可选）",
       "amount": ""
     }
   ],
@@ -33,33 +33,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine the thawed berries and sugar (if you choose to use the sugar)."
+      "text": "将解冻的浆果和糖混合（如果您选择使用糖）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Layer a spoonful of berries on the bottom of a small 2 cup deep dish. Cover the berries and the bottom of the dish with a layer of bread. Continue layering berries and bread until the dish is full, finishing with a layer of bread."
+      "text": "将一勺浆果铺在 2 杯深的小盘底部。用一层面包覆盖浆果和盘子底部。继续将浆果和面包分层，直到盘子装满，最后铺上一层面包。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Cover the dish with plastic wrap and place a plate or bowl over the top of the berry dish that fits just inside of it. Place a heavy object on top to press down on the fruit and bread layers."
+      "text": "用保鲜膜盖住盘子，然后将一个盘子或碗放在正好适合其内部的浆果盘顶部。在上面放一个重物，压住水果和面包层。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Refrigerate overnight. Check the dish to be sure juice does not run over the top. You may need to replace the heavy object with a lighter one to prevent spills."
+      "text": "冷藏过夜。检查盘子，确保汁液没有溢出顶部。您可能需要用较轻的物体替换重物，以防止溢出。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Serve with a dollop of vanilla yogurt or a sprinkle of powdered sugar."
+      "text": "与一块香草酸奶或撒上糖粉一起食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-04-26",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/berry-bread-pudding",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/berry-bread-pudding",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c0a7c7422c5e8887c86db45ee83d6829",
+    "translated": true
+  }
 }

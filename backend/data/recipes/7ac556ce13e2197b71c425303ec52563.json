@@ -1,10 +1,11 @@
 {
   "id": "7ac556ce13e2197b71c425303ec52563",
-  "title": "Empanadas Verdes",
+  "title": "绿色肉馅卷饼",
   "min_age_month": 6,
   "tags": [
-    "正餐",
-    "点心",
+    "午餐",
+    "晚餐",
+    "小吃",
     "蔬菜",
     "乳制品",
     "谷物"
@@ -12,54 +13,54 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/0ead45eb13aaae56573890ec5f3dbecd.webp",
-  "nutrition_tip": "Tiny pies filled with mashed plantains and cheese.",
+  "nutrition_tip": "小馅饼，里面填满了捣碎的车前草和奶酪。",
   "ingredients": [
     {
-      "name": "plantains (green)",
-      "amount": "1 medium"
+      "name": "大蕉（绿色）",
+      "amount": "1 个中等"
     },
     {
-      "name": "red onion (cut in 1/4-inch strips)",
-      "amount": "1 / 2 medium"
+      "name": "红洋葱（切成 1/4 英寸的条）",
+      "amount": "1 / 2 中"
     },
     {
-      "name": "cheese ((any cheese that does well with heat like Queso Fresco or mozzarella))",
+      "name": "奶酪（（任何耐热奶酪，如 Queso Fresco 或马苏里拉奶酪））",
       "amount": ""
     },
     {
-      "name": "salt",
+      "name": "盐",
       "amount": ""
     },
     {
-      "name": "flour ((plus more for sprinkling and dusting))",
-      "amount": "3 cups"
+      "name": "面粉（（加上更多用于洒水和除尘））",
+      "amount": "3 杯"
     },
     {
-      "name": "butter ((the colder the better))",
-      "amount": "1 / 4 cup"
+      "name": "黄油（（越冷越好））",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "heavy cream",
-      "amount": "1 / 2 cup"
+      "name": "浓奶油",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "sugar",
-      "amount": "1 1 / 2 tablespoons"
+      "name": "糖",
+      "amount": "1 1 / 2 汤匙"
     },
     {
-      "name": "baking powder",
-      "amount": "2 teaspoons"
+      "name": "泡打粉",
+      "amount": "2 茶匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "water (with ice)",
-      "amount": "1 / 2 cup"
+      "name": "水（加冰）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "oil (for frying)",
+      "name": "油（煎炸用）",
       "amount": ""
     }
   ],
@@ -67,123 +68,128 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Boil the plantain."
+      "text": "煮车前草。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "While the plantain is boiling, sauté the onion in olive oil until caramelized."
+      "text": "当车前草沸腾时，用橄榄油炒洋葱直至焦糖化。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Set onions aside."
+      "text": "将洋葱放在一边。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "When the plantain is fork-tender, drain the water and reserve the liquid."
+      "text": "当车前草叉嫩时，沥干水并保留液体。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Mash the plantain, adding the liquid as necessary (it should be the consistency of mashed potatoes)."
+      "text": "将车前草捣碎，根据需要添加液体（应该是土豆泥的稠度）。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Add olive oil and salt to taste and set aside."
+      "text": "加入橄榄油和盐调味，备用。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Set cheese to the side along with mashed plantains and onions."
+      "text": "将奶酪与捣碎的车前草和洋葱一起放在一边。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Mix the flour, sugar, baking powder, and salt."
+      "text": "混合面粉、糖、泡打粉和盐。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Cut the butter/lard into small pieces and add to the dry ingredients."
+      "text": "将黄油/猪油切成小块并添加到干成分中。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "With your hands, work the butter into the flour until the batter is uniformly like bread crumbs."
+      "text": "用手将黄油加入面粉中，直到面糊像面包屑一样均匀。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Add the cream and water."
+      "text": "添加奶油和水。"
     },
     {
       "step_index": 12,
       "img": "",
-      "text": "Keep mixing and kneading until well mixed, adding flour or more ice water as needed."
+      "text": "继续混合和揉捏直至充分混合，根据需要添加面粉或更多冰水。"
     },
     {
       "step_index": 13,
       "img": "",
-      "text": "It should make a nice dough ball."
+      "text": "它应该能做成一个漂亮的面团。"
     },
     {
       "step_index": 14,
       "img": "",
-      "text": "Divide the dough in half and refrigerate one half while you work with the other half."
+      "text": "将面团分成两半，将一半冷藏，同时处理另一半。"
     },
     {
       "step_index": 15,
       "img": "",
-      "text": "Don’t overwork the dough, or the butter will melt and change the consistency and texture."
+      "text": "不要过度揉捏面团，否则黄油会融化并改变稠度和质地。"
     },
     {
       "step_index": 16,
       "img": "",
-      "text": "Grab a small piece of dough and make a ball."
+      "text": "抓起一小块面团，做成一个球。"
     },
     {
       "step_index": 17,
       "img": "",
-      "text": "Flour your workspace and roll the ball out thin to the size of a softball."
+      "text": "在工作区撒上面粉，然后将球擀薄至垒球大小。"
     },
     {
       "step_index": 18,
       "img": "",
-      "text": "Fill with a tablespoon or so of filling."
+      "text": "用一汤匙左右的填充物填充。"
     },
     {
       "step_index": 19,
       "img": "",
-      "text": "Add a bit of cheese and onions in the center."
+      "text": "在中间加一点奶酪和洋葱。"
     },
     {
       "step_index": 20,
       "img": "",
-      "text": "Fold the dough over to make a half-circle and crimp the edges with a fork."
+      "text": "将面团折叠成半圆形，并用叉子卷曲边缘。"
     },
     {
       "step_index": 21,
       "img": "",
-      "text": "Repeat this process with all the remaining dough and filling."
+      "text": "对所有剩余的面团和馅料重复此过程。"
     },
     {
       "step_index": 22,
       "img": "",
-      "text": "Heat oil for frying in a large pot."
+      "text": "在大锅中加热油煎炸。"
     },
     {
       "step_index": 23,
       "img": "",
-      "text": "Fry empanadas until golden brown."
+      "text": "将肉馅卷饼煎至金黄色。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-03-31",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/empanadas-verdes",
   "origin_url": "https://www.peacecorps.gov/educators/resources/recipe-empanadas-verdes/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cd22655d71619bdf6f165ffc07650b37",
+    "translated": true
+  }
 }

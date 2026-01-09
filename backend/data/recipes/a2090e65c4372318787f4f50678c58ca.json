@@ -1,73 +1,78 @@
 {
   "id": "a2090e65c4372318787f4f50678c58ca",
-  "title": "Baked Acorn Squash with Apples",
+  "title": "烤橡实南瓜配苹果",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "水果",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/417606a80dae1ea7c17b09caf2d33901.webp",
-  "nutrition_tip": "This fall-inspired recipe is a warm, sweet side dish.",
+  "nutrition_tip": "这个秋天灵感的食谱是一道温暖、甜美的配菜。",
   "ingredients": [
     {
-      "name": "acorn squashes",
-      "amount": "2 small"
+      "name": "橡子南瓜",
+      "amount": "2 小"
     },
     {
-      "name": "nutmeg",
+      "name": "肉豆蔻",
       "amount": ""
     },
     {
-      "name": "apple (chopped)",
-      "amount": "3 cups"
+      "name": "苹果（切碎）",
+      "amount": "3 杯"
     },
     {
-      "name": "butter (or margarine)",
-      "amount": "2 tablespoons"
+      "name": "黄油（或人造黄油）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "brown sugar",
-      "amount": "1 / 4 cup"
+      "name": "红糖",
+      "amount": "1 / 4 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Cut squash in halves and scoop out seeds."
+      "text": "将南瓜切成两半并挖出种子。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place squash in a baking dish with hollow side up; fill centers with apple."
+      "text": "将南瓜放入烤盘中，空心面朝上；用苹果填充中心。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour a little water into the dish. Cover and bake at 350°F for 30 minutes, or until partly done."
+      "text": "将少许水倒入盘子中。盖上盖子并在 350°F 的温度下烘烤 30 分钟，或直至部分熟透。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Sprinkle with salt, sugar, and nutmeg and dot with fat."
+      "text": "撒上盐、糖和肉豆蔻，并撒上脂肪。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake uncovered about 45 minutes, or until the squash is soft."
+      "text": "不盖盖子烘烤约 45 分钟，或直至南瓜变软。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/baked-acorn-squash-apples",
   "origin_url": "https://naldc.nal.usda.gov/catalog/1789377",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f9a04fdb6995f427caecdfc5583058df",
+    "translated": true
+  }
 }

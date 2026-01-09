@@ -1,6 +1,6 @@
 {
   "id": "f3c7197b50732f36d285e4a76bbb9de4",
-  "title": "Tofu Breakfast Burrito",
+  "title": "豆腐早餐卷饼",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -11,104 +11,109 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/05f2d358d1a7ecfe943e2bb9e092c15b.webp",
-  "nutrition_tip": "This tofu burrito provides a great alternative to a typical breakfast burrito th…",
+  "nutrition_tip": "这款豆腐卷饼是典型早餐卷饼的绝佳替代品……",
   "ingredients": [
     {
-      "name": "tofu (firm, unseasoned, drained, cubed)",
-      "amount": "8 ounces"
+      "name": "豆腐（坚硬、未调味、沥干、切块）",
+      "amount": "8 盎司"
     },
     {
-      "name": "olive oil",
-      "amount": "1 tablespoon"
+      "name": "橄榄油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "mushrooms (baby portabella (cremini), sliced)",
-      "amount": "1 cup"
+      "name": "蘑菇（小蘑菇（cremini），切片）",
+      "amount": "1 杯"
     },
     {
-      "name": "onion (diced)",
+      "name": "洋葱（切丁）",
       "amount": ""
     },
     {
-      "name": "tomato (diced)",
+      "name": "番茄（切丁）",
       "amount": ""
     },
     {
-      "name": "bell pepper (any color, diced)",
+      "name": "灯笼椒（任何颜色，切丁）",
       "amount": ""
     },
     {
-      "name": "salt",
+      "name": "盐",
       "amount": ""
     },
     {
-      "name": "cheddar cheese ((2% fat) shredded)",
-      "amount": "1 cup"
+      "name": "切达干酪（（2% 脂肪）切丝）",
+      "amount": "1 杯"
     },
     {
-      "name": "whole wheat tortillas ((8-inch))",
+      "name": "全麦玉米饼（（8 英寸））",
       "amount": "4"
     },
     {
-      "name": "cheese ((Neufchatel), reduced-fat, softened, divided)",
-      "amount": "4 tablespoons"
+      "name": "奶酪（（Neufchatel），低脂，软化，分开）",
+      "amount": "4 汤匙"
     },
     {
-      "name": "salsa (divided)",
-      "amount": "4 tablespoons"
+      "name": "萨尔萨舞（分开）",
+      "amount": "4 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Spread the cubed tofu over layers of paper towels. Set aside to dry slightly."
+      "text": "将豆腐块铺在纸巾上。放在一边稍微晾干。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "While the tofu is drying, heat a large skillet or sauté pan over medium heat."
+      "text": "当豆腐干燥时，用中火加热大煎锅或炒锅。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add the olive oil and heat until shimmering."
+      "text": "加入橄榄油并加热直至闪烁。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add the mushrooms, onion, tomato, and bell pepper. Cook, stirring often, until tender, about 5-10 minutes."
+      "text": "加入蘑菇、洋葱、番茄和甜椒。煮约 5-10 分钟，经常搅拌，直至变软。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Crumble the tofu into small pieces and add it to the pan with the vegetables, along with the salt."
+      "text": "将豆腐弄碎成小块，然后将其与蔬菜和盐一起放入锅中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Stir and cook until well-combined and soft, about 5 minutes. Turn off the heat and stir in the shredded cheese."
+      "text": "搅拌并煮至充分混合且变软，大约需要 5 分钟。关掉火，拌入切碎的奶酪。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Spread 1 tablespoon of the cream cheese down the center of each tortilla, then top with a quarter of the tofu mixture. Top with 1 tablespoon of the salsa."
+      "text": "将一汤匙奶油干酪铺在每个玉米饼的中心，然后在上面放上四分之一的豆腐混合物。上面放一汤匙莎莎酱。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Fold the sides of the tortilla toward the center, then roll up like a burrito. Repeat Step 7-8 with the remaining tortillas."
+      "text": "将玉米饼的两侧向中心折叠，然后像卷饼一样卷起来。对剩余的玉米饼重复步骤 7-8。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Serve warm."
+      "text": "趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-01-19",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/tofu-breakfast-burrito",
   "origin_url": "https://www.nutrition.va.gov/Recipes/Breakfast/docs/Tofu-Breakfast-BurritosJUL21.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9e1db425b7a12dc40cf802894eace089",
+    "translated": true
+  }
 }

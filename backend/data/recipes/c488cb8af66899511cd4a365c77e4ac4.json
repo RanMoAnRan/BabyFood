@@ -1,9 +1,9 @@
 {
   "id": "c488cb8af66899511cd4a365c77e4ac4",
-  "title": "蔓越莓苹果法罗馅",
+  "title": "蔓越莓苹果法罗麦填料",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "水果",
     "蔬菜",
     "谷物"
@@ -19,7 +19,7 @@
     },
     {
       "name": "橄榄油",
-      "amount": "2汤匙"
+      "amount": "2 汤匙"
     },
     {
       "name": "洋葱（红，切碎）",
@@ -30,16 +30,16 @@
       "amount": "1 / 4 杯"
     },
     {
-      "name": "青苹果（切块）",
+      "name": "青苹果（切丁）",
       "amount": "3 / 4 杯"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "name": "大蒜粉",
       "amount": "1 / 4 茶匙"
     },
     {
       "name": "柠檬汁",
-      "amount": "1汤匙"
+      "amount": "1 汤匙"
     },
     {
       "name": "葱（切碎[葱]）",
@@ -54,7 +54,7 @@
       "amount": "2 2 / 3 杯"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "name": "调味盐",
       "amount": "1 / 2 茶匙"
     },
     {
@@ -70,7 +70,7 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "在小锅中用高温将汤煮沸。一旦高汤达到一个碗，加入法罗并搅拌。将火调小，盖上锅盖，煮 15-20 分钟或直至所有液体消失。"
+      "text": "在小锅中用高火将汤煮沸。一旦高汤达到一个碗，加入法罗并搅拌。将火调小，盖上锅盖，煮 15-20 分钟或直至所有液体消失。"
     },
     {
       "step_index": 2,
@@ -95,13 +95,18 @@
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve as a Thanksgiving alternative or with any fall inspired dish.享受！"
+      "text": "作为感恩节替代品或搭配任何秋季菜肴。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/cranberry-apple-farro-stuffing",
   "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/7%20Cranberry%20Apple%20Farro%20Stuffing.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "121dbf89f934cb11119443e96d09fc28",
+    "translated": true
+  }
 }

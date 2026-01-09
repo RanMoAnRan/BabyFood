@@ -1,53 +1,58 @@
 {
   "id": "0a05fb5fc832b01fbe6ec0089f9bfd74",
-  "title": "Homemade Hummus",
+  "title": "自制鹰嘴豆泥",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/c24588d8d957d77af233ef07f845ddfa.webp",
-  "nutrition_tip": "This classic garbanzo bean dip is easy to make and a versatile dish. Serve hummu…",
+  "nutrition_tip": "这道经典的鹰嘴豆酱制作简单，是一道多才多艺的菜肴。供应鹰嘴豆泥……",
   "ingredients": [
     {
-      "name": "chickpeas (also known as garbanzo beans, cooked)",
-      "amount": "2 cups"
+      "name": "鹰嘴豆（也称为鹰嘴豆，煮熟）",
+      "amount": "2 杯"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "2 cloves"
+      "name": "大蒜（切碎）",
+      "amount": "2 丁香"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 / 4 cup"
+      "name": "柠檬汁",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "tahini (sesame paste, substitute peanut butter for a sweet taste)",
-      "amount": "1 tablespoon"
+      "name": "芝麻酱（芝麻酱，代替花生酱以获得甜味）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons"
+      "name": "橄榄油",
+      "amount": "2 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Mash the garbanzo beans until smooth (if you have a blender, put the beans and lemon juice into it and blend)."
+      "text": "将鹰嘴豆捣碎至光滑（如果你有搅拌机，将鹰嘴豆和柠檬汁放入其中并搅拌）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add the garlic, lemon juice, tahini and oil. Mix well."
+      "text": "加入大蒜、柠檬汁、芝麻酱和油。搅拌均匀。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-04-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-hummus",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/hummus",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e8a9e2b5410db20ea7aee0f0018591b8",
+    "translated": true
+  }
 }

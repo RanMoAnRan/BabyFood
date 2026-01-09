@@ -1,58 +1,63 @@
 {
   "id": "a6d01273dc05f66d6ee09dfe00a5fedc",
-  "title": "Do-It-Yourself Trail Mix",
+  "title": "自制混合干果",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/5c03621e36e0072cdbc0883c31b03b6f.webp",
-  "nutrition_tip": "Keep your energy level up during outdoor adventures with this Do-It-Yourself Tra…",
+  "nutrition_tip": "通过这款 DIY Tra 来让您在户外探险期间保持精力充沛……",
   "ingredients": [
     {
-      "name": "whole grain cereal (square type)",
-      "amount": "1 cup"
+      "name": "全麦麦片（方形）",
+      "amount": "1 杯"
     },
     {
-      "name": "whole grain cereal (O type)",
-      "amount": "1 cup"
+      "name": "全麦麦片（O 型）",
+      "amount": "1 杯"
     },
     {
-      "name": "whole grain cereal (puff type)",
-      "amount": "1 cup"
+      "name": "全麦麦片（泡芙型）",
+      "amount": "1 杯"
     },
     {
-      "name": "dried fruit (of your choice)",
-      "amount": "1 cup"
+      "name": "干果（您选择）",
+      "amount": "1 杯"
     },
     {
-      "name": "pretzels (small)",
-      "amount": "1 cup"
+      "name": "椒盐卷饼（小）",
+      "amount": "1 杯"
     },
     {
-      "name": "nuts (small)",
-      "amount": "1 / 2 cup"
+      "name": "坚果（小）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Set out a bowl of each ingredient with a serving spoon."
+      "text": "用勺子盛出一碗每种原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Let guests add a spoon of each ingredient to a plastic bag or other container. Shake to mix. Enjoy!"
+      "text": "让客人将每种成分的一勺添加到塑料袋或其他容器中。摇匀。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/do-it-yourself-trail-mix",
   "origin_url": "https://foodhero.org/recipes/do-it-yourself-trail-mix",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b3ff911dc339a92d714522669a3ab515",
+    "translated": true
+  }
 }

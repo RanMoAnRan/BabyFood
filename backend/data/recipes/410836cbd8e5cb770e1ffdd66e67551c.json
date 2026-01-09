@@ -1,87 +1,93 @@
 {
   "id": "410836cbd8e5cb770e1ffdd66e67551c",
-  "title": "Tomato and Cucumber Salad",
+  "title": "番茄黄瓜沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/a3573642485e6a617696d1ef4d0f6e9d.webp",
-  "nutrition_tip": "This refreshing salad is a great way to take advantage of the vegetables’ summer…",
+  "nutrition_tip": "这种清爽的沙拉是利用蔬菜夏天的好方法......",
   "ingredients": [
     {
-      "name": "tomatoes (cubed)",
-      "amount": "4 large"
+      "name": "西红柿（立方体）",
+      "amount": "4 大"
     },
     {
-      "name": "cucumber (chopped)",
-      "amount": "1 large"
+      "name": "黄瓜（切碎）",
+      "amount": "1 个大"
     },
     {
-      "name": "red onion (chopped)",
-      "amount": "1 cup"
+      "name": "红洋葱（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "green pepper (chopped)",
-      "amount": "1 cup"
+      "name": "青椒（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "parsley (chopped)",
-      "amount": "1 / 3 cup"
+      "name": "欧芹（切碎）",
+      "amount": "1 / 3 杯"
     },
     {
-      "name": "apple cider vinegar",
-      "amount": "1 / 3 cup"
+      "name": "苹果醋",
+      "amount": "1 / 3 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "1 tablespoon"
+      "name": "橄榄油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "2 cloves"
+      "name": "大蒜（切碎）",
+      "amount": "2 丁香"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 2 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "sugar",
-      "amount": "1 / 2 teaspoon"
+      "name": "糖",
+      "amount": "1 / 2 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a large bowl, combine the salad ingredients."
+      "text": "在一个大碗中，混合沙拉原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a small bowl, mix the dressing ingredients together."
+      "text": "在一个小碗中，将调味料混合在一起。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour the dressing over the salad. Mix well."
+      "text": "将调料倒在沙拉上。搅拌均匀。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Refrigerate for at least 1 hour before serving."
+      "text": "食用前冷藏至少 1 小时。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-04-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/tomato-and-cucumber-salad",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/tomato-and-cucumber-salad",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d0e6024fd9141c4fb1a813cc085b48fb",
+    "translated": true
+  }
 }

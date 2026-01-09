@@ -1,16 +1,16 @@
 {
   "id": "65a476e90dfdd5c941a546a86e05c390",
-  "title": "蔬菜炒",
+  "title": "蔬菜小炒",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/db3bc196384caad36c6b97dc4105724e.webp",
-  "nutrition_tip": "这个蔬菜炒菜食谱是流行外卖食品的健康版本……",
+  "nutrition_tip": "这个蔬菜炒菜食谱是流行外卖食品的健康版本......",
   "ingredients": [
     {
       "name": "菜籽油",
@@ -33,20 +33,20 @@
       "amount": "2"
     },
     {
-      "name": "灯笼椒（切片）",
+      "name": "甜椒（切片）",
       "amount": "1"
     },
     {
       "name": "菠萝汁",
-      "amount": "12汤匙"
+      "amount": "12 汤匙"
     },
     {
       "name": "糖",
-      "amount": "1汤匙"
+      "amount": "1 汤匙"
     },
     {
       "name": "柠檬汁",
-      "amount": "1汤匙"
+      "amount": "1 汤匙"
     },
     {
       "name": "玉米淀粉",
@@ -57,7 +57,7 @@
       "amount": "1 5 / 8 茶匙"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "name": "糙米（煮熟）",
       "amount": "2 杯"
     }
   ],
@@ -65,23 +65,28 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "在煎锅中用中高火加热油。加入西兰花、花椰菜、芹菜和胡萝卜。煮2分钟。加入甜椒，再煮 2 分钟。"
+      "text": "在平底锅中用中高温加热油。加入西兰花、花椰菜、芹菜和胡萝卜。煮2分钟。加入甜椒，再煮 2 分钟。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "在搅拌碗中，将菠萝汁、糖、柠檬汁、玉米淀粉和酱油混合。接下来，将酱汁加入煎锅中。煮沸并煮 1 分钟或直至酱汁变稠。将酱汁倒在蔬菜上。"
+      "text": "在一个搅拌碗中，混合菠萝汁、糖、柠檬汁、玉米淀粉和酱油。接下来，将酱汁加入煎锅中。煮沸并煮 1 分钟或直至酱汁变稠。将酱汁倒在蔬菜上。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "与糙米一起食用。"
+      "text": "配上糙米。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/vegetable-stir-fry",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/chinese-vegetable-stir-fry/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "249fbb88a0f27ec3764f891e5568c402",
+    "translated": true
+  }
 }

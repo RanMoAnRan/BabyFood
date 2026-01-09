@@ -1,9 +1,10 @@
 {
   "id": "a1d08833747fbc0ff2f7723ef2c1f98d",
-  "title": "Microwave Beef Enchiladas",
+  "title": "微波炉牛肉卷饼",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蛋白质",
     "乳制品",
     "谷物"
@@ -11,42 +12,42 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/0131f3fa4219ae91c90fe23f9de86710.webp",
-  "nutrition_tip": "Cook these cheesy beef enchiladas entirely in your microwave in less than 30 min…",
+  "nutrition_tip": "在 30 分钟内将这些奶酪牛肉玉米卷饼完全放入微波炉中烹制……",
   "ingredients": [
     {
-      "name": "ground beef",
-      "amount": "1 pound"
+      "name": "碎牛肉",
+      "amount": "1 磅"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 medium"
+      "name": "洋葱（切碎）",
+      "amount": "1 个中等"
     },
     {
-      "name": "spinach (chopped)",
-      "amount": "2 cups"
+      "name": "菠菜（切碎）",
+      "amount": "2 杯"
     },
     {
-      "name": "cheddar cheese (shredded)",
-      "amount": "1 cup"
+      "name": "切达干酪（切丝）",
+      "amount": "1 杯"
     },
     {
-      "name": "plain yogurt",
-      "amount": "1 / 2 cup"
+      "name": "原味酸奶",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "盐",
+      "amount": "1 茶匙"
     },
     {
-      "name": "pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "胡椒",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "whole wheat tortillas (or corn tortillas)",
+      "name": "全麦玉米饼（或玉米饼）",
       "amount": "6"
     },
     {
-      "name": "green onions (for garnish)",
+      "name": "葱（装饰用）",
       "amount": ""
     }
   ],
@@ -54,48 +55,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Crumble beef into a 2 quart microwave-safe casserole and stir in the chopped onion. Cover loosely and microwave on high for 4-5 minutes until the beef reaches 155° F. Stir every 2 minutes."
+      "text": "将牛肉捣碎放入 2 夸脱的微波炉安全砂锅中，拌入切碎的洋葱。松松地盖上盖子，用微波炉高火加热 4-5 分钟，直至牛肉温度达到 155°F。每 2 分钟搅拌一次。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Once the meat is cooked, stir to break up the meat and drain the extra fat into a spare bowl and throw away when cool."
+      "text": "肉煮熟后，搅拌将肉打碎，将多余的脂肪沥干到备用碗中，冷却后扔掉。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in the spinach, 3/4 cup shredded cheese, yogurt, salt and pepper. Cover and set aside."
+      "text": "加入菠菜、3/4 杯奶酪丝、酸奶、盐和胡椒。盖上盖子并放在一边。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Warm tortillas in the microwave if desired."
+      "text": "如果需要，可以用微波炉加热玉米饼。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spoon ⅓ cup filling into the center and fold up. Lay flat in the casserole pan with the seam facing down."
+      "text": "用勺子将⅓杯馅料放入中心并折叠起来。平放在砂锅中，接缝朝下。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Mix all ingredients for the enchilada sauce in a microwave safe container. Cover and microwave on high for 4-6 minutes."
+      "text": "将辣酱玉米饼馅的所有原料混合在微波炉安全容器中。盖上盖子，用微波炉高火加热 4-6 分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Pour sauce over tortillas and microwave again on high for 7-9 minutes."
+      "text": "将酱汁倒在玉米饼上，然后再次用微波炉高火加热 7-9 分钟。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Garnish with 1/4 cup shredded cheese."
+      "text": "用 1/4 杯切碎的奶酪装饰。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-11-30",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/microwave-beef-enchiladas",
   "origin_url": "https://www.mass.gov/doc/beef-enchiladas-0/download",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f063d5ff3a39cfed8989fc719ae752dd",
+    "translated": true
+  }
 }

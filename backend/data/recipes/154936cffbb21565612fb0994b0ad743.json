@@ -1,23 +1,23 @@
 {
   "id": "154936cffbb21565612fb0994b0ad743",
-  "title": "Oven-Fried Yuca",
+  "title": "烤木薯",
   "min_age_month": 12,
   "tags": [
-    "正餐",
-    "点心",
+    "晚餐",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/72d0c62e6cdb1cf011f25005b40553a4.webp",
-  "nutrition_tip": "Crispy and delicious! Use cooking spray to cut back on fat.",
+  "nutrition_tip": "酥脆可口！使用烹饪喷雾来减少脂肪。",
   "ingredients": [
     {
-      "name": "yuca (fresh, cut into 3-inch sections and peeled; or 1 pound peeled frozen yuca or cassava)",
-      "amount": "1 pound"
+      "name": "尤卡（新鲜，切成 3 英寸的部分并去皮；或 1 磅去皮冷冻尤卡或木薯）",
+      "amount": "1 磅"
     },
     {
-      "name": "Nonstick cooking spray",
+      "name": "不粘烹饪喷雾",
       "amount": ""
     }
   ],
@@ -25,28 +25,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "In a kettle, combine the yuca with enough cold water to cover it by 1 inch. Bring the water to a boil, and slowly simmer the yuca for 20 to 30 minutes, or until it is tender."
+      "text": "在水壶中，将尤卡与足够的冷水混合，以覆盖尤卡 1 英寸。将水烧开，然后将尤卡慢慢煮 20 至 30 分钟，或直至其变软。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat oven to 350°F."
+      "text": "将烤箱预热至 350°F。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Transfer the yuca with a slotted spoon to a cutting board, let it cool, and cut it lengthwise into ¾-inch-wide wedges, discarding the thin woody core."
+      "text": "用漏勺将尤卡转移到切菜板上，让其冷却，然后将其纵向切成 3/4 英寸宽的楔形，丢弃薄木芯。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spray a cookie sheet lightly with the cooking spray. Spread yuca wedges in a single layer on the cookie sheet, and spray the wedges with cooking spray. Cover with foil and bake for 8 minutes. Uncover and return to oven to bake for an additional 7 minutes."
+      "text": "用烹饪喷雾轻轻喷洒饼干片。将尤卡楔形单层铺在饼干片上，然后在楔形上喷上烹饪喷雾。盖上箔纸并烘烤 8 分钟。揭开盖子并返回烤箱再烘烤 7 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/oven-fried-yuca",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=10&amp;rId=166",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "266447dd6cc23ef73f566786d5d6312f",
+    "translated": true
+  }
 }

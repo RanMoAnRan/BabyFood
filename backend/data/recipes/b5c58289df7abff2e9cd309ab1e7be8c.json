@@ -1,9 +1,10 @@
 {
   "id": "b5c58289df7abff2e9cd309ab1e7be8c",
-  "title": "Turkey Quesadilla",
+  "title": "火鸡墨西哥薄饼",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "乳制品",
@@ -12,22 +13,22 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/6d294041f8883bf4161c1d89d52e4e86.webp",
-  "nutrition_tip": "Stuff this cheesy quesadilla with your favorite vegetables.",
+  "nutrition_tip": "用你最喜欢的蔬菜填满这个奶酪玉米饼。",
   "ingredients": [
     {
-      "name": "ground turkey",
-      "amount": "1 pound"
+      "name": "地面火鸡",
+      "amount": "1 磅"
     },
     {
-      "name": "parmesan cheese",
-      "amount": "1 / 4 cup"
+      "name": "帕尔马干酪",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "chopped vegetables (tomatoes, green beans, carrots, peppers, zucchini, etc.)",
-      "amount": "2 cups"
+      "name": "切碎的蔬菜（西红柿、青豆、胡萝卜、辣椒、西葫芦等）",
+      "amount": "2 杯"
     },
     {
-      "name": "whole wheat tortillas",
+      "name": "全麦玉米饼",
       "amount": "8"
     }
   ],
@@ -35,28 +36,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "In a skillet, cook ground turkey until completely cooked. Drain and rinse."
+      "text": "在煎锅中，将火鸡碎煮至完全煮熟。沥干并冲洗。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add cheese and vegetables."
+      "text": "添加奶酪和蔬菜。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place 1/4 cup of turkey mixture on a tortilla. Fold over or roll."
+      "text": "将 1/4 杯火鸡混合物放在玉米饼上。折叠或卷起。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Heat and lightly brown in skillet or in the oven."
+      "text": "在煎锅或烤箱中加热并呈浅棕色。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/turkey-quesadilla",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/turkey-quesadilla",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1ad9fa0195b8529b2f830f499153ed04",
+    "translated": true
+  }
 }

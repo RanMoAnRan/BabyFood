@@ -1,6 +1,6 @@
 {
   "id": "9d42bca8d13b124a3a3217a5a4431400",
-  "title": "Applesauce French Toast",
+  "title": "苹果酱法式吐司",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -9,64 +9,69 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/ba443397204f27beec67f2c5d9370eba.webp",
-  "nutrition_tip": "Use leftover bread to make this kid-friendly Applesauce French Toast.",
+  "nutrition_tip": "用剩下的面包制作这款适合儿童的苹果酱法式吐司。",
   "ingredients": [
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "2"
     },
     {
-      "name": "milk (nonfat or 1%)",
-      "amount": "1 / 2 cup"
+      "name": "牛奶（脱脂或 1%）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "sugar (white)",
-      "amount": "2 teaspoons"
+      "name": "糖（白）",
+      "amount": "2 茶匙"
     },
     {
-      "name": "vanilla",
-      "amount": "1 / 2 teaspoon"
+      "name": "香草",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "applesauce (unsweetened)",
-      "amount": "1 / 4 cup"
+      "name": "苹果酱（不加糖）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "whole wheat bread",
-      "amount": "6 slices"
+      "name": "全麦面包",
+      "amount": "6 片"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a large mixing bowl, combine eggs, milk, cinnamon, sugar, vanilla and applesauce. Mix well."
+      "text": "在一个大搅拌碗中，混合鸡蛋、牛奶、肉桂、糖、香草和苹果酱。搅拌均匀。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Soak bread one slice at a time until mixture is slightly absorbed."
+      "text": "一次一片浸泡面包，直至混合物稍微被吸收。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Lightly spray or oil a skillet or griddle. Cook over medium heat until golden brown on both sides."
+      "text": "在煎锅或煎锅上轻轻喷洒或涂油。用中火煮至两面金黄。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Serve hot."
+      "text": "趁热享用。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/applesauce-french-toast",
   "origin_url": "https://foodhero.org/recipes/applesauce-french-toast",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "577192227bd5187fb091130e656449d6",
+    "translated": true
+  }
 }

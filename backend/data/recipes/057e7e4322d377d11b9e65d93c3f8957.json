@@ -1,107 +1,112 @@
 {
   "id": "057e7e4322d377d11b9e65d93c3f8957",
-  "title": "Teriyaki Chicken and Cabbage",
+  "title": "照烧鸡肉卷心菜",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/25d6afae87b0c4ee3f09db3c5822bb65.webp",
-  "nutrition_tip": "Introduce new flavors with this tasty meal.",
+  "nutrition_tip": "通过这顿美味佳肴引入新口味。",
   "ingredients": [
     {
-      "name": "soy sauce (reduced-sodium)",
-      "amount": "2 tablespoons"
+      "name": "酱油（低钠）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "vegetable oil",
-      "amount": "1 1 / 2 teaspoons"
+      "name": "植物油",
+      "amount": "1 1 / 2 茶匙"
     },
     {
-      "name": "black pepper (ground)",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒（磨碎）",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 / 8 teaspoon"
+      "name": "大蒜粉",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "ginger (ground)",
-      "amount": "1 / 8 teaspoon"
+      "name": "生姜（磨碎）",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "chicken (thighs, boneless, skinless; about 9 thighs or 1 pound 9 1/4 ounces)",
-      "amount": "25 1 / 4 ounces"
+      "name": "鸡肉（大腿，去骨，去皮；约 9 根大腿或 1 磅 9 1/4 盎司）",
+      "amount": "25 1 / 4 盎司"
     },
     {
-      "name": "cabbage (fresh, shredded, 1/4\" thick)",
-      "amount": "3 1 / 3 cups"
+      "name": "卷心菜（新鲜，切丝，1/4 英寸厚）",
+      "amount": "3 1 / 3 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water for at least 20 seconds."
+      "text": "用肥皂和水洗手至少 20 秒。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Prepare marinade: In a small bowl, combine soy sauce, vegetable oil, pepper, garlic powder, and ginger. Whisk until smooth."
+      "text": "准备腌料：在一个小碗中，将酱油、植物油、胡椒粉、蒜粉和姜混合。搅拌直至光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour half of marinade mixture into the bottom of a 9” x 13” glass or ceramic baking dish. Refrigerate the other half of the marinade mixture at 40 °F or lower for use in step 9 (referred to as “reserved marinade”)."
+      "text": "将一半腌料混合物倒入 9” x 13” 玻璃或陶瓷烤盘的底部。将另一半腌料混合物冷藏在 40 °F 或更低的温度下，以便在步骤 9 中使用（称为“保留的腌料”）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Place chicken in baking dish. Cover. Marinate in the refrigerator at 40 °F or lower for 2 hours. Flip chicken to marinate the other side. Cover. Marinate in the refrigerator for 2 more hours. Wash hands after touching uncooked chicken (see chef tips)."
+      "text": "将鸡肉放入烤盘中。盖。在 40°F 或更低的冰箱中腌制 2 小时。将鸡肉翻过来腌制另一面。盖。在冰箱里再腌制2小时。接触未煮熟的鸡肉后要洗手（参见厨师提示）。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Preheat oven to 400 °F."
+      "text": "将烤箱预热至 400 °F。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Spread shredded cabbage on the bottom of a clean 9” x 13” baking dish."
+      "text": "将切碎的卷心菜铺在干净的 9” x 13” 烤盘底部。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Remove chicken from marinade. Discard any remaining marinade (see chef tips)."
+      "text": "将鸡肉从腌料中取出。丢弃所有剩余的腌料（参见厨师提示）。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Place chicken on top of cabbage. Wash hands after touching uncooked chicken."
+      "text": "将鸡肉放在卷心菜上。接触未煮熟的鸡肉后要洗手。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Pour the reserved marinade over the chicken."
+      "text": "将保留的腌料倒在鸡肉上。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Bake for 25 minutes. Heat chicken to an internal temperature of 165 °F or higher for at least 15 seconds. Remove from the oven."
+      "text": "烘烤 25 分钟。将鸡肉加热至 165 °F 或更高的内部温度至少 15 秒。从烤箱中取出。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Serve 1½ chicken thighs with ¼ cup cooked cabbage."
+      "text": "将 1½ 只鸡大腿与 ¼ 杯煮熟的卷心菜一起食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/teriyaki-chicken-and-cabbage",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a3a8cc91486bf5b60f6768a376c57bee",
+    "translated": true
+  }
 }

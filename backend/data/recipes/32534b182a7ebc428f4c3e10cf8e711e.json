@@ -1,80 +1,85 @@
 {
   "id": "32534b182a7ebc428f4c3e10cf8e711e",
-  "title": "Rise and Shine Cobbler",
+  "title": "活力早餐脆皮派",
   "min_age_month": 12,
   "tags": [
     "早餐",
-    "正餐",
-    "点心",
+    "午餐",
+    "小吃",
     "水果",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/dc30d0114f1f606d0d645279d3f7006d.webp",
-  "nutrition_tip": "Enjoy this tasty treat for breakfast or as a sweet dessert. This cobbler can be…",
+  "nutrition_tip": "享受这种美味的早餐或甜点。这个补鞋匠可以……",
   "ingredients": [
     {
-      "name": "peach (canned, frained, and sliced)",
-      "amount": "1 cup"
+      "name": "桃子（罐装、切碎、切片）",
+      "amount": "1 杯"
     },
     {
-      "name": "pear (halved, canned, drained, and sliced)",
-      "amount": "1 cup"
+      "name": "梨（切半、罐装、沥干并切片）",
+      "amount": "1 杯"
     },
     {
-      "name": "prunes (pitted, each cut in half)",
+      "name": "李子（去核，每个切成两半）",
       "amount": "6"
     },
     {
-      "name": "vanilla (extract)",
-      "amount": "1 / 4 teaspoon"
+      "name": "香草（摘录）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "oranges",
-      "amount": "1 medium"
+      "name": "橙子",
+      "amount": "1 个中等"
     },
     {
-      "name": "granola (low-fat)",
-      "amount": "1 cup"
+      "name": "格兰诺拉麦片（低脂）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a large microwave-safe bowl, mix peaches, pears, prunes, and vanilla extract."
+      "text": "在一个可用于微波炉的大碗中，混合桃子、梨、李子和香草精。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Rub an orange against a grater to remove 1 teaspoon of the orange peel. Then, cut the orange in half and squeeze 1/4 cup orange juice. Add orange peel and juice to fruit mixture. Stir."
+      "text": "用刨丝器摩擦橙子，去除 1 茶匙橙皮。然后，将橙子切成两半，榨出 1/4 杯橙汁。将橙皮和果汁加入水果混合物中。搅拌。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Top with granola."
+      "text": "上面放上格兰诺拉麦片。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Microwave on high for 5 minutes. Let stand for 2 minutes."
+      "text": "微波炉高火加热 5 分钟。静置 2 分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Spoon into 4 bowls and serve warm."
+      "text": "用勺子舀入 4 个碗中，趁热享用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-12-05",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/rise-and-shine-cobbler",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/rise-and-shine-cobbler",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "826630362eafee48c7844e902d89459b",
+    "translated": true
+  }
 }

@@ -1,50 +1,55 @@
 {
   "id": "dc2d4a033cd007b420eb4054bc8e9a6c",
-  "title": "Peanut Butter Hummus",
+  "title": "花生酱鹰嘴豆泥",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/8380262f5787ba1472f43eae20c7e542.webp",
-  "nutrition_tip": "Try this new combo of peanut butter and hummus with veggies or pita chips.",
+  "nutrition_tip": "尝试这种花生酱和鹰嘴豆泥与蔬菜或皮塔饼的新组合。",
   "ingredients": [
     {
-      "name": "chickpeas (low-sodium, rinsed,)",
-      "amount": "2 cups"
+      "name": "鹰嘴豆（低钠，冲洗）",
+      "amount": "2 杯"
     },
     {
-      "name": "broth (chicken, low-sodium)",
-      "amount": "1 / 4 cup"
+      "name": "肉汤（鸡肉，低钠）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 / 4 cup"
+      "name": "柠檬汁",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "garlic (diced)",
-      "amount": "2 1 / 2 tablespoons"
+      "name": "大蒜（切丁）",
+      "amount": "2 1 / 2 汤匙"
     },
     {
-      "name": "peanut butter ((or another nut or seed butter))",
-      "amount": "1 / 4 cup"
+      "name": "花生酱（（或其他坚果或种子黄油））",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "cayenne powder ((or substitute paprika for less spice))",
-      "amount": "1 / 4 teaspoon"
+      "name": "辣椒粉（（或用辣椒粉代替辣椒粉））",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "olive oil",
-      "amount": "1 tablespoon"
+      "name": "橄榄油",
+      "amount": "1 汤匙"
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-04-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/peanut-butter-hummus",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=12&amp;cId=13&amp;rId=158",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "19cb44128061c19fca2299e6081f19be",
+    "translated": true
+  }
 }

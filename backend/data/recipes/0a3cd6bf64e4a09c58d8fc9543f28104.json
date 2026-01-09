@@ -1,72 +1,78 @@
 {
   "id": "0a3cd6bf64e4a09c58d8fc9543f28104",
-  "title": "Refried Beans",
+  "title": "炸豆泥",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4a721e2bb5d429db67a1f5ee63f324c6.webp",
-  "nutrition_tip": "These refried beans are an easy, homemade alternative to canned beans.",
+  "nutrition_tip": "这些炸豆泥是罐装豆子的简单自制替代品。",
   "ingredients": [
     {
-      "name": "pinto beans (dried)",
-      "amount": "2 cups"
+      "name": "斑豆（干）",
+      "amount": "2 杯"
     },
     {
-      "name": "water",
-      "amount": "6 cups"
+      "name": "水",
+      "amount": "6 杯"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 cup"
+      "name": "洋葱（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "olive oil",
-      "amount": "1 teaspoon"
+      "name": "橄榄油",
+      "amount": "1 茶匙"
     },
     {
-      "name": "liquid from cooked beans",
-      "amount": "1 cup"
+      "name": "煮熟的豆子中的液体",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Clean the beans. Leave them to soak overnight. Drain."
+      "text": "清洁豆子。让它们浸泡过夜。流走。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a medium pan, put soaked beans, water, onion, garlic powder and olive oil."
+      "text": "在一个中等平底锅中，放入浸泡过的豆子、水、洋葱、大蒜粉和橄榄油。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Cook over medium heat for 2½ hours or until beans are tender."
+      "text": "用中火煮 2.5 小时或直至豆子变软。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Mash 3 cups of cooked beans in large heavy skillet."
+      "text": "在大而重的煎锅中捣碎 3 杯煮熟的豆子。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add 1 cup bean cooking liquid. Cook over medium heat until thick and the desired consistency."
+      "text": "添加 1 杯豆类烹饪液。用中火煮至浓稠并达到所需的稠度。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/refried-beans",
   "origin_url": "https://web.extension.illinois.edu/fiesta/recipe.cfm?lang=en&amp;id=165",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e7061ed515a79f20e323786ed863790b",
+    "translated": true
+  }
 }

@@ -1,79 +1,84 @@
 {
   "id": "2d35e4548ad4f72264916b36a903f9a9",
-  "title": "Couscous With Carrots, Walnuts, and Raisins",
+  "title": "胡萝卜核桃葡萄干库斯库斯",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/3f54f9deba83929e82c9c6bf4480d680.webp",
-  "nutrition_tip": "This quick-cooking grain dish has a touch of sweet and nutty flavors to go with…",
+  "nutrition_tip": "这道速煮谷物菜肴带有一丝甜味和坚果味，可搭配……",
   "ingredients": [
     {
-      "name": "couscous",
-      "amount": "1 cup"
+      "name": "粗麦粉",
+      "amount": "1 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "1 teaspoon"
+      "name": "橄榄油",
+      "amount": "1 茶匙"
     },
     {
-      "name": "walnut (coarsely chopped)",
-      "amount": "2 tablespoons"
+      "name": "核桃（粗切）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "pumpkin pie spice (or cinnamon)",
-      "amount": "1 / 2 teaspoon"
+      "name": "南瓜派香料（或肉桂）",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "water",
-      "amount": "1 1 / 3 cups"
+      "name": "水",
+      "amount": "1 1 / 3 杯"
     },
     {
-      "name": "raisins",
-      "amount": "2 tablespoons"
+      "name": "葡萄干",
+      "amount": "2 汤匙"
     },
     {
-      "name": "carrots (rinsed, peeled, and shredded or thinly sliced, cut in half)",
-      "amount": "1 / 2 cup"
+      "name": "胡萝卜（冲洗、去皮、切丝或切成薄片、切成两半）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a 4-quart saucepan over medium heat, cook and stir couscous, olive oil, walnuts, salt, pepper, and spice just until couscous begins to brown."
+      "text": "在 4 夸脱的平底锅中，用中火煮并搅拌蒸粗麦粉、橄榄油、核桃、盐、胡椒和香料，直到蒸粗麦粉开始变成棕色。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Slowly add water, then raisins and carrots. Cover. Bring to a boil over high heat."
+      "text": "慢慢加水，然后加入葡萄干和胡萝卜。覆盖。用高火煮沸。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Remove from the heat, and let stand for 10 minutes."
+      "text": "从火上移开，静置 10 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Fluff with a fork. Serve immediately."
+      "text": "用叉子弄松。立即上菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-03-20",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/couscous-carrots-walnuts-and-raisins",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=8&amp;rId=56",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "58cb6c5c792c0ad0061693d91971ad65",
+    "translated": true
+  }
 }

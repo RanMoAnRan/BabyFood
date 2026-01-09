@@ -9,12 +9,19 @@ import requests
 from PIL import Image
 
 from sources.nutrition_gov import fetch_recipe, list_recipe_slugs, map_tags
+try:
+    from utils.translator import translate_text
+except Exception:  # pragma: no cover
+    translate_text = None
 
 
 BACKEND_DIR = os.path.abspath(os.path.dirname(__file__))
 DATA_DIR = os.path.join(BACKEND_DIR, "data")
 RECIPES_DIR = os.path.join(DATA_DIR, "recipes")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
+
+_RE_CHINESE = re.compile(r"[\u4e00-\u9fff]")
+_RE_ASCII_LETTER = re.compile(r"[A-Za-z]")
 
 
 def utc_now_iso() -> str:
@@ -37,6 +44,204 @@ def write_json(path: str, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         f.write("\n")
+
+
+def has_chinese(text: str) -> bool:
+    return bool(_RE_CHINESE.search(text or ""))
+
+
+def needs_translation(text: str) -> bool:
+    if not text:
+        return False
+    return bool(_RE_ASCII_LETTER.search(text)) and not has_chinese(text)
+
+
+def _collapse_ws(text: str) -> str:
+    return re.sub(r"\s+", " ", str(text or "").strip())
+
+
+def _translation_source(detail: dict) -> dict:
+    ingredients = detail.get("ingredients") if isinstance(detail, dict) else None
+    steps = detail.get("steps") if isinstance(detail, dict) else None
+    warnings = detail.get("warnings") if isinstance(detail, dict) else None
+
+    if not isinstance(ingredients, list):
+        ingredients = []
+    if not isinstance(steps, list):
+        steps = []
+    if not isinstance(warnings, list):
+        warnings = []
+
+    return {
+        "title": detail.get("title") or "",
+        "nutrition_tip": detail.get("nutrition_tip") or "",
+        "ingredients": [
+            {"name": (i.get("name") or ""), "amount": (i.get("amount") or "")}
+            for i in ingredients
+            if isinstance(i, dict)
+        ],
+        "steps": [(s.get("text") or "") for s in steps if isinstance(s, dict)],
+        "warnings": [str(w or "") for w in warnings],
+    }
+
+
+def _translation_source_hash(detail: dict) -> str:
+    raw = json.dumps(_translation_source(detail), ensure_ascii=False, sort_keys=True, separators=(",", ":"))
+    return md5(raw)
+
+
+def _parse_translated_tokens(translated: str, tokens: list[str]) -> dict[str, str]:
+    out: dict[str, str] = {}
+    if not translated or not tokens:
+        return out
+    for i, token in enumerate(tokens):
+        start = translated.find(token)
+        if start < 0:
+            continue
+        start += len(token)
+        while start < len(translated) and translated[start] in " \t\r\n:：-—–":
+            start += 1
+
+        end = len(translated)
+        for j in range(i + 1, len(tokens)):
+            nxt = translated.find(tokens[j], start)
+            if nxt >= 0:
+                end = nxt
+                break
+        out[token] = translated[start:end].strip()
+    return out
+
+
+def _translate_detail_inplace(
+    detail: dict,
+    *,
+    title_zh: str | None,
+    do_translate: bool,
+    old_detail: dict | None,
+):
+    """
+    将详情中的可见文本翻译为中文（最佳努力），并写入 `_translation` 元信息用于增量复用。
+    """
+    if not isinstance(detail, dict):
+        return
+
+    src_hash = _translation_source_hash(detail)
+    new_meta = {"dest": "zh-CN", "source_hash": src_hash, "translated": False}
+
+    # 始终用列表页标题（若有）覆盖详情标题，避免不一致
+    if title_zh:
+        detail["title"] = title_zh
+
+    # 复用旧翻译：同一份英文源数据 + 已翻译成功，则直接沿用旧的中文字段
+    if do_translate and isinstance(old_detail, dict):
+        old_meta = old_detail.get("_translation")
+        if (
+            isinstance(old_meta, dict)
+            and old_meta.get("dest") == "zh-CN"
+            and old_meta.get("source_hash") == src_hash
+            and old_meta.get("translated") is True
+        ):
+            if not title_zh and old_detail.get("title"):
+                detail["title"] = old_detail.get("title")
+            if old_detail.get("nutrition_tip") is not None:
+                detail["nutrition_tip"] = old_detail.get("nutrition_tip") or ""
+
+            old_ings = old_detail.get("ingredients")
+            new_ings = detail.get("ingredients")
+            if isinstance(old_ings, list) and isinstance(new_ings, list) and len(old_ings) == len(new_ings):
+                for o, n in zip(old_ings, new_ings):
+                    if isinstance(o, dict) and isinstance(n, dict):
+                        if o.get("name") is not None:
+                            n["name"] = o.get("name") or ""
+                        if o.get("amount") is not None:
+                            n["amount"] = o.get("amount") or ""
+
+            old_steps = old_detail.get("steps")
+            new_steps = detail.get("steps")
+            if isinstance(old_steps, list) and isinstance(new_steps, list) and len(old_steps) == len(new_steps):
+                for o, n in zip(old_steps, new_steps):
+                    if isinstance(o, dict) and isinstance(n, dict) and o.get("text") is not None:
+                        n["text"] = o.get("text") or ""
+
+            if isinstance(old_detail.get("warnings"), list):
+                detail["warnings"] = old_detail.get("warnings") or []
+
+            new_meta["translated"] = True
+            detail["_translation"] = new_meta
+            return
+
+    # 不启用翻译 / 缺少依赖
+    if not do_translate or translate_text is None:
+        detail["_translation"] = new_meta
+        return
+
+    # 构造带 token 的块文本，尽量一次请求翻译，避免大量调用导致限流
+    token_pairs: list[tuple[str, str]] = []
+    token_pairs.append(("[[BF_TITLE]]", _collapse_ws(detail.get("title") or "")))
+    token_pairs.append(("[[BF_TIP]]", _collapse_ws(detail.get("nutrition_tip") or "")))
+
+    ingredients = detail.get("ingredients")
+    if isinstance(ingredients, list):
+        for i, ing in enumerate(ingredients):
+            if not isinstance(ing, dict):
+                continue
+            token_pairs.append((f"[[BF_ING_NAME_{i}]]", _collapse_ws(ing.get("name") or "")))
+            token_pairs.append((f"[[BF_ING_AMOUNT_{i}]]", _collapse_ws(ing.get("amount") or "")))
+
+    steps = detail.get("steps")
+    if isinstance(steps, list):
+        for i, st in enumerate(steps):
+            if not isinstance(st, dict):
+                continue
+            token_pairs.append((f"[[BF_STEP_{i}]]", _collapse_ws(st.get("text") or "")))
+
+    warnings = detail.get("warnings")
+    if isinstance(warnings, list):
+        for i, w in enumerate(warnings):
+            token_pairs.append((f"[[BF_WARN_{i}]]", _collapse_ws(w or "")))
+
+    # 若无需翻译（已经是中文/无英文内容），标记为已翻译以便后续跳过
+    needs = [t for t, txt in token_pairs if t != "[[BF_TITLE]]" and needs_translation(txt)]
+    if not needs:
+        new_meta["translated"] = True
+        detail["_translation"] = new_meta
+        return
+
+    block = "\n".join(f"{t} {txt}" for t, txt in token_pairs)
+    zh_block = translate_text(block, dest="zh-CN")
+    tokens = [t for t, _ in token_pairs]
+    parsed = _parse_translated_tokens(zh_block, tokens)
+
+    # 应用翻译结果（缺失则回退为原文）
+    if not title_zh:
+        detail["title"] = parsed.get("[[BF_TITLE]]") or detail.get("title") or ""
+    detail["nutrition_tip"] = parsed.get("[[BF_TIP]]") or detail.get("nutrition_tip") or ""
+
+    if isinstance(ingredients, list):
+        for i, ing in enumerate(ingredients):
+            if not isinstance(ing, dict):
+                continue
+            ing["name"] = parsed.get(f"[[BF_ING_NAME_{i}]]") or ing.get("name") or ""
+            ing["amount"] = parsed.get(f"[[BF_ING_AMOUNT_{i}]]") or ing.get("amount") or ""
+
+    if isinstance(steps, list):
+        for i, st in enumerate(steps):
+            if not isinstance(st, dict):
+                continue
+            st["text"] = parsed.get(f"[[BF_STEP_{i}]]") or st.get("text") or ""
+
+    if isinstance(warnings, list):
+        out_warns = []
+        for i, w in enumerate(warnings):
+            out_warns.append(parsed.get(f"[[BF_WARN_{i}]]") or w or "")
+        detail["warnings"] = out_warns
+
+    translated_cnt = 0
+    for token in needs:
+        if has_chinese(parsed.get(token) or ""):
+            translated_cnt += 1
+    new_meta["translated"] = translated_cnt >= max(1, (len(needs) + 1) // 2)
+    detail["_translation"] = new_meta
 
 
 def ensure_seed_data():
@@ -303,6 +508,7 @@ def main():
     parser.add_argument("--limit", type=int, default=0, help="仅抓取前 N 条（0 表示全量）")
     parser.add_argument("--max-pages", type=int, default=20, help="最多翻页数（每页 24 条）")
     parser.add_argument("--no-images", action="store_true", help="跳过图片下载（调试用）")
+    parser.add_argument("--no-translate", action="store_true", help="跳过中文翻译（默认会翻译详情文本）")
     parser.add_argument("--dry-run", action="store_true", help="只抓取与解析，不落盘写文件")
     args = parser.parse_args()
 
@@ -330,6 +536,44 @@ def main():
             print("sample:", new_index["items"][0]["title"])
         return
 
+    do_translate = not args.no_translate
+    if do_translate and translate_text is None:
+        print("translate disabled: missing translator dependency")
+        do_translate = False
+
+    # 列表标题：优先复用旧的中文标题，避免每天重复翻译导致的波动
+    old_title_by_id: dict[str, str] = {}
+    if isinstance(old_index, dict) and isinstance(old_index.get("items"), list):
+        for it in old_index["items"]:
+            if not isinstance(it, dict):
+                continue
+            rid = it.get("id")
+            title = it.get("title")
+            if rid and isinstance(title, str) and title:
+                old_title_by_id[str(rid)] = title
+
+    title_by_id: dict[str, str] = {}
+    if isinstance(new_index, dict) and isinstance(new_index.get("items"), list):
+        for it in new_index["items"]:
+            if not isinstance(it, dict):
+                continue
+            rid = it.get("id")
+            if not rid:
+                continue
+            rid = str(rid)
+            title_en = str(it.get("title") or "")
+
+            old_title = old_title_by_id.get(rid)
+            if old_title and has_chinese(old_title):
+                it["title"] = old_title
+            elif do_translate and needs_translation(title_en):
+                it["title"] = translate_text(title_en, dest="zh-CN")
+
+            title_by_id[rid] = str(it.get("title") or "")
+
+        # 标题翻译后重新排序，保证列表顺序稳定
+        new_index["items"].sort(key=lambda x: (x.get("publish_date", ""), x.get("title", "")), reverse=True)
+
     changed = False
     old_items = old_index.get("items") if isinstance(old_index, dict) else None
     if old_items != new_index["items"]:
@@ -351,6 +595,13 @@ def main():
     for rid, detail in details.items():
         detail_path = os.path.join(RECIPES_DIR, f"{rid}.json")
         old_detail = read_json(detail_path, None) if os.path.exists(detail_path) else None
+        if do_translate:
+            _translate_detail_inplace(
+                detail,
+                title_zh=title_by_id.get(rid) or None,
+                do_translate=do_translate,
+                old_detail=old_detail if isinstance(old_detail, dict) else None,
+            )
         if not isinstance(old_detail, dict):
             detail["updated_at"] = now
             changed = True

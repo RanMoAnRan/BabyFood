@@ -22,6 +22,119 @@ function normalizeMediaUrl(maybeUrl) {
   return joinUrl(CDN_BASE, maybeUrl);
 }
 
+function normalizeMealTags(tags) {
+  if (!Array.isArray(tags)) return tags;
+  const out = [];
+  const seen = new Set();
+  let changed = false;
+
+  const add = (t) => {
+    const key = String(t || "");
+    if (!key) return;
+    if (seen.has(key)) {
+      changed = true;
+      return;
+    }
+    seen.add(key);
+    out.push(key);
+  };
+
+  tags.forEach((t) => {
+    if (!t) return;
+    const s = String(t);
+
+    // Backward-compat for existing dataset tags
+    if (s === "点心") {
+      changed = true;
+      add("小吃");
+      return;
+    }
+    if (s === "正餐") {
+      changed = true;
+      add("午餐");
+      add("晚餐");
+      return;
+    }
+
+    // Optional compat if upstream ever returns English meal tags
+    if (s === "Breakfast") {
+      changed = true;
+      add("早餐");
+      return;
+    }
+    if (s === "Lunch") {
+      changed = true;
+      add("午餐");
+      return;
+    }
+    if (s === "Dinner") {
+      changed = true;
+      add("晚餐");
+      return;
+    }
+    if (s === "Snack") {
+      changed = true;
+      add("小吃");
+      return;
+    }
+
+    add(s);
+  });
+
+  if (!changed && out.length === tags.length) return tags;
+  return out;
+}
+
+function normalizeIndexData(data) {
+  if (!data || !Array.isArray(data.items)) return data;
+  let changed = false;
+  const items = data.items.map((it) => {
+    if (!it) return it;
+    const nextCover = normalizeMediaUrl(it.cover_image);
+    const nextTags = normalizeMealTags(it.tags);
+    if (nextCover === it.cover_image && nextTags === it.tags) return it;
+    changed = true;
+    return { ...it, cover_image: nextCover, tags: nextTags };
+  });
+  if (!changed) return data;
+  return { ...data, items };
+}
+
+function normalizeRecipeData(data) {
+  if (!data || !data.id) return data;
+  let changed = false;
+  const out = { ...data };
+
+  const nextCover = normalizeMediaUrl(data.cover_image);
+  if (nextCover !== data.cover_image) {
+    out.cover_image = nextCover;
+    changed = true;
+  }
+
+  const nextTags = normalizeMealTags(data.tags);
+  if (nextTags !== data.tags) {
+    out.tags = nextTags;
+    changed = true;
+  }
+
+  if (Array.isArray(data.steps)) {
+    let stepsChanged = false;
+    const steps = data.steps.map((s) => {
+      if (!s) return s;
+      const nextImg = normalizeMediaUrl(s.img);
+      if (nextImg === s.img) return s;
+      stepsChanged = true;
+      return { ...s, img: nextImg };
+    });
+    if (stepsChanged) {
+      out.steps = steps;
+      changed = true;
+    }
+  }
+
+  return changed ? out : data;
+}
+
 function loadSeedJson(relPath) {
   try {
     return require(`../seed/${relPath}`);
@@ -48,7 +161,11 @@ async function fetchManifest({ force = false } = {}) {
 
 async function fetchIndex({ force = false } = {}) {
   const cached = storage.get(STORAGE_KEYS.index, null);
-  if (!force && cached && Array.isArray(cached.items)) return cached;
+  if (!force && cached && Array.isArray(cached.items)) {
+    const normalized = normalizeIndexData(cached);
+    if (normalized !== cached) storage.set(STORAGE_KEYS.index, normalized);
+    return normalized;
+  }
 
   let manifest = storage.get(STORAGE_KEYS.manifest, null);
   if (!manifest || !manifest.version) manifest = await fetchManifest();
@@ -56,14 +173,16 @@ async function fetchIndex({ force = false } = {}) {
   const url = withQuery(joinUrl(CDN_BASE, PATHS.index), force ? { v: bust, t: Date.now() } : { v: bust });
   try {
     const data = await request.requestJson(url);
-    if (data && Array.isArray(data.items)) {
-      data.items = data.items.map((it) => ({ ...it, cover_image: normalizeMediaUrl(it.cover_image) }));
-      storage.set(STORAGE_KEYS.index, data);
-    }
-    return data;
+    const normalized = normalizeIndexData(data);
+    if (normalized && Array.isArray(normalized.items)) storage.set(STORAGE_KEYS.index, normalized);
+    return normalized;
   } catch (e) {
-    if (cached && Array.isArray(cached.items)) return cached;
-    return loadSeedJson(PATHS.index);
+    if (cached && Array.isArray(cached.items)) {
+      const normalized = normalizeIndexData(cached);
+      if (normalized !== cached) storage.set(STORAGE_KEYS.index, normalized);
+      return normalized;
+    }
+    return normalizeIndexData(loadSeedJson(PATHS.index));
   }
 }
 
@@ -76,7 +195,11 @@ async function fetchRecipe(id, { force = false, version = null } = {}) {
   if (!id) return null;
   const key = recipeCacheKey(id, version);
   const cached = storage.get(key, null);
-  if (!force && cached && cached.id) return cached;
+  if (!force && cached && cached.id) {
+    const normalized = normalizeRecipeData(cached);
+    if (normalized !== cached) storage.set(key, normalized);
+    return normalized;
+  }
 
   let manifest = storage.get(STORAGE_KEYS.manifest, null);
   if (!manifest || !manifest.version) manifest = await fetchManifest();
@@ -84,17 +207,16 @@ async function fetchRecipe(id, { force = false, version = null } = {}) {
   const url = withQuery(joinUrl(CDN_BASE, `${PATHS.recipeDir}/${id}.json`), force ? { v: bust, t: Date.now() } : { v: bust });
   try {
     const data = await request.requestJson(url);
-    if (data && data.id) {
-      data.cover_image = normalizeMediaUrl(data.cover_image);
-      if (Array.isArray(data.steps)) {
-        data.steps = data.steps.map((s) => ({ ...s, img: normalizeMediaUrl(s.img) }));
-      }
-      storage.set(key, data);
-    }
-    return data;
+    const normalized = normalizeRecipeData(data);
+    if (normalized && normalized.id) storage.set(key, normalized);
+    return normalized;
   } catch (e) {
-    if (cached && cached.id) return cached;
-    return loadSeedJson(`${PATHS.recipeDir}/${id}.json`);
+    if (cached && cached.id) {
+      const normalized = normalizeRecipeData(cached);
+      if (normalized !== cached) storage.set(key, normalized);
+      return normalized;
+    }
+    return normalizeRecipeData(loadSeedJson(`${PATHS.recipeDir}/${id}.json`));
   }
 }
 

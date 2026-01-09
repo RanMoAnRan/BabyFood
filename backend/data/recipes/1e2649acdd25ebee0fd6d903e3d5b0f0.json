@@ -1,9 +1,9 @@
 {
   "id": "1e2649acdd25ebee0fd6d903e3d5b0f0",
-  "title": "One Pan Spaghetti",
+  "title": "一锅意面",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "乳制品",
@@ -12,84 +12,89 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/527258600c6d646e807b999139384079.webp",
-  "nutrition_tip": "This cheesy pasta recipe is easy to make, and kids love it!",
+  "nutrition_tip": "这个奶酪意大利面食谱很容易做，孩子们喜欢它！",
   "ingredients": [
     {
-      "name": "ground beef (lean, 15% fat)",
-      "amount": "1 / 2 pound"
+      "name": "碎牛肉（瘦肉，15% 脂肪）",
+      "amount": "1 / 2 磅"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 medium"
+      "name": "洋葱（切碎）",
+      "amount": "1 个中等"
     },
     {
-      "name": "water",
-      "amount": "3 cups"
+      "name": "水",
+      "amount": "3 杯"
     },
     {
-      "name": "tomato sauce (15 ounces)",
-      "amount": "1 can"
+      "name": "番茄酱（15 盎司）",
+      "amount": "1 罐"
     },
     {
-      "name": "oregano (dried)",
-      "amount": "2 teaspoons"
+      "name": "牛至（干）",
+      "amount": "2 茶匙"
     },
     {
-      "name": "sugar",
-      "amount": "1 teaspoon"
+      "name": "糖",
+      "amount": "1 茶匙"
     },
     {
-      "name": "garlic powder (or 2 garlic cloves)",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉（或 2 瓣蒜）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "rosemary",
-      "amount": "1 teaspoon"
+      "name": "迷迭香",
+      "amount": "1 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "spaghetti (12 ounces, broken)",
-      "amount": "2 cups"
+      "name": "意大利面（12 盎司，破碎）",
+      "amount": "2 杯"
     },
     {
-      "name": "parmesan cheese (4 oz, shredded)",
-      "amount": "1 cup"
+      "name": "帕尔马干酪（4 盎司，切丝）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Brown meat and onions in a large skillet over medium-high heat (300 degrees in an electric skillet). Drain fat."
+      "text": "将肉和洋葱放入大煎锅中，用中火加热（电煎锅中为 300 度）。排出脂肪。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Stir in water, tomato sauce, and spices. Bring to a boil."
+      "text": "加入水、番茄酱和香料搅拌。煮沸。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add spaghetti, cover pan, and simmer 10-15 minutes, stirring often to prevent sticking."
+      "text": "加入意大利面条，盖上锅盖，煮 10-15 分钟，经常搅拌以防止粘连。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "When spaghetti is tender, top with grated cheese."
+      "text": "当意大利面变软时，在上面放上磨碎的奶酪。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/one-pan-spaghetti",
   "origin_url": "https://foodhero.org/recipes/one-pan-spaghetti",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "df0b4fb1e04e388dccec32def6ae0b57",
+    "translated": true
+  }
 }

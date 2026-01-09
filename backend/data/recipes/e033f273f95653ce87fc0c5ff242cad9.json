@@ -1,75 +1,81 @@
 {
   "id": "e033f273f95653ce87fc0c5ff242cad9",
-  "title": "Tomato and Tomatillo Gazpacho",
+  "title": "番茄酸浆冷汤",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/05fd8b8bb5cbea01a9afe706016ac275.webp",
-  "nutrition_tip": "Light and refreshing cool summer soup.",
+  "nutrition_tip": "清淡爽口的夏日清凉汤。",
   "ingredients": [
     {
-      "name": "tomatillos (fresh, husked, rinsed, and quartered)",
-      "amount": "1 / 2 pound"
+      "name": "粘浆果（新鲜、去壳、冲洗并切成四等分）",
+      "amount": "1 / 2 磅"
     },
     {
-      "name": "tomatoes (chopped, dividied)",
-      "amount": "1 1 / 2 pounds"
+      "name": "西红柿（切碎，分次）",
+      "amount": "1 1 / 2 磅"
     },
     {
-      "name": "onion (white, divided)",
-      "amount": "1 / 2 cup"
+      "name": "洋葱（白色，分开）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "pepper (hot such as jalapeno, chopped, including seeds)",
-      "amount": "1 medium"
+      "name": "辣椒（辣椒等辣味，切碎，包括种子）",
+      "amount": "1 个中等"
     },
     {
-      "name": "garlic (quartered)",
-      "amount": "1 clove"
+      "name": "大蒜（切成四份）",
+      "amount": "1 丁香"
     },
     {
-      "name": "red wine vinegar",
-      "amount": "2 tablespoons"
+      "name": "红酒醋",
+      "amount": "2 汤匙"
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons"
+      "name": "橄榄油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "cilantro (chopped)",
-      "amount": "1 / 2 cup"
+      "name": "香菜（切碎）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Puree tomatillos, half of tomatoes, and half of onion with hot pepper, garlic, vinegar, and 1 ¼ teaspoons salt in a blender until smooth."
+      "text": "将粘浆果、一半西红柿、一半洋葱、辣椒、大蒜、醋和 1 ¼ 茶匙盐放入搅拌机中打成泥，直至变得光滑。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Force through a medium-mesh sieve into a bowl, discarding solids."
+      "text": "用力通过中目筛进入碗中，丢弃固体。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in remaining tomatoes and onion, water, oil, and cilantro."
+      "text": "加入剩余的西红柿和洋葱、水、油和香菜。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Chill until cold, at least 1 hour and up to 4 hours."
+      "text": "冷却至冷，至少 1 小时，最多 4 小时。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-05-31",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/tomato-and-tomatillo-gazpacho",
   "origin_url": "https://nesfp.nutrition.tufts.edu/world-peas-food-hub/world-peas-csa/produce-recipes/tomato-and-tomatillo-gazpacho",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4f8e9e4ce251206311d4ba8b29f485b3",
+    "translated": true
+  }
 }

@@ -1,69 +1,74 @@
 {
   "id": "67ae33df1f279d759ed9e1e36f1ec93a",
-  "title": "Banana Oatmeal Cookies",
+  "title": "香蕉燕麦饼干",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/f6402d5a6a572e0d51885dc7553c57e6.webp",
-  "nutrition_tip": "Looking for a no-added-sugar snack? Try these Banana Oatmeal Cookies for a pick-…",
+  "nutrition_tip": "正在寻找不添加糖的零食？尝尝这些香蕉燕麦饼干吧——……",
   "ingredients": [
     {
-      "name": "banana (very ripe)",
+      "name": "香蕉（非常熟）",
       "amount": "2"
     },
     {
-      "name": "oats (quick or old-fashioned)",
-      "amount": "1 cup"
+      "name": "燕麦（速食或老式）",
+      "amount": "1 杯"
     },
     {
-      "name": "cinnamon",
-      "amount": "1 / 2 teaspoon"
+      "name": "肉桂",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "vanilla",
-      "amount": "1 / 2 teaspoon"
+      "name": "香草",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "raisins",
-      "amount": "1 / 2 cup"
+      "name": "葡萄干",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 350 degrees."
+      "text": "将烤箱预热至 350 度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a medium bowl, mash bananas with a fork until mostly smooth."
+      "text": "在一个中等大小的碗中，用叉子将香蕉捣碎，直至基本光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add oats, cinnamon, vanilla and raisins. Mix well."
+      "text": "添加燕麦、肉桂、香草和葡萄干。搅拌均匀。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Drop spoonfuls of dough onto lightly sprayed or oiled baking sheet. Flatten with the back of a spoon or bottom of a drinking glass."
+      "text": "将一勺面团放在稍微喷过油或涂油的烤盘上。用勺子背面或水杯底部压平。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake 10 to 15 minutes. Remove from oven and let cool before serving."
+      "text": "烘烤 10 到 15 分钟。从烤箱中取出并冷却后再食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/banana-oatmeal-cookies",
   "origin_url": "https://foodhero.org/recipes/banana-oatmeal-cookies",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ef08605a9093c98b757ce38d80903990",
+    "translated": true
+  }
 }

@@ -1,67 +1,72 @@
 {
   "id": "9eff9421ec5547726cdf8ddf37f16580",
-  "title": "Collard Greens and Cabbage",
+  "title": "羽衣甘蓝和卷心菜",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/5ea459e2be34945e590b75a48dc06ca6.webp",
-  "nutrition_tip": "Add more green veggies to your meal with Collard Greens and Cabbage.",
+  "nutrition_tip": "在膳食中添加更多绿色蔬菜，包括羽衣甘蓝和卷心菜。",
   "ingredients": [
     {
-      "name": "collard greens (washed, stems removed, shredded)",
-      "amount": "8 ounces"
+      "name": "羽衣甘蓝（洗净、去蒂、切丝）",
+      "amount": "8 盎司"
     },
     {
-      "name": "cabbage (shredded)",
-      "amount": "2 cups"
+      "name": "卷心菜（切丝）",
+      "amount": "2 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "1 tablespoon"
+      "name": "橄榄油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "onion (chopped)",
+      "name": "洋葱（切碎）",
       "amount": "1"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 tablespoon"
+      "name": "大蒜粉",
+      "amount": "1 汤匙"
     },
     {
-      "name": "vinegar",
-      "amount": "1 tablespoon"
+      "name": "醋",
+      "amount": "1 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Fill a pot halfway with water. Bring to a boil."
+      "text": "将锅装满一半的水。煮沸。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add collard greens, let water return to a boil, and cook for 3 minutes. Add cabbage and cook 1 more minute. Drain well."
+      "text": "加入羽衣甘蓝，让水再次沸腾，煮 3 分钟。加入卷心菜，再煮 1 分钟。沥干。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "In a skillet, heat oil over medium heat. Add onion and sauté until light brown, about 5 minutes."
+      "text": "在煎锅中，用中火加热油。加入洋葱，炒至浅棕色，大约 5 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add greens, garlic powder, and vinegar to the skillet and stir well. Cook until most moisture is evaporated, about 1 minute."
+      "text": "将蔬菜、大蒜粉和醋加入煎锅中，搅拌均匀。煮约 1 分钟，直至大部分水分蒸发。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/collard-greens-and-cabbage",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/collard-greens-and-cabbage/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "764d0c122c2d1e8c015889b823fb3e79",
+    "translated": true
+  }
 }

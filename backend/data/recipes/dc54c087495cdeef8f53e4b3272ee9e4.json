@@ -1,9 +1,10 @@
 {
   "id": "dc54c087495cdeef8f53e4b3272ee9e4",
-  "title": "Leek and Mushroom Orzo",
+  "title": "韭葱蘑菇粒粒面",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "蛋白质",
     "谷物"
@@ -11,90 +12,95 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/e6d2b1a43f9a3ac735894d95debfd70c.webp",
-  "nutrition_tip": "Cook this delicious pasta dish in 45 minutes that will taste great for dinner an…",
+  "nutrition_tip": "45 分钟内煮出这道美味的意大利面，作为晚餐和......",
   "ingredients": [
     {
-      "name": "leek (chopped)",
-      "amount": "2 cups"
+      "name": "韭葱（切碎）",
+      "amount": "2 杯"
     },
     {
-      "name": "oil",
-      "amount": "1 tablespoon"
+      "name": "石油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "mushrooms (sliced)",
-      "amount": "2 cups"
+      "name": "蘑菇（切片）",
+      "amount": "2 杯"
     },
     {
-      "name": "orzo (dry)",
-      "amount": "1 cup"
+      "name": "米粒（干）",
+      "amount": "1 杯"
     },
     {
-      "name": "vegetable broth",
-      "amount": "2 cups"
+      "name": "蔬菜汤",
+      "amount": "2 杯"
     },
     {
-      "name": "tomatoes (chopped)",
-      "amount": "1 1 / 2 cups"
+      "name": "西红柿（切碎）",
+      "amount": "1 1 / 2 杯"
     },
     {
-      "name": "cream cheese",
-      "amount": "3 tablespoons"
+      "name": "奶油奶酪",
+      "amount": "3 汤匙"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "胡椒",
+      "amount": "1 / 4 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Sauté leeks in oil in a medium skillet over medium heat, stirring occasionally, until the leeks are soft (about 5 minutes)."
+      "text": "在中型煎锅中用中火炒油韭菜，偶尔搅拌，直到韭菜变软（约 5 分钟）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add mushrooms and cook until soft (about 5 minutes)."
+      "text": "加入蘑菇，煮至软（约 5 分钟）。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in the orzo and toast lightly, stirring frequently, for about 3 minutes."
+      "text": "拌入米粒并轻轻烘烤约 3 分钟，经常搅拌。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add broth and bring to a boil. Reduce heat to simmer, stirring occasionally, until the orzo is almost tender, about 8 minutes."
+      "text": "加入肉汤并煮沸。将火调小，煮约 8 分钟，偶尔搅拌，直到米粒几乎变软。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add the tomatoes and simmer until orzo is tender (about 2 minutes)."
+      "text": "加入西红柿，煮至米粒变软（约 2 分钟）。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove from heat and stir in cream cheese, garlic powder, salt and pepper. Serve warm."
+      "text": "从火上移开，拌入奶油干酪、大蒜粉、盐和胡椒。趁热食用。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-09-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/leek-and-mushroom-orzo",
   "origin_url": "https://medlineplus.gov/recipes/leek-and-mushroom-orzo/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7d1c0b12655353fb0e122b6ef8cd7f33",
+    "translated": true
+  }
 }

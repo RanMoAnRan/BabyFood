@@ -1,90 +1,95 @@
 {
   "id": "03ccfc5039822065abd4aca35c8ba581",
-  "title": "Easy Stroganoff",
+  "title": "简易俄式炖肉",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "晚餐",
     "蛋白质",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/06918717ffa825882efa1623a9286446.webp",
-  "nutrition_tip": "This healthy take on traditional beef stroganoff uses lean meat, plain yogurt, a…",
+  "nutrition_tip": "这种健康的传统牛肉沙拉酱使用瘦肉、原味酸奶、…",
   "ingredients": [
     {
-      "name": "whole grain egg noodles (uncooked)",
-      "amount": "8 ounces"
+      "name": "全麦鸡蛋面（生）",
+      "amount": "8 盎司"
     },
     {
-      "name": "ground beef (lean; or ground turkey)",
-      "amount": "1 pound"
+      "name": "碎牛肉（瘦肉；或碎火鸡）",
+      "amount": "1 磅"
     },
     {
-      "name": "onion (chopped)",
+      "name": "洋葱（切碎）",
       "amount": "1"
     },
     {
-      "name": "bell pepper (chopped)",
+      "name": "灯笼椒（切碎）",
       "amount": "1"
     },
     {
-      "name": "canned mushroom pieces (drained)",
-      "amount": "8 ounces"
+      "name": "蘑菇罐头（沥干）",
+      "amount": "8 盎司"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "black pepper (ground)",
-      "amount": "1 teaspoon"
+      "name": "黑胡椒（磨碎）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "beef bouillon granules",
-      "amount": "1 / 2 teaspoon"
+      "name": "牛肉汤颗粒",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "plain yogurt (low fat)",
-      "amount": "1 cup"
+      "name": "原味酸奶（低脂）",
+      "amount": "1 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a saucepan, prepare noodles according to package directions. Drain when cooked."
+      "text": "在平底锅中，根据包装说明准备面条。煮熟后沥干。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Meanwhile, brown ground beef or turkey and onions in a skillet until meat is no longer pink and onions are"
+      "text": "同时，将碎牛肉或火鸡和洋葱放入煎锅中，直至肉不再呈粉红色且洋葱变成棕色。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "translucent."
+      "text": "半透明。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add pepper, mushroom pieces, garlic powder, black pepper, and beef bouillon."
+      "text": "加入胡椒粉、蘑菇片、蒜粉、黑胡椒和牛肉汤。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Cover and let simmer for 15 minutes. Add yogurt during last 5 minutes of cooking time."
+      "text": "盖上锅盖，小火煮 15 分钟。在烹饪的最后 5 分钟添加酸奶。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "To serve, place 1 cup of egg noodles on plate. Top with ½ cup of beef or turkey mixture."
+      "text": "上菜时，将 1 杯鸡蛋面放在盘子上。上面放 ½ 杯牛肉或火鸡混合物。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/easy-stroganoff",
   "origin_url": "https://efnep.ifas.ufl.edu/media/efnepifasufledu/pdfs/tc-recipes/Easy-Stroganoff.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a4a920bbcbe991cd476ce40467b1254c",
+    "translated": true
+  }
 }

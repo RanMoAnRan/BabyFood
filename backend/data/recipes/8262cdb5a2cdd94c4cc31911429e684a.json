@@ -1,39 +1,39 @@
 {
   "id": "8262cdb5a2cdd94c4cc31911429e684a",
-  "title": "Foil Dinners",
+  "title": "锡纸晚餐",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/b56b3a23eb1008ba5a321a68e6b4ee10.webp",
-  "nutrition_tip": "Cook these veggie and meat foil packets in the oven, on the grill, or over a cam…",
+  "nutrition_tip": "在烤箱、烤架或凸轮上烹饪这些蔬菜和肉箔包......",
   "ingredients": [
     {
-      "name": "ground beef (or ground turkey, lean, rinsed and drained)",
-      "amount": "1 pound"
+      "name": "碎牛肉（或碎火鸡，瘦肉，冲洗并沥干）",
+      "amount": "1 磅"
     },
     {
-      "name": "potatoes (scrubbed, eyes removed, sliced)",
-      "amount": "2 large"
+      "name": "土豆（擦洗、去眼、切片）",
+      "amount": "2 大"
     },
     {
-      "name": "onion (peeled and sliced)",
-      "amount": "1 large"
+      "name": "洋葱（去皮切片）",
+      "amount": "1 个大"
     },
     {
-      "name": "carrots (scrubbed and sliced)",
-      "amount": "2 large"
+      "name": "胡萝卜（擦洗并切片）",
+      "amount": "2 大"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "Salt, pepper, or other seasonings (such as garlic salt or barbecue seasoning, to taste)",
+      "name": "盐、胡椒或其他调味料（例如大蒜盐或烧烤调味料，按口味）",
       "amount": ""
     }
   ],
@@ -41,48 +41,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 350 degrees F. Mix 1/2 teaspoon salt into ground beef. Shape meat into 4 flat patties about the size of the palm of your hand."
+      "text": "将烤箱预热至 350 华氏度。将 1/2 茶匙盐混合到碎牛肉中。将肉切成手掌大小的 4 个扁平肉饼。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Lay each patty on a piece of foil about 15 inches long. Wash hands carefully after handling raw meat."
+      "text": "将每个馅饼放在一块约 15 英寸长的箔纸上。处理生肉后仔细洗手。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Top each patty with slices of potato, onion, and carrots."
+      "text": "在每个肉饼上放上土豆片、洋葱片和胡萝卜片。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add salt, pepper, and other seasonings if desired."
+      "text": "如果需要的话，添加盐、胡椒和其他调味料。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Wrap each pile in foil and seal tightly. Place on cookie sheet if desired."
+      "text": "用箔纸包裹每堆并密封。如果需要的话，放在饼干片上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake for 1 hour."
+      "text": "烘烤 1 小时。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Carefully remove very hot packages from oven onto serving plate. Puncture foil to release steam. Cool for several minutes before unwrapping. Before serving, be sure beef is thoroughly cooked. The beef should not be pink and juices should be clear."
+      "text": "小心地将非常热的包装从烤箱中取出到盘子上。刺穿箔片以释放蒸汽。打开包装前冷却几分钟。上菜前，确保牛肉彻底煮熟。牛肉不应该是粉红色的，汁液应该是清澈的。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours of cooking."
+      "text": "烹饪后 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/foil-dinners",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/foil-dinners",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4ad8f6a9543aa7c56b764feec9ae4f03",
+    "translated": true
+  }
 }

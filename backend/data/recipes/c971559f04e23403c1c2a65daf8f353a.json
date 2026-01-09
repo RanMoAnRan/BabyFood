@@ -1,92 +1,97 @@
 {
   "id": "c971559f04e23403c1c2a65daf8f353a",
-  "title": "Lentil Soup",
+  "title": "扁豆汤",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/09ebdcd1571189b576d560f17f352144.webp",
-  "nutrition_tip": "This vegetarian soup is perfect for a cool fall or winter day.",
+  "nutrition_tip": "这道素食汤非常适合凉爽的秋季或冬季。",
   "ingredients": [
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons"
+      "name": "橄榄油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "carrots (diced)",
-      "amount": "2 medium"
+      "name": "胡萝卜（切丁）",
+      "amount": "2 个中等"
     },
     {
-      "name": "celery (stalks, chopped)",
-      "amount": "2 medium"
+      "name": "芹菜（茎，切碎）",
+      "amount": "2 个中等"
     },
     {
-      "name": "onion (yellow, chopped)",
-      "amount": "1 small"
+      "name": "洋葱（黄色，切碎）",
+      "amount": "1 个小"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "2 cloves"
+      "name": "大蒜（切碎）",
+      "amount": "2 丁香"
     },
     {
-      "name": "oregano (dried)",
-      "amount": "1 teaspoon"
+      "name": "牛至（干）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "basil (dried)",
-      "amount": "1 teaspoon"
+      "name": "罗勒（干）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "black pepper (ground)",
-      "amount": "1 / 2 teaspoon"
+      "name": "黑胡椒（磨碎）",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "lentils (dry)",
-      "amount": "2 cups"
+      "name": "小扁豆（干）",
+      "amount": "2 杯"
     },
     {
-      "name": "tomatoes (crushed, 14.5 ounces)",
-      "amount": "1 can"
+      "name": "西红柿（压碎，14.5 盎司）",
+      "amount": "1 罐"
     },
     {
-      "name": "vegetable broth",
-      "amount": "2 cups"
+      "name": "蔬菜汤",
+      "amount": "2 杯"
     },
     {
-      "name": "water",
-      "amount": "6 1 / 2 cups"
+      "name": "水",
+      "amount": "6 1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a large soup pot, heat oil over medium heat. Add carrots, celery, and onions; cook and stir until the onion is tender."
+      "text": "在一个大汤锅中，用中火加热油。加入胡萝卜、芹菜和洋葱；煮并搅拌直至洋葱变软。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Stir in garlic, oregano, basil, and pepper. Cook for 2 minutes."
+      "text": "拌入大蒜、牛至、罗勒和胡椒。煮2分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in lentils and tomatoes, then add the vegetable broth and water. Cover and bring to a boil. Reduce heat and simmer for at least 1 hour or until lentils are tender."
+      "text": "拌入扁豆和西红柿，然后加入蔬菜汤和水。盖上盖子并煮沸。调小火，煮至少 1 小时或直至扁豆变软。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Store leftovers in the refrigerator and reheat on the stove or in the microwave. The soup will taste better the next day!"
+      "text": "将剩菜存放在冰箱中，然后在炉子或微波炉中重新加热。第二天的汤会更美味！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/lentil-soup",
   "origin_url": "https://www.nhlbi.nih.gov/health/educational/wecan/eat-right/lentil-soup.htm",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bff242b14562aedb9bf0edcc3240bf30",
+    "translated": true
+  }
 }

@@ -1,112 +1,118 @@
 {
   "id": "bf30bf881d2f6ba23e201a1c0ae6b942",
-  "title": "Tangy Crisp Vegetable and Pasta Salad",
+  "title": "脆爽蔬菜意面沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ceaf3c4ee7012778d72b5fbec30de944.webp",
-  "nutrition_tip": "Use your favorite pasta and veggies to make this salad a family favorite. Make a…",
+  "nutrition_tip": "使用您最喜欢的面食和蔬菜使这款沙拉成为全家人的最爱。做一个…",
   "ingredients": [
     {
-      "name": "pasta (uncooked, (such as shells, macaroni, etc))",
-      "amount": "1 / 2 cup"
+      "name": "意大利面（未煮过的，（如贝壳、通心粉等））",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "vinegar",
-      "amount": "1 / 4 cup"
+      "name": "醋",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "sugar",
-      "amount": "2 tablespoons"
+      "name": "糖",
+      "amount": "2 汤匙"
     },
     {
-      "name": "garlic (powder)",
-      "amount": "1 / 2 teaspoon"
+      "name": "大蒜（粉）",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "cucumber ((peeled, seeded, and coarsely chopped))",
-      "amount": "1 / 2 medium"
+      "name": "黄瓜（（去皮、去籽、粗切））",
+      "amount": "1 / 2 中"
     },
     {
-      "name": "carrots ((thinly sliced))",
-      "amount": "1 / 2 medium"
+      "name": "胡萝卜（（切成薄片））",
+      "amount": "1 / 2 中"
     },
     {
-      "name": "tomato ((coarsely chopped))",
-      "amount": "1 / 2 medium"
+      "name": "番茄（（粗切））",
+      "amount": "1 / 2 中"
     },
     {
-      "name": "green pepper ((coarsely chopped))",
-      "amount": "1 / 4 medium"
+      "name": "青椒（（粗切））",
+      "amount": "1 / 4 中"
     },
     {
-      "name": "broccoli ((coarsely chopped))",
-      "amount": "1 / 2 cup"
+      "name": "西兰花（（粗切））",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "radish ((thinly sliced))",
-      "amount": "1 / 2 cup"
+      "name": "萝卜（（切成薄片））",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "onion (green or red (coarsely chopped))",
-      "amount": "2 tablespoons"
+      "name": "洋葱（绿色或红色（粗切））",
+      "amount": "2 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash your hands and work area."
+      "text": "清洗双手和工作区域。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Cook pasta according to package directions but do not add salt to cooking water. Drain, rinse with cool water, and drain again."
+      "text": "根据包装说明煮意大利面，但不要在煮水中加盐。沥干，用冷水冲洗，然后再次沥干。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Meanwhile, in a small saucepan, combine vinegar, sugar, salt, garlic powder and black pepper. Stir and heat over medium heat until sugar is dissolved, but do not boil. Let cool."
+      "text": "同时，在一个小平底锅中，将醋、糖、盐、蒜粉和黑胡椒混合。搅拌并用中火加热直至糖溶解，但不要沸腾。让其冷却。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Rinse, drain, and chop remaining ingredients. Combine in a shallow container, such as an 8x8 inch pan."
+      "text": "冲洗、沥干并切碎剩余成分。合并在一个浅容器中，例如 8x8 英寸的平底锅。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add cooked pasta, and vinegar mixture. Mix gently."
+      "text": "加入煮熟的意大利面和醋混合物。轻轻混合。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cover and refrigerate overnight to allow flavors to blend."
+      "text": "盖上盖子并冷藏过夜，让味道混合。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve cold using a slotted spoon."
+      "text": "使用漏勺冷食。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Cover and refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内盖上剩菜并冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-06-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/tangy-crisp-vegetable-and-pasta-salad",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/tangy-crisp-vegetable-and-pasta-salad",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ab23e5c581edb5df35f67fe5785cf0b6",
+    "translated": true
+  }
 }

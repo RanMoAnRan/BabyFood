@@ -35,7 +35,7 @@ Page({
     query: "",
     bucket: "",
     activeTag: "",
-    tagOptions: ["早餐", "正餐", "点心"],
+    tagOptions: ["早餐", "午餐", "晚餐", "小吃"],
     indexItems: [],
     filteredAll: [],
     filtered: [],

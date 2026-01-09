@@ -1,75 +1,80 @@
 {
   "id": "7ab0abf15c3c375a67056332837d1ee3",
-  "title": "Citrus Salad with Lemon Yogurt",
+  "title": "柑橘沙拉配柠檬酸奶",
   "min_age_month": 8,
   "tags": [
     "早餐",
-    "点心",
+    "小吃",
     "水果",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ee1ccacf5b9141151b3927cb08e0e2fe.webp",
-  "nutrition_tip": "End your meal with this sweet and healthy fruit salad.",
+  "nutrition_tip": "用这道甜美健康的水果沙拉结束您的用餐。",
   "ingredients": [
     {
-      "name": "oranges (peeled and chopped)",
+      "name": "橙子（去皮并切碎）",
       "amount": "3"
     },
     {
-      "name": "grapefruit (pink or red, peeled and chopped)",
+      "name": "葡萄柚（粉色或红色，去皮并切碎）",
       "amount": "2"
     },
     {
-      "name": "red grapes (seedless, halved)",
-      "amount": "2 cups"
+      "name": "红葡萄（无籽，减半）",
+      "amount": "2 杯"
     },
     {
-      "name": "yogurt (low-fat, lemon)",
-      "amount": "1 container"
+      "name": "酸奶（低脂、柠檬）",
+      "amount": "1 个容器"
     },
     {
-      "name": "honey",
-      "amount": "1 teaspoon"
+      "name": "亲爱的",
+      "amount": "1 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "On a cutting board, cut tops and bottoms off of oranges and grapefruits so each piece of fruit has two flat ends."
+      "text": "在切菜板上，切掉橙子和葡萄柚的顶部和底部，使每块水果都有两个平坦的末端。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place fruit on one flat end and carefully cut off peel and pith from top to bottom."
+      "text": "将水果放在一个平坦的一端，小心地从上到下切掉果皮和果核。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Once peel is removed, chop up fruit. The fewer cuts made, the more juice will be kept in the fruit."
+      "text": "去除果皮后，将水果切碎。切得越少，水果中保留的汁液就越多。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Halve the grapes."
+      "text": "将葡萄减半。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Toss fruit in a bowl and refrigerate until thoroughly chilled, approximately 2 hours."
+      "text": "将水果放入碗中并冷藏直至完全冷却，大约需要 2 小时。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Add honey to yogurt. Drizzle mixture over fruit just before serving."
+      "text": "在酸奶中添加蜂蜜。食用前将混合物淋在水果上。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/citrus-salad-lemon-yogurt",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/citrus-salad-lemon-yogurt",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b09184df86da142fab178f273a8d8ae9",
+    "translated": true
+  }
 }

@@ -1,42 +1,42 @@
 {
   "id": "69e3c80796c250d4b89556cb16f61b90",
-  "title": "Vietnamese Fresh Summer Rolls",
+  "title": "越南春卷",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/f2e74597aa5b3bf1c55cf14ee39f257d.webp",
-  "nutrition_tip": "Quick and refreshing appetizer made with fresh vegetables and herbs",
+  "nutrition_tip": "用新鲜蔬菜和香草制成的快速清爽的开胃菜",
   "ingredients": [
     {
-      "name": "carrots (cut into long, thin strips)",
-      "amount": "1 cup"
+      "name": "胡萝卜（切成细长条）",
+      "amount": "1 杯"
     },
     {
-      "name": "bean sprouts",
-      "amount": "2 cups"
+      "name": "豆芽",
+      "amount": "2 杯"
     },
     {
-      "name": "cucumber (seeded and cut into long, thin strips)",
-      "amount": "2 cups"
+      "name": "黄瓜（去籽并切成细长条）",
+      "amount": "2 杯"
     },
     {
-      "name": "scallions (minced)",
-      "amount": "1 cup"
+      "name": "葱（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "cilantro (fresh, chopped)",
-      "amount": "1 / 2 cup"
+      "name": "香菜（新鲜，切碎）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "mint (fresh, chopped)",
-      "amount": "1 / 4 cup"
+      "name": "薄荷（新鲜，切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "rice paper wrapper",
+      "name": "宣纸包装纸",
       "amount": "8"
     }
   ],
@@ -44,33 +44,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Toss first six ingredients in a large bowl."
+      "text": "将前六种原料放入一个大碗中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Soak one rice paper wrapper in warm water until soft (1 to 2 minutes). Shake off excess water."
+      "text": "将一张米纸浸泡在温水中直至变软（1至2分钟）。甩掉多余的水。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place vegetable filling off-center on rice paper, and fold like an egg roll (tuck in the sides to keep the filling inside)."
+      "text": "将蔬菜馅料偏离中心放在宣纸上，然后像蛋卷一样折叠（将两侧塞入以将馅料保留在里面）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Repeat with remaining vegetable filling and rice paper wrappers."
+      "text": "对剩余的蔬菜馅料和宣纸包装重复上述步骤。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Once you have assembled all of the summer rolls, serve immediately."
+      "text": "组装好所有夏季卷后，立即上桌。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/vietnamese-fresh-summer-rolls",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=0&amp;cId=7&amp;rId=247",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5405740adf200898f2bdf797c9f69e83",
+    "translated": true
+  }
 }

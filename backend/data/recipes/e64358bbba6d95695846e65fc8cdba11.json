@@ -1,75 +1,80 @@
 {
   "id": "e64358bbba6d95695846e65fc8cdba11",
-  "title": "Three Sisters Salad",
+  "title": "三姐妹沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/def6bf242900be80f2fa57156e3cdebd.webp",
-  "nutrition_tip": "ᏎᎷ (she-lu) corn, ᏚᏯ (tu-ya) beans, and ᏩᎩᎦ (wa-gi-ga) squash are the three main…",
+  "nutrition_tip": "ᏎᎷ (she-lu) 玉米、ᏚᏯ (tu-ya) 豆类和 ᏩᎩᎦ (wa-gi-ga) 南瓜是三种主要的…",
   "ingredients": [
     {
-      "name": "sugar",
-      "amount": "1 / 4 cup"
+      "name": "糖",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "vinegar (white)",
-      "amount": "1 / 4 cup"
+      "name": "醋（白）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons"
+      "name": "橄榄油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "corn (drained)",
-      "amount": "2 cans"
+      "name": "玉米（沥干）",
+      "amount": "2 罐"
     },
     {
-      "name": "black beans (drained and rinsed)",
-      "amount": "2 cans"
+      "name": "黑豆（沥干并冲洗）",
+      "amount": "2 罐"
     },
     {
-      "name": "zucchini (chopped)",
-      "amount": "1 cup"
+      "name": "西葫芦（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "squash (yellow, chopped)",
-      "amount": "1 cup"
+      "name": "南瓜（黄色，切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 / 2 cup"
+      "name": "洋葱（切碎）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "bell peppers (green, chopped)",
-      "amount": "1 / 2 cup"
+      "name": "甜椒（绿色，切碎）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a small sauce pan, mix ¼ cup sugar, ¼ cup vinegar, 2Tablespoons olive oil over medium heat. Heat until hot but NOT boiling. Remove from heat"
+      "text": "在一个小平底锅中，用中火混合 1/4 杯糖、1/4 杯醋、2 汤匙橄榄油。加热至热但不沸腾。从火上移开"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a large bowl, mix 2 corn, beans, zucchini, squash, onion and green pepper"
+      "text": "在一个大碗中，混合 2 个玉米、豆类、西葫芦、南瓜、洋葱和青椒"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour cooled dressing mixture over vegetables and toss. Chill in the refrigerator at least 30 minutes."
+      "text": "将冷却的调料混合物倒在蔬菜上并搅拌。在冰箱中冷藏至少 30 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-10-31",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/three-sisters-salad",
   "origin_url": "https://food.ebci-nsn.gov/2021/07/19/three-sisters-salad/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8be450c32204e210ee459571bf4f9350",
+    "translated": true
+  }
 }

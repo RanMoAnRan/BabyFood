@@ -1,96 +1,102 @@
 {
   "id": "af0b884774595a203929e85c67a9b9b5",
-  "title": "Summer Squash Kabobs",
+  "title": "夏南瓜烤串",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/0862ece2fdda6df831250ee0c625cd39.webp",
-  "nutrition_tip": "The enjoyment of fresh produce enhanced with summer-centric flavors.",
+  "nutrition_tip": "以夏季为中心的风味增强了新鲜农产品的享受。",
   "ingredients": [
     {
-      "name": "onion (red, cut into 1 inch pieces)",
-      "amount": "1 large"
+      "name": "洋葱（红色，切成1英寸的块）",
+      "amount": "1 个大"
     },
     {
-      "name": "squashes (green, cut into 3/4 inch thick rounds)",
-      "amount": "2 medium"
+      "name": "南瓜（绿色，切成 3/4 英寸厚的圆形）",
+      "amount": "2 个中等"
     },
     {
-      "name": "squash (yellow, cut into 3/4 inch thick rounds)",
-      "amount": "1 medium"
+      "name": "南瓜（黄色，切成 3/4 英寸厚的圆形）",
+      "amount": "1 个中等"
     },
     {
-      "name": "cherry tomatoes",
-      "amount": "1 / 2 pint"
+      "name": "樱桃番茄",
+      "amount": "1 / 2 品脱"
     },
     {
-      "name": "basil (fresh, cut into ribbons [about 6 leaves])",
-      "amount": "2 tablespoons"
+      "name": "罗勒（新鲜，切成丝带[约6片叶子]）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "oregano (fresh, finely chopped [about 6 sprigs])",
-      "amount": "2 tablespoons"
+      "name": "牛至（新鲜，切碎[约 6 小枝]）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "2 1 / 2 teaspoons"
+      "name": "盐",
+      "amount": "2 1 / 2 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "5 cloves"
+      "name": "黑胡椒",
+      "amount": "5 丁香"
     },
     {
-      "name": "garlic (finely chopped)",
-      "amount": "2 tablespoons"
+      "name": "大蒜（切碎）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "red wine vinegar",
-      "amount": "4 tablespoons"
+      "name": "红酒醋",
+      "amount": "4 汤匙"
     },
     {
-      "name": "lemon juice (1 whole lemon)",
+      "name": "柠檬汁（1 个整个柠檬）",
       "amount": ""
     },
     {
-      "name": "olive oil",
-      "amount": "1 / 4 cup"
+      "name": "橄榄油",
+      "amount": "1 / 4 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a medium bowl, whisk together garlic, herbs, lemon, salt, black pepper, red wine vinegar and olive oil to create a marinade."
+      "text": "在一个中等大小的碗中，将大蒜、香草、柠檬、盐、黑胡椒、红酒醋和橄榄油搅拌在一起，制成腌料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place onions, yellow squash, green squash and tomatoes in a 1 gallon freezer bag. Pour marinade in bag and shake until all vegetables are coated. Let sit for at least 1 hour. Vegetables can marinate for up to 24 hours, in refrigerator, if you prefer to prep ahead."
+      "text": "将洋葱、黄南瓜、绿南瓜和西红柿放入 1 加仑的冷冻袋中。将腌料倒入袋子中并摇匀，直到所有蔬菜都涂上一层。静置至少 1 小时。如果您愿意提前准备，蔬菜可以在冰箱中腌制长达 24 小时。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "After vegetables are done marinating, prepare skewers starting with green squash flesh side out, then onion, tomato, yellow squash, onion, tomato, and finish with green squash."
+      "text": "蔬菜腌制完毕后，准备串，从绿南瓜肉面朝外开始，然后是洋葱、番茄、黄南瓜、洋葱、番茄，最后是绿南瓜。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Place constructed kabobs on a hot grill and cook for about 7 minutes on each side brushing every few minutes with marinade until cooked through. The squash will be tender and the onions will have a slight char on the edges."
+      "text": "将制作好的烤肉串放在热烤架上，每面煮约 7 分钟，每隔几分钟刷一次腌料，直至熟透。南瓜会变软，洋葱边缘会有轻微的焦痕。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Serve on the skewers or off the skewer. Enjoy on any summer night."
+      "text": "串在串上或从串上取下。在任何夏日夜晚尽情享受。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/summer-squash-kabobs",
   "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/4%20Summer%20Squash%20Kebobs.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "34ad07de18021a4d8b5309d91aaf5aac",
+    "translated": true
+  }
 }

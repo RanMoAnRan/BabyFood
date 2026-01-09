@@ -1,34 +1,39 @@
 {
   "id": "052b44faa1d05442b976e6d58fd87dd9",
-  "title": "Eagle Nest",
+  "title": "鹰巢",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/f6ce42d7511c476bfeac3bec4f597c9d.webp",
-  "nutrition_tip": "Kids can enjoy making this healthy, fun, and easy after-school snack using peach…",
+  "nutrition_tip": "孩子们可以享受用桃子制作这种健康、有趣、简单的课后小吃……",
   "ingredients": [
     {
-      "name": "peach (canned, halved (2 peach halves))",
-      "amount": "1 medium"
+      "name": "桃子（罐装，切半（2 个桃子半个））",
+      "amount": "1 个中等"
     },
     {
-      "name": "cottage cheese (low-fat)",
-      "amount": "2 tablespoons"
+      "name": "干酪（低脂）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "raisins (about 6 raisins )",
-      "amount": "1 / 2 tablespoon"
+      "name": "葡萄干（约 6 颗葡萄干）",
+      "amount": "1 / 2 汤匙"
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-07-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/eagle-nest",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/eagle-nest",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "017de7354898f06adcde0f227e7f6ced",
+    "translated": true
+  }
 }

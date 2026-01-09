@@ -1,85 +1,90 @@
 {
   "id": "6b023a94662731656374c2a59ac88e0d",
-  "title": "Homemade Guacamole",
+  "title": "自制鳄梨酱",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/dc2ac4a3755f27de3f5b243e659bfc0e.webp",
-  "nutrition_tip": "Are you an avocado fan? Bring homemade guacamole to your table with this recipe.",
+  "nutrition_tip": "你是鳄梨迷吗？按照这个食谱，将自制鳄梨酱带到您的餐桌上。",
   "ingredients": [
     {
-      "name": "avocados (ripe)",
+      "name": "鳄梨（成熟）",
       "amount": "3"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 teaspoon"
+      "name": "柠檬汁",
+      "amount": "1 茶匙"
     },
     {
-      "name": "lime juice",
-      "amount": "1 tablespoon"
+      "name": "酸橙汁",
+      "amount": "1 汤匙"
     },
     {
-      "name": "roma tomatoes (diced)",
+      "name": "罗马番茄（切丁）",
       "amount": "2"
     },
     {
-      "name": "red onion (chopped)",
-      "amount": "1 1 / 5 cups"
+      "name": "红洋葱（切碎）",
+      "amount": "1 1 / 5 杯"
     },
     {
-      "name": "jalapeno pepper (chopped [note: include seeds if you want extra spice/heat])",
+      "name": "墨西哥辣椒（切碎[注意：如果你想要额外的香料/热量，请包括种子]）",
       "amount": "1 / 2"
     },
     {
-      "name": "cilantro (fresh, chopped [or 2 tsp dried cilantro])",
-      "amount": "1 / 4 cup"
+      "name": "香菜（新鲜，切碎[或 2 茶匙干香菜]）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Gently rub produce under cool running water."
+      "text": "在冷水下轻轻擦拭农产品。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Cut avocados in half, remove pit, and scoop pulp into a medium bowl."
+      "text": "将牛油果切成两半，去核，将果肉舀入一个中等大小的碗中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Mash avocado pulp with a fork and mix in remaining ingredients."
+      "text": "用叉子捣碎鳄梨果肉，并与剩余成分混合。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Stir to combine. Serve with raw vegetable sticks or baked tortilla chips."
+      "text": "搅拌混合。与生蔬菜棒或烤玉米片一起食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-guacamole",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/homemade-guacamole",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "796e0cfae2c563ed4b620ca955a1caca",
+    "translated": true
+  }
 }

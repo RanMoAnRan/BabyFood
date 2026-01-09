@@ -1,106 +1,111 @@
 {
   "id": "8e0c6c639f1b452e0abc779a0742351c",
-  "title": "Asparagus Parmesan",
+  "title": "帕玛森芦笋",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/2fdc942b057dc8295ae48aa97f98d06e.webp",
-  "nutrition_tip": "Enjoy this cheesy Asparagus Parmesan fresh out of the oven.",
+  "nutrition_tip": "享用新鲜出炉的奶酪芦笋帕尔马干酪。",
   "ingredients": [
     {
-      "name": "asparagus (fresh, washed, trimmed)",
-      "amount": "30 spears"
+      "name": "芦笋（新鲜、洗净、修剪）",
+      "amount": "30 根长矛"
     },
     {
-      "name": "button mushrooms (canned)",
-      "amount": "4 ounces"
+      "name": "蘑菇（罐头）",
+      "amount": "4 盎司"
     },
     {
-      "name": "onions (green, sliced)",
-      "amount": "1 / 4 cup"
+      "name": "洋葱（绿色，切片）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "butter (or margarine)",
-      "amount": "2 tablespoons"
+      "name": "黄油（或人造黄油）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "flour",
-      "amount": "2 tablespoons"
+      "name": "面粉",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 2 teaspoon"
+      "name": "盐",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "milk",
-      "amount": "1 / 4 cup"
+      "name": "牛奶",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "cheese (grated, Parmesan or Cheddar)",
-      "amount": "1 / 2 cup"
+      "name": "奶酪（磨碎的、帕尔马干酪或切达干酪）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 400 degrees F."
+      "text": "将烤箱预热至 400 华氏度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Arrange asparagus in a shallow baking dish."
+      "text": "将芦笋放入浅烤盘中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Drain mushrooms, reserving liquid. Chop half of mushrooms."
+      "text": "沥干蘑菇，保留液体。将一半蘑菇切碎。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cook onions in fat until tender."
+      "text": "用油煮洋葱直至变软。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add flour and salt and blend well."
+      "text": "加入面粉和盐，搅拌均匀。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Stir in milk and mushroom liquid."
+      "text": "加入牛奶和蘑菇液搅拌。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Cook until thickened, stirring constantly."
+      "text": "煮至变稠，不断搅拌。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Add chopped mushrooms."
+      "text": "添加切碎的蘑菇。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Pour sauce over asparagus and sprinkle with cheese. Arrange remaining mushrooms on top and sprinkle with cheese. Arrange remaining mushrooms on top."
+      "text": "将酱汁倒在芦笋上，撒上奶酪。将剩余的蘑菇放在上面，撒上奶酪。将剩余的蘑菇放在上面。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Bake 30 to 40 minutes, or until asparagus is tender ."
+      "text": "烘烤 30 到 40 分钟，或直至芦笋变软。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/asparagus-parmesan",
   "origin_url": "https://naldc.nal.usda.gov/catalog/CAT40000497",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "084d7fc1bfa29a402faf9834c74d2d5a",
+    "translated": true
+  }
 }

@@ -1,42 +1,47 @@
 {
   "id": "4892c3625588844420c723df92839d41",
-  "title": "Salmon Salad Mix",
+  "title": "鲑鱼沙拉拌",
   "min_age_month": 8,
   "tags": [
-    "正餐",
+    "午餐",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/62c2a7dcce3b1e4d5b912ad02a186241.webp",
-  "nutrition_tip": "This protein-packed salmon salad mix takes only 10 minutes to make!&nbsp;",
+  "nutrition_tip": "这种富含蛋白质的三文鱼沙拉混合物只需 10 分钟即可制作！",
   "ingredients": [
     {
-      "name": "salmon (14.75 oz, drained)",
-      "amount": "1 can"
+      "name": "三文鱼（14.75 盎司，沥干）",
+      "amount": "1 罐"
     },
     {
-      "name": "pickle relish (dill or sweet or chopped pickles)",
-      "amount": "1 cup"
+      "name": "泡菜调味品（莳萝或甜或切碎的泡菜）",
+      "amount": "1 杯"
     },
     {
-      "name": "plain yogurt (nonfat)",
-      "amount": "1 cup"
+      "name": "原味酸奶（脱脂）",
+      "amount": "1 杯"
     },
     {
-      "name": "mayonnaise (light)",
-      "amount": "2 tablespoons"
+      "name": "蛋黄酱（淡）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "lemon juice (about 1/2 lemon)",
-      "amount": "2 tablespoons"
+      "name": "柠檬汁（约 1/2 个柠檬）",
+      "amount": "2 汤匙"
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/salmon-salad-mix",
   "origin_url": "https://foodhero.org/recipes/salmon-salad-mix",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0add1414d90494bd488f012e7486b219",
+    "translated": true
+  }
 }

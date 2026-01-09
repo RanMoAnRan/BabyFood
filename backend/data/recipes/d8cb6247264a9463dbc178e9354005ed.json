@@ -1,9 +1,10 @@
 {
   "id": "d8cb6247264a9463dbc178e9354005ed",
-  "title": "Apple Spinach Salad",
+  "title": "苹果菠菜沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "水果",
     "蔬菜",
     "乳制品"
@@ -11,77 +12,82 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ef3502b37fe5313f32f31796ba45182c.webp",
-  "nutrition_tip": "Add more fruits and vegetables to your day with this simple, flavorful salad.",
+  "nutrition_tip": "用这个简单、美味的沙拉为您的一天添加更多水果和蔬菜。",
   "ingredients": [
     {
-      "name": "spinach leaves",
-      "amount": "4 cups"
+      "name": "菠菜叶",
+      "amount": "4 杯"
     },
     {
-      "name": "canola oil",
-      "amount": "2 tablespoons"
+      "name": "菜籽油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "cider vinegar",
-      "amount": "2 1 / 2 tablespoons"
+      "name": "苹果醋",
+      "amount": "2 1 / 2 汤匙"
     },
     {
-      "name": "sugar",
-      "amount": "1 tablespoon"
+      "name": "糖",
+      "amount": "1 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "red onion (chopped)",
-      "amount": "1 / 4 cup"
+      "name": "红洋葱（切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "apple (tart, cut into bite-sized chunks)",
-      "amount": "1 medium"
+      "name": "苹果（馅饼，切成一口大小的块）",
+      "amount": "1 个中等"
     },
     {
-      "name": "raisins (or dried cranberries)",
-      "amount": "1 / 4 cup"
+      "name": "葡萄干（或蔓越莓干）",
+      "amount": "1 / 4 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash spinach thoroughly. Pat dry or spin in a salad spinner."
+      "text": "彻底清洗菠菜。拍干或在沙拉旋转器中旋转。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Tear spinach into bite-sized pieces and place in a large bowl. Set aside"
+      "text": "将菠菜撕成一口大小的碎片，放入一个大碗中。放在一边"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "In a small bowl mix oil, vinegar, sugar, and salt."
+      "text": "在一个小碗中混合油、醋、糖和盐。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add the apple, onion, and dried fruit to the oil mixture and toss to coat apples. Let stand ten minutes."
+      "text": "将苹果、洋葱和干果加入油混合物中，搅拌均匀，裹上苹果。静置十分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Combine ingredients together in the large bowl of spinach and serve."
+      "text": "将原料混合在一大碗菠菜中即可食用。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Refrigerate leftovers."
+      "text": "冷藏剩菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/apple-spinach-salad",
   "origin_url": "https://reallifegoodfood.umn.edu/salads/apple-spinach-salad",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9d828746ff7e4dcc2ffa07a3151d6e15",
+    "translated": true
+  }
 }

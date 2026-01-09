@@ -1,67 +1,72 @@
 {
   "id": "d67fd77858dc69391ac7e364fe8d7bb3",
-  "title": "Fish Salad",
+  "title": "鱼肉沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/86de73f5383ef78c33117f47d464cb09.webp",
-  "nutrition_tip": "Looking for a quick, filling lunch? Try this Fish&nbsp;Salad with salsa!",
+  "nutrition_tip": "想要一顿快速、丰盛的午餐吗？试试这个鱼沙拉配莎莎酱！",
   "ingredients": [
     {
-      "name": "fish fillets (try cod, tilapia, snapper or others)",
-      "amount": "2 pounds"
+      "name": "鱼片（尝试鳕鱼、罗非鱼、鲷鱼或其他）",
+      "amount": "2 磅"
     },
     {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "盐",
+      "amount": "1 茶匙"
     },
     {
-      "name": "pepper",
-      "amount": "1 teaspoon"
+      "name": "胡椒",
+      "amount": "1 茶匙"
     },
     {
-      "name": "cabbage (shredded; or lettuce)",
-      "amount": "2 cups"
+      "name": "卷心菜（切丝；或生菜）",
+      "amount": "2 杯"
     },
     {
-      "name": "vegetables (chopped; try tomatoes, cucumber, carrots, corn, green onions, celery, avocado)",
-      "amount": "2 cups"
+      "name": "蔬菜（切碎；尝试西红柿、黄瓜、胡萝卜、玉米、大葱、芹菜、鳄梨）",
+      "amount": "2 杯"
     },
     {
-      "name": "ranch dressing (low-fat)",
-      "amount": "1 / 2 cup"
+      "name": "牧场酱（低脂）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "salsa",
-      "amount": "1 / 2 cup"
+      "name": "萨尔萨舞",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Season fish with salt and pepper. Cook by your favorite method until it appears opaque and flakes apart easily (see Notes)."
+      "text": "用盐和胡椒给鱼调味。用你最喜欢的方法烹饪，直到它看起来不透明并且很容易剥落（见注释）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix cabbage or lettuce with other vegetables of your choice. Add chunks of fish. Drizzle with ranch dressing and salsa."
+      "text": "将卷心菜或生菜与您选择的其他蔬菜混合。添加鱼块。淋上牧场酱和莎莎酱。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/fish-salad",
   "origin_url": "https://foodhero.org/recipes/fish-salad",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a0fdc0b5d06677758efc332ebbe6c443",
+    "translated": true
+  }
 }

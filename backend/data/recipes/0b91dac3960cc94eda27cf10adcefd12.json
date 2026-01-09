@@ -1,53 +1,58 @@
 {
   "id": "0b91dac3960cc94eda27cf10adcefd12",
-  "title": "Creamy Veggie Dip",
+  "title": "奶油蔬菜蘸料",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/9d5ae69794446be92dd2bd6bfceb8a9b.webp",
-  "nutrition_tip": "This twist on a typical onion dip is a heart healthy option made with low-fat or…",
+  "nutrition_tip": "这种典型洋葱酱的变化是一种有益心脏健康的选择，由低脂或……制成",
   "ingredients": [
     {
-      "name": "Greek yogurt (plain low-fat or non-fat)",
-      "amount": "1 can"
+      "name": "希腊酸奶（纯低脂或脱脂）",
+      "amount": "1 罐"
     },
     {
-      "name": "garlic powder",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "onion powder",
-      "amount": "1 teaspoon"
+      "name": "洋葱粉",
+      "amount": "1 茶匙"
     },
     {
-      "name": "dried dill",
-      "amount": "1 teaspoon"
+      "name": "干莳萝",
+      "amount": "1 茶匙"
     },
     {
-      "name": "thyme (dried )",
-      "amount": "1 teaspoon"
+      "name": "百里香（干）",
+      "amount": "1 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a bowl, combine the yogurt and seasonings. Stir until thoroughly combined."
+      "text": "在一个碗中，将酸奶和调味料混合。搅拌直至完全混合。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Refrigerate for 1 hour or more to let the flavors marinate. When ready to use, just stir and dip!"
+      "text": "冷藏 1 小时或更长时间，让味道腌制。准备使用时，只需搅拌并浸泡即可！"
     }
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/creamy-veggie-dip",
   "origin_url": "https://wicworks.fns.usda.gov/recipe/creamy-veggie-dip",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8a5e68090560ee4f84cb06e343c2134e",
+    "translated": true
+  }
 }

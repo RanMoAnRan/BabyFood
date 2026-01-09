@@ -1,73 +1,78 @@
 {
   "id": "619bbccc98240d09afa88ba04dea63d7",
-  "title": "Crunchy Chickpea Snacks",
+  "title": "脆烤鹰嘴豆零食",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/87c711f3c73918ffa8c61cb1cd448cf3.webp",
-  "nutrition_tip": "Lightly toasted and crunchy, these savory chickpea snacks are a must-have!&nbsp;",
+  "nutrition_tip": "轻轻烘烤，松脆，这些美味的鹰嘴豆零食是必备品！",
   "ingredients": [
     {
-      "name": "chickpeas (garbanzo beans, 14-15 ounce can)",
-      "amount": "1 can"
+      "name": "鹰嘴豆（鹰嘴豆，14-15 盎司罐头）",
+      "amount": "1 罐"
     },
     {
-      "name": "vegetable oil",
-      "amount": "1 tablespoon"
+      "name": "植物油",
+      "amount": "1 汤匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "cumin",
-      "amount": "1 / 2 teaspoon"
+      "name": "小茴香",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 8 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 400 degrees F."
+      "text": "将烤箱预热至 400 华氏度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Drain and rinse canned chickpeas. Spread onto plate or cutting board. Pat dry with a clean towel. Add to small bowl."
+      "text": "沥干并冲洗罐装鹰嘴豆。铺在盘子或切板上。用干净的毛巾拍干。添加到小碗中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add vegetable oil, salt, cumin, and black pepper to bowl with chickpeas. Mix until oil and spices are evenly distributed."
+      "text": "将植物油、盐、小茴香和黑胡椒加入装有鹰嘴豆的碗中。混合直至油和香料均匀分布。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spray nonstick cooking spray onto a baking pan or cookie sheet. Spread out chickpeas onto pan."
+      "text": "将不粘烹饪喷雾喷到烤盘或饼干片上。将鹰嘴豆铺在平底锅上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake for 40-50 minutes, until chickpeas are lightly toasted."
+      "text": "烘烤 40-50 分钟，直至鹰嘴豆轻微烤熟。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/crunchy-chickpea-snacks",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/crunchy-chickpea-snacks",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a4fc5aeaac072178c6d2420d85c9b774",
+    "translated": true
+  }
 }

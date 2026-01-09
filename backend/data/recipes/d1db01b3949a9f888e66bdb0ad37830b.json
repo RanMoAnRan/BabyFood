@@ -1,113 +1,119 @@
 {
   "id": "d1db01b3949a9f888e66bdb0ad37830b",
-  "title": "Stuffed Peppers",
+  "title": "酿青椒",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/633b6e7d032e1d3f36f838da59ef4f24.webp",
-  "nutrition_tip": "Kids will love these stuffed peppers. Serve this recipe before heading out for t…",
+  "nutrition_tip": "孩子们会喜欢这些酿辣椒的。在出发之前先提供这个食谱......",
   "ingredients": [
     {
-      "name": "brown rice (uncooked)",
-      "amount": "1 / 2 cup"
+      "name": "糙米（生）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "bell pepper (green, red, yellow, or orange)",
-      "amount": "4 medium"
+      "name": "甜椒（绿色、红色、黄色或橙色）",
+      "amount": "4 中"
     },
     {
-      "name": "onion (chopped)",
-      "amount": "1 / 2 cup"
+      "name": "洋葱（切碎）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "chickpeas (garbanzo banes, drained and rinsed)",
-      "amount": "1 / 2 can"
+      "name": "鹰嘴豆（鹰嘴豆，沥干并冲洗）",
+      "amount": "1 / 2 罐"
     },
     {
-      "name": "cheese (reduced fat, divided)",
-      "amount": "1 cup"
+      "name": "奶酪（低脂，分次使用）",
+      "amount": "1 杯"
     },
     {
-      "name": "tomatoes (chopped)",
-      "amount": "2 medium"
+      "name": "西红柿（切碎）",
+      "amount": "2 个中等"
     },
     {
-      "name": "green chiles (drained)",
-      "amount": "4 ounces"
+      "name": "青辣椒（沥干）",
+      "amount": "4 盎司"
     },
     {
-      "name": "garlic (minced)",
-      "amount": "1 clove"
+      "name": "大蒜（切碎）",
+      "amount": "1 丁香"
     },
     {
-      "name": "chili powder",
-      "amount": "1 / 2 teaspoon"
+      "name": "辣椒粉",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "cilantro (fresh or 4 teaspoons dried)",
-      "amount": "4 tablespoons"
+      "name": "香菜（新鲜或 4 茶匙干）",
+      "amount": "4 汤匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 8 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 400 degrees F."
+      "text": "将烤箱预热至 400 华氏度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Cook brown rice or barley on stovetop according to package directions."
+      "text": "根据包装说明在炉灶上煮糙米或大麦。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Gently rub produce under cold running water."
+      "text": "在冷水下轻轻擦拭农产品。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Cut tops off peppers and spoon out seeds. Set aside."
+      "text": "切掉辣椒顶部并用勺子挖出种子。放在一边。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Spray a small skillet with nonstick cooking spray. Cook chopped onions until soft, about 5 minutes, in skillet over medium heat."
+      "text": "用不粘烹饪喷雾喷洒小煎锅。在平底锅中用中火将切碎的洋葱煮至变软，大约需要 5 分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Mix together garbanzo beans, ½ cup cheese, tomatoes, cooked onion, green chilies, garlic, chili powder, cilantro, salt, and pepper in a medium mixing bowl. Add cooked rice and mix gently to combine."
+      "text": "将鹰嘴豆、½ 杯奶酪、西红柿、煮熟的洋葱、青辣椒、大蒜、辣椒粉、香菜、盐和胡椒粉放入一个中等大小的搅拌碗中混合。加入煮熟的米饭并轻轻搅拌混合。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Spoon mixture evenly into peppers."
+      "text": "将混合物均匀地倒入辣椒中。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Add peppers to a baking dish. Bake for 40 minutes. Top with remaining cheese and bake for an additional 10-15 minutes."
+      "text": "将辣椒添加到烤盘中。烤40分钟。在上面放上剩余的奶酪，再烘烤 10-15 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-09-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/stuffed-peppers",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/stuffed-peppers",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "79483c3e3811d0cd70b449729e446a9f",
+    "translated": true
+  }
 }

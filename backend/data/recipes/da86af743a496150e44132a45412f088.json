@@ -1,39 +1,44 @@
 {
   "id": "da86af743a496150e44132a45412f088",
-  "title": "Spider Sandwich",
+  "title": "蜘蛛三明治",
   "min_age_month": 12,
   "tags": [
-    "点心",
+    "小吃",
     "蛋白质",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4f02a708880e81a3f24ad8520d11f67b.webp",
-  "nutrition_tip": "Kids will love this tasty spider sandwich for an after school snack.",
+  "nutrition_tip": "孩子们一定会喜欢这款美味的蜘蛛三明治作为放学后的零食。",
   "ingredients": [
     {
-      "name": "bread slice (whole wheat)",
-      "amount": "1 slice"
+      "name": "面包片（全麦）",
+      "amount": "1 片"
     },
     {
-      "name": "nut butter (or cream cheese)",
-      "amount": "2 tablespoons"
+      "name": "坚果酱（或奶油干酪）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "pretzel sticks",
-      "amount": "6 medium"
+      "name": "椒盐卷饼棒",
+      "amount": "6 中"
     },
     {
-      "name": "blueberry (or black bean)",
-      "amount": "1 medium"
+      "name": "蓝莓（或黑豆）",
+      "amount": "1 个中等"
     }
   ],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-07-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/spider-sandwich",
   "origin_url": "https://eclkc.ohs.acf.hhs.gov/oral-health/cooks-corner-recipes-healthy-snacks/spider-sandwich",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7a2c98baee66b01b398e26b4c7685e11",
+    "translated": true
+  }
 }

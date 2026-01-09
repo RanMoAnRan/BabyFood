@@ -1,127 +1,133 @@
 {
   "id": "d23bfd5d1161472c97650a6f9e830365",
-  "title": "Easy-As-A-Mix Pizza",
+  "title": "简易混合披萨",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/18a48b7f6c73cb8a4d154d5f5b07c297.webp",
-  "nutrition_tip": "Making pizza at home has never been easier! Add veggie sticks and fruit for dess…",
+  "nutrition_tip": "在家制作披萨从未如此简单！添加蔬菜棒和水果作为甜点……",
   "ingredients": [
     {
-      "name": "flour",
-      "amount": "4 cups"
+      "name": "面粉",
+      "amount": "4 杯"
     },
     {
-      "name": "rolled oats",
-      "amount": "4 cups"
+      "name": "燕麦片",
+      "amount": "4 杯"
     },
     {
-      "name": "nonfat dry milk",
-      "amount": "1 cup"
+      "name": "脱脂奶粉",
+      "amount": "1 杯"
     },
     {
-      "name": "baking powder",
-      "amount": "4 teaspoons"
+      "name": "泡打粉",
+      "amount": "4 茶匙"
     },
     {
-      "name": "salt",
-      "amount": "1 teaspoon"
+      "name": "盐",
+      "amount": "1 茶匙"
     },
     {
-      "name": "Better Baking Mix",
+      "name": "更好的烘焙混合物",
       "amount": "1"
     },
     {
-      "name": "vegetable oil",
-      "amount": "2 tablespoons"
+      "name": "植物油",
+      "amount": "2 汤匙"
     },
     {
-      "name": "water",
-      "amount": "1 / 3 cup"
+      "name": "水",
+      "amount": "1 / 3 杯"
     },
     {
-      "name": "tomato sauce",
+      "name": "番茄酱",
       "amount": ""
     },
     {
-      "name": "onion (finely chopped)",
-      "amount": "2 tablespoons"
+      "name": "洋葱（切碎）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "oregano (or Italian herb blend)",
+      "name": "牛至（或意大利香草混合物）",
       "amount": ""
     },
     {
-      "name": "mozzarella cheese (part-skim, grated)",
-      "amount": "1 can"
+      "name": "马苏里拉奶酪（部分脱脂，磨碎）",
+      "amount": "1 罐"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a large mixing bowl, stir all ingredients until well mixed."
+      "text": "在一个大搅拌碗中，搅拌所有成分直至充分混合。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Store in a closed, covered can or rigid plastic container, or sealed heavy plastic bag."
+      "text": "存放在密闭、有盖的罐头或硬质塑料容器中，或密封的重型塑料袋中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Label and date the container. Use within 6 months."
+      "text": "在容器上贴上标签并注明日期。 6 个月内使用。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir lightly before use in recipes."
+      "text": "在食谱中使用前轻轻搅拌。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Preheat oven to 425°F. Grease a 12 x 15 inch or larger baking sheet, or 12-inch pizza pan."
+      "text": "将烤箱预热至 425°F。在 12 x 15 英寸或更大的烤盘或 12 英寸披萨盘上涂抹油脂。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Measure mix into a bowl. Add oil and water. Stir to form soft dough."
+      "text": "将混合物量入碗中。添加油和水。搅拌形成柔软的面团。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Transfer dough onto baking sheet. Sprinkle with flour. Dip fingers in flour and pat dough into a circle about 11-12 inches across."
+      "text": "将面团转移到烤盘上。撒上面粉。将手指浸入面粉中，将面团拍成约 11-12 英寸宽的圆圈。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Spread pizza crust with tomato sauce. Leave about 1/2 inch around edge with no sauce."
+      "text": "在披萨饼皮上涂上番茄酱。边缘留约 1/2 英寸，不加酱汁。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Sprinkle with onion, seasoning and cheese"
+      "text": "撒上洋葱、调味料和奶酪"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Bake 10-12 minutes until edges are brown and cheese is melted and starting to brown."
+      "text": "烘烤 10-12 分钟，直至边缘变成棕色，奶酪融化并开始变成棕色。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Refrigerate any leftovers within 2 hours."
+      "text": "在 2 小时内冷藏所有剩菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/easy-mix-pizza",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/easy-mix-pizza-better-baking-mix",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "68aea80cc2fe0d2be177ea40dc6a6f49",
+    "translated": true
+  }
 }

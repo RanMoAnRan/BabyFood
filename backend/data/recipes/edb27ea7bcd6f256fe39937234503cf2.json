@@ -1,60 +1,65 @@
 {
   "id": "edb27ea7bcd6f256fe39937234503cf2",
-  "title": "Velvety Avocado Pesto Dip",
+  "title": "丝滑牛油果青酱蘸料",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/067df346e99e9bb854aedefa862a4de9.webp",
-  "nutrition_tip": "Elevate traditional guacamole with basil and pine nuts to create this velvety di…",
+  "nutrition_tip": "用罗勒和松子提升传统鳄梨酱的品质，创造出这款天鹅绒般的迪……",
   "ingredients": [
     {
-      "name": "avocados (peeled, pitted, cut into pieces)",
-      "amount": "2 medium"
+      "name": "牛油果（去皮、去核、切成块）",
+      "amount": "2 个中等"
     },
     {
-      "name": "basil (leaves)",
-      "amount": "1 cup"
+      "name": "罗勒（叶）",
+      "amount": "1 杯"
     },
     {
-      "name": "nuts (pine nuts, unsalted)",
-      "amount": "1 / 4 cup"
+      "name": "坚果（松子，无盐）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "olive oil",
-      "amount": "3 tablespoons"
+      "name": "橄榄油",
+      "amount": "3 汤匙"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 tablespoon"
+      "name": "柠檬汁",
+      "amount": "1 汤匙"
     },
     {
-      "name": "garlic (cloves)",
-      "amount": "3 medium"
+      "name": "大蒜（丁香）",
+      "amount": "3 个中等"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In a food processor or blender, process all the ingredients for about 3 minutes, or until the mixture is fluffy and creamy."
+      "text": "在食品加工机或搅拌机中，将所有原料加工约 3 分钟，或直至混合物蓬松呈奶油状。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-12-11",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/velvety-avocado-pesto-dip",
   "origin_url": "https://www.tn.gov/wfhtn/resources/recipes/snacks/velvety-avocado-pesto-dip.html",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1381a5dd48e01eb6093ca9ba5ede51d1",
+    "translated": true
+  }
 }

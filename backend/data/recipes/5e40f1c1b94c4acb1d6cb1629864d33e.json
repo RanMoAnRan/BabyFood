@@ -1,15 +1,15 @@
 {
   "id": "5e40f1c1b94c4acb1d6cb1629864d33e",
-  "title": "烤根类蔬菜",
+  "title": "烤根茎蔬菜",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/5b8b25fd5084d41d045105167e735b8a.webp",
-  "nutrition_tip": "让根茎类蔬菜闪闪发光！ Bring out the flavor of sweet potatoes, rutabaga, carrot…",
+  "nutrition_tip": "让根类蔬菜大放异彩！带出红薯、芜菁甘蓝、胡萝卜的味道……",
   "ingredients": [
     {
       "name": "红薯（切碎）",
@@ -32,19 +32,19 @@
       "amount": "2"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "name": "萝卜（切碎）",
       "amount": "1"
     },
     {
       "name": "橄榄油",
-      "amount": "1汤匙"
+      "amount": "1 汤匙"
     },
     {
       "name": "帕尔马干酪（低脂）",
-      "amount": "3盎司"
+      "amount": "3 盎司"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "name": "大蒜粉",
       "amount": "1 / 4 盎司"
     },
     {
@@ -75,8 +75,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/roasted-root-vegetables",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/roasted-root-vegetables/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9b36bb3833d0898cb858dd0eaefa7eda",
+    "translated": true
+  }
 }

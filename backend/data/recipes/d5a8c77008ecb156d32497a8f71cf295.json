@@ -1,27 +1,27 @@
 {
   "id": "d5a8c77008ecb156d32497a8f71cf295",
-  "title": "Confetti Yogurt Pops",
+  "title": "彩色酸奶冰棍",
   "min_age_month": 8,
   "tags": [
-    "点心",
+    "小吃",
     "水果",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/a10cf0e285c91e25c59abd1ad07bc350.webp",
-  "nutrition_tip": "Bring the kids into the kitchen! These creamy yogurt pops have 3 simple ingredie…",
+  "nutrition_tip": "带孩子们到厨房！这些奶油酸奶棒有 3 种简单的成分……",
   "ingredients": [
     {
-      "name": "yogurt (vanilla, low-fat)",
-      "amount": "2 cups"
+      "name": "酸奶（香草，低脂）",
+      "amount": "2 杯"
     },
     {
-      "name": "berries (fresh or frozen, use your favorite or an assortment; no need to thaw frozen berries)",
-      "amount": "1 cup"
+      "name": "浆果（新鲜或冷冻，使用您最喜欢的或品种；无需解冻冷冻浆果）",
+      "amount": "1 杯"
     },
     {
-      "name": "pretzel rods (halved; or 6 baked snack stick crackers)",
+      "name": "椒盐卷饼棒（减半；或 6 块烘焙零食棒饼干）",
       "amount": "3"
     }
   ],
@@ -29,48 +29,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Break pretzel rods in half."
+      "text": "将椒盐卷饼棒折成两半。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a large bowl, gently stir together the yogurt and berries."
+      "text": "在一个大碗中，轻轻搅拌酸奶和浆果。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Spoon into 4-ounce ice-pop molds or 3-ounce paper cups."
+      "text": "用勺子舀入 4 盎司冰棒模具或 3 盎司纸杯中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cover molds or cups with foil."
+      "text": "用箔纸盖住模具或杯子。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Use a sharp knife (adults should do this!) to cut a small hole in the foil."
+      "text": "使用锋利的刀（成人应该这样做！）在箔片上切一个小孔。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Insert cut side of pretzel rod or a snack stick."
+      "text": "插入椒盐卷饼棒或零食棒的切面。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Freeze until firm (approximately 4 hours)."
+      "text": "冷冻直至变硬（大约 4 小时）。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Remove foil and mold or cup before serving."
+      "text": "食用前取出箔纸和模具或杯子。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/confetti-yogurt-pops",
   "origin_url": "https://extension.umaine.edu/food-health/recipes/confetti-yogurt-pops/",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c23a2a1da7cf2cfd6bc5aeca2e66cc77",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "43d2e5bdcc962b75ba22dfa668c15b66",
-  "title": "Blueberry Oatmeal Pancakes",
+  "title": "蓝莓燕麦煎饼",
   "min_age_month": 8,
   "tags": [
     "早餐",
@@ -10,46 +10,46 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/04b54639aaef7769140ddc00dc9bad27.webp",
-  "nutrition_tip": "Combine two breakfast favorites, oatmeal and pancakes, with these delicious blue…",
+  "nutrition_tip": "将燕麦片和煎饼这两种早餐最爱与这些美味的蓝色结合起来……",
   "ingredients": [
     {
-      "name": "rolled oats (uncooked, old fashioned)",
-      "amount": "1 cup"
+      "name": "燕麦片（生的，老式的）",
+      "amount": "1 杯"
     },
     {
-      "name": "buttermilk (lowfat (can substitute 1 cup milk plus 1 tablespoon lemon juice or vinegar))",
-      "amount": "1 cup"
+      "name": "酪乳（低脂（可以替代 1 杯牛奶加 1 汤匙柠檬汁或醋））",
+      "amount": "1 杯"
     },
     {
-      "name": "whole wheat flour",
-      "amount": "1 / 4 cup"
+      "name": "全麦面粉",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "sugar",
-      "amount": "1 1 / 2 tablespoons"
+      "name": "糖",
+      "amount": "1 1 / 2 汤匙"
     },
     {
-      "name": "baking powder",
-      "amount": "1 / 2 teaspoon"
+      "name": "泡打粉",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "baking soda",
-      "amount": "1 / 2 teaspoon"
+      "name": "小苏打",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "egg (beaten)",
-      "amount": "1 large"
+      "name": "鸡蛋（打散）",
+      "amount": "1 个大"
     },
     {
-      "name": "butter (unsalted, melted, cooled)",
-      "amount": "2 tablespoons"
+      "name": "黄油（无盐，融化，冷却）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "blueberry (fresh or frozen)",
-      "amount": "1 / 2 cup"
+      "name": "蓝莓（新鲜或冷冻）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "non stick spray",
+      "name": "不粘喷雾",
       "amount": ""
     }
   ],
@@ -57,53 +57,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine the oats and buttermilk in a medium mixing bowl and let sit, covered, in the refrigerator for at least 30 minutes. If you don’t have time to let it sit, microwave the oat-buttermilk mixture until the oats have absorbed the liquid and the mixture is batter-like, about 1-2 minutes)."
+      "text": "将燕麦和酪乳放入一个中等大小的搅拌碗中，盖上盖子，在冰箱中放置至少 30 分钟。如果你没有时间静置，可以用微波炉加热燕麦酪乳混合物，直到燕麦吸收液体并且混合物呈面糊状，大约需要 1-2 分钟）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a separate medium mixing bowl, whisk together the flour, sugar, baking powder, and baking soda."
+      "text": "在一个单独的中等搅拌碗中，将面粉、糖、泡打粉和小苏打搅拌在一起。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add the flour mixture, egg, melted butter, and blueberries to the oat-buttermilk mixture. Stir to combine."
+      "text": "将面粉混合物、鸡蛋、融化的黄油和蓝莓添加到燕麦酪乳混合物中。搅拌混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spray a nonstick skillet with nonstick spray and set over medium heat."
+      "text": "用不粘喷雾喷洒不粘煎锅并用中火加热。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Working ¼ cup at a time and around the perimeter of the skillet, portion the batter into the pan, leaving at least ½ inch between each portion of batter."
+      "text": "一次 ¼ 杯，围绕煎锅周边，将面糊分份放入锅中，每份面糊之间至少留出 1/2 英寸。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cook on the first side until bubbles form and pop on the top surface and the edges are dry, about 3-4 minutes."
+      "text": "煮第一面，直到顶部表面形成气泡并爆裂，边缘干燥，大约需要 3-4 分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Flip all of the pancakes over and cook on the other side until golden-brown, about 1-2 minutes."
+      "text": "将所有煎饼翻过来，将另一面煎至金黄色，大约需要 1-2 分钟。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Repeat steps 5-7 with any remaining batter."
+      "text": "对剩余的面糊重复步骤 5-7。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Serve warm."
+      "text": "趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-12-27",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/blueberry-oatmeal-pancakes",
   "origin_url": "https://www.nutrition.va.gov/Recipes/Breakfast/docs/Blueberry-Oatmeal-PancakesJUL21.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2e115f692d3985c95830e4ba3e951662",
+    "translated": true
+  }
 }

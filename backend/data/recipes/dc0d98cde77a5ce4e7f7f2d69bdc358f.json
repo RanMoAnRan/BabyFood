@@ -1,9 +1,9 @@
 {
   "id": "dc0d98cde77a5ce4e7f7f2d69bdc358f",
-  "title": "Red, White, and Green Grilled Cheese",
+  "title": "红白绿烤芝士三明治",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
     "蔬菜",
     "蛋白质",
     "谷物"
@@ -11,38 +11,38 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/3f90a4f2bcadfd18c44f03c0a457af50.webp",
-  "nutrition_tip": "Switch up your cold sandwich with this delicious red, white, and green grilled c…",
+  "nutrition_tip": "用这款美味的红、白、绿烤肉来改变你的冷三明治……",
   "ingredients": [
     {
-      "name": "garlic (minced, about 1/2 clove)",
-      "amount": "1 teaspoon"
+      "name": "大蒜（切碎，约 1/2 丁香）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "onion (minced, about 1/2 cup)",
-      "amount": "1 small"
+      "name": "洋葱（切碎，约 1/2 杯）",
+      "amount": "1 个小"
     },
     {
-      "name": "spinach (frozen, thawed, drained or 2 bags (10 oz each) fresh leaf spinach)",
-      "amount": "2 cups"
+      "name": "菠菜（冷冻、解冻、沥干或 2 袋（每袋 10 盎司）新鲜菠菜叶）",
+      "amount": "2 杯"
     },
     {
-      "name": "black pepper",
-      "amount": "1 / 4 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "whole wheat bread",
-      "amount": "8 slices"
+      "name": "全麦面包",
+      "amount": "8 片"
     },
     {
-      "name": "tomato (rinsed, cut into 4 slices)",
-      "amount": "1 medium"
+      "name": "番茄（洗净，切成4片）",
+      "amount": "1 个中等"
     },
     {
-      "name": "mozzarella cheese (shredded, part-skim)",
-      "amount": "1 cup"
+      "name": "马苏里拉奶酪（切碎，部分脱脂）",
+      "amount": "1 杯"
     },
     {
-      "name": "non stick spray",
+      "name": "不粘喷雾",
       "amount": ""
     }
   ],
@@ -50,38 +50,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 400 °F. Place a large baking sheet in the oven to preheat for about 10 minutes."
+      "text": "将烤箱预热至 400 °F。将大烤盘放入烤箱预热约 10 分钟。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat garlic with cooking spray in a medium sauté pan over medium heat. Cook until soft, but not browned. Add onions, and continue to cook until the onions are soft, but not browned."
+      "text": "在中型炒锅中用中火加热大蒜和烹饪喷雾。煮至软，但不要变成褐色。加入洋葱，继续煮，直到洋葱变软，但没有变成棕色。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add spinach, and toss gently. Cook until the spinach is heated throughout. Season with pepper, and set aside to cool."
+      "text": "加入菠菜，轻轻搅拌。煮至菠菜全部受热。用胡椒调味，放在一边冷却。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "When the spinach and onions are cool, assemble each sandwich with one slice of bread on the bottom, one tomato slice, ½ cup of spinach mixture, ¼ cup of cheese, and a second slice of bread on the top. (For picky eaters, see Healthy Eating Two Ways suggestion below.)"
+      "text": "当菠菜和洋葱冷却后，将每个三明治组装起来，底部放一片面包，一片番茄片，½ 杯菠菜混合物，¼ 杯奶酪，顶部放第二片面包。 （对于挑食的人，请参阅下面的两种健康饮食建议。）"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spray the preheated nonstick baking sheet with cooking spray. Place the sandwiches on the baking sheet. Bake for 10 minutes, or until the bottom of each sandwich is browned."
+      "text": "在预热的不粘烤盘上喷洒烹饪喷雾。将三明治放在烤盘上。烘烤 10 分钟，或直至每个三明治的底部变成棕色。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Carefully flip sandwiches, and bake for an additional 5 minutes, or until both sides are browned. Serve immediately."
+      "text": "小心地翻转三明治，然后再烘烤 5 分钟，或直至两面都变成棕色。立即上菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/red-white-and-green-grilled-cheese",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=9&amp;rId=149",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6fc1ba53a0d3c0705ca9802d797e6180",
+    "translated": true
+  }
 }

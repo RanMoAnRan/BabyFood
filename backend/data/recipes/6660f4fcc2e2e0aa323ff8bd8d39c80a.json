@@ -1,6 +1,6 @@
 {
   "id": "6660f4fcc2e2e0aa323ff8bd8d39c80a",
-  "title": "Tortilla Cups with Eggs",
+  "title": "墨西哥薄饼蛋杯",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -11,80 +11,85 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/bb70153ff413f3fd828a4bdc3a8681dc.webp",
-  "nutrition_tip": "Pack these protein-rich tortilla cups for hungry kids when on the go.",
+  "nutrition_tip": "为旅途中饥饿的孩子准备这些富含蛋白质的玉米饼杯。",
   "ingredients": [
     {
-      "name": "tortillas (6-inch, flour)",
+      "name": "玉米饼（6 英寸，面粉）",
       "amount": "4"
     },
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "4"
     },
     {
-      "name": "mushrooms (chopped)",
-      "amount": "1 / 4 cup"
+      "name": "蘑菇（切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "bell pepper (chopped)",
-      "amount": "1 / 4 cup"
+      "name": "灯笼椒（切碎）",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "black pepper",
-      "amount": "1 teaspoon"
+      "name": "黑胡椒",
+      "amount": "1 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 350 degrees F."
+      "text": "将烤箱预热至 350 华氏度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Wash hands with soap and water."
+      "text": "用肥皂和水洗手。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Gently rub produce under cool running water."
+      "text": "在凉爽的流水下轻轻擦拭农产品。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cut each tortilla in half and then in half again. This will result in four equal pieces per tortilla."
+      "text": "将每个玉米饼切成两半，然后再切成两半。这将导致每个玉米饼有四块相等的碎片。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spray six muffin tin cups with non-stick cooking spray. Overlap two to three pieces of tortilla in each muffin tin to cover completely and create a cup. Press into muffin tin. Spray with nonstick cooking spray."
+      "text": "用不粘烹饪喷雾喷洒六个松饼罐头杯。在每个松饼罐中重叠两到三块玉米饼，完全覆盖并形成一个杯子。压入松饼罐中。喷洒不粘烹饪喷雾。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake tortilla cups for 10 minutes. Remove from oven and set aside to cool."
+      "text": "将玉米饼杯烘烤 10 分钟。从烤箱中取出并放在一边冷却。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Mix eggs, mushrooms, bell peppers and black pepper in a medium mixing bowl."
+      "text": "将鸡蛋、蘑菇、青椒和黑胡椒放入一个中等大小的搅拌碗中混合。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Pour egg mixture equally into tortilla cups."
+      "text": "将鸡蛋混合物均匀地倒入玉米饼杯中。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Cook for 20-25 minutes until eggs are cooked through, or when internal temperature reaches 160 degrees F."
+      "text": "煮 20-25 分钟，直至鸡蛋煮熟，或内部温度达到 160 华氏度。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/tortilla-cups-eggs",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/tortilla-cups-eggs",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c32cbf3b5e4329d198c98cf0ed489aa3",
+    "translated": true
+  }
 }

@@ -1,87 +1,92 @@
 {
   "id": "b1f4eb9f8c7aaf52e6d9e80a91bff174",
-  "title": "Easy Rice Pudding",
+  "title": "简易米布丁",
   "min_age_month": 8,
   "tags": [
     "早餐",
-    "点心",
+    "小吃",
     "乳制品",
     "谷物"
   ],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/df1381371bf02d62cfbed29187ce8b8b.webp",
-  "nutrition_tip": "Cook this kid-friendly rice pudding in the microwave.",
+  "nutrition_tip": "用微波炉煮这个适合儿童的米饭布丁。",
   "ingredients": [
     {
-      "name": "white rice (regular, raw, enriched)",
-      "amount": "2 / 3 cup"
+      "name": "白米（普通米、生米、浓缩米）",
+      "amount": "2 / 3 杯"
     },
     {
-      "name": "water (warm)",
-      "amount": "2 cups"
+      "name": "水（温）",
+      "amount": "2 杯"
     },
     {
-      "name": "butter (or margarine, optional)",
-      "amount": "1 teaspoon"
+      "name": "黄油（或人造黄油，可选）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "nonfat dry milk",
-      "amount": "1 / 2 cup"
+      "name": "脱脂奶粉",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "sugar",
-      "amount": "2 tablespoons"
+      "name": "糖",
+      "amount": "2 汤匙"
     },
     {
-      "name": "vanilla",
-      "amount": "1 / 2 teaspoon"
+      "name": "香草",
+      "amount": "1 / 2 茶匙"
     },
     {
-      "name": "water",
-      "amount": "1 cup"
+      "name": "水",
+      "amount": "1 杯"
     },
     {
-      "name": "raisins (or other dried fruit)",
-      "amount": "1 / 2 cup"
+      "name": "葡萄干（或其他干果）",
+      "amount": "1 / 2 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine rice, water, and butter or margarine (if using) in large casserole. Cover loosely so steam will escape."
+      "text": "将大米、水和黄油或人造黄油（如果使用）放入大砂锅中混合。松散地盖住，以便蒸汽逸出。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Cook in microwave on high for 5 minutes or until mixture comes to boil. Reduce setting to defrost (50% power), and cook additional 10 minutes."
+      "text": "在微波炉中高火煮 5 分钟或直至混合物沸腾。降低除霜设置（50% 功率），然后再煮 10 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "While the rice is cooking, mix together the other ingredients in a bowl."
+      "text": "煮米饭时，将其他配料放入碗中混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Without allowing rice to cool, remove cover and quickly stir the dry milk-raisin mixture into hot rice. Cover loosely again and continue cooking on defrost (50%) for 10 minutes. After cooking time is finished, let pudding sit, covered, for 10 minutes."
+      "text": "在不让米饭冷却的情况下，取下盖子，将干牛奶葡萄干混合物快速搅拌到热米饭中。再次松松地盖上盖子，在解冻 (50%) 下继续烹饪 10 分钟。烹饪时间结束后，将布丁盖上盖子静置 10 分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Stir gently and put in individual serving dishes."
+      "text": "轻轻搅拌并放入单独的盘子中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Eat warm and refrigerate leftover within 2 hours, or cover and refrigerate immediately. Enjoy the refrigerated pudding within 2 days."
+      "text": "剩余的食物在 2 小时内趁热食用并冷藏，或立即盖上盖子冷藏。冷藏布丁请在2天内享用。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/easy-rice-pudding",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/easy-rice-pudding",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3ac5aed66b25a46c6c1f83539184d1e2",
+    "translated": true
+  }
 }

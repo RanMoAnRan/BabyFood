@@ -1,80 +1,86 @@
 {
   "id": "fc025ce2ee750837af5a4cb31db6b44d",
-  "title": "Watermelon Feta Salad",
+  "title": "西瓜费塔芝士沙拉",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "水果",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/d78cd318e2693f1c135844bc54e1bde1.webp",
-  "nutrition_tip": "Cool, crisp, refreshing watermelon tossed gingerly with salty feta and a light w…",
+  "nutrition_tip": "凉爽、清脆、清爽的西瓜，小心翼翼地拌上咸味的羊乳酪和清淡的w…",
   "ingredients": [
     {
-      "name": "watermelon (cut into 1 inch pieces)",
-      "amount": "5 cups"
+      "name": "西瓜（切成 1 英寸的块）",
+      "amount": "5 杯"
     },
     {
-      "name": "Feta cheese (cut into 1/4 inch pieces)",
-      "amount": "2 cups"
+      "name": "菲达奶酪（切成 1/4 英寸的块）",
+      "amount": "2 杯"
     },
     {
-      "name": "chives (fresh, thinly sliced)",
-      "amount": "1 tablespoon"
+      "name": "韭菜（新鲜，切成薄片）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "white balsamic vinegar",
-      "amount": "2 tablespoons"
+      "name": "白香醋",
+      "amount": "2 汤匙"
     },
     {
-      "name": "olive oil (extra virgin)",
-      "amount": "2 tablespoons"
+      "name": "橄榄油（特级初榨）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "honey",
-      "amount": "2 tablespoons"
+      "name": "亲爱的",
+      "amount": "2 汤匙"
     },
     {
-      "name": "salt (to taste)",
+      "name": "盐（适量）",
       "amount": ""
     },
     {
-      "name": "black pepper (to taste)",
+      "name": "黑胡椒（适量）",
       "amount": ""
     },
     {
-      "name": "mint (fresh, cut into thin ribbons)",
-      "amount": "2 tablespoons"
+      "name": "薄荷（新鲜，切成细丝）",
+      "amount": "2 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Place the watermelon, feta cheese, chives and mint in a medium bowl."
+      "text": "将西瓜、羊奶酪、香葱和薄荷放入一个中等大小的碗中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a separate bowl, mix olive oil, white balsamic vinegar, and honey. Whisk ingredients together until the honey is dissolved. Season with salt and black pepper."
+      "text": "在另一个碗中，混合橄榄油、白香醋和蜂蜜。将成分一起搅拌直至蜂蜜溶解。用盐和黑胡椒调味。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine dressing with watermelon mixture. Toss until everything is evenly coated with dressing."
+      "text": "将调料与西瓜混合物混合。搅拌直到所有东西都均匀地涂上调料。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/watermelon-feta-salad",
   "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/15%20Watermelon%20Feta%20Salad.pdf",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fa831ee2e669a9fc9be9a1c974e15177",
+    "translated": true
+  }
 }

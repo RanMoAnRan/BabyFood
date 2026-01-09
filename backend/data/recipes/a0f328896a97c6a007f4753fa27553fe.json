@@ -1,6 +1,6 @@
 {
   "id": "a0f328896a97c6a007f4753fa27553fe",
-  "title": "Breakfast Burritos",
+  "title": "早餐卷饼",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -10,46 +10,46 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/0ef7118c2267f9b92769def9c8649c56.webp",
-  "nutrition_tip": "Bring this Breakfast Burrito with you as you start your day.",
+  "nutrition_tip": "在开始新的一天时带上这份早餐卷饼。",
   "ingredients": [
     {
-      "name": "eggs",
+      "name": "鸡蛋",
       "amount": "4"
     },
     {
-      "name": "milk (1 %)",
-      "amount": "1 / 4 cup"
+      "name": "牛奶 (1 %)",
+      "amount": "1 / 4 杯"
     },
     {
-      "name": "salt (to taste)",
+      "name": "盐（适量）",
       "amount": ""
     },
     {
-      "name": "pepper (to taste)",
+      "name": "胡椒（适量）",
       "amount": ""
     },
     {
-      "name": "chili powder (to taste)",
+      "name": "辣椒粉（适量）",
       "amount": ""
     },
     {
-      "name": "oil",
-      "amount": "1 teaspoon"
+      "name": "石油",
+      "amount": "1 茶匙"
     },
     {
-      "name": "tortillas (10-inch flour tortillas)",
+      "name": "玉米饼（10 英寸面粉玉米饼）",
       "amount": "4"
     },
     {
-      "name": "beans (fat-free refried beans)",
-      "amount": "1 cup"
+      "name": "豆类（脱脂豆泥）",
+      "amount": "1 杯"
     },
     {
-      "name": "cheddar cheese (grated, 4 oz)",
-      "amount": "1 / 2 cup"
+      "name": "切达干酪（磨碎，4 盎司）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "tomato (chopped)",
+      "name": "番茄（切碎）",
       "amount": "1"
     }
   ],
@@ -57,48 +57,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Mix eggs, milk and seasonings in a bowl."
+      "text": "将鸡蛋、牛奶和调味料放入碗中混合。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat oil in skillet over medium-high heat (350 degrees in an electric skillet)."
+      "text": "在煎锅中用中高火加热油（电煎锅中为 350 度）。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in the eggs and cook until firm."
+      "text": "加入鸡蛋，煮至变硬。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Warm the tortillas on a griddle, or wrap in foil and heat in the oven."
+      "text": "将玉米饼放在煎锅上加热，或用箔纸包裹并在烤箱中加热。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Warm the refried beans in a separate pan."
+      "text": "在另一个平底锅中加热炸豆泥。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "On each tortilla, layer 1/4 of refried beans, eggs, cheese, and tomato."
+      "text": "在每个玉米饼上铺上 1/4 的炸豆泥、鸡蛋、奶酪和番茄。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Roll the burrito, cut in half, and enjoy!"
+      "text": "将卷饼卷起来，切成两半，然后享用吧！"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/breakfast-burritos",
   "origin_url": "https://foodhero.org/recipes/breakfast-burritos",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a955f4e025ea36e99819c5b689ed2964",
+    "translated": true
+  }
 }

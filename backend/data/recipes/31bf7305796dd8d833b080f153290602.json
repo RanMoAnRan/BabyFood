@@ -1,105 +1,110 @@
 {
   "id": "31bf7305796dd8d833b080f153290602",
-  "title": "Baked Tofu Bites",
+  "title": "烤豆腐块",
   "min_age_month": 12,
   "tags": [
-    "正餐",
-    "点心",
+    "晚餐",
+    "小吃",
     "蛋白质"
   ],
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/3caf26f72d274b47ce33f66abd121288.webp",
-  "nutrition_tip": "These tasty meatless bites are the perfect finger food.",
+  "nutrition_tip": "这些美味的无肉小吃是完美的手指食物。",
   "ingredients": [
     {
-      "name": "Nonstick cooking spray",
+      "name": "不粘烹饪喷雾",
       "amount": ""
     },
     {
-      "name": "tofu (firm, rinsed, and drained, cut into 1/2 inch cubes [see chef tips]; or 1 pound 11 ounces)",
-      "amount": "27 ounces"
+      "name": "豆腐（坚硬、冲洗并沥干，切成 1/2 英寸的立方体 [参见厨师提示]；或 1 磅 11 盎司）",
+      "amount": "27 盎司"
     },
     {
-      "name": "hoisin sauce",
-      "amount": "3 tablespoons"
+      "name": "海鲜酱",
+      "amount": "3 汤匙"
     },
     {
-      "name": "soy sauce (reduced-sodium)",
-      "amount": "3 tablespoons"
+      "name": "酱油（低钠）",
+      "amount": "3 汤匙"
     },
     {
-      "name": "water (or 1 tablespoon + 1 teaspoon)",
-      "amount": "4 teaspoons"
+      "name": "水（或 1 汤匙 + 1 茶匙）",
+      "amount": "4 茶匙"
     },
     {
-      "name": "whole wheat flour",
-      "amount": "2 / 3 cup"
+      "name": "全麦面粉",
+      "amount": "2 / 3 杯"
     },
     {
-      "name": "cornmeal (whole grain, medium-grind)",
-      "amount": "1 / 3 cup"
+      "name": "玉米粉（全麦，中度研磨）",
+      "amount": "1 / 3 杯"
     },
     {
-      "name": "mustard (dry, ground; or 1/4 + 1/8 teaspoon)",
-      "amount": "3 / 8 teaspoon"
+      "name": "芥末（干，磨碎；或 1/4 + 1/8 茶匙）",
+      "amount": "3 / 8 茶匙"
     },
     {
-      "name": "garlic powder (or 1/4 + 1/8 teaspoon)",
-      "amount": "3 / 8 teaspoon"
+      "name": "大蒜粉（或 1/4 + 1/8 茶匙）",
+      "amount": "3 / 8 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water for at least 20 seconds."
+      "text": "用肥皂和水洗手至少 20 秒。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat oven to 400°F."
+      "text": "将烤箱预热至 400°F。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Lightly spray a baking sheet with nonstick cooking spray. Set aside."
+      "text": "在烤盘上轻轻喷洒不粘烹饪喷雾。放在一边。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "To make marinade: In a 1-gallon plastic bag, combine hoisin sauce, soy sauce, and water. Seal the bag tightly. Squeeze and release the bag several times to mix ingredients together."
+      "text": "制作腌料：在 1 加仑的塑料袋中，将海鲜酱、酱油和水混合。将袋子密封好。挤压并释放袋子几次，将成分混合在一起。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add tofu cubes to marinade. Seal the bag tightly. Lightly toss tofu by turning the bag over repeatedly on a flat surface to prevent tofu from breaking apart. Marinate in the refrigerator for 1 hour at 40°F or lower. Turn bag over every 15 minutes."
+      "text": "将豆腐块加入腌料中。将袋子密封好。将袋子在平坦的表面上反复翻转，轻轻抛动豆腐，以防止豆腐破裂。在 40°F 或更低的冰箱中腌制 1 小时。每 15 分钟翻转一次袋子。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "In a separate 1-gallon plastic bag, combine whole-wheat flour, cornmeal, dry mustard, and garlic powder. Seal the bag tightly. Shake to mix."
+      "text": "在一个单独的 1 加仑塑料袋中，将全麦面粉、玉米粉、干芥末和大蒜粉混合。将袋子密封好。摇匀。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Carefully remove tofu from marinade a few cubes at a time. Place tofu cubes in the 1-gallon plastic bag with the seasoned flour- cornmeal mixture. Carefully turn the bag over to coat the tofu with breading. Remove coated tofu cubes and place on baking sheet in a single layer. Repeat until all tofu cubes are coated. Discard any remaining marinade. (See chef tips)"
+      "text": "小心地从腌料中取出豆腐，一次取出几块。将豆腐块与调味面粉玉米粉混合物一起放入 1 加仑塑料袋中。小心地将袋子翻过来，让豆腐裹上面包屑。取出裹有涂层的豆腐块，单层放在烤盘上。重复此操作，直到所有豆腐块都涂上涂层。丢弃所有剩余的腌料。 （见厨师小贴士）"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Bake for 15 minutes or until tofu is lightly crisp. Heat to an internal temperature of 140°F or higher for at least 15 seconds. Remove from the oven."
+      "text": "烘烤 15 分钟或直至豆腐微脆。加热至 140°F 或更高的内部温度至少 15 秒。从烤箱中取出。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Serve 1 cup."
+      "text": "服务 1 杯。"
     }
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/baked-tofu-bites",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cb84427dad1a2d9f8c824cc826ad8615",
+    "translated": true
+  }
 }

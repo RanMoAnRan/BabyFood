@@ -1,54 +1,60 @@
 {
   "id": "3c30606e851db547432d48eaab0b869e",
-  "title": "Parmesan Peas",
+  "title": "帕玛森芝士豌豆",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "乳制品"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/9f7b0ed2f2222365de6a6d47ab2f38e4.webp",
-  "nutrition_tip": "Give (these) peas a chance! Try varying this recipe by using other types of chee…",
+  "nutrition_tip": "给（这些）豌豆一个机会！尝试使用其他类型的奶酪来改变这个食谱……",
   "ingredients": [
     {
-      "name": "butter (or margarine)",
-      "amount": "1 1 / 2 teaspoons"
+      "name": "黄油（或人造黄油）",
+      "amount": "1 1 / 2 茶匙"
     },
     {
-      "name": "peas (15 ounce cans or 16 ounces of frozen peas)",
-      "amount": "2 cans"
+      "name": "豌豆（15 盎司罐装或 16 盎司冷冻豌豆）",
+      "amount": "2 罐"
     },
     {
-      "name": "lemon juice",
-      "amount": "1 1 / 2 teaspoons"
+      "name": "柠檬汁",
+      "amount": "1 1 / 2 茶匙"
     },
     {
-      "name": "pepper",
-      "amount": "1 teaspoon"
+      "name": "胡椒",
+      "amount": "1 茶匙"
     },
     {
-      "name": "grated parmesan cheese",
-      "amount": "1 / 3 cup"
+      "name": "磨碎的帕尔马干酪",
+      "amount": "1 / 3 杯"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat margarine or butter in a medium skillet over medium heat (300 degrees F in an electric skillet). Add peas and cook 2 to 3 minutes or until peas are heated through."
+      "text": "在中型煎锅中用中火加热人造黄油或黄油（电煎锅中为 300 华氏度）。加入豌豆，煮 2 至 3 分钟或直至豌豆加热透。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add lemon juice and pepper and mix well. Sprinkle with parmesan cheese and serve warm."
+      "text": "加入柠檬汁和胡椒粉，搅拌均匀。撒上帕尔马干酪，趁热享用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/parmesan-peas",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/parmesan-peas",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "029466754b3d97f6bf809782bc4662c3",
+    "translated": true
+  }
 }

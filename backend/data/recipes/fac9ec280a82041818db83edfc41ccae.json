@@ -1,9 +1,9 @@
 {
   "id": "fac9ec280a82041818db83edfc41ccae",
-  "title": "Sunshine Roll-Ups",
+  "title": "阳光卷饼",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
     "水果",
     "蔬菜",
     "蛋白质",
@@ -12,90 +12,95 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/8c6cb83e86647992417f8252964f1a13.webp",
-  "nutrition_tip": "This Asian-inspired wrap is both savory and sweet, and makes a satisfying lunch…",
+  "nutrition_tip": "这种亚洲风味的卷饼既咸又甜，是一顿令人满意的午餐……",
   "ingredients": [
     {
-      "name": "chicken (cooked, diced)",
-      "amount": "1 cup"
+      "name": "鸡肉（煮熟，切丁）",
+      "amount": "1 杯"
     },
     {
-      "name": "celery (finely chopped)",
-      "amount": "1 cup"
+      "name": "芹菜（切碎）",
+      "amount": "1 杯"
     },
     {
-      "name": "mandarin oranges (canned, drained)",
-      "amount": "2 cups"
+      "name": "橘子（罐装，沥干）",
+      "amount": "2 杯"
     },
     {
-      "name": "onion (minced [green, red, or yellow])",
-      "amount": "1 cup"
+      "name": "洋葱（切碎[绿色、红色或黄色]）",
+      "amount": "1 杯"
     },
     {
-      "name": "mayonnaise",
-      "amount": "2 tablespoons"
+      "name": "蛋黄酱",
+      "amount": "2 汤匙"
     },
     {
-      "name": "soy sauce",
-      "amount": "1 teaspoon"
+      "name": "酱油",
+      "amount": "1 茶匙"
     },
     {
-      "name": "garlic powder (or 2 cloves garlic)",
-      "amount": "1 teaspoon"
+      "name": "大蒜粉（或 2 瓣大蒜）",
+      "amount": "1 茶匙"
     },
     {
-      "name": "pepper",
-      "amount": "1 teaspoon"
+      "name": "胡椒",
+      "amount": "1 茶匙"
     },
     {
-      "name": "tortilla (whole wheat)",
-      "amount": "1 large"
+      "name": "玉米饼（全麦）",
+      "amount": "1 个大"
     },
     {
-      "name": "lettuce leaves (washed and patted dry)",
-      "amount": "4 medium"
+      "name": "生菜叶（洗净并拍干）",
+      "amount": "4 个中等"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "In medium bowl, mix chicken, celery, oranges, and onions."
+      "text": "在中型碗中，混合鸡肉、芹菜、橙子和洋葱。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add mayonnaise, soy sauce, garlic, and pepper. Mix gently until chicken mixture is coated."
+      "text": "添加蛋黄酱、酱油、大蒜和胡椒。轻轻搅拌直至鸡肉混合物涂满。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Lay tortilla on clean cutting board or large plate. With a knife or clean scissors, cut tortilla into four quarters."
+      "text": "将玉米饼放在干净的切菜板或大盘子上。用刀或干净的剪刀，将玉米饼切成四等份。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Place 1 lettuce leaf on each tortilla quarter, trimming leaf so it doesn’t hang over edge of tortilla."
+      "text": "在每个玉米饼四分之一上放置 1 片生菜叶，修剪叶子，使其不会悬挂在玉米饼边缘。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Place 1/4 of chicken mixture in the middle of each lettuce leaf."
+      "text": "将 1/4 的鸡肉混合物放在每片生菜叶的中间。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Roll tortillas up into a cone, with the two straight edges coming together and the curved edge creating the opening of the cone. Eat like a sandwich!"
+      "text": "将玉米饼卷成圆锥体，两个直边合在一起，弯曲的边缘形成圆锥体的开口。像三明治一样吃！"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Refrigerate leftovers within 2 hours."
+      "text": "在 2 小时内将剩菜冷藏。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/sunshine-roll-ups",
   "origin_url": "https://foodhero.org/recipes/sunshine-roll-ups",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "226e81d3e4372afaed9e02e5696d7c2d",
+    "translated": true
+  }
 }

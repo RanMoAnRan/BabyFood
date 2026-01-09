@@ -1,9 +1,10 @@
 {
   "id": "d9bc211fd69ff36bcc6a13064318ea98",
-  "title": "Shredded Zucchini and Pasta",
+  "title": "西葫芦丝意面",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
+    "晚餐",
     "蔬菜",
     "乳制品",
     "谷物"
@@ -11,82 +12,87 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/579f0f09dd8d0a2e767526cb085614d0.webp",
-  "nutrition_tip": "Couple bow-tie pasta with veggies for a dish kids&nbsp;will love.",
+  "nutrition_tip": "情侣意大利面配蔬菜，孩子们会喜欢的。",
   "ingredients": [
     {
-      "name": "pasta (farfalle/bow-tie, whole-wheat, uncooked)",
-      "amount": "1 1 / 4 cups"
+      "name": "意大利面（法法尔/领结、全麦、未煮熟）",
+      "amount": "1 1 / 4 杯"
     },
     {
-      "name": "water",
-      "amount": "3 cups"
+      "name": "水",
+      "amount": "3 杯"
     },
     {
-      "name": "vegetable oil",
-      "amount": "1 teaspoon"
+      "name": "植物油",
+      "amount": "1 茶匙"
     },
     {
-      "name": "garlic (clove, minced)",
-      "amount": "1 1 / 2 teaspoons"
+      "name": "大蒜（丁香，切碎）",
+      "amount": "1 1 / 2 茶匙"
     },
     {
-      "name": "zucchini (fresh, unpeeled, shredded; gently wash zucchini under running water before shredding)",
-      "amount": "3 1 / 2 cups"
+      "name": "西葫芦（新鲜、未去皮、切丝；切丝前用流水轻轻清洗西葫芦）",
+      "amount": "3 1 / 2 杯"
     },
     {
-      "name": "salt (table)",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐（餐桌）",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "black pepper (ground)",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒（磨碎）",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "parmesan cheese (grated)",
-      "amount": "2 teaspoons"
+      "name": "帕尔马干酪（磨碎）",
+      "amount": "2 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Wash hands with soap and water for at least 20 seconds."
+      "text": "用肥皂和水洗手至少 20 秒。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "In a medium pot, bring water to a boil on medium-high heat. Add pasta. Cook for 8 minutes or until al dente (soft to the touch and firm to the bite). Drain water from pasta. Rinse well with cold water."
+      "text": "在一个中型锅中，用中高温将水煮沸。添加面食。煮 8 分钟或直至有嚼劲（触感柔软，咬起来坚硬）。沥干意大利面中的水。用冷水冲洗干净。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat oil in a medium nonstick sauté pan on medium heat. Add garlic. Cook for 15–20 seconds. Stir constantly."
+      "text": "在中型不粘煎锅中用中火加热油。添加大蒜。煮 15-20 秒。不断搅拌。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Increase heat to medium-high. Add zucchini, salt, and pepper. Cook for 10 more minutes. Stir frequently. Cook until temperature reaches 140°F."
+      "text": "将热量调至中高。加入西葫芦、盐和胡椒。再煮10分钟。经常搅拌。煮至温度达到 140°F。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add cooked pasta to pan. Cook for about 2 minutes. Heat to 140°F or higher for at least 15 seconds. Remove from heat."
+      "text": "将煮熟的意大利面放入锅中。煮约2分钟。加热至 140°F 或更高并持续至少 15 秒。从火上移开。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Sprinkle with parmesan cheese."
+      "text": "撒上帕尔马干酪。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve ⅔ cup."
+      "text": "提供 ⅔ 杯。"
     }
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/shredded-zucchini-and-pasta",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e697f5a180a0e3bca8a799b46bce256c",
+    "translated": true
+  }
 }

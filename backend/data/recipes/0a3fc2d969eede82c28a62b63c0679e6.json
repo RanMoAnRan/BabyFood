@@ -1,9 +1,9 @@
 {
   "id": "0a3fc2d969eede82c28a62b63c0679e6",
-  "title": "鸡肉沙拉和桃子三明治",
+  "title": "鸡肉沙拉桃子三明治",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "午餐",
     "水果",
     "蔬菜",
     "蛋白质",
@@ -12,39 +12,39 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/b7963b3859241cccc895fe9b19d7cd05.webp",
-  "nutrition_tip": "添加甜桃，让您的鸡肉沙拉三明治更加美味。",
+  "nutrition_tip": "通过添加甜桃来提升您的鸡肉沙拉三明治的品质。",
   "ingredients": [
     {
       "name": "全麦面包",
-      "amount": "4片"
+      "amount": "4 片"
     },
     {
       "name": "鸡肉（切丁，煮熟）",
       "amount": "1 / 2 杯"
     },
     {
-      "name": "桃子（切片，沥干，切丁）",
+      "name": "桃子（切片、沥干、切丁）",
       "amount": "1 / 2 杯"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "amount": "1 stalk"
+      "name": "芹菜（切丁）",
+      "amount": "1 茎"
     },
     {
-      "name": "苹果（切丁）",
+      "name": "苹果（切块）",
       "amount": "1 / 2 杯"
     },
     {
       "name": "洋葱（切丁）",
-      "amount": "1 小号"
+      "amount": "1 个小"
     },
     {
       "name": "蛋黄酱（脱脂）",
       "amount": "1 1 / 2 汤匙"
     },
     {
-      "name": "Error 504 (Server Error)!!1504.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "amount": "1汤匙"
+      "name": "核桃（切碎）",
+      "amount": "1 汤匙"
     }
   ],
   "steps": [
@@ -56,13 +56,18 @@
     {
       "step_index": 2,
       "img": "",
-      "text": "将混合物舀到两片面包上。"
+      "text": "将混合物舀到 2 片面包上。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/chicken-salad-and-peach-sandwich",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/chicken-salad-and-peach-sandwich",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "76562c9da8e047a8938228f5ed4300ed",
+    "translated": true
+  }
 }

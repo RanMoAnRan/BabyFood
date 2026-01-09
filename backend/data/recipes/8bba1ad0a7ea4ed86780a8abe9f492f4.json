@@ -1,6 +1,6 @@
 {
   "id": "8bba1ad0a7ea4ed86780a8abe9f492f4",
-  "title": "Eggs over Kale and Sweet Potato Grits",
+  "title": "羽衣甘蓝红薯玉米糊配蛋",
   "min_age_month": 12,
   "tags": [
     "早餐",
@@ -12,92 +12,97 @@
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ccde1c569b1c754843241a69b6090504.webp",
-  "nutrition_tip": "A modern twist on a Southern classic, this baked breakfast dish features eggs an…",
+  "nutrition_tip": "这道烘焙早餐菜是南方经典的现代演绎，以鸡蛋和......",
   "ingredients": [
     {
-      "name": "sweet potato",
-      "amount": "1 large"
+      "name": "红薯",
+      "amount": "1 个大"
     },
     {
-      "name": "kale (fresh, chopped)",
-      "amount": "2 cups"
+      "name": "羽衣甘蓝（新鲜，切碎）",
+      "amount": "2 杯"
     },
     {
-      "name": "vegetable oil (divided)",
-      "amount": "1 tablespoon"
+      "name": "植物油（分次使用）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "water",
-      "amount": "1 1 / 2 cups"
+      "name": "水",
+      "amount": "1 1 / 2 杯"
     },
     {
-      "name": "milk (non-fat)",
-      "amount": "1 cup"
+      "name": "牛奶（脱脂）",
+      "amount": "1 杯"
     },
     {
-      "name": "grits (quick cooking)",
-      "amount": "3 / 4 cup"
+      "name": "粗玉米粉（快速烹饪）",
+      "amount": "3 / 4 杯"
     },
     {
-      "name": "salt",
-      "amount": "1 / 4 teaspoon"
+      "name": "盐",
+      "amount": "1 / 4 茶匙"
     },
     {
-      "name": "eggs",
-      "amount": "4 large"
+      "name": "鸡蛋",
+      "amount": "4 大"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat oven to 350 °F."
+      "text": "将烤箱预热至 350 °F。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Coat 4 individual soufflé dishes with 1 tsp vegetable oil."
+      "text": "在 4 个舒芙蕾盘上涂上 1 茶匙植物油。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Make 3 to 4 slits in sweet potatoes; cook in microwave until just soft."
+      "text": "在红薯上切3到4道口；用微波炉煮至软。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "When sweet potatoes are cool enough to handle, peel, cut into chunks, and puree in food processor."
+      "text": "当红薯冷却到足以处理、去皮、切成块并在食品加工机中打成泥时。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Heat remaining vegetable oil in sauce pan, and sauté kale about 5 minutes."
+      "text": "在平底锅中加热剩余的植物油，炒羽衣甘蓝约5分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "In a medium sauce pan, boil water and milk, add grits and sweet potatoes; cook for 5 minutes. Remove from heat; stir in sautéed kale."
+      "text": "在一个中等大小的平底锅中，将水和牛奶煮沸，加入粗玉米粉和红薯；煮5分钟。远离热源；拌入炒羽衣甘蓝。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Divide grits mixture evenly among 4 soufflé dishes (or place all in casserole dish)."
+      "text": "将粗粒混合物均匀地分在 4 个舒芙蕾盘中（或全部放入砂锅盘中）。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Make 4 depressions in the grits mixture with the back of a large spoon. Carefully break one egg into each hollow."
+      "text": "用大勺子的背面在粗粉混合物中压出 4 个凹陷。小心地将一个鸡蛋打入每个空洞中。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Bake uncovered for 30 minutes until eggs are cooked. Let cool 10 minutes before serving."
+      "text": "不盖盖子烘烤 30 分钟，直至鸡蛋煮熟。食用前冷却 10 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-08-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/eggs-over-kale-and-sweet-potato-grits",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/eggs-over-kale-and-sweet-potato-grits",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f13b8aeb02996e80b59325462952a990",
+    "translated": true
+  }
 }

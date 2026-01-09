@@ -1,62 +1,67 @@
 {
   "id": "dc9c1c141a8a7ce917c106b19b78d539",
-  "title": "Asparagus with Lemon Sauce",
+  "title": "柠檬酱芦笋",
   "min_age_month": 12,
   "tags": [
-    "正餐",
+    "晚餐",
     "蔬菜"
   ],
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/56f92fd79991001884484515795f74e5.webp",
-  "nutrition_tip": "Lemon sauce makes fresh asparagus the perfect side dish for any occasion.",
+  "nutrition_tip": "柠檬酱使新鲜芦笋成为任何场合的完美配菜。",
   "ingredients": [
     {
-      "name": "asparagus (rinsed and trimmed)",
-      "amount": "20 spears"
+      "name": "芦笋（冲洗并修剪）",
+      "amount": "20 根长矛"
     },
     {
-      "name": "lemon (rinsed (for peel and juice))",
-      "amount": "1 medium"
+      "name": "柠檬（冲洗（去皮和榨汁））",
+      "amount": "1 个中等"
     },
     {
-      "name": "mayonnaise (reduced-fat)",
-      "amount": "2 tablespoons"
+      "name": "蛋黄酱（低脂）",
+      "amount": "2 汤匙"
     },
     {
-      "name": "parsley (dried)",
-      "amount": "1 tablespoon"
+      "name": "欧芹（干）",
+      "amount": "1 汤匙"
     },
     {
-      "name": "black pepper (ground)",
-      "amount": "1 / 8 teaspoon"
+      "name": "黑胡椒（磨碎）",
+      "amount": "1 / 8 茶匙"
     },
     {
-      "name": "salt",
-      "amount": "1 / 16 teaspoon"
+      "name": "盐",
+      "amount": "1 / 16 茶匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Place 1 inch of water in a 4-quart pot with a lid. Place a steamer basket inside the pot, and add asparagus. Cover and bring to a boil over high heat. Reduce heat to medium. Cook for 5–10 minutes, until asparagus is easily pierced with a sharp knife. Do not overcook."
+      "text": "将 1 英寸水放入带盖的 4 夸脱锅中。锅内放入蒸笼，放入芦笋。盖上盖子并用大火煮沸。将热量降低至中等。煮 5-10 分钟，直到芦笋可以用锋利的刀轻松刺穿。不要煮过头。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "While the asparagus cooks, grate the lemon zest into a small bowl. Cut the lemon in half and squeeze the juice into the bowl. Use the back of a spoon to press out extra juice and remove pits. Add mayonnaise, parsley, pepper, and salt. Stir well. Set aside."
+      "text": "煮芦笋时，将柠檬皮磨碎放入小碗中。将柠檬切成两半，将汁液挤入碗中。用勺子背面压出多余的汁液并去除果核。添加蛋黄酱、欧芹、胡椒和盐。搅拌均匀。放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "When the asparagus is tender, remove the pot from the heat. Place asparagus spears in a serving bowl. Drizzle the lemon sauce evenly over the asparagus (about 1½ teaspoons per portion) and serve."
+      "text": "当芦笋变软时，将锅从火上移开。将芦笋矛放入碗中。将柠檬酱均匀地淋在芦笋上（每份约 1.5 茶匙）即可食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-07T15:22:44Z",
+  "updated_at": "2026-01-09T09:48:50Z",
   "source_url": "https://www.nutrition.gov/recipes/asparagus-lemon-sauce",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=7&amp;rId=69",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b0a4d8587a46195969e4973e55f0537a",
+    "translated": true
+  }
 }
