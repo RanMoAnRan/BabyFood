@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 import requests
 from PIL import Image
 
-from sources.nutrition_gov import fetch_recipe, list_recipe_slugs, map_tags
+from sources import myplate_gov, nutrition_gov
 try:
     from utils.translator import translate_text
 except Exception:  # pragma: no cover
@@ -407,7 +407,7 @@ def download_and_convert_cover(session: requests.Session, url: str, max_side: in
     return f"images/{filename}"
 
 
-def build_nutrition_gov_data(limit: int | None, max_pages: int, download_images: bool) -> tuple[dict, dict, dict]:
+def new_session() -> requests.Session:
     session = requests.Session()
     session.headers.update(
         {
@@ -415,24 +415,45 @@ def build_nutrition_gov_data(limit: int | None, max_pages: int, download_images:
             "Accept-Language": "en-US,en;q=0.8",
         }
     )
+    return session
 
-    slugs = list_recipe_slugs(session, max_pages=max_pages)
+
+def build_nutrition_gov_data(
+    limit: int | None,
+    max_pages: int,
+    download_images: bool,
+    *,
+    verbose: bool = False,
+) -> tuple[dict, dict, dict]:
+    session = new_session()
+
+    print(f"[nutrition_gov] 列表抓取中… max_pages={max_pages}", flush=True)
+    slugs = nutrition_gov.list_recipe_slugs(session, max_pages=max_pages)
     if limit:
         slugs = slugs[:limit]
+    print(f"[nutrition_gov] 获取到 {len(slugs)} 条 recipe 入口", flush=True)
 
     items = []
     details_by_id = {}
     latest = []
 
     for slug in slugs:
-        pr = fetch_recipe(session, slug)
+        i = len(items) + 1
+        total = len(slugs)
+        if verbose or total <= 10 or i == 1 or i == total or i % 20 == 0:
+            print(f"[nutrition_gov] 抓取详情 {i}/{total}: {slug}", flush=True)
+        try:
+            pr = nutrition_gov.fetch_recipe(session, slug)
+        except Exception as e:
+            print(f"warn: nutrition_gov fetch failed: {slug}: {e}")
+            continue
         rid = md5(pr.source_url)
 
         cover = pr.cover_image_url
         if download_images and cover:
             cover = download_and_convert_cover(session, cover)
 
-        tags = map_tags(pr.meal_types, pr.categories, pr.food_groups)
+        tags = nutrition_gov.map_tags(pr.meal_types, pr.categories, pr.food_groups)
         min_age_month = infer_min_age_month(pr.title, pr.description, pr.ingredients, tags)
 
         publish_date = parse_iso_date(pr.publish_date) or "1970-01-01"
@@ -447,6 +468,7 @@ def build_nutrition_gov_data(limit: int | None, max_pages: int, download_images:
             "time_cost": time_cost,
             "cover_image": cover,
             "publish_date": publish_date,
+            "source_name": "Nutrition.gov (USDA)",
         }
         items.append(index_item)
 
@@ -481,6 +503,8 @@ def build_nutrition_gov_data(limit: int | None, max_pages: int, download_images:
     latest.sort(reverse=True)
     latest_ids = [rid for _, rid in latest[:10]]
 
+    print(f"[nutrition_gov] 解析完成：{len(items)} 条", flush=True)
+
     manifest = {
         "version": "",
         "updated_at": "",
@@ -497,6 +521,197 @@ def build_nutrition_gov_data(limit: int | None, max_pages: int, download_images:
     return manifest, index, details_by_id
 
 
+def build_myplate_gov_data(
+    limit: int | None,
+    max_pages: int,
+    download_images: bool,
+    *,
+    verbose: bool = False,
+) -> tuple[dict, dict, dict]:
+    session = new_session()
+
+    print(f"[myplate_gov] 列表抓取中… max_pages={max_pages}", flush=True)
+    slugs = myplate_gov.list_recipe_slugs(session, max_pages=max_pages, verbose=verbose)
+    if limit:
+        slugs = slugs[:limit]
+    print(f"[myplate_gov] 获取到 {len(slugs)} 条 recipe 入口", flush=True)
+    if not slugs:
+        print("[myplate_gov] 提示：若持续为 0，多半是 www.myplate.gov 访问超时/被拦；可加 --verbose 看具体失败原因。", flush=True)
+
+    items = []
+    details_by_id = {}
+    latest = []
+
+    for slug in slugs:
+        i = len(items) + 1
+        total = len(slugs)
+        if verbose or total <= 10 or i == 1 or i == total or i % 20 == 0:
+            print(f"[myplate_gov] 抓取详情 {i}/{total}: {slug}", flush=True)
+        try:
+            pr = myplate_gov.fetch_recipe(session, slug)
+        except Exception as e:
+            print(f"warn: myplate_gov fetch failed: {slug}: {e}")
+            continue
+        rid = md5(pr.source_url)
+
+        cover = pr.cover_image_url
+        if download_images and cover:
+            cover = download_and_convert_cover(session, cover)
+
+        tags = myplate_gov.map_tags(pr.meal_types, pr.categories, pr.food_groups)
+        min_age_month = infer_min_age_month(pr.title, pr.description, pr.ingredients, tags)
+
+        publish_date = parse_iso_date(pr.publish_date) or "1970-01-01"
+        time_cost = pr.prep_minutes if pr.prep_minutes is not None else 0
+
+        index_item = {
+            "id": rid,
+            "title": pr.title,
+            "min_age_month": min_age_month,
+            "tags": tags,
+            "difficulty": 1,
+            "time_cost": time_cost,
+            "cover_image": cover,
+            "publish_date": publish_date,
+            "source_name": "MyPlate Kitchen (USDA)",
+        }
+        items.append(index_item)
+
+        tip = pr.description
+        if len(tip) > 80:
+            tip = tip[:80].rstrip() + "…"
+
+        detail = {
+            "id": rid,
+            "title": pr.title,
+            "min_age_month": min_age_month,
+            "tags": tags,
+            "difficulty": 1,
+            "time_cost": time_cost,
+            "cover_image": cover,
+            "nutrition_tip": tip,
+            "ingredients": pr.ingredients,
+            "steps": [{"step_index": i + 1, "img": "", "text": t} for i, t in enumerate(pr.steps)],
+            "warnings": [],
+            "publish_date": publish_date,
+            "updated_at": "",
+            "source_url": pr.source_url,
+            "origin_url": pr.origin_url,
+            "source_name": "MyPlate Kitchen (USDA)",
+        }
+        details_by_id[rid] = detail
+        latest.append((publish_date, rid))
+
+    items.sort(key=lambda x: (x.get("publish_date", ""), x.get("title", "")), reverse=True)
+
+    latest.sort(reverse=True)
+    latest_ids = [rid for _, rid in latest[:10]]
+
+    print(f"[myplate_gov] 解析完成：{len(items)} 条", flush=True)
+
+    manifest = {
+        "version": "",
+        "updated_at": "",
+        "recipe_count": len(items),
+        "latest_ids": latest_ids,
+        "source": {
+            "name": "MyPlate Kitchen (USDA)",
+            "base_url": "https://www.myplate.gov/myplate-kitchen/recipes",
+            "note": "MyPlate.gov 为 USDA 站点；上线前建议保留 source_url/origin_url 并核对可再分发范围。",
+        },
+    }
+
+    index = {"version": "", "items": items}
+    return manifest, index, details_by_id
+
+
+def build_all_data(
+    limit: int | None,
+    max_pages: int,
+    download_images: bool,
+    *,
+    verbose: bool = False,
+) -> tuple[dict, dict, dict]:
+    items: list[dict] = []
+    details_by_id: dict[str, dict] = {}
+    sources: list[dict] = []
+
+    remaining = limit
+    build_fns = [
+        ("nutrition_gov", build_nutrition_gov_data),
+        ("myplate_gov", build_myplate_gov_data),
+    ]
+
+    for name, fn in build_fns:
+        src_limit = remaining if remaining is not None else None
+        try:
+            src_manifest, src_index, src_details = fn(
+                limit=src_limit,
+                max_pages=max_pages,
+                download_images=download_images,
+                verbose=verbose,
+            )
+        except Exception as e:
+            print(f"warn: skip {name}: {e}")
+            continue
+
+        src = src_manifest.get("source")
+        if isinstance(src, dict):
+            sources.append(src)
+
+        if isinstance(src_index, dict) and isinstance(src_index.get("items"), list):
+            items.extend(src_index["items"])
+
+        if isinstance(src_details, dict):
+            for rid, detail in src_details.items():
+                if rid in details_by_id:
+                    continue
+                details_by_id[rid] = detail
+
+        if remaining is not None:
+            remaining = max(0, remaining - int(src_manifest.get("recipe_count") or 0))
+            if remaining <= 0:
+                break
+
+    items.sort(key=lambda x: (x.get("publish_date", ""), x.get("title", "")), reverse=True)
+
+    deduped: list[dict] = []
+    seen_ids = set()
+    for it in items:
+        rid = it.get("id") if isinstance(it, dict) else None
+        if not rid:
+            continue
+        rid = str(rid)
+        if rid in seen_ids:
+            continue
+        seen_ids.add(rid)
+        deduped.append(it)
+    items = deduped
+
+    latest_ids = [it.get("id") for it in items[:10] if it and it.get("id")]
+
+    print(f"[all] 合并完成：{len(items)} 条", flush=True)
+
+    manifest = {
+        "version": "",
+        "updated_at": "",
+        "recipe_count": len(items),
+        "latest_ids": latest_ids,
+        "sources": sources,
+        "source": (
+            sources[0]
+            if len(sources) == 1
+            else {
+                "name": "Nutrition.gov + MyPlate Kitchen (USDA)",
+                "base_url": "",
+                "note": "聚合多个 USDA 站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。",
+            }
+        ),
+    }
+    index = {"version": "", "items": items}
+    return manifest, index, details_by_id
+
+
 def main():
     """
     这是一个“可运行的脚手架”：
@@ -504,13 +719,21 @@ def main():
     - 后续：替换为真实抓取逻辑（目标站解析、图片下载压缩、去重、增量写入等）
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument("--site", default="nutrition_gov", choices=["nutrition_gov"])
+    parser.add_argument("--site", default="all", choices=["all", "nutrition_gov", "myplate_gov"])
     parser.add_argument("--limit", type=int, default=0, help="仅抓取前 N 条（0 表示全量）")
     parser.add_argument("--max-pages", type=int, default=20, help="最多翻页数（每页 24 条）")
     parser.add_argument("--no-images", action="store_true", help="跳过图片下载（调试用）")
     parser.add_argument("--no-translate", action="store_true", help="跳过中文翻译（默认会翻译详情文本）")
+    parser.add_argument("--verbose", action="store_true", help="打印抓取进度")
     parser.add_argument("--dry-run", action="store_true", help="只抓取与解析，不落盘写文件")
     args = parser.parse_args()
+
+    print(
+        f"run: site={args.site} limit={args.limit or 0} max_pages={args.max_pages} "
+        f"images={'off' if args.no_images else 'on'} translate={'off' if args.no_translate else 'on'} "
+        f"dry_run={'yes' if args.dry_run else 'no'}",
+        flush=True,
+    )
 
     ensure_seed_data()
 
@@ -525,21 +748,42 @@ def main():
 
     if args.site == "nutrition_gov":
         new_manifest, new_index, details = build_nutrition_gov_data(
-            limit=limit, max_pages=args.max_pages, download_images=download_images
+            limit=limit,
+            max_pages=args.max_pages,
+            download_images=download_images,
+            verbose=args.verbose,
+        )
+    elif args.site == "myplate_gov":
+        new_manifest, new_index, details = build_myplate_gov_data(
+            limit=limit,
+            max_pages=args.max_pages,
+            download_images=download_images,
+            verbose=args.verbose,
+        )
+    elif args.site == "all":
+        new_manifest, new_index, details = build_all_data(
+            limit=limit,
+            max_pages=args.max_pages,
+            download_images=download_images,
+            verbose=args.verbose,
         )
     else:
         raise SystemExit(f"unsupported site: {args.site}")
 
+    index_items = new_index.get("items") if isinstance(new_index, dict) and isinstance(new_index.get("items"), list) else []
+    print(f"build: index_items={len(index_items)} details={len(details)}", flush=True)
+
     if args.dry_run:
-        print("dry-run:", args.site, "recipes =", len(new_index["items"]))
-        if new_index["items"]:
-            print("sample:", new_index["items"][0]["title"])
+        print("dry-run:", args.site, "recipes =", len(index_items))
+        if index_items:
+            print("sample:", index_items[0]["title"])
         return
 
     do_translate = not args.no_translate
     if do_translate and translate_text is None:
         print("translate disabled: missing translator dependency")
         do_translate = False
+    print(f"translate: {'on' if do_translate else 'off'}", flush=True)
 
     # 列表标题：优先复用旧的中文标题，避免每天重复翻译导致的波动
     old_title_by_id: dict[str, str] = {}
@@ -554,7 +798,10 @@ def main():
 
     title_by_id: dict[str, str] = {}
     if isinstance(new_index, dict) and isinstance(new_index.get("items"), list):
-        for it in new_index["items"]:
+        if do_translate:
+            print(f"[translate] 列表标题处理：{len(new_index['items'])} 条", flush=True)
+
+        for idx, it in enumerate(new_index["items"], start=1):
             if not isinstance(it, dict):
                 continue
             rid = it.get("id")
@@ -567,6 +814,8 @@ def main():
             if old_title and has_chinese(old_title):
                 it["title"] = old_title
             elif do_translate and needs_translation(title_en):
+                if args.verbose or len(new_index["items"]) <= 10 or idx == 1 or idx % 50 == 0:
+                    print(f"[translate] 标题翻译 {idx}/{len(new_index['items'])}", flush=True)
                 it["title"] = translate_text(title_en, dest="zh-CN")
 
             title_by_id[rid] = str(it.get("title") or "")
@@ -592,7 +841,11 @@ def main():
 
     # 逐条对比详情，避免仅详情变化却误判为“无变化”
     now = utc_now_iso()
-    for rid, detail in details.items():
+    total_details = len(details)
+    print(f"[detail] 处理详情：{total_details} 条", flush=True)
+    for idx, (rid, detail) in enumerate(details.items(), start=1):
+        if args.verbose or total_details <= 10 or idx == 1 or idx == total_details or idx % 50 == 0:
+            print(f"[detail] 进度 {idx}/{total_details}: {rid}", flush=True)
         detail_path = os.path.join(RECIPES_DIR, f"{rid}.json")
         old_detail = read_json(detail_path, None) if os.path.exists(detail_path) else None
         if do_translate:
@@ -626,6 +879,7 @@ def main():
     new_index["version"] = version
     new_manifest["updated_at"] = utc_now_iso()
 
+    print(f"[write] 写入数据：manifest/index + {len(details)} 份详情", flush=True)
     write_json(manifest_path, new_manifest)
     write_json(index_path, new_index)
 

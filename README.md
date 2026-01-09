@@ -27,6 +27,7 @@
 python3 -m venv .venv
 .venv/bin/pip install -r backend/requirements.txt
 .venv/bin/python3 backend/daily_job.py --dry-run --limit 1
+# 加 --verbose 可打印抓取进度/失败原因
 ```
 
 落盘写入（会写 `backend/data/` 与 `backend/data/images/`）：
@@ -34,6 +35,19 @@ python3 -m venv .venv
 ```bash
 .venv/bin/python3 backend/daily_job.py --limit 20
 ```
+
+### 重新初始化数据（可选）
+
+脚本不会自动清理旧数据；如果想从零重新生成，可以先删除产物目录：
+
+```bash
+rm -rf backend/data/recipes backend/data/images
+rm -f backend/data/manifest.json backend/data/recipes_index.json
+
+.venv/bin/python3 backend/daily_job.py --site all --verbose
+```
+
+不想重新下图可不要删 `backend/data/images`（或运行时加 `--no-images`）；不想翻译可加 `--no-translate`。
 
 ## 数据协议（推荐）
 
@@ -49,10 +63,15 @@ GitHub Actions 会按计划执行 `backend/daily_job.py`，生成/更新 `data/`
 
 ### 默认数据源（单站快速上线）
 
-当前 `backend/daily_job.py` 内置单站适配：`Nutrition.gov (USDA)`（站点说明里标注 public domain 链接策略，仍建议保留溯源字段）。
+当前 `backend/daily_job.py` 默认会聚合多个站点（均为 USDA 体系内站点），仍建议保留溯源字段并抽样核对可再分发范围：
 
-- 抓取入口：`https://www.nutrition.gov/recipes/search`
-- 解析方式：优先解析页面内的 `schema.org Recipe (JSON-LD)` + Ingredients/Steps 的结构化 HTML
-- 数据字段：会写入 `source_url`（Nutrition.gov 页面）与 `origin_url`（如页面提供外链来源）
+- `Nutrition.gov (USDA)`
+  - 抓取入口：`https://www.nutrition.gov/recipes/search`
+  - 解析方式：优先解析页面内的 `schema.org Recipe (JSON-LD)` + Ingredients/Steps 的结构化 HTML
+  - 数据字段：会写入 `source_url`（Nutrition.gov 页面）与 `origin_url`（如页面提供外链来源）
+- `MyPlate Kitchen (USDA)`
+  - 抓取入口：`https://www.myplate.gov/myplate-kitchen/recipes`
+  - 解析方式：优先解析页面内的 `schema.org Recipe (JSON-LD)`；列表页优先用 sitemap 兜底获取 URL
+  - 数据字段：会写入 `source_url` 与 `origin_url`（若页面提供）
 
 > 注意：即便是公共站点，也可能存在第三方图片/内容的例外；上线前建议抽样核对并保留溯源链接。
