@@ -46,7 +46,8 @@ jobs:
           # Avoid non-fast-forward errors when remote main advances during the run.
           for i in 1 2 3; do
             git fetch origin main
-            git rebase origin/main || { echo "Rebase failed"; git rebase --abort || true; exit 1; }
+            # backend/data is generated; if remote also updated it, prefer this run's output.
+            git rebase -X theirs origin/main || { echo "Rebase failed"; git rebase --abort || true; exit 1; }
             if git push; then
               exit 0
             fi
