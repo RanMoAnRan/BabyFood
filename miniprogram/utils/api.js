@@ -51,8 +51,9 @@ function normalizeMealTags(tags) {
     }
     if (s === "正餐") {
       changed = true;
-      add("午餐");
-      add("晚餐");
+      // Legacy dataset does not distinguish lunch vs dinner.
+      // Keep "正餐" so the UI can present a single "正餐" filter to avoid duplicated lists.
+      add("正餐");
       return;
     }
 

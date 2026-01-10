@@ -10,6 +10,41 @@ function splitColumns(items) {
   return { left, right };
 }
 
+function setEquals(a, b) {
+  if (a.size !== b.size) return false;
+  for (const v of a) {
+    if (!b.has(v)) return false;
+  }
+  return true;
+}
+
+function buildMealTagOptions(items) {
+  const has = new Set();
+  const lunchIds = new Set();
+  const dinnerIds = new Set();
+
+  (items || []).forEach((it) => {
+    if (!it || !Array.isArray(it.tags)) return;
+    it.tags.forEach((t) => has.add(t));
+    if (it.tags.includes("午餐")) lunchIds.add(it.id);
+    if (it.tags.includes("晚餐")) dinnerIds.add(it.id);
+  });
+
+  const options = [];
+  if (has.has("早餐")) options.push("早餐");
+
+  const lunchDinnerIdentical = lunchIds.size > 0 && setEquals(lunchIds, dinnerIds);
+  if (!lunchDinnerIdentical && (has.has("午餐") || has.has("晚餐"))) {
+    if (has.has("午餐")) options.push("午餐");
+    if (has.has("晚餐")) options.push("晚餐");
+  } else if (has.has("正餐") || lunchDinnerIdentical) {
+    options.push("正餐");
+  }
+
+  if (has.has("小吃")) options.push("小吃");
+  return options.length ? options : ["早餐", "午餐", "晚餐", "小吃"];
+}
+
 function fuzzyMatch(text, query) {
   if (!query) return true;
   text = text.toLowerCase();
@@ -35,7 +70,7 @@ Page({
     query: "",
     bucket: "",
     activeTag: "",
-    tagOptions: ["早餐", "午餐", "晚餐", "小吃"],
+    tagOptions: [],
     indexItems: [],
     filteredAll: [],
     filtered: [],
@@ -65,7 +100,8 @@ Page({
       const index = await api.fetchIndex();
       const items = (index && index.items) || [];
       // Randomize the order
-      this.setData({ indexItems: this.shuffle(items) });
+      const shuffled = this.shuffle(items);
+      this.setData({ indexItems: shuffled, tagOptions: buildMealTagOptions(shuffled) });
       this.applyFilters();
     } finally {
       wx.hideLoading();
@@ -88,13 +124,13 @@ Page({
 
   onTagTap(e) {
     const tag = e.currentTarget.dataset.tag;
-    this.setData({ activeTag: tag || "" });
-    this.applyFilters();
+    const shuffled = this.shuffle(this.data.indexItems || []);
+    this.setData({ activeTag: tag || "", indexItems: shuffled }, () => this.applyFilters());
   },
 
   onClear() {
-    this.setData({ query: "", activeTag: "", bucket: "" });
-    this.applyFilters();
+    const shuffled = this.shuffle(this.data.indexItems || []);
+    this.setData({ query: "", activeTag: "", bucket: "", indexItems: shuffled }, () => this.applyFilters());
   },
 
   updateDisplayed() {
@@ -128,7 +164,18 @@ Page({
       else if (bucket === "2+") items = items.filter((x) => x.min_age_month >= 24);
     }
 
-    if (tag) items = items.filter((x) => Array.isArray(x.tags) && x.tags.includes(tag));
+    if (tag) {
+      if (tag === "正餐") {
+        items = items.filter((x) => {
+          const tags = x && x.tags;
+          if (!Array.isArray(tags)) return false;
+          if (tags.includes("正餐")) return true;
+          return tags.includes("午餐") && tags.includes("晚餐");
+        });
+      } else {
+        items = items.filter((x) => Array.isArray(x.tags) && x.tags.includes(tag));
+      }
+    }
 
     if (q) {
       items = items.filter((x) => {
