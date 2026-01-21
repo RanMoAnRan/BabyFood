@@ -97,7 +97,7 @@ Page({
 
     wx.showLoading({ title: "加载中" });
     try {
-      const index = await api.fetchIndex();
+      const index = await api.fetchIndex({ force: true });
       const items = (index && index.items) || [];
       // Randomize the order
       const shuffled = this.shuffle(items);
