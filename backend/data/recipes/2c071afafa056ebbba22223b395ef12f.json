@@ -1,6 +1,6 @@
 {
   "id": "2c071afafa056ebbba22223b395ef12f",
-  "title": "Traditional Irish Stew",
+  "title": "传统爱尔兰炖菜",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 120,
   "cover_image": "images/71056653309e4b55b8ff2b121f5998f8.webp",
-  "nutrition_tip": "This hearty Irish stew with tender lamb and potatoes in a flavorful broth is per…",
+  "nutrition_tip": "这道丰盛的爱尔兰炖菜，配上鲜嫩的羊肉和土豆，配上美味的肉汤，味道鲜美。",
   "ingredients": [
     {
-      "name": "1 tablespoon olive oil",
+      "name": "1 汤匙橄榄油",
       "amount": ""
     },
     {
-      "name": "2 pounds boneless lamb shoulder, cut into 1 1/2 inch pieces",
+      "name": "2 磅去骨羊肩肉，切成 1 1/2 英寸的块",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt, or to taste",
+      "name": "0.5 茶匙盐，或适量",
       "amount": ""
     },
     {
-      "name": "freshly ground black pepper to taste",
+      "name": "现磨黑胡椒粉",
       "amount": ""
     },
     {
-      "name": "1 large onion, sliced",
+      "name": "1 个大洋葱，切片",
       "amount": ""
     },
     {
-      "name": "2 carrots, peeled and cut into large chunks",
+      "name": "2 根胡萝卜，去皮并切成大块",
       "amount": ""
     },
     {
-      "name": "1 parsnip, peeled and cut into large chunks",
+      "name": "1 个防风草，去皮并切成大块",
       "amount": ""
     },
     {
-      "name": "4 cups water, or as needed",
+      "name": "4 杯水，或根据需要",
       "amount": ""
     },
     {
-      "name": "3 large potatoes, peeled and quartered",
+      "name": "3 个大土豆，去皮并切成四等份",
       "amount": ""
     },
     {
-      "name": "1 tablespoon chopped fresh rosemary",
+      "name": "1 汤匙切碎的新鲜迷迭香",
       "amount": ""
     },
     {
-      "name": "1 cup coarsely chopped leeks",
+      "name": "1 杯切碎的韭菜",
       "amount": ""
     },
     {
-      "name": "1 tablespoon chopped fresh parsley for garnish",
+      "name": "1 汤匙切碎的新鲜欧芹作为装饰",
       "amount": ""
     }
   ],
@@ -64,38 +64,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat oil in a large stockpot or Dutch oven over medium heat. Add lamb pieces and cook, stirring gently, until evenly browned. Season with salt and pepper."
+      "text": "在大汤锅或荷兰烤箱中用中火加热油。加入羊肉块，轻轻搅拌，直至均匀变成棕色。用盐和胡椒调味。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in onion and cook for a few minutes. Stir in water and add carrots and parsnips (if using). Cover and bring to a boil; reduce heat to low and simmer until lamb is tender, about 45 minutes to 1 hour."
+      "text": "拌入洋葱，煮几分钟。加入水搅拌，加入胡萝卜和防风草（如果使用）。盖上盖子并煮沸；将火调至小火，煮约 45 分钟至 1 小时，直至羊肉变软。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir in potatoes, and simmer for 15 to 20 minutes, before adding leeks and rosemary. Continue to simmer uncovered, until potatoes are tender but still whole."
+      "text": "拌入土豆，煮 15 至 20 分钟，然后加入韭菜和迷迭香。继续不盖盖子煮，直到土豆变软但仍然完整。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Serve piping hot in bowls garnished with fresh parsley."
+      "text": "趁热盛入碗中，饰以新鲜欧芹。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-03",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/100292/irish-stew/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "12d56046683d39575e827c98dccba3ea",
+    "translated": true
+  }
 }

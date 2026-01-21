@@ -1,6 +1,6 @@
 {
   "id": "96e77f0ca0f8de17368f50a621155830",
-  "title": "Kung Pao Chicken",
+  "title": "宫保鸡丁",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 90,
   "cover_image": "images/a98a3dcbbba4d1cb13ab2123294088ca.webp",
-  "nutrition_tip": "This easy kung pao chicken recipe stir fries tender marinated chicken in a sweet…",
+  "nutrition_tip": "这个简单的宫保鸡丁食谱，用甜甜的酱料炒嫩的腌制鸡肉……",
   "ingredients": [
     {
-      "name": "2 tablespoons white wine, divided",
+      "name": "2 汤匙白葡萄酒，分开",
       "amount": ""
     },
     {
-      "name": "2 tablespoons soy sauce, divided",
+      "name": "2汤匙酱油，分开",
       "amount": ""
     },
     {
-      "name": "2 tablespoons sesame oil, divided",
+      "name": "2汤匙芝麻油，分开",
       "amount": ""
     },
     {
-      "name": "2 tablespoons cornstarch, dissolved in 2 tablespoons water",
+      "name": "2 汤匙玉米淀粉，溶解在 2 汤匙水中",
       "amount": ""
     },
     {
-      "name": "1 pound skinless, boneless chicken breast halves - cut into chunks",
+      "name": "1 磅去皮去骨鸡胸肉半块 - 切成块",
       "amount": ""
     },
     {
-      "name": "1 ounce hot chile paste",
+      "name": "1 盎司热智利酱",
       "amount": ""
     },
     {
-      "name": "2 teaspoons brown sugar",
+      "name": "2 茶匙红糖",
       "amount": ""
     },
     {
-      "name": "1 teaspoon distilled white vinegar",
+      "name": "1 茶匙蒸馏白醋",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) can water chestnuts",
+      "name": "1 罐（8 盎司）荸荠",
       "amount": ""
     },
     {
-      "name": "4 ounces chopped peanuts",
+      "name": "4 盎司碎花生",
       "amount": ""
     },
     {
-      "name": "4 green onions, chopped",
+      "name": "4 个葱，切碎",
       "amount": ""
     },
     {
-      "name": "1 tablespoon chopped garlic",
+      "name": "1 汤匙切碎的大蒜",
       "amount": ""
     }
   ],
@@ -64,38 +64,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon sesame oil, and 1 ½ teaspoons cornstarch in a large glass bowl until smooth. Add chicken pieces and toss to coat. Cover the dish and refrigerate for 30 minutes."
+      "text": "将 1 汤匙酒、1 汤匙酱油、1 汤匙芝麻油和 1 ½ 茶匙玉米淀粉放入大玻璃碗中，搅拌至光滑。添加鸡块并搅拌均匀。盖上盘子并冷藏 30 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine remaining 1 tablespoon wine, 1 tablespoon soy sauce, and 1 tablespoon sesame oil in a medium bowl. Whisk in chili paste, brown sugar, and vinegar. Add water chestnuts, peanuts, green onions, and garlic and toss to coat."
+      "text": "将剩余的 1 汤匙酒、1 汤匙酱油和 1 汤匙芝麻油放入一个中等大小的碗中。加入辣椒酱、红糖和醋，搅拌。加入荸荠、花生、葱和大蒜，搅拌均匀。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Transfer water chestnut sauce mixture to a medium skillet. Heat slowly over medium heat until aromatic."
+      "text": "将菱角酱混合物转移到中型煎锅中。用中火慢慢加热直至芳香。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Meanwhile, transfer chicken from marinade into a large skillet; cook over medium-high heat, stirring, until chicken is cooked through and juices run clear."
+      "text": "同时，将鸡肉从腌料转移到一个大煎锅中；用中高火煮，搅拌，直到鸡肉煮熟并且汁液清澈。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Combine water chestnut mixture and cooked chicken together in one skillet. Adjust heat and simmer until sauce thickens and coats chicken, 1 to 2 minutes."
+      "text": "将菱角混合物和煮熟的鸡肉一起放入一个煎锅中。调节火力，煮 1 至 2 分钟，直至酱汁变稠并覆盖鸡肉。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-05-16",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9027/kung-pao-chicken/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dd994e2832394d64ecfcf4c99ff707da",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "6e0a3e5300a925d731e27ff18745fffc",
-  "title": "Cranberry Sauce Muffins",
+  "title": "蔓越莓酱松饼",
   "min_age_month": 12,
   "tags": [
     "Breakfast",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 35,
   "cover_image": "images/bf7cfd88a2b044003861c9ca884152cb.webp",
-  "nutrition_tip": "Put your leftover Thanksgiving cranberry sauce to good use with this recipe for…",
+  "nutrition_tip": "将剩下的感恩节蔓越莓酱与这个食谱充分利用……",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 cup packed brown sugar",
+      "name": "0.5 杯包装红糖",
       "amount": ""
     },
     {
-      "name": "0.25 cup white sugar",
+      "name": "0.25 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 tablespoon baking powder",
+      "name": "1 汤匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cinnamon",
+      "name": "0.5 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cardamom",
+      "name": "0.5 茶匙小豆蔻粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup leftover cranberry sauce",
+      "name": "1 杯剩余的蔓越莓酱",
       "amount": ""
     },
     {
-      "name": "0.75 cup milk",
+      "name": "0.75 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.25 cup vegetable oil",
+      "name": "0.25 杯植物油",
       "amount": ""
     },
     {
-      "name": "1 large egg, slightly beaten",
+      "name": "1 个大鸡蛋，稍微打散",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     }
   ],
@@ -64,43 +64,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat the oven to 400 degrees F (200 degrees C). Line 18 muffin cups with paper liners."
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。将 18 个松饼杯垫上纸垫。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat cranberry sauce, milk, oil, egg, and vanilla together in a bowl until well combined."
+      "text": "将蔓越莓酱、牛奶、油、鸡蛋和香草精放入碗中搅拌均匀。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Whisk flour, brown sugar, white sugar, baking powder, cinnamon, cardamom, and salt together in a separate bowl."
+      "text": "将面粉、红糖、白糖、泡打粉、肉桂、豆蔻和盐放入另一个碗中搅拌。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Stir dry ingredients into wet ingredients until batter is just moistened."
+      "text": "将干成分搅拌到湿成分中，直到面糊刚好湿润。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Pour into the prepared muffin cups."
+      "text": "倒入准备好的松饼杯中。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until golden brown, about 20 minutes."
+      "text": "放入预热好的烤箱中烘烤约20分钟至金黄色。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-19",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/240388/cranberry-sauce-muffins/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "61cda36d332347692a2ae715244037d5",
+    "translated": true
+  }
 }

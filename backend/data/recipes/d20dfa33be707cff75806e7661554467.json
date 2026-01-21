@@ -1,6 +1,6 @@
 {
   "id": "d20dfa33be707cff75806e7661554467",
-  "title": "Surf and Turf",
+  "title": "冲浪和草地",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,62 +9,62 @@
   "difficulty": 1,
   "time_cost": 45,
   "cover_image": "images/c3409bd196c5338421d21d7c6229d0d4.webp",
-  "nutrition_tip": "Surf and turf with succulent marinated shrimp and perfectly grilled filet mignon…",
+  "nutrition_tip": "海陆大餐，搭配多汁的腌制虾和完美烤的菲力牛排……",
   "ingredients": [
     {
-      "name": "1 tablespoon olive oil",
+      "name": "1 汤匙橄榄油",
       "amount": ""
     },
     {
-      "name": "1 tablespoon butter, melted",
+      "name": "1 汤匙黄油，融化",
       "amount": ""
     },
     {
-      "name": "1 tablespoon finely minced onion",
+      "name": "1 汤匙切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "1 tablespoon white wine",
+      "name": "1 汤匙白葡萄酒",
       "amount": ""
     },
     {
-      "name": "1 teaspoon Worcestershire sauce",
+      "name": "1 茶匙伍斯特酱",
       "amount": ""
     },
     {
-      "name": "1 teaspoon lemon juice",
+      "name": "1 茶匙柠檬汁",
       "amount": ""
     },
     {
-      "name": "1 teaspoon dried parsley",
+      "name": "1 茶匙干欧芹",
       "amount": ""
     },
     {
-      "name": "1 teaspoon seafood seasoning (such as Old Bay®)",
+      "name": "1 茶匙海鲜调味料（例如 Old Bay®）",
       "amount": ""
     },
     {
-      "name": "1 clove garlic, minced",
+      "name": "1 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon freshly ground black pepper",
+      "name": "0.125 茶匙现磨黑胡椒",
       "amount": ""
     },
     {
-      "name": "12 medium shrimp, peeled and deveined",
+      "name": "12 只中等大小的虾，去皮、去肠",
       "amount": ""
     },
     {
-      "name": "2 (4 ounce) filet mignon steaks",
+      "name": "2 块（4 盎司）菲力牛排",
       "amount": ""
     },
     {
-      "name": "2 teaspoons olive oil",
+      "name": "2 茶匙橄榄油",
       "amount": ""
     },
     {
-      "name": "1 teaspoon steak seasoning",
+      "name": "1 茶匙牛排调味料",
       "amount": ""
     }
   ],
@@ -72,43 +72,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk 1 tablespoon olive oil, butter, onion, wine, Worcestershire sauce, lemon juice, parsley, seafood seasoning, garlic, and pepper together in a bowl."
+      "text": "将 1 汤匙橄榄油、黄油、洋葱、葡萄酒、伍斯特酱、柠檬汁、欧芹、海鲜调味料、大蒜和胡椒一起放入碗中搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add shrimp. Toss to coat evenly. Cover the bowl with plastic wrap and refrigerate for flavors to blend, at least 15 minutes."
+      "text": "添加虾。搅拌均匀。用保鲜膜盖住碗并冷藏至少 15 分钟，使味道混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Coat steaks with 2 teaspoons olive oil; sprinkle with steak seasoning."
+      "text": "将户外烤架预热至中高温，并在烤架上涂上少许油。在牛排上涂上2茶匙橄榄油；撒上牛排调味料。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Cook steaks on the preheated grill until they are beginning to firm and are hot and slightly pink in the center for medium doneness, 5 to 7 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C). Transfer steaks to a platter and loosely tent with a piece of aluminum foil."
+      "text": "在预热的烤架上烹制牛排，直至牛排开始变硬、变热且中心略呈粉红色，达到中等熟度，每面煎 5 到 7 分钟。插入中心的即时读数温度计读数应为 140 华氏度（60 摄氏度）。将牛排转移到盘子上，并用一块铝箔松散地盖住。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove shrimp from marinade and grill until they are bright pink on the outside and the meat is opaque, 2 to 3 minutes per side."
+      "text": "将虾从腌料中取出，烤至外部呈亮粉色且肉不透明，每面烤 2 至 3 分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve shrimp and steak together and enjoy!"
+      "text": "将虾和牛排一起上桌，尽情享用吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2019-07-10",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/233259/surf-and-turf-for-two/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e3351a5ab614f691ef2db6af99a4b151",
+    "translated": true
+  }
 }

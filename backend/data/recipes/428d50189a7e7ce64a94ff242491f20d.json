@@ -1,6 +1,6 @@
 {
   "id": "428d50189a7e7ce64a94ff242491f20d",
-  "title": "Stuffed Pepper Soup",
+  "title": "酿辣椒汤",
   "min_age_month": 8,
   "tags": [
     "Soup",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/c0b626405912617e946479d1d423b010.webp",
-  "nutrition_tip": "Stuffed pepper soup with ground beef, green bell pepper, rice, and tomatoes is a…",
+  "nutrition_tip": "酿辣椒汤配碎牛肉、青椒、米饭和西红柿是一道……",
   "ingredients": [
     {
-      "name": "1 pound ground sirloin",
+      "name": "1 磅牛腰肉碎",
       "amount": ""
     },
     {
-      "name": "1 green bell pepper, chopped",
+      "name": "1 个青椒，切碎",
       "amount": ""
     },
     {
-      "name": "1 cup finely diced onion",
+      "name": "1 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "1 (29 ounce) can diced tomatoes",
+      "name": "1罐（29盎司）番茄丁",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can tomato sauce",
+      "name": "1 罐（15 盎司）番茄酱",
       "amount": ""
     },
     {
-      "name": "1 (14 ounce) can chicken broth",
+      "name": "1 罐（14 盎司）鸡汤",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon dried thyme",
+      "name": "0.25 茶匙干百里香",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon dried sage",
+      "name": "0.25 茶匙干鼠尾草",
       "amount": ""
     },
     {
-      "name": "salt and pepper to taste",
+      "name": "盐和胡椒调味",
       "amount": ""
     },
     {
-      "name": "2 cups water",
+      "name": "2 杯水",
       "amount": ""
     },
     {
-      "name": "1 cup white rice",
+      "name": "1 杯白米饭",
       "amount": ""
     }
   ],
@@ -60,38 +60,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。排干并丢弃油脂。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add green pepper and onion; cook and stir until onion has softened and turned translucent, about 5 minutes."
+      "text": "加入青椒和洋葱；煮约 5 分钟，搅拌直至洋葱变软并变成半透明。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add tomatoes, tomato sauce, broth, thyme, and sage; season with salt and pepper. Cover and simmer until peppers are tender, about 30 to 45 minutes."
+      "text": "加入西红柿、番茄酱、肉汤、百里香和鼠尾草；用盐和胡椒调味。盖上锅盖，小火煮约 30 至 45 分钟，直至辣椒变软。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Meanwhile, bring water and rice to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until rice is tender and water has been absorbed, 20 to 25 minutes."
+      "text": "同时，将水和米在平底锅中煮沸。将火调至中低，盖上锅盖，小火煮 20 至 25 分钟，直至米变软且水分被吸收。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Stir cooked rice into soup; heat through and serve."
+      "text": "将煮熟的米饭倒入汤中；加热即可食用。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-01-10",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13378/stuffed-pepper-soup-iv/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6b1691654d4c46567f9b21f91d845aa4",
+    "translated": true
+  }
 }

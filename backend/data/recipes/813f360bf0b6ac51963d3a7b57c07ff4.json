@@ -1,6 +1,6 @@
 {
   "id": "813f360bf0b6ac51963d3a7b57c07ff4",
-  "title": "Baked Pumpkin Seeds",
+  "title": "烤南瓜子",
   "min_age_month": 12,
   "tags": [
     "Appetizer",
@@ -10,18 +10,18 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/06faeb5eab81b4105d9f581e244a2d1a.webp",
-  "nutrition_tip": "This baked pumpkin seeds recipe, coats the seeds in a mixture of oil and ranch d…",
+  "nutrition_tip": "这个烤南瓜籽食谱，将种子涂在油和牧场饲料的混合物中......",
   "ingredients": [
     {
-      "name": "2 cups raw pumpkin seeds, or to taste",
+      "name": "2 杯生南瓜籽，或品尝",
       "amount": ""
     },
     {
-      "name": "0.25 cup vegetable oil",
+      "name": "0.25 杯植物油",
       "amount": ""
     },
     {
-      "name": "1 (1 ounce) package ranch dressing mix",
+      "name": "1 包（1 盎司）牧场调料混合物",
       "amount": ""
     }
   ],
@@ -29,23 +29,28 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Toss pumpkin seeds, oil, and ranch dressing mix together in a bowl until evenly coated; spread onto a baking sheet."
+      "text": "将南瓜籽、油和牧场沙拉酱一起放入碗中，搅拌均匀；铺在烤盘上。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in the preheated oven until seeds are lightly browned, about 10 minutes."
+      "text": "在预热的烤箱中烘烤约 10 分钟，直至种子呈浅棕色。"
     }
   ],
   "warnings": [],
   "publish_date": "2013-10-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/234717/baked-pumpkin-seeds/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4fb2aec0b2a4047f260ab93604da045e",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "c06433cd10714eab4c7cf3d23bc4fac9",
-  "title": "Million Dollar Spaghetti",
+  "title": "百万美元意大利面",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/3f5ccf43a3d2c5d89ac1ed7039285839.webp",
-  "nutrition_tip": "Million dollar spaghetti is a delicious baked casserole with layers of spaghetti…",
+  "nutrition_tip": "百万美元的意大利面是一道美味的烤砂锅，里面有多层意大利面……",
   "ingredients": [
     {
-      "name": "1 (8 ounce) package spaghetti",
+      "name": "1 包（8 盎司）意大利面",
       "amount": ""
     },
     {
-      "name": "1 pound lean ground beef",
+      "name": "1 磅瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 (16 ounce) jar spaghetti sauce",
+      "name": "1 罐（16 盎司）意大利面酱",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, sliced - divided",
+      "name": "0.5 杯黄油，切片 - 分开",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) container cottage cheese",
+      "name": "1 罐（8 盎司）干酪",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package cream cheese, softened",
+      "name": "1 包（8 盎司）奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "0.25 cup sour cream",
+      "name": "0.25 杯酸奶油",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package shredded sharp Cheddar cheese",
+      "name": "1 包（8 盎司）切碎切达干酪",
       "amount": ""
     }
   ],
@@ -48,58 +48,63 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "收集所有原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in boiling water until cooked through but firm to the bite, about 8 to 12 minutes. Drain."
+      "text": "将一大锅淡盐水煮沸。将意大利面放入沸水中煮约 8 至 12 分钟，直至煮熟但咬起来很硬。流走。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "While the pasta is cooking, heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+      "text": "煮意大利面时，用中高温加热一个大煎锅。在热煎锅中煮牛肉并搅拌，直至变成褐色且易碎，持续 5 至 7 分钟；排干并丢弃油脂。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Transfer to a bowl and mix in spaghetti sauce."
+      "text": "转移到碗中并与意大利面酱混合。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Place 1/2 of the butter slices into the bottom of a 9x13-inch casserole dish. Spread 1/2 of the spaghetti into the dish."
+      "text": "将 1/2 黄油片放入 9x13 英寸砂锅底部。将 1/2 的意大利面条铺入盘中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Mix cottage cheese, cream cheese, and sour cream together in a bowl; spread mixture over spaghetti."
+      "text": "将干酪、奶油干酪和酸奶油在碗中混合；将混合物涂在意大利面条上。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Cover with remaining spaghetti and top with remaining slices of butter."
+      "text": "盖上剩余的意大利面条，并在上面放上剩余的黄油片。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Pour ground beef mixture over spaghetti and spread in an even layer."
+      "text": "将碎牛肉混合物倒在意大利面上，均匀地铺成一层。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Bake in the preheated oven for 30 minutes. Spread Cheddar cheese on top and continue baking until cheese has melted and is lightly browned, about 15 minutes more."
+      "text": "放入预热好的烤箱中烘烤30分钟。将切达干酪铺在上面，继续烘烤，直至奶酪融化并呈浅棕色，再烘烤约 15 分钟。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-02-06",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/232227/million-dollar-spaghetti/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7404cfba5a2e055091341afb37cfb8fe",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "db9df85492a997c141805c73e1e5b138",
-  "title": "Traditional Swedish Pepparkakor",
+  "title": "传统瑞典姜饼",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 110,
   "cover_image": "images/9f7b3b100f5a7a858ea1f3e89529883c.webp",
-  "nutrition_tip": "Pepparkakor are delicate, crispy gingerbread cookies that are a beloved Swedish…",
+  "nutrition_tip": "Pepparkakor 是一种精致、酥脆的姜饼饼干，是深受瑞典人喜爱的......",
   "ingredients": [
     {
-      "name": "3.75 cups all-purpose flour",
+      "name": "3.75 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking soda",
+      "name": "2 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon cinnamon",
+      "name": "1 茶匙肉桂",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cloves",
+      "name": "1 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground ginger",
+      "name": "1 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cardamom",
+      "name": "1 茶匙小豆蔻粉",
       "amount": ""
     },
     {
-      "name": "1 cup unsalted butter, softened",
+      "name": "1 杯无盐黄油，软化",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup brown sugar, packed",
+      "name": "0.5 杯红糖，包装",
       "amount": ""
     },
     {
-      "name": "1 large egg, beaten",
+      "name": "1 个大鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "2 tablespoons dark corn syrup",
+      "name": "2 汤匙黑玉米糖浆",
       "amount": ""
     }
   ],
@@ -60,33 +60,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Sift flour, baking soda, cinnamon, cloves, ginger, and cardamom into a large bowl."
+      "text": "将面粉、小苏打、肉桂、丁香、姜和豆蔻筛入一个大碗中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat butter, white sugar, and brown sugar together in a separate bowl with an electric mixer on medium speed until light and fluffy. Beat in egg and corn syrup until smooth. Gradually stir in flour mixture until evenly blended. Divide dough into four equal portions and wrap tightly in plastic wrap; refrigerate for at least 1 hour, or overnight."
+      "text": "将黄油、白糖和红糖放入一个单独的碗中，用电动搅拌机中速搅拌直至松软。加入鸡蛋和玉米糖浆，搅拌至光滑。逐渐加入面粉混合物直至混合均匀。将面团分成四等份，用保鲜膜包紧；冷藏至少 1 小时或过夜。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "When ready to bake, preheat the oven to 375 degrees F (190 degrees C). Lightly grease baking sheets."
+      "text": "准备烘烤时，将烤箱预热至 375 华氏度（190 摄氏度）。在烤盘上涂上少许油脂。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Working with one disk of dough at a time, and leaving the remaining disks in the refrigerator, unwrap chilled dough and place onto a lightly floured surface. Roll dough with a floured rolling pin to a thickness of 1/8 inch. Cut dough into desired shapes with cookie cutters, dipping the cutters into flour as needed so they don&#39;t stick to the dough. Place cookies 1 inch apart on prepared baking sheets."
+      "text": "一次处理一盘面团，将剩余的面团放在冰箱中，打开冷冻面团并放在撒有少许面粉的表面上。用撒了面粉的擀面杖将面团擀成 1/8 英寸的厚度。用饼干切刀将面团切成所需的形状，根据需要将切刀浸入面粉中，这样它们就不会粘在面团上。将饼干放在准备好的烤盘上，间隔 1 英寸。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until set, about 5 minutes. Transfer cookies to wire racks to cool. Repeat rolling, cutting, and baking the remaining cookies."
+      "text": "在预热的烤箱中烘烤约 5 分钟直至凝固。将饼干转移到金属架上冷却。重复滚动、切割和烘烤剩余的饼干。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/155728/traditional-swedish-pepparkakor/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d29b4e3c792ff8bb7e94443c2f567b36",
+    "translated": true
+  }
 }

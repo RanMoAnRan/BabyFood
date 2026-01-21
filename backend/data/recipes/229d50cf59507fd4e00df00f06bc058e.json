@@ -1,6 +1,6 @@
 {
   "id": "229d50cf59507fd4e00df00f06bc058e",
-  "title": "White Fruitcake",
+  "title": "白水果蛋糕",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -10,54 +10,54 @@
   "difficulty": 1,
   "time_cost": 635,
   "cover_image": "images/0f337cf9314575724cb57a6e6a3cb543.webp",
-  "nutrition_tip": "This fruitcake recipe makes a rich, moist cake packed with golden raisins, candi…",
+  "nutrition_tip": "这个水果蛋糕食谱制作了一个丰富、湿润的蛋糕，里面装满了金色的葡萄干、糖果……",
   "ingredients": [
     {
-      "name": "3 cups golden raisins",
+      "name": "3 杯金色葡萄干",
       "amount": ""
     },
     {
-      "name": "1.5 cups candied pineapple chunks",
+      "name": "1.5 杯蜜饯菠萝块",
       "amount": ""
     },
     {
-      "name": "1.5 cups candied cherries",
+      "name": "1.5 杯蜜饯樱桃",
       "amount": ""
     },
     {
-      "name": "1 cup dried currants",
+      "name": "1 杯 干醋栗",
       "amount": ""
     },
     {
-      "name": "2 ounces candied orange peel",
+      "name": "2 盎司蜜饯橙皮",
       "amount": ""
     },
     {
-      "name": "2 ounces candied citron peel",
+      "name": "2 盎司蜜饯柚子皮",
       "amount": ""
     },
     {
-      "name": "0.5 cup orange juice",
+      "name": "0.5 杯橙汁",
       "amount": ""
     },
     {
-      "name": "2 cups unsalted butter, softened",
+      "name": "2 杯无盐黄油，软化",
       "amount": ""
     },
     {
-      "name": "4 cups confectioners' sugar",
+      "name": "4 杯糖果糖",
       "amount": ""
     },
     {
-      "name": "8 large eggs, separated",
+      "name": "8 个大鸡蛋，分开",
       "amount": ""
     },
     {
-      "name": "4 cups pecans, chopped",
+      "name": "4 杯山核桃，切碎",
       "amount": ""
     },
     {
-      "name": "3 cups sifted all-purpose flour",
+      "name": "3 杯过筛的通用面粉",
       "amount": ""
     }
   ],
@@ -65,43 +65,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Chop raisins, pineapple chunks, and cherries into smaller pieces and transfer to a large bowl."
+      "text": "将葡萄干、菠萝块和樱桃切成小块，然后放入一个大碗中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add currants, orange peel, and citron peel to the bowl. Pour in orange juice, cover, and soak, 8 hours to overnight."
+      "text": "将醋栗、橙皮和柚子皮放入碗中。倒入橙汁，盖上盖子，浸泡8小时至过夜。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Preheat the oven to 275 degrees F (135 degrees C). Place a small pan of water on a lower shelf in the oven. Line one 5x9-inch loaf pan and two 3x8-inch loaf pans with parchment paper."
+      "text": "将烤箱预热至 275 华氏度（135 摄氏度）。将一小盘水放在烤箱的下层架子上。在一个 5x9 英寸面包盘和两个 3x8 英寸面包盘上铺上羊皮纸。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Beat butter in a large bowl with an electric mixer until creamy. Gradually beat in confectioners&#39; sugar until incorporated."
+      "text": "在一个大碗中用电动搅拌机将黄油搅打至奶油状。逐渐击败糖果店的加糖直至合并。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Whisk egg yolks in a separate bowl until thick and pale in color. Add to the butter mixture and mix until incorporated. Mix in soaked fruit and orange juice mixture, then gradually mix in sifted flour."
+      "text": "在另一个碗中搅拌蛋黄，直至变稠且颜色变浅。添加到黄油混合物中并混合直至合并。加入浸泡过的水果和橙汁混合物，然后逐渐加入过筛的面粉。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "In another clean bowl, beat egg whites until peaks form. Fold egg whites into the batter. Fill each of the prepared pans 2/3 full with batter."
+      "text": "在另一个干净的碗中，搅打蛋白直至形成峰状。将蛋白拌入面糊中。将每个准备好的平底锅倒入 2/3 满的面糊。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until golden brown and a toothpick comes out clean when inserted in the center, 2 to 2 ½ hours."
+      "text": "在预热的烤箱中烘烤 2 到 2 ½ 小时，直至呈金黄色，牙签插入中心时拔出时是干净的。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-12-06",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9319/white-fruit-cake/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9f7c6310b345393965690ec306f75568",
+    "translated": true
+  }
 }

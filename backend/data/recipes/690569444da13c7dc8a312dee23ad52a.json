@@ -1,6 +1,6 @@
 {
   "id": "690569444da13c7dc8a312dee23ad52a",
-  "title": "Biscotti",
+  "title": "比斯科蒂",
   "min_age_month": 8,
   "tags": [
     "Dessert",
@@ -9,30 +9,30 @@
   "difficulty": 1,
   "time_cost": 70,
   "cover_image": "images/8e847bd7e9efba0232676958ed297560.webp",
-  "nutrition_tip": "Biscotti are twice-baked Italian cookies that are wonderfully light, crisp, and…",
+  "nutrition_tip": "Biscotti 是两次烘烤的意大利饼干，非常轻、脆，而且……",
   "ingredients": [
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup vegetable oil",
+      "name": "0.5 杯植物油",
       "amount": ""
     },
     {
-      "name": "3 eggs",
+      "name": "3 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 tablespoon anise extract, or 3 drops anise oil",
+      "name": "1 汤匙茴香提取物，或 3 滴茴香油",
       "amount": ""
     },
     {
-      "name": "3.25 cups all-purpose flour",
+      "name": "3.25 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 tablespoon baking powder",
+      "name": "1 汤匙发酵粉",
       "amount": ""
     }
   ],
@@ -40,48 +40,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease two cookie sheets or line with parchment paper."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。在两张饼干片上涂上油脂或用羊皮纸铺成一行。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat sugar, oil, eggs, and anise extract together in a medium bowl until well-blended. Combine flour and baking powder in a separate bowl; stir into egg mixture to form a heavy dough."
+      "text": "在一个中等大小的碗中将糖、油、鸡蛋和茴香提取物一起搅拌直至充分混合。将面粉和泡打粉放入另一个碗中；拌入鸡蛋混合物中，形成浓稠的面团。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Divide dough into two equal pieces. Form each piece into a log the length of a cookie sheet. Place one log on each of the prepared sheets; and press dough down to 1/2-inch thickness."
+      "text": "将面团分成两等份。将每块切成饼干片长度的原木。将一根原木放在每张准备好的纸上；并将面团压至 1/2 英寸厚。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until golden brown, 25 to 30 minutes. Transfer logs to wire racks; let sit until cool enough to handle, about 15 minutes."
+      "text": "在预热的烤箱中烘烤 25 至 30 分钟，直至呈金黄色。将原木转移到线架上；静置约 15 分钟，直到冷却到可以处理为止。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Slice each log crosswise into about eighteen 1/2-inch-thick slices. Place slices cut-sides up back on the cookie sheets."
+      "text": "将每根原木横向切成大约十八片 1/2 英寸厚的切片。将切片切面朝上放回饼干片上。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake until lightly toasted and golden brown, 6 to 10 minutes per side."
+      "text": "烘烤至轻烤并呈金黄色，每面烘烤 6 至 10 分钟。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2000-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/17241/biscotti/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ab1e66baca7f8e5468ab39e1cc945778",
+    "translated": true
+  }
 }

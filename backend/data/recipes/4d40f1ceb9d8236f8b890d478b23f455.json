@@ -1,6 +1,6 @@
 {
   "id": "4d40f1ceb9d8236f8b890d478b23f455",
-  "title": "Gingerbread Cookie Mix in a Jar",
+  "title": "罐子里的姜饼饼干混合物",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/315b6d7399d6d8e860dc9a629464e744.webp",
-  "nutrition_tip": "Gingerbread cookie mix is layered in a jar; attach a gingerbread man cookie cutt…",
+  "nutrition_tip": "姜饼饼干混合物分层放在罐子里；附上姜饼人饼干切块……",
   "ingredients": [
     {
-      "name": "3.5 cups all-purpose flour, divided",
+      "name": "3.5 杯通用面粉，分开",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking powder",
+      "name": "1 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons ground ginger",
+      "name": "2 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cloves",
+      "name": "1 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground allspice",
+      "name": "1 茶匙五香粉粉",
       "amount": ""
     },
     {
-      "name": "1 cup packed brown sugar",
+      "name": "1 杯包装红糖",
       "amount": ""
     }
   ],
@@ -48,28 +48,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Mix together 2 cups flour, baking soda, and baking powder in a medium bowl."
+      "text": "将 2 杯面粉、小苏打和泡打粉放入一个中等大小的碗中混合。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix together remaining 1 1/2 cups flour, ginger, cloves, cinnamon, and allspice in a separate bowl."
+      "text": "将剩余的 1 1/2 杯面粉、生姜、丁香、肉桂和五香粉放入另一个碗中混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Layer flour-baking powder mixture, brown sugar, and flour-spice mixture into a 1-quart wide mouth canning jar, in that order. Pack firmly after adding each layer."
+      "text": "按顺序将面粉-发酵粉混合物、红糖和面粉-香料混合物放入 1 夸脱的宽口罐头罐中。添加每层后压紧。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cover the jar with a lid and seal well. Write an instructions tag and attach it to the jar."
+      "text": "盖上罐子并密封好。写下说明标签并将其贴在罐子上。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-11-29",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/11135/gingerbread-cookie-mix-in-a-jar/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8ad75d0bcd8b3dbacba31e746dc00389",
+    "translated": true
+  }
 }

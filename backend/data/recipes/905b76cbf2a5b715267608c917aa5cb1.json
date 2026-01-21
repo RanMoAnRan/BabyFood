@@ -1,6 +1,6 @@
 {
   "id": "905b76cbf2a5b715267608c917aa5cb1",
-  "title": "Quick and Easy Yorkshire Pudding",
+  "title": "快速简便的约克郡布丁",
   "min_age_month": 8,
   "tags": [
     "Side Dish",
@@ -10,22 +10,22 @@
   "difficulty": 1,
   "time_cost": 40,
   "cover_image": "images/e591c9dc8cdf209f9101bf2104b3c8df.webp",
-  "nutrition_tip": "Yorkshire pudding is made with a simple batter of eggs, flour, and milk baked in…",
+  "nutrition_tip": "约克郡布丁是用鸡蛋、面粉和牛奶的简单面糊制成的，在……中烘烤。",
   "ingredients": [
     {
-      "name": "3 eggs",
+      "name": "3 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "1 cup all-purpose flour",
+      "name": "1 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 tablespoons butter",
+      "name": "2 汤匙黄油",
       "amount": ""
     }
   ],
@@ -33,38 +33,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C)."
+      "text": "收集所有原料。将烤箱预热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat eggs and milk together in a medium bowl."
+      "text": "在一个中等大小的碗中将鸡蛋和牛奶一起搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in flour."
+      "text": "拌入面粉。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Divide butter evenly into the cups of a 12-cup muffin tin, about 1/2 teaspoon per cup."
+      "text": "将黄油均匀地分入 12 杯松饼罐的杯子中，每杯约 1/2 茶匙。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Place the muffin tin in the preheated oven until butter has melted and is sizzling hot, 2 to 3 minutes. Remove from oven, and distribute batter evenly among each cup."
+      "text": "将松饼罐放入预热的烤箱中，直至黄油融化并发出嘶嘶声，持续 2 到 3 分钟。从烤箱中取出，将面糊均匀地分布在每个杯子中​​。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Return to the oven and bake for 5 minutes. Reduce the heat to 350 degrees F (175 degrees C) and bake until puffed and golden, without peeking, about 25 minutes more. Serve immediately."
+      "text": "返回烤箱烘烤 5 分钟。将热量降低至 350 华氏度（175 摄氏度），然后烘烤约 25 分钟，直到膨化并呈金黄色，不要偷看。立即上菜。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-10-08",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/22539/quick-and-easy-yorkshire-pudding/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7416b65c99f95370df34b1a1d7751f84",
+    "translated": true
+  }
 }

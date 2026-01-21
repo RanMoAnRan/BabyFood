@@ -1,6 +1,6 @@
 {
   "id": "3c7fad67a6d83f03d471f074c09adf5e",
-  "title": "Strawberry Pretzel Salad",
+  "title": "草莓椒盐卷饼沙拉",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 150,
   "cover_image": "images/94ac643b6394a5e8df785a8990cd6740.webp",
-  "nutrition_tip": "Strawberry pretzel salad is the perfect crowd-pleasing dessert featuring a crunc…",
+  "nutrition_tip": "草莓椒盐卷饼沙拉是完美的大众喜爱的甜点，其特点是松脆......",
   "ingredients": [
     {
-      "name": "2 cups crushed pretzels",
+      "name": "2 杯碎椒盐卷饼",
       "amount": ""
     },
     {
-      "name": "0.75 cup butter, melted",
+      "name": "0.75 杯黄油，融化",
       "amount": ""
     },
     {
-      "name": "3 tablespoons white sugar",
+      "name": "3汤匙白糖",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package cream cheese, softened",
+      "name": "1 包（8 盎司）奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) container frozen whipped topping, thawed",
+      "name": "1 个（8 盎司）容器冷冻搅打配料，解冻",
       "amount": ""
     },
     {
-      "name": "2 (3 ounce) packages strawberry flavored Jell-O®",
+      "name": "2 包（3 盎司）草莓味 Jell-O®",
       "amount": ""
     },
     {
-      "name": "2 cups boiling water",
+      "name": "2 杯开水",
       "amount": ""
     },
     {
-      "name": "2 (10 ounce) packages frozen strawberries",
+      "name": "2 包（10 盎司）冷冻草莓",
       "amount": ""
     }
   ],
@@ -52,38 +52,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients and preheat the oven to 400 degrees F (200 degrees C)."
+      "text": "收集所有原料并将烤箱预热至 400 华氏度（200 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Stir crushed pretzels, melted butter, and 3 tablespoons sugar together until well-combined; mix well and press mixture into the bottom of a 9x13-inch baking dish."
+      "text": "将压碎的椒盐卷饼、融化的黄油和 3 汤匙糖一起搅拌直至充分混合；充分混合并将混合物压入 9x13 英寸烤盘的底部。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in the preheated oven until set, about 8 to 10 minutes; set aside to cool."
+      "text": "放入预热好的烤箱中烘烤至凝固，约8至10分钟；放在一边冷却。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Place cream cheese and 1 cup sugar in a large bowl. Beat with an electric mixer until smooth; fold in whipped topping. Spread mixture onto cooled crust."
+      "text": "将奶油干酪和 1 杯糖放入一个大碗中。用电动搅拌机搅打至顺滑；拌入搅打好的配料。将混合物涂在冷却的外壳上。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Dissolve gelatin in boiling water. Stir in still-frozen strawberries and allow to set briefly. Pour and spread over cream cheese layer; refrigerate until set, at least 2 hours."
+      "text": "将明胶溶解在沸水中。拌入仍冷冻的草莓并短暂放置。倒入并铺在奶油芝士层上；冷藏至少2小时直至凝固。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2000-06-29",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/20338/strawberry-pretzel-salad/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "06972f2a7fc014c3deff0108f6bc6de4",
+    "translated": true
+  }
 }

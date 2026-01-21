@@ -1,6 +1,6 @@
 {
   "id": "3c2c6c56aa50afa9b6bea68c42e839f8",
-  "title": "Cranberry Nut Bread",
+  "title": "蔓越莓坚果面包",
   "min_age_month": 12,
   "tags": [
     "Bread",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/ed642536665f03ba4a122a996a7da955.webp",
-  "nutrition_tip": "This cranberry nut bread is moist and easy to make with fresh cranberries, walnu…",
+  "nutrition_tip": "这款蔓越莓坚果面包湿润且易于制作，用新鲜蔓越莓、核桃......",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons baking powder",
+      "name": "1.5 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.75 teaspoon salt",
+      "name": "0.75 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon baking soda",
+      "name": "0.5 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 cup chopped cranberries",
+      "name": "1 杯切碎的蔓越莓",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped walnuts",
+      "name": "0.5 杯核桃碎",
       "amount": ""
     },
     {
-      "name": "0.75 cup orange juice",
+      "name": "0.75 杯橙汁",
       "amount": ""
     },
     {
-      "name": "1 large egg",
+      "name": "1 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 tablespoons vegetable oil",
+      "name": "2 汤匙植物油",
       "amount": ""
     },
     {
-      "name": "1 tablespoon orange zest",
+      "name": "1 汤匙 橙皮碎",
       "amount": ""
     }
   ],
@@ -60,28 +60,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x5-inch loaf pan."
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x5 英寸的面包盘上涂抹油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine flour, sugar, baking powder, salt, and baking soda in a large bowl. Add cranberries and walnuts; stir until well coated."
+      "text": "将面粉、糖、泡打粉、盐和小苏打放入一个大碗中。加入蔓越莓和核桃；搅拌直至充分涂覆。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix together orange juice, egg, oil, and zest in a medium bowl until combined. Pour over flour mixture; stir until just blended. Spoon batter into the prepared loaf pan."
+      "text": "将橙汁、鸡蛋、油和果皮放入一个中等大小的碗中混合直至混合。倒入面粉混合物；搅拌直至混合。将面糊舀入准备好的面包盘中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into the center of loaf comes out clean, about 50 minutes. Let cool in the pan briefly before removing to a wire rack to cool completely."
+      "text": "在预热的烤箱中烘烤约 50 分钟，直至将牙签插入面包中心，拔出时是干净的。在锅中短暂冷却，然后移至金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-10-31",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13566/cranberry-nut-bread-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "44da7c42e942d1d4f2001aeb1829671a",
+    "translated": true
+  }
 }

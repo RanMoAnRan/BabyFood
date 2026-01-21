@@ -1,6 +1,6 @@
 {
   "id": "854416c9f1b0dab5bfc2a773573104e0",
-  "title": "Sloppy Joes",
+  "title": "邋遢乔斯",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 35,
   "cover_image": "images/9611f724a357ecad2f7aa78a4c21b2ca.webp",
-  "nutrition_tip": "Sloppy Joes are easy to make with lean ground beef, basic pantry ingredients, an…",
+  "nutrition_tip": "Sloppy Joes 很容易用瘦碎牛肉、基本食品配料和……制作。",
   "ingredients": [
     {
-      "name": "1 pound lean ground beef",
+      "name": "1 磅瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped onion",
+      "name": "0.25 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped green bell pepper",
+      "name": "0.25 杯切碎的青椒",
       "amount": ""
     },
     {
-      "name": "0.75 cup ketchup, or to taste",
+      "name": "0.75 杯番茄酱，或适量",
       "amount": ""
     },
     {
-      "name": "1 tablespoon brown sugar, or to taste",
+      "name": "1 汤匙红糖，或适量",
       "amount": ""
     },
     {
-      "name": "1 teaspoon yellow mustard, or to taste",
+      "name": "1 茶匙黄芥末，或适量",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon garlic powder",
+      "name": "0.5 茶匙大蒜粉",
       "amount": ""
     },
     {
-      "name": "salt and ground black pepper to taste",
+      "name": "盐和黑胡椒粉适量",
       "amount": ""
     },
     {
-      "name": "6 hamburger buns, split",
+      "name": "6 个汉堡面包，分割",
       "amount": ""
     }
   ],
@@ -53,23 +53,28 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat a large skillet over medium heat. Cook and stir lean ground beef in the hot skillet until some of the fat starts to render, 3 to 4 minutes. Add onion and bell pepper; continue to cook until vegetables have softened and beef is cooked through, 3 to 5 more minutes."
+      "text": "用中火加热一个大煎锅。在热煎锅中煮并搅拌瘦碎牛肉，直到一些脂肪开始呈现，持续 3 到 4 分钟。加入洋葱和彩椒；继续煮 3 到 5 分钟，直到蔬菜变软，牛肉煮熟。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Stir in ketchup, brown sugar, mustard, and garlic powder; season with salt and pepper. Reduce heat to low and simmer for 20 to 30 minutes."
+      "text": "加入番茄酱、红糖、芥末和蒜粉；用盐和胡椒调味。将火调至小火，煮 20 至 30 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Divide meat mixture evenly among hamburger buns."
+      "text": "将肉混合物均匀地分配到汉堡包中。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-09-30",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/24264/sloppy-joes-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "923e2b6595a60ec3d1df453811454973",
+    "translated": true
+  }
 }

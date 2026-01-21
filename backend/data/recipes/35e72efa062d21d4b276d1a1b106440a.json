@@ -1,6 +1,6 @@
 {
   "id": "35e72efa062d21d4b276d1a1b106440a",
-  "title": "General Tso&#39;s Chicken",
+  "title": "左宗棠鸡",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -11,90 +11,90 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/03781debac54f4bbcb07ff33531deb92.webp",
-  "nutrition_tip": "General Tso&#39;s chicken is the perfect combination of crispy breaded deep-frie…",
+  "nutrition_tip": "左宗棠鸡是脆皮炸鸡的完美结合……",
   "ingredients": [
     {
-      "name": "4 cups vegetable oil for frying",
+      "name": "4 杯煎炸用植物油",
       "amount": ""
     },
     {
-      "name": "1 large egg",
+      "name": "1 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1.5 pounds skinless, boneless chicken thighs, cut into 1 1/2-inch pieces",
+      "name": "1.5 磅去皮去骨鸡大腿，切成 1 1/2 英寸的块",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 teaspoon white sugar",
+      "name": "1 茶匙白糖",
       "amount": ""
     },
     {
-      "name": "1 pinch white pepper",
+      "name": "1 撮白胡椒",
       "amount": ""
     },
     {
-      "name": "1 cup cornstarch",
+      "name": "1 杯玉米淀粉",
       "amount": ""
     },
     {
-      "name": "2 tablespoons vegetable oil",
+      "name": "2 汤匙植物油",
       "amount": ""
     },
     {
-      "name": "3 tablespoons chopped green onion",
+      "name": "3汤匙葱花",
       "amount": ""
     },
     {
-      "name": "1 clove garlic, minced",
+      "name": "1 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "6 dried whole red chilies",
+      "name": "6 个干红辣椒",
       "amount": ""
     },
     {
-      "name": "1 strip orange zest",
+      "name": "1 条橙皮碎",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.25 cup soy sauce",
+      "name": "0.25 杯酱油",
       "amount": ""
     },
     {
-      "name": "3 tablespoons chicken broth",
+      "name": "3 汤匙鸡汤",
       "amount": ""
     },
     {
-      "name": "2 tablespoons peanut oil",
+      "name": "2 汤匙花生油",
       "amount": ""
     },
     {
-      "name": "1 tablespoon rice vinegar",
+      "name": "1 汤匙米醋",
       "amount": ""
     },
     {
-      "name": "2 teaspoons sesame oil",
+      "name": "2 茶匙芝麻油",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground ginger",
+      "name": "0.25 茶匙姜粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons cornstarch",
+      "name": "2 茶匙玉米淀粉",
       "amount": ""
     },
     {
-      "name": "0.25 cup water",
+      "name": "0.25 杯水",
       "amount": ""
     }
   ],
@@ -102,43 +102,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat vegetable oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+      "text": "在油炸锅或大平底锅中将植物油加热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk egg in large mixing bowl. Add chicken, salt, sugar, and pepper; mix well. Mix in cornstarch, a little bit at a time, until chicken is well coated."
+      "text": "在大搅拌碗中搅拌鸡蛋。加入鸡肉、盐、糖和胡椒粉；搅拌均匀。加入玉米淀粉，一次一点点，直到鸡肉充分裹上一层。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Working in batches, carefully drop one piece of chicken at a time into the hot oil. Fry until chicken turns golden brown and begins to float, about 3 minutes. Remove chicken to a plate and allow to cool as you fry the next batch."
+      "text": "分批工作，小心地将一块鸡肉一次放入热油中。煎至鸡肉变成金黄色并开始漂浮，大约 3 分钟。将鸡肉放入盘中，待其冷却后，再煎下一批。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Once all of the chicken has been fried, refry the chicken, starting with the batch that was cooked first. Fry each batch until chicken turns deep golden brown, about 2 minutes more. Drain on a paper towel-lined plate."
+      "text": "一旦所有的鸡肉都煎好了，从先煮熟的那批开始重新煎鸡肉。每批煎至鸡肉变成深金黄色，再煎约 2 分钟。放在铺有纸巾的盘子上沥干水分。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "To make the sauce: Heat vegetable oil in a wok or large skillet over high heat. Stir in green onion, garlic, whole chiles, and orange zest. Cook and stir until garlic turns golden and chiles brighten, 1 to 2 minutes."
+      "text": "制作酱汁：在炒锅或大煎锅中用高温加热植物油。加入葱、大蒜、整个辣椒和橙皮碎。煮并搅拌 1 到 2 分钟，直至大蒜变成金黄色，辣椒变亮。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Add sugar, soy sauce, chicken broth, peanut oil, rice vinegar, sesame oil, and ginger; bring to a boil and cook for 3 minutes. Whisk 2 teaspoons of cornstarch in water until dissolved. Stir into the boiling sauce. Return to a boil and cook until the sauce thickens and is no longer cloudy from the cornstarch, about 1 minute."
+      "text": "加入糖、酱油、鸡汤、花生油、米醋、香油、姜；煮沸并煮3分钟。将 2 茶匙玉米淀粉放入水中搅拌直至溶解。拌入沸腾的酱汁。重新煮沸，煮约 1 分钟，直至酱汁变稠且不再因玉米淀粉而浑浊。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Stir chicken into the boiling sauce. Reduce heat to low and cook until chicken is heated through and has absorbed some of the sauce, about 3 minutes."
+      "text": "将鸡肉放入沸腾的酱汁中搅拌。将火调至小火，煮约 3 分钟，直至鸡肉热透并吸收一些酱汁。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/91499/general-tsaos-chicken-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b91803abc2fa805fa9a1037cc5eef37f",
+    "translated": true
+  }
 }

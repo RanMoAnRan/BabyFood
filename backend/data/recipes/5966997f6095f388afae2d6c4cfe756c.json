@@ -1,6 +1,6 @@
 {
   "id": "5966997f6095f388afae2d6c4cfe756c",
-  "title": "Cornbread Stuffing with Sausage",
+  "title": "香肠玉米面包",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -10,38 +10,38 @@
   "difficulty": 1,
   "time_cost": 65,
   "cover_image": "images/005446de043ef84a8df2bd9872da6a2d.webp",
-  "nutrition_tip": "Cornbread sausage stuffing is a must for your Thanksgiving meal! You&#39;ll love…",
+  "nutrition_tip": "玉米面包香肠馅是感恩节大餐的必备品！你一定会喜欢……",
   "ingredients": [
     {
-      "name": "1 pound ground pork sausage",
+      "name": "1 磅碎猪肉香肠",
       "amount": ""
     },
     {
-      "name": "2 cups diced celery",
+      "name": "2 杯芹菜丁",
       "amount": ""
     },
     {
-      "name": "2 large onions, chopped",
+      "name": "2 个大洋葱，切碎",
       "amount": ""
     },
     {
-      "name": "5 cups crumbled cornbread",
+      "name": "5 杯碎玉米面包",
       "amount": ""
     },
     {
-      "name": "5 cups seasoned bread crumbs",
+      "name": "5 杯调味面包屑",
       "amount": ""
     },
     {
-      "name": "2.75 cups chicken broth",
+      "name": "2.75 杯鸡汤",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons poultry seasoning",
+      "name": "1.5 茶匙家禽调味料",
       "amount": ""
     },
     {
-      "name": "1 teaspoon dried sage, crushed",
+      "name": "1 茶匙干鼠尾草，压碎",
       "amount": ""
     }
   ],
@@ -49,28 +49,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 325 degrees F (165 degrees C)."
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine sausage, celery, and onions in a large, deep skillet over medium-high heat. Cook, stirring often and breaking sausage up with a spoon, until sausage is evenly browned and crumbly and vegetables are translucent, 7 to 10 minutes. Remove from the heat and drain."
+      "text": "将香肠、芹菜和洋葱放入一个大的深煎锅中，用中火加热。煮 7 到 10 分钟，经常搅拌，并用勺子将香肠打碎，直至香肠均匀变成棕色且易碎，蔬菜呈半透明。从火上移开并沥干。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Transfer sausage mixture to a large bowl. Add crumbled cornbread, bread crumbs, chicken broth, poultry seasoning, and sage. Mix until well combined, then transfer to a 9x13-inch baking dish. Cover with foil."
+      "text": "将香肠混合物转移到一个大碗中。加入碎玉米面包、面包屑、鸡汤、家禽调味料和鼠尾草。混合直至充分混合，然后转移到 9x13 英寸的烤盘中。用箔纸覆盖。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until stuffing is well set and cooked through, about 45 minutes."
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至馅料凝固并煮熟。"
     }
   ],
   "warnings": [],
   "publish_date": "2018-03-21",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/24741/cornbread-stuffing-with-sausage/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d3ca5302979fad09b83fbbc25833ca8d",
+    "translated": true
+  }
 }

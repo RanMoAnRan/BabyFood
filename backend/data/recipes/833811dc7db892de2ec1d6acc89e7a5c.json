@@ -1,6 +1,6 @@
 {
   "id": "833811dc7db892de2ec1d6acc89e7a5c",
-  "title": "True Bangers and Mash with Onion Gravy",
+  "title": "真正的香肠和洋葱肉汁土豆泥",
   "min_age_month": 6,
   "tags": [
     "Dinner",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 65,
   "cover_image": "images/13d037b4c8a0472f399e90c6b37f20b0.webp",
-  "nutrition_tip": "Bangers and mash are served with an onion gravy for a classic staple in British…",
+  "nutrition_tip": "香肠和土豆泥搭配洋葱肉汁，是英国的经典主食……",
   "ingredients": [
     {
-      "name": "4 links pork sausage",
+      "name": "4 链接猪肉香肠",
       "amount": ""
     },
     {
-      "name": "2 pounds potatoes, peeled and cubed",
+      "name": "2 磅土豆，去皮切块",
       "amount": ""
     },
     {
-      "name": "0.25 cup butter",
+      "name": "0.25 杯黄油",
       "amount": ""
     },
     {
-      "name": "2 tablespoons milk",
+      "name": "2 汤匙牛奶",
       "amount": ""
     },
     {
-      "name": "1 teaspoon dry mustard powder",
+      "name": "1 茶匙干芥末粉",
       "amount": ""
     },
     {
-      "name": "salt and ground black pepper to taste",
+      "name": "盐和黑胡椒粉适量",
       "amount": ""
     },
     {
-      "name": "1 tablespoon butter",
+      "name": "1 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "2 large onions, chopped",
+      "name": "2 个大洋葱，切碎",
       "amount": ""
     },
     {
-      "name": "6 cups beef broth",
+      "name": "6 杯牛肉汤",
       "amount": ""
     },
     {
-      "name": "2 cups red wine",
+      "name": "2 杯红酒",
       "amount": ""
     }
   ],
@@ -56,33 +56,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 200 degrees F (95 degrees C)."
+      "text": "将烤箱预热至 200 华氏度（95 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Cook sausages in a skillet over medium-low heat until browned, about 5 minutes per side; transfer to an oven-safe dish and keep warm in the preheated oven."
+      "text": "将香肠放入煎锅中，用中低火煮至棕色，每面约 5 分钟；转移到烤箱安全盘中并在预热的烤箱中保温。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place potatoes into a saucepan over medium heat and cover with water; bring to a boil and simmer until potatoes are tender, 10 to 15 minutes. Drain and allow to steam dry for a minute or two. Mix in 1/4 cup of butter, milk, dry mustard, salt, and black pepper; mash until fluffy and smooth. Set aside."
+      "text": "将土豆放入平底锅中，中火加热，盖上水；煮沸并小火煮 10 至 15 分钟，直至土豆变软。沥干并用蒸汽干燥一两分钟。加入1/4杯黄油、牛奶、干芥末、盐和黑胡椒粉；捣碎直至蓬松光滑。放在一边。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Melt 1 tablespoon butter in a skillet over medium-high heat. Add onions; cook and stir until translucent and just starting to brown, about 8 minutes. Pour in beef broth and red wine; bring to a boil and simmer until reduced to half its volume, about 10 minutes. Season with salt and black pepper."
+      "text": "将 1 汤匙黄油放入煎锅中，用中高火融化。加入洋葱；煮并搅拌直至半透明并开始变成棕色，大约需要 8 分钟。倒入牛肉汤和红酒；煮沸并小火煮约 10 分钟，直至体积减至一半。用盐和黑胡椒调味。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Serve sausages with mashed potatoes; pour onion gravy on top."
+      "text": "将香肠和土豆泥一起上桌；将洋葱汁倒在上面。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/216071/true-bangers-and-mash-with-onion-gravy/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c64b528b7de0136bfb02f5f3867f770c",
+    "translated": true
+  }
 }

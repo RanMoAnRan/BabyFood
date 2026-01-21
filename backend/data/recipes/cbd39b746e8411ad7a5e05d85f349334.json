@@ -1,6 +1,6 @@
 {
   "id": "cbd39b746e8411ad7a5e05d85f349334",
-  "title": "Banoffee Pie",
+  "title": "班诺菲饼",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -10,46 +10,46 @@
   "difficulty": 1,
   "time_cost": 165,
   "cover_image": "images/ab4842b7c1634af8fc1ceb04d300bdc6.webp",
-  "nutrition_tip": "Banoffee pie is a fabulous British dessert featuring a rich toffee and banana fi…",
+  "nutrition_tip": "Banoffee 派是一种美妙的英国甜点，以浓郁的太妃糖和香蕉为特色......",
   "ingredients": [
     {
-      "name": "1 (14 ounce) can sweetened condensed milk",
+      "name": "1 罐（14 盎司）甜炼乳",
       "amount": ""
     },
     {
-      "name": "1.5 cups graham cracker crumbs",
+      "name": "1.5 杯全麦饼干屑",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "3 teaspoons ground ginger",
+      "name": "3 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "1 cup butter",
+      "name": "1 杯黄油",
       "amount": ""
     },
     {
-      "name": "2 bananas, sliced",
+      "name": "2 根香蕉，切片",
       "amount": ""
     },
     {
-      "name": "2 cups heavy whipping cream",
+      "name": "2 杯浓奶油",
       "amount": ""
     },
     {
-      "name": "3 tablespoons powdered sugar",
+      "name": "3 汤匙糖粉",
       "amount": ""
     },
     {
-      "name": "chocolate shavings",
+      "name": "巧克力屑",
       "amount": ""
     },
     {
-      "name": "espresso powder",
+      "name": "浓缩咖啡粉",
       "amount": ""
     }
   ],
@@ -57,38 +57,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix graham cracker crumbs, white sugar, ginger (if using), and melted butter together in a medium bowl. Press mixture into an ungreased 9-inch fluted tart pan with a removable bottom or 9-inch pie pie plate."
+      "text": "将全麦饼干屑、白糖、生姜（如果使用）和融化的黄油放入一个中等大小的碗中混合。将混合物压入未抹油的底部可拆卸的 9 英寸凹槽馅饼盘或 9 英寸馅饼盘中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake crust in preheated oven until set, about 12 to 15 minutes. Cool crust on a wire rack for 15 minutes."
+      "text": "在预热的烤箱中烘烤面包皮直至凝固，大约 12 到 15 分钟。将饼皮放在金属架上冷却 15 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spread dulce de leche in the cooled crust; arrange bananas evenly on top."
+      "text": "将牛奶酱涂抹在冷却的饼皮上；将香蕉均匀地放在上面。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Beat heavy cream and powdered sugar in a large bowl until stiff peaks form, about 3 minutes. Spread whipped cream over bananas."
+      "text": "在一个大碗中搅拌浓奶油和糖粉，直至形成硬性发泡，大约需要 3 分钟。将生奶油涂在香蕉上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Refrigerate pie for at least 2 hours to overnight. Sprinkle with chocolate shavings, cocoa powder, and/or espresso powder, if desired, before serving. This recipe was tested in our test kitchen in May 2023 and updated to use canned dulce de leche. We also reduced the amount of butter in the crust. The original recipe called for 1 cup."
+      "text": "将馅饼冷藏至少 2 小时至过夜。如果需要，在食用前撒上巧克力屑、可可粉和/或浓缩咖啡粉。该食谱于 2023 年 5 月在我们的测试厨房进行了测试，并更新为使用罐装牛奶牛奶。我们还减少了饼皮中黄油的用量。最初的食谱需要 1 杯。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-08-16",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12625/banoffee/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7a28106b372a15a67a1cc6e998e42392",
+    "translated": true
+  }
 }

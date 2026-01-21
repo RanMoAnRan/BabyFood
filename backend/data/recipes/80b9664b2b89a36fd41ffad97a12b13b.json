@@ -1,6 +1,6 @@
 {
   "id": "80b9664b2b89a36fd41ffad97a12b13b",
-  "title": "Butternut Squash Mac and Cheese",
+  "title": "胡桃南瓜通心粉和奶酪",
   "min_age_month": 6,
   "tags": [
     "Dinner",
@@ -9,58 +9,58 @@
   "difficulty": 1,
   "time_cost": 35,
   "cover_image": "images/e16c4fd497884089d524d4c32c1dc825.webp",
-  "nutrition_tip": "This butternut squash mac and cheese with tender pasta, rich cheese sauce, and m…",
+  "nutrition_tip": "这款胡桃南瓜通心粉和奶酪配上嫩意大利面、浓郁的奶酪酱和米……",
   "ingredients": [
     {
-      "name": "1 (16 ounce) package rotini pasta",
+      "name": "1 包（16 盎司）罗蒂尼面食",
       "amount": ""
     },
     {
-      "name": "2 tablespoons butter",
+      "name": "2 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "2 tablespoons all-purpose flour",
+      "name": "2 汤匙通用面粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon garlic powder",
+      "name": "1 茶匙大蒜粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon onion powder",
+      "name": "1 茶匙洋葱粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon dry mustard",
+      "name": "0.5 茶匙干芥末",
       "amount": ""
     },
     {
-      "name": "1/8 teaspoon ground nutmeg",
+      "name": "1/8 茶匙肉豆蔻粉",
       "amount": ""
     },
     {
-      "name": "2 cups milk",
+      "name": "2 杯牛奶",
       "amount": ""
     },
     {
-      "name": "3 cups cubed butternut squash, cooked and mashed",
+      "name": "3 杯胡桃南瓜块，煮熟并捣碎",
       "amount": ""
     },
     {
-      "name": "6 ounces shredded white Cheddar cheese",
+      "name": "6 盎司切达白切达干酪丝",
       "amount": ""
     },
     {
-      "name": "6 ounces shredded Cheddar cheese",
+      "name": "6 盎司切达干酪丝",
       "amount": ""
     },
     {
-      "name": "salt and pepper to taste",
+      "name": "盐和胡椒调味",
       "amount": ""
     },
     {
-      "name": "0.25 cup seasoned dry bread crumbs, or as needed",
+      "name": "0.25 杯调味干面包屑，或根据需要",
       "amount": ""
     }
   ],
@@ -68,43 +68,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather ingredients and preheat the oven to 400 degrees F (200 degrees C)."
+      "text": "收集原料并将烤箱预热至 400 华氏度（200 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Bring a large pot of lightly salted water to a boil. Cook pasta in boiling water until tender yet firm to the bite, about 8 minutes; drain pasta and return to the pot."
+      "text": "将一大锅淡盐水煮沸。将意大利面放入沸水中煮至软而硬，约 8 分钟；将意大利面沥干并放回锅中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Meanwhile, melt butter in a large saucepan over medium heat. Whisk in flour, garlic powder, onion powder, dried mustard, and nutmeg; cook for 1 minute."
+      "text": "同时，在大平底锅中用中火融化黄油。加入面粉、大蒜粉、洋葱粉、干芥末和肉豆蔻粉，搅拌；煮1分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Gradually whisk milk into flour mixture and cook until bubbling and thickened to the consistency of heavy cream, about 5 minutes. Remove from heat."
+      "text": "将牛奶逐渐搅拌到面粉混合物中，煮约 5 分钟，直至起泡并变稠至浓奶油的稠度。从火上移开。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Stir squash, white Cheddar cheese, and Cheddar cheese into milk mixture until cheese is melted. Season with salt and pepper."
+      "text": "将南瓜、白切达干酪和切达干酪搅拌到牛奶混合物中，直至奶酪融化。用盐和胡椒调味。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Add cheese sauce to pasta and stir to combine; transfer mixture into a 9x13-inch baking dish. Top with seasoned bread crumbs."
+      "text": "将芝士酱加入面食中，搅拌均匀；将混合物转移到 9x13 英寸的烤盘中。上面撒上调味面包屑。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until topping is golden and sauce is bubbling, about 20 minutes."
+      "text": "在预热的烤箱中烘烤约 20 分钟，直至配料呈金黄色且酱汁冒泡。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/235805/butternut-squash-mac-and-cheese/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "23e4372b4ec111ae7deb222941385355",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "f71a48bd9512b8e4d56157fa264e829c",
-  "title": "Baked Quince with Cinnamon",
+  "title": "肉桂烤木瓜",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/edfb6163e778bf2f1ab556cf028b0e6a.webp",
-  "nutrition_tip": "Baked quince with cinnamon recipe bakes quince, an aromatic fruit, with red wine…",
+  "nutrition_tip": "肉桂烤柑橘食谱 烤柑橘，一种芳香水果，搭配红酒......",
   "ingredients": [
     {
-      "name": "3 quince, unpeeled, washed, halved and cored",
+      "name": "3 个榅桲，未剥皮，洗净，切半，去核",
       "amount": ""
     },
     {
-      "name": "18 whole cloves",
+      "name": "18 整个丁香",
       "amount": ""
     },
     {
-      "name": "1.5 cups water",
+      "name": "1.5 杯水",
       "amount": ""
     },
     {
-      "name": "0.5 cup port wine",
+      "name": "0.5 杯波特酒",
       "amount": ""
     },
     {
-      "name": "3 cinnamon sticks",
+      "name": "3 根肉桂棒",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup white sugar",
+      "name": "0.33333334326744 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup heavy cream, whipped",
+      "name": "0.33333334326744 杯浓奶油，搅打",
       "amount": ""
     }
   ],
@@ -44,28 +44,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Press 3 cloves into each quince half; place quince, cut-sides down, into a roasting pan. Add water, wine, and cinnamon sticks to the pan; sprinkle sugar over fruit."
+      "text": "在每半个榅桲中压入 3 颗丁香；将木瓜切面朝下放入烤盘中。将水、酒和肉桂棒加入锅中；在水果上撒上糖。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in the preheated oven until lightly browned, 35 to 40 minutes. Flip quince halves; continue baking until tender, about 10 minutes more. Cool quince slightly, about 10 minutes."
+      "text": "在预热的烤箱中烘烤 35 至 40 分钟，直至呈浅棕色。将木瓜翻面；继续烘烤约10分钟直至变软。稍微冷却木瓜，大约 10 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Serve each quince half with 1 tablespoon juice from the roasting pan; dollop halves with whipped cream."
+      "text": "将每半个榅桲与烤盘中的一汤匙果汁一起盛上；半块加生奶油。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/212893/baked-quince-with-cinnamon/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "52be15d621b8bd23c81d06dc6afdb669",
+    "translated": true
+  }
 }

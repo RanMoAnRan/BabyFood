@@ -1,6 +1,6 @@
 {
   "id": "48f1a38186f025516c149bb3bb5a31f5",
-  "title": "Soft Sugar Cookies",
+  "title": "软糖饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 25,
   "cover_image": "images/771cf275e055b0225dd15a02daf1dcad.webp",
-  "nutrition_tip": "This soft sugar cookie recipe is quick and easy to make. Use any color sugar to…",
+  "nutrition_tip": "这种软糖曲奇食谱制作起来又快又容易。使用任何颜色的糖...",
   "ingredients": [
     {
-      "name": "0.333 cup colored decorating sugar",
+      "name": "0.333 杯彩色装饰糖",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup shortening",
+      "name": "0.66666668653488 罩杯缩短",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup unsalted butter, softened",
+      "name": "0.66666668653488 杯无盐黄油，软化",
       "amount": ""
     },
     {
-      "name": "1.5 cups white sugar",
+      "name": "1.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vanilla extract",
+      "name": "2 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "3.5 cups all-purpose flour",
+      "name": "3.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking powder",
+      "name": "2 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     }
   ],
@@ -52,38 +52,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C). Place decorating sugar in a small bowl (or use several colors and separate bowls)."
+      "text": "收集所有原料并将烤箱预热至 350 华氏度（175 摄氏度）。将装饰糖放入一个小碗中（或使用多种颜色和单独的碗）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat shortening and butter in the bowl of a stand mixer until smooth and creamy, 2 to 3 minutes. Mix in sugar until incorporated, then mix in eggs, one at a time, scraping the sides of the bowl as necessary. Mix in vanilla."
+      "text": "将起酥油和黄油放入立式搅拌机的碗中，搅拌 2 到 3 分钟，直至光滑且呈奶油状。加入糖直至混合，然后加入鸡蛋，一次一个，必要时刮擦碗的侧面。加入香草精混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Whisk flour, baking powder, and salt in a medium bowl until combined. Gradually add to the wet ingredients and mix until incorporated and the dough comes together."
+      "text": "在一个中等大小的碗中搅拌面粉、泡打粉和盐直至混合。逐渐添加到湿成分中并混合直至合并并且面团混合在一起。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Roll dough into walnut-sized balls. Roll each ball in sugar to coat, then place 2 inches apart onto ungreased cookie sheets."
+      "text": "将面团擀成核桃大小的球。将每个球滚上糖衣，然后将其间隔 2 英寸放在未抹油的饼干片上。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until light brown on the bottoms, 10 to 12 minutes, switching racks halfway through. Remove from the oven and transfer to wire racks to cool."
+      "text": "在预热的烤箱中烘烤 10 到 12 分钟，直至底部呈浅棕色，中途更换架子。从烤箱中取出并转移到金属架上冷却。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2000-01-13",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/15295/soft-sugar-cookies-iv/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "add0de1f6936d39015ac25be7fdc9cb7",
+    "translated": true
+  }
 }

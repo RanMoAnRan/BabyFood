@@ -1,6 +1,6 @@
 {
   "id": "d52bcf19ec18a5ddda5a4e54b28d94b0",
-  "title": "Porcupine Meatballs",
+  "title": "豪猪丸子",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,58 +9,58 @@
   "difficulty": 1,
   "time_cost": 70,
   "cover_image": "images/8b87ca6d5ab02c92719267930bcf3dc3.webp",
-  "nutrition_tip": "These porcupine meatballs made with ground beef and onion and filled with little…",
+  "nutrition_tip": "这些豪猪肉丸是用碎牛肉和洋葱制成的，里面充满了小……",
   "ingredients": [
     {
-      "name": "1 pound ground beef",
+      "name": "1 磅碎牛肉",
       "amount": ""
     },
     {
-      "name": "0.5 cup uncooked white rice",
+      "name": "0.5 杯生白米饭",
       "amount": ""
     },
     {
-      "name": "0.5 cup water",
+      "name": "0.5 杯水",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup chopped onion",
+      "name": "0.33333334326744 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon celery salt",
+      "name": "0.5 茶匙芹菜盐",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon garlic powder",
+      "name": "0.125 茶匙大蒜粉",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon ground black pepper",
+      "name": "0.125 茶匙黑胡椒粉",
       "amount": ""
     },
     {
-      "name": "1 tablespoon canola oil",
+      "name": "1 汤匙菜籽油",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can tomato sauce",
+      "name": "1 罐（15 盎司）番茄酱",
       "amount": ""
     },
     {
-      "name": "1 cup low-sodium chicken stock, or more as needed",
+      "name": "1 杯低钠鸡汤，或根据需要更多",
       "amount": ""
     },
     {
-      "name": "2 teaspoons Worcestershire sauce",
+      "name": "2 茶匙伍斯特酱",
       "amount": ""
     },
     {
-      "name": "1 teaspoon granulated sugar",
+      "name": "1 茶匙砂糖",
       "amount": ""
     }
   ],
@@ -68,33 +68,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix ground beef, rice, water, onion, salt, celery salt, garlic powder, and black pepper thoroughly in a bowl until well combined. Roll mixture into 12 meatballs."
+      "text": "将碎牛肉、大米、水、洋葱、盐、芹菜盐、大蒜粉和黑胡椒在碗中充分混合，直至充分混合。将混合物滚成 12 个肉丸。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat oil in a large skillet over medium-high heat. Place meatballs into the hot skillet; cook, turning once halfway through cooking, until well browned, about 8 minutes. Drain and discard excess grease."
+      "text": "在大煎锅中用中高温加热油。将肉丸放入热锅中；煮，中途翻面一次，直到变成褐色，大约需要 8 分钟。排干并丢弃多余的油脂。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Pour tomato sauce, chicken stock, Worcestershire sauce, and sugar into the skillet; reduce heat to medium-low. Cover and simmer until meatballs are no longer pink in the center and rice is tender, about 45 minutes. Stir in more stock if sauce becomes too dry."
+      "text": "将番茄酱、鸡汤、伍斯特沙司和糖倒入煎锅中；将热量降低至中低。盖上锅盖，小火煮约 45 分钟，直至肉丸中心不再呈粉红色且米饭变软。如果酱汁太干，则加入更多汤料。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-03",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/218493/melindas-porcupine-meatballs/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5785a9ab982833a9e54a40e5c649fcb0",
+    "translated": true
+  }
 }

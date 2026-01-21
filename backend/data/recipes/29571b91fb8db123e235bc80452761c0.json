@@ -1,6 +1,6 @@
 {
   "id": "29571b91fb8db123e235bc80452761c0",
-  "title": "Whole Lime Margarita",
+  "title": "全青柠玛格丽特",
   "min_age_month": 12,
   "tags": [
     "Appetizer",
@@ -11,38 +11,38 @@
   "difficulty": 1,
   "time_cost": 5,
   "cover_image": "images/05545b2bcfcf1197e8af493015facce7.webp",
-  "nutrition_tip": "Lime margaritas made with whole limes (both juice and rinds) are bright, flavorf…",
+  "nutrition_tip": "用整个酸橙（果汁和果皮）制成的酸橙玛格丽塔酒明亮，味道鲜美......",
   "ingredients": [
     {
-      "name": "2 medium thin-skinned limes",
+      "name": "2 个中等薄皮酸橙",
       "amount": ""
     },
     {
-      "name": "2 cups ice cold water",
+      "name": "2 杯冰水",
       "amount": ""
     },
     {
-      "name": "1 cup tequila",
+      "name": "1 杯龙舌兰酒",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.25 cup orange-flavored liqueur (such as Cointreau)",
+      "name": "0.25 杯橙味利口酒（例如君度）",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon kosher salt",
+      "name": "0.25 茶匙粗盐",
       "amount": ""
     },
     {
-      "name": "3 cups ice, or as needed",
+      "name": "3 杯冰，或根据需要",
       "amount": ""
     },
     {
-      "name": "6 slices lime",
+      "name": "6 片酸橙",
       "amount": ""
     }
   ],
@@ -50,38 +50,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Cut limes into quarters; remove and discard the center part of the rinds. Blend until completely smooth, about 1 minute."
+      "text": "将酸橙切成四份；去除并丢弃果皮的中心部分。搅拌直至完全光滑，大约需要 1 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Transfer lime quarters to a blender with cold water, tequila, sugar, orange-flavored liqueur, and salt."
+      "text": "将四分之一的青柠与冷水、龙舌兰酒、糖、橙味利口酒和盐一起放入搅拌机中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Blend until completely smooth, about 1 minute."
+      "text": "搅拌直至完全光滑，大约需要 1 分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Strain mixture into a large measuring cup or small pitcher"
+      "text": "将混合物滤入大量杯或小水罐中"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve over ice and garnish with lime slices."
+      "text": "加冰块并用酸橙片装饰。"
     }
   ],
   "warnings": [],
   "publish_date": "2021-04-25",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/284065/whole-lime-margarita/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0401d09991fec81b071f65db5930c2ec",
+    "translated": true
+  }
 }

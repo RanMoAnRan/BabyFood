@@ -1,6 +1,6 @@
 {
   "id": "30e2a3da50876514a772ebafe7e42de6",
-  "title": "Red Velvet Cheesecake Brownies",
+  "title": "红色天鹅绒芝士蛋糕布朗尼",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,58 +9,58 @@
   "difficulty": 1,
   "time_cost": 80,
   "cover_image": "images/f3eea4a3b58b42a7cbac2ca30b9ea8f1.webp",
-  "nutrition_tip": "These red velvet cheesecake brownies are deliciously moist with a delectable swi…",
+  "nutrition_tip": "这些红色天鹅绒芝士蛋糕布朗尼蛋糕口感湿润，带有美味的糖水……",
   "ingredients": [
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup unsalted butter, melted",
+      "name": "0.5 杯无盐黄油，融化",
       "amount": ""
     },
     {
-      "name": "0.25 cup unsweetened cocoa powder",
+      "name": "0.25 杯不加糖可可粉",
       "amount": ""
     },
     {
-      "name": "1 ounce red food coloring",
+      "name": "1 盎司红色食用色素",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "1 teaspoon distilled white vinegar",
+      "name": "1 茶匙蒸馏白醋",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "2 large eggs, slightly beaten",
+      "name": "2 个大鸡蛋，稍微打散",
       "amount": ""
     },
     {
-      "name": "0.75 cup all-purpose flour",
+      "name": "0.75 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package cream cheese at room temperature",
+      "name": "1 包（8 盎司）室温奶油奶酪",
       "amount": ""
     },
     {
-      "name": "0.25 cup white sugar",
+      "name": "0.25 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 large egg",
+      "name": "1 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon vanilla extract",
+      "name": "0.25 茶匙香草精",
       "amount": ""
     }
   ],
@@ -68,38 +68,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease an 8x8-inch baking pan."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 8x8 英寸的烤盘上涂抹油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "For the red velvet brownies: Whisk 1 cup sugar and melted butter in a large mixing bowl; stir in cocoa, red food coloring, 1 teaspoon vanilla extract, vinegar, and salt, one at a time, mixing well after each addition to avoid lumps. Mix in 2 eggs until thoroughly combined."
+      "text": "制作红色天鹅绒布朗尼蛋糕：在一个大搅拌碗中搅拌 1 杯糖和融化的黄油；加入可可、红色食用色素、1 茶匙香草精、醋和盐，一次一份，每次添加后充分搅拌，以免结块。加入 2 个鸡蛋，直至完全混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir flour into cocoa mixture just until combined; set aside 1/4 cup batter. Pour remaining batter into the prepared baking dish."
+      "text": "将面粉加入可可混合物中搅拌直至混合；留出 1/4 杯面糊。将剩余的面糊倒入准备好的烤盘中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "For the cheesecake filling: Beat cream cheese in a bowl using an electric mixer on medium speed until light and fluffy. Add 1/4 cup sugar, 1 egg, and 1/4 teaspoon vanilla extract; continue to beat until well blended and only small lumps remain, 3 to 4 minutes."
+      "text": "对于芝士蛋糕馅料：使用电动搅拌机在碗中以中速搅拌奶油芝士，直至松软。加入1/4杯糖、1个鸡蛋和1/4茶匙香草精；继续搅拌 3 至 4 分钟，直至充分混合，只剩下小块。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spoon cream cheese mixture in dollops over the batter in pan; gently smooth tops of dollops even with batter using a knife or offset spatula. Do not overmix. Drizzle reserved 1/4 cup of batter over the dollops of cream cheese mixture. Drag a knife or skewer through the batter and cream cheese mixture to create swirls."
+      "text": "用勺子将奶油芝士混合物舀到平底锅中的面糊上；使用小刀或抹刀将面糊轻轻抹平团块的顶部。不要过度混合。将保留的 1/4 杯面糊淋在奶油干酪混合物上。用刀或叉子穿过面糊和奶油干酪混合物，形成漩涡。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, about 30 to 35 minutes. Cool completely before cutting into bars; store covered in refrigerator."
+      "text": "在预热的烤箱中烘烤约 30 到 35 分钟，直至顶部干燥并且边缘开始脱离锅的两侧。完全冷却后再切成条；盖上盖子存放在冰箱中。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/231865/red-velvet-cheesecake-swirl-brownies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4818db7cca5d748fd2d09ef811547cad",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "79f5618dac024cb5211417011355ee83",
-  "title": "Easy Lasagna",
+  "title": "简易烤宽面条",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -10,50 +10,50 @@
   "difficulty": 1,
   "time_cost": 90,
   "cover_image": "images/1cea353e52dd28be3318818310b2ee00.webp",
-  "nutrition_tip": "This easy lasagna recipe is made with lean ground beef, three types of cheese, a…",
+  "nutrition_tip": "这个简单的烤宽面条食谱是用瘦碎牛肉、三种奶酪、……",
   "ingredients": [
     {
-      "name": "1 pound lean ground beef",
+      "name": "1 磅瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 (32 ounce) jar spaghetti sauce",
+      "name": "1 罐（32 盎司）意大利面酱",
       "amount": ""
     },
     {
-      "name": "32 ounces cottage cheese",
+      "name": "32 盎司干酪",
       "amount": ""
     },
     {
-      "name": "3 cups shredded mozzarella cheese, divided",
+      "name": "3 杯马苏里拉奶酪丝，分开",
       "amount": ""
     },
     {
-      "name": "2 eggs",
+      "name": "2 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 cup grated Parmesan cheese",
+      "name": "0.5 杯磨碎的帕尔马干酪",
       "amount": ""
     },
     {
-      "name": "2 teaspoons dried parsley",
+      "name": "2 茶匙干欧芹",
       "amount": ""
     },
     {
-      "name": "salt to taste",
+      "name": "加盐调味",
       "amount": ""
     },
     {
-      "name": "ground black pepper to taste",
+      "name": "黑胡椒粉适量",
       "amount": ""
     },
     {
-      "name": "9 lasagna noodles",
+      "name": "9 份烤宽面条",
       "amount": ""
     },
     {
-      "name": "0.5 cup water",
+      "name": "0.5 杯水",
       "amount": ""
     }
   ],
@@ -61,38 +61,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "收集所有原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 8 to 10 minutes. Drain and discard grease. Stir in spaghetti sauce and simmer for 5 minutes."
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌 8 至 10 分钟，直至变成棕色且易碎。排干并丢弃油脂。拌入意大利面酱，煮 5 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine cottage cheese, 2 cups of mozzarella cheese, eggs, 1/2 of the grated Parmesan cheese, dried parsley, salt, and pepper in a large bowl."
+      "text": "将干酪、2 杯马苏里拉干酪、鸡蛋、1/2 磨碎的帕尔马干酪、干欧芹、盐和胡椒放入一个大碗中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spread 3/4 cup of sauce in a 9x13-inch baking dish. Cover with 3 uncooked lasagna noodles, 1 3/4 cups of cheese mixture, and 1/4 cup sauce; repeat layers once more. Top with remaining 3 noodles, sauce, mozzarella, and Parmesan cheese. Pour 1/2 cup water along the edges of the dish. Cover tightly with aluminum foil."
+      "text": "在 9x13 英寸的烤盘中涂抹 3/4 杯酱汁。盖上 3 条未煮过的烤宽面条、1 3/4 杯奶酪混合物和 1/4 杯酱汁；再次重复图层。上面放上剩下的 3 条面条、酱汁、马苏里拉奶酪和帕尔马干酪。沿盘子边缘倒入 1/2 杯水。用铝箔盖紧。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven for 45 minutes. Uncover and bake for an additional 10 minutes. Let stand 10 minutes before serving."
+      "text": "在预热的烤箱中烘烤45分钟。揭开盖子，再烘烤 10 分钟。食用前静置 10 分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "1999-02-07",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12011/easy-lasagna-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c3c76bd6115ba59a37b50f707a7297b2",
+    "translated": true
+  }
 }

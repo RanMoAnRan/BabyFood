@@ -1,6 +1,6 @@
 {
   "id": "0a3fc2d969eede82c28a62b63c0679e6",
-  "title": "Chicken Salad and Peach Sandwich",
+  "title": "鸡肉沙拉和桃子三明治",
   "min_age_month": 12,
   "tags": [
     "午餐",
@@ -12,57 +12,62 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/b7963b3859241cccc895fe9b19d7cd05.webp",
-  "nutrition_tip": "Elevate your chicken salad sandwich with the addition of sweet peaches.&nbsp;",
+  "nutrition_tip": "通过添加甜桃来提升您的鸡肉沙拉三明治的品质。",
   "ingredients": [
     {
-      "name": "whole wheat bread",
-      "amount": "4 slices"
+      "name": "全麦面包",
+      "amount": "4 片"
     },
     {
-      "name": "chicken (diced, cooked)",
-      "amount": "1 / 2 cup"
+      "name": "鸡肉（切丁，煮熟）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "peach (slices, drained and diced)",
-      "amount": "1 / 2 cup"
+      "name": "桃子（切片、沥干、切丁）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "celery (diced)",
-      "amount": "1 stalk"
+      "name": "芹菜（切丁）",
+      "amount": "1 茎"
     },
     {
-      "name": "apple (diced)",
-      "amount": "1 / 2 cup"
+      "name": "苹果（切丁）",
+      "amount": "1 / 2 杯"
     },
     {
-      "name": "onion (diced)",
-      "amount": "1 small"
+      "name": "洋葱（切丁）",
+      "amount": "1 个小"
     },
     {
-      "name": "mayonnaise (nonfat)",
-      "amount": "1 1 / 2 tablespoons"
+      "name": "蛋黄酱（脱脂）",
+      "amount": "1 1 / 2 汤匙"
     },
     {
-      "name": "walnut (chopped)",
-      "amount": "1 tablespoon"
+      "name": "核桃（切碎）",
+      "amount": "1 汤匙"
     }
   ],
   "steps": [
     {
       "step_index": 1,
       "img": "",
-      "text": "Mix together the chicken, apples, peaches, celery, onion, walnuts, and mayonnaise in a small bowl."
+      "text": "将鸡肉、苹果、桃子、芹菜、洋葱、核桃和蛋黄酱放入一个小碗中混合。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Spoon mixture onto 2 slices of the bread."
+      "text": "将混合物舀到 2 片面包上。"
     }
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.nutrition.gov/recipes/chicken-salad-and-peach-sandwich",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/chicken-salad-and-peach-sandwich",
-  "source_name": "Nutrition.gov (USDA)"
+  "source_name": "Nutrition.gov (USDA)",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "76562c9da8e047a8938228f5ed4300ed",
+    "translated": true
+  }
 }

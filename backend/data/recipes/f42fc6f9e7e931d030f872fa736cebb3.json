@@ -1,6 +1,6 @@
 {
   "id": "f42fc6f9e7e931d030f872fa736cebb3",
-  "title": "Fast and Easy Turkey Pot Pie",
+  "title": "快速简单的火鸡馅饼",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 55,
   "cover_image": "images/1e8ee5c7f443e6b74eef40bb60329cf5.webp",
-  "nutrition_tip": "An easy turkey pot pie recipe is just the ticket after turkey day! Leftover turk…",
+  "nutrition_tip": "一个简单的火鸡馅饼食谱就是火鸡日之后的门票！剩下的土耳其人…",
   "ingredients": [
     {
-      "name": "1 (14.1 ounce) package pastry for 9-inch double-crust pie",
+      "name": "1 包（14.1 盎司）9 英寸双皮馅饼糕点",
       "amount": ""
     },
     {
-      "name": "2 cups chopped leftover turkey",
+      "name": "2 杯切碎的火鸡剩余物",
       "amount": ""
     },
     {
-      "name": "1 (16 ounce) package frozen mixed vegetables, thawed and drained",
+      "name": "1 包（16 盎司）冷冻混合蔬菜，解冻并沥干",
       "amount": ""
     },
     {
-      "name": "1 (10.5 ounce) can condensed cream of chicken soup",
+      "name": "1 罐（10.5 盎司）浓缩奶油鸡汤",
       "amount": ""
     },
     {
-      "name": "0.5 cup shredded Cheddar cheese",
+      "name": "0.5 杯切达干酪丝",
       "amount": ""
     },
     {
-      "name": "1 teaspoon seasoned salt",
+      "name": "1 茶匙调味盐",
       "amount": ""
     },
     {
-      "name": "1 teaspoon seasoned pepper blend",
+      "name": "1 茶匙调味胡椒混合物",
       "amount": ""
     }
   ],
@@ -44,28 +44,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C). Line an 8-inch pie dish with one of the pastry crusts; set the other crust aside."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。将一张糕点皮铺在 8 英寸的馅饼盘上；将另一个外壳放在一边。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine turkey, mixed vegetables, condensed soup, Cheddar cheese, seasoned salt, and seasoned pepper in a bowl; mix until well combined. Pour mixture into the bottom crust."
+      "text": "将火鸡、混合蔬菜、浓缩汤、切达奶酪、调味盐和调味胡椒放入碗中；混合直至充分混合。将混合物倒入底部外壳中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place the second pie crust over the filling; pinch and fold the edges of both crusts together to seal. Use a sharp knife to cut one or two slits in the top pie crust to allow the steam to vent as the pie cooks."
+      "text": "将第二个馅饼皮放在馅料上；将两个外壳的边缘捏紧并折叠在一起以密封。用一把锋利的刀在顶部馅饼皮上切一两个切口，以便在馅饼烹饪时让蒸汽排出。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until the crust is golden brown and the filling is bubbling, about 40 minutes."
+      "text": "在预热的烤箱中烘烤约 40 分钟，直至外皮呈金黄色且馅料冒泡。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/215442/fast-and-easy-turkey-pot-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "39cb00cf1544737f63a751b630758f28",
+    "translated": true
+  }
 }

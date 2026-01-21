@@ -1,6 +1,6 @@
 {
   "id": "f1c0239432bb81e30b10fcb33c486e0c",
-  "title": "Autumn Sunshine Cocktail",
+  "title": "秋季阳光鸡尾酒",
   "min_age_month": 12,
   "tags": [
     "Drink",
@@ -9,30 +9,30 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/37b2cd84b3bbc024d41304e10bf56e64.webp",
-  "nutrition_tip": "This golden, autumn sunshine cocktail recipe is made with maple syrup, Grand Mar…",
+  "nutrition_tip": "这款金色的秋日阳光鸡尾酒配方是用枫糖浆、Grand Mar 制成的……",
   "ingredients": [
     {
-      "name": "6 ice cubes",
+      "name": "6 块冰块",
       "amount": ""
     },
     {
-      "name": "2 fluid ounces bourbon",
+      "name": "2 液量盎司波本威士忌",
       "amount": ""
     },
     {
-      "name": "1 fluid ounce maple syrup",
+      "name": "1 液体盎司枫糖浆",
       "amount": ""
     },
     {
-      "name": "1 fluid ounce brandy-based orange liqueur (such as Grand Marnier®)",
+      "name": "1 液量盎司白兰地橙利口酒（例如 Grand Marnier®）",
       "amount": ""
     },
     {
-      "name": "1 clementine, juiced and peel cut into 1x1/4-inch strips",
+      "name": "1 个小柑橘，榨汁并去皮，切成 1x1/4 英寸的条",
       "amount": ""
     },
     {
-      "name": "0.5 lemon, juiced",
+      "name": "0.5 个柠檬，榨汁",
       "amount": ""
     }
   ],
@@ -40,18 +40,23 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Place ice cubes in a cocktail shaker; add bourbon, maple syrup, orange liqueur, clementine juice, and lemon juice. Cover and shake until the outside of the shaker has frosted, about 15 seconds. Strain into a chilled martini glass."
+      "text": "将冰块放入鸡尾酒调酒器中；添加波本威士忌、枫糖浆、橙子利口酒、柑橘汁和柠檬汁。盖上盖子并摇动，直至摇酒器外部结霜（约 15 秒）。滤入冰镇的马提尼杯中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Light a match or lighter over cocktail; squeeze clementine peel strip near flame to ignite peel&#39;s oil. Rub peel on rim of glass; drop peel into cocktail."
+      "text": "在鸡尾酒上点燃火柴或打火机；在火焰附近挤压小柑橘果皮条以点燃果皮油。在玻璃边缘擦去皮；将果皮放入鸡尾酒中。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-11-20",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/241614/autumn-sunshine-cocktail/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d1dda9d8e0ee70773be0ab4c3bccfa25",
+    "translated": true
+  }
 }

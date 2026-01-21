@@ -1,6 +1,6 @@
 {
   "id": "ad014771df7b5f2b26f1e1e8407fe58b",
-  "title": "Chef John&#39;s Chicken Kiev",
+  "title": "基辅厨师约翰鸡",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 110,
   "cover_image": "images/6a756e4af158fbf115ac992721baa46d.webp",
-  "nutrition_tip": "Delicious chicken Kiev with homemade garlic and parsley butter, perfectly cooked…",
+  "nutrition_tip": "美味的基辅鸡配上自制的大蒜和欧芹黄油，煮得很完美......",
   "ingredients": [
     {
-      "name": "2 cloves garlic, minced",
+      "name": "2 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "1 pinch salt",
+      "name": "1 撮盐",
       "amount": ""
     },
     {
-      "name": "2 tablespoons chopped fresh flat-leaf parsley",
+      "name": "2 汤匙切碎的新鲜平叶欧芹",
       "amount": ""
     },
     {
-      "name": "6 tablespoons unsalted butter",
+      "name": "6 汤匙无盐黄油",
       "amount": ""
     },
     {
-      "name": "4 (8 ounce) skinless, boneless chicken breast halves, pounded to 1/4-inch thickness",
+      "name": "4块（8盎司）去皮去骨鸡胸肉半块，捣碎至1/4英寸厚",
       "amount": ""
     },
     {
-      "name": "salt and pepper to taste",
+      "name": "盐和胡椒调味",
       "amount": ""
     },
     {
-      "name": "1 cup all-purpose flour",
+      "name": "1 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons salt",
+      "name": "2 茶匙盐",
       "amount": ""
     },
     {
-      "name": "2 eggs, beaten",
+      "name": "2 个鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "2 cups panko bread crumbs",
+      "name": "2 杯 panko 面包屑",
       "amount": ""
     },
     {
-      "name": "1 pinch cayenne pepper",
+      "name": "1 撮辣椒",
       "amount": ""
     },
     {
-      "name": "2 cups vegetable oil for frying, or as needed",
+      "name": "2 杯植物油，用于煎炸，或根据需要",
       "amount": ""
     }
   ],
@@ -64,53 +64,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Grind garlic and pinch of salt together in a mortar and pestle until smooth; add parsley and mix well. Pound butter into garlic mixture with the pestle until well combined. Wrap butter mixture in plastic wrap; refrigerate until cold, at least 15 minutes."
+      "text": "用研钵和研杵将大蒜和少许盐一起研磨，直至光滑；加入欧芹并搅拌均匀。用杵将黄油捣入大蒜混合物中，直至充分混合。用保鲜膜包裹黄油混合物；冷藏至少 15 分钟直至变冷。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Season chicken breasts with salt and pepper. Place 1/4 of the butter mixture in the center of the wider end of each chicken breast."
+      "text": "用盐和胡椒调味鸡胸肉。将 1/4 的黄油混合物放在每个鸡胸肉较宽端的中心。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Fold the narrower end of each chicken breast up over butter to form a tight pocket around the butter; gather the sides of each chicken breast to the center to form a round ball. The top of each chicken ball will be smooth and the bottom will be gathered. Tightly wrap each chicken ball in plastic wrap; transfer to a plate and chill in the freezer until the gathered bottoms hold together and are slightly firm, about 30 minutes."
+      "text": "将每个鸡胸肉较窄的一端折叠在黄油上，在黄油周围形成一个紧密的口袋；将每个鸡胸肉的两侧聚集到中心，形成一个圆球。每个鸡球的顶部都是光滑的，底部是聚集的。用保鲜膜将每个鸡肉丸紧紧包裹起来；转移到盘子中，放入冰箱冷藏约 30 分钟，直至聚集的底部粘在一起并稍微坚硬。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Whisk flour and 2 teaspoons salt together in a shallow bowl. Whisk eggs together in another shallow bowl. Pour panko bread crumbs into a third bowl."
+      "text": "将面粉和 2 茶匙盐放入浅碗中搅拌。在另一个浅碗中将鸡蛋搅拌在一起。将panko面包屑倒入第三个碗中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove chicken breast balls from plastic wrap. Gently press them into flour mixture to coat; shake off any excess flour. Dip into beaten eggs, then press into bread crumbs. Place breaded chicken on a plate; cover with plastic wrap, and return to the freezer to chill until firm, about 15 minutes."
+      "text": "从保鲜膜中取出鸡胸肉球。轻轻地将它们压入面粉混合物中，涂上一层；抖掉多余的面粉。浸入打散的鸡蛋中，然后压入面包屑中。将面包屑的鸡肉放在盘子上；盖上保鲜膜，放回冰箱冷藏约 15 分钟直至变硬。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil. Working in batches, place chicken, gathered-side down, in hot oil and cook until lightly golden, about 1 minute per side. Transfer chicken to the prepared baking sheet; sprinkle salt and cayenne pepper over the top."
+      "text": "将油炸锅或大平底锅中的油加热至 350 华氏度（175 摄氏度）。将烤箱预热至 400 华氏度（200 摄氏度）。在烤盘上铺上铝箔。分批将鸡肉放入热油中，将聚集面朝下，煎至浅金黄色，每面约 1 分钟。将鸡肉转移到准备好的烤盘上；在上面撒上盐和辣椒。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Bake in the preheated oven until you can hear the butter start to sizzle on the baking sheet, 15 to 17 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+      "text": "在预热的烤箱中烘烤 15 到 17 分钟，直到您能听到黄油在烤盘上发出嘶嘶声。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Let rest for a few minutes before serving."
+      "text": "上菜前休息几分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2014-02-20",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/236703/chef-johns-chicken-kiev/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3b85e5ef728b107dd621315afa0e3460",
+    "translated": true
+  }
 }

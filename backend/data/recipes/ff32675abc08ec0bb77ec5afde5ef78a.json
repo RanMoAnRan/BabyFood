@@ -1,6 +1,6 @@
 {
   "id": "ff32675abc08ec0bb77ec5afde5ef78a",
-  "title": "Cheesy Amish Breakfast Casserole",
+  "title": "俗气的阿米什早餐砂锅",
   "min_age_month": 12,
   "tags": [
     "Breakfast",
@@ -11,34 +11,34 @@
   "difficulty": 1,
   "time_cost": 75,
   "cover_image": "images/6e1cdf511df4462b9ca99bc399f25b85.webp",
-  "nutrition_tip": "This Amish breakfast casserole has bacon, onion, hash browns, eggs, and 3 types…",
+  "nutrition_tip": "这个阿米什早餐砂锅有培根、洋葱、薯饼、鸡蛋，一共3种…",
   "ingredients": [
     {
-      "name": "1 pound sliced bacon, diced",
+      "name": "1 磅培根片，切丁",
       "amount": ""
     },
     {
-      "name": "1 medium sweet onion, chopped",
+      "name": "1 个中等大小的甜洋葱，切碎",
       "amount": ""
     },
     {
-      "name": "9 large eggs, lightly beaten",
+      "name": "9 个大鸡蛋，轻轻打散",
       "amount": ""
     },
     {
-      "name": "4 cups frozen shredded hash brown potatoes, thawed",
+      "name": "4 杯冷冻碎土豆丝，解冻",
       "amount": ""
     },
     {
-      "name": "2 cups shredded Cheddar cheese",
+      "name": "2 杯切达干酪丝",
       "amount": ""
     },
     {
-      "name": "1.5 cups small curd cottage cheese",
+      "name": "1.5 杯小凝乳干酪",
       "amount": ""
     },
     {
-      "name": "1.25 cups shredded Swiss cheese",
+      "name": "1.25 杯瑞士奶酪丝",
       "amount": ""
     }
   ],
@@ -46,33 +46,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat a large skillet over medium-high heat; cook and stir bacon and onion until bacon is evenly browned, about 10 minutes. Drain."
+      "text": "用中高火加热大煎锅；煮并搅拌培根和洋葱，直至培根均匀变成棕色，大约需要 10 分钟。流走。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Transfer bacon and onion to a large bowl. Stir in eggs, potatoes, Cheddar cheese, cottage cheese, and Swiss cheese."
+      "text": "将培根和洋葱转移到一个大碗中。加入鸡蛋、土豆、切达干酪、干酪和瑞士干酪。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Pour mixture into the prepared baking dish."
+      "text": "将混合物倒入准备好的烤盘中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until eggs are set and cheese is melted, 45 to 50 minutes. Let stand 10 minutes before cutting and serving."
+      "text": "在预热的烤箱中烘烤 45 至 50 分钟，直至鸡蛋凝固且奶酪融化。静置 10 分钟，然后切割并食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-06",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/229150/cheesy-amish-breakfast-casserole/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d6a5ffec321aa983ed43362c263d2998",
+    "translated": true
+  }
 }

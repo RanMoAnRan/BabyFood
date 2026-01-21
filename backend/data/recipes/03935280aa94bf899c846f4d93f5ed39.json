@@ -1,6 +1,6 @@
 {
   "id": "03935280aa94bf899c846f4d93f5ed39",
-  "title": "Easy Oreo Truffles",
+  "title": "简单的奥利奥松露",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -10,18 +10,18 @@
   "difficulty": 1,
   "time_cost": 100,
   "cover_image": "images/91231b437d393483a73c30deb266e9d8.webp",
-  "nutrition_tip": "These delicious Oreo truffles are bite-sized chocolaty treats easily made with 3…",
+  "nutrition_tip": "这些美味的奥利奥松露是一口大小的巧克力，可以用 3 块轻松制作……",
   "ingredients": [
     {
-      "name": "2 (8 ounce) packages semisweet baking chocolate",
+      "name": "2 包（8 盎司）半甜烘焙巧克力",
       "amount": ""
     },
     {
-      "name": "16 ounces cream-filled chocolate sandwich cookies (such as Oreo®), divided",
+      "name": "16 盎司奶油夹心巧克力夹心饼干（例如 Oreo®），分开",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package cream cheese, softened",
+      "name": "1 包（8 盎司）奶油干酪，软化",
       "amount": ""
     }
   ],
@@ -29,43 +29,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Melt chocolate in a saucepan over low heat, stirring occasionally, 4 to 6 minutes."
+      "text": "在平底锅中用小火融化巧克力，偶尔搅拌 4 到 6 分钟。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "While the chocolate is melting, place 9 cream-filled sandwich cookies in a food processor and blend until finely crushed. Transfer crumbs to a bowl and reserve for decorating."
+      "text": "当巧克力融化时，将 9 块奶油夹心饼干放入食品加工机中，搅拌直至细碎。将面包屑转移到碗中并保留用于装饰。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add remaining cookies to the food processor and blend until finely crushed. Transfer crumbs to a large bowl and stir in cream cheese; mix until well-blended. Roll mixture into 42 balls, about 1-inch in diameter."
+      "text": "将剩余的饼干添加到食品加工机中并搅拌直至精细压碎。将面包屑转移到一个大碗中，加入奶油干酪搅拌；混合直至充分混合。将混合物滚成 42 个直径约 1 英寸的球。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Place each ball in melted chocolate and use two forks to roll it until fully coated. Lift the ball with both forks and allow excess chocolate to drip off."
+      "text": "将每个球放入融化的巧克力中，然后用两把叉子滚动直至完全涂上巧克力。用两个叉子提起球，让多余的巧克力滴下来。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Place coated truffle on a wax paper-lined baking sheet and sprinkle with reserved cookie crumbs to decorate. Repeat to make remaining truffles."
+      "text": "将涂有涂层的松露放在衬有蜡纸的烤盘上，并撒上保留的饼干屑进行装饰。重复制作剩余的松露。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Refrigerate truffles until firm, at least 1 hour. Keep in the refrigerator until just before serving. Enjoy!"
+      "text": "将松露冷藏至少 1 小时直至变硬。保存在冰箱中直至食用前。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "2013-03-13",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/127491/easy-oreo-truffles/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2eb3cb437a7bcdb0adab8b85d026b34b",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "b5986791fe6c363c8a1365558d52fa04",
-  "title": "Sopapilla Cheesecake Pie",
+  "title": "索帕皮拉芝士蛋糕派",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 170,
   "cover_image": "images/02d223c8c4e4b618299052c28be2c550.webp",
-  "nutrition_tip": "Sopapilla cheesecake, made with layers of flaky crescent dough, sweet cream chee…",
+  "nutrition_tip": "Sopapilla 芝士蛋糕，由多层片状新月形面团、甜奶油芝士制成……",
   "ingredients": [
     {
-      "name": "cooking spray",
+      "name": "烹饪喷雾",
       "amount": ""
     },
     {
-      "name": "2 (8 ounce) packages cream cheese, softened",
+      "name": "2 包（8 盎司）奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "1.75 cups white sugar, divided",
+      "name": "1.75 杯白糖，分开",
       "amount": ""
     },
     {
-      "name": "1 teaspoon Mexican vanilla extract",
+      "name": "1 茶匙墨西哥香草精",
       "amount": ""
     },
     {
-      "name": "2 (8 ounce) cans refrigerated crescent rolls",
+      "name": "2 罐（8 盎司）冷藏月牙卷",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, room temperature",
+      "name": "0.5 杯黄油，室温",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.25 cup honey",
+      "name": "0.25 杯蜂蜜",
       "amount": ""
     }
   ],
@@ -48,53 +48,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with cooking spray."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上烹饪喷雾。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat cream cheese, 1 cup sugar, and vanilla extract in a bowl until smooth."
+      "text": "将奶油芝士、1 杯糖和香草精放入碗中，搅拌至光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Unroll crescent roll dough, and use a rolling pin to shape each sheet into a 9x13-inch rectangle."
+      "text": "将月牙卷面团展开，然后用擀面杖将每张面团擀成 9x13 英寸的矩形。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Press one piece into the bottom of the prepared baking dish."
+      "text": "将一块压入准备好的烤盘底部。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Evenly spread cream cheese mixture on top."
+      "text": "将奶油奶酪混合物均匀地涂在上面。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cover with remaining piece of crescent dough."
+      "text": "用剩余的新月形面团覆盖。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Mash remaining 3/4 cup sugar, butter, and cinnamon with a fork until combined."
+      "text": "用叉子将剩余的 3/4 杯糖、黄油和肉桂捣碎直至混合。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Dot mixture over top of dough."
+      "text": "将混合物点在面团上。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Bake in the preheated oven until crescent dough has puffed and turned golden brown, about 30 minutes. Remove from the oven and drizzle with honey. Cool cheesecake completely in the pan for about 2 hours before cutting into 12 squares."
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至月牙形面团膨化并变成金黄色。从烤箱中取出，淋上蜂蜜。将芝士蛋糕在平底锅中完全冷却约 2 小时，然后切成 12 块。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/169305/sopapilla-cheesecake-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d405371c71eb276b34a7fb393e5133e9",
+    "translated": true
+  }
 }

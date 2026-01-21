@@ -1,6 +1,6 @@
 {
   "id": "1c99fa3b483b85384357727e3eb9a116",
-  "title": "Pizzelle",
+  "title": "皮泽尔",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/56a004cbc0ed011899fb669ff6165e27.webp",
-  "nutrition_tip": "This pizzelle recipe makes light, crisp Italian cookies using a thin batter flav…",
+  "nutrition_tip": "这个披萨食谱使用薄面糊口味制作清淡、酥脆的意大利饼干……",
   "ingredients": [
     {
-      "name": "3 large eggs",
+      "name": "3 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, melted",
+      "name": "0.5 杯黄油，融化",
       "amount": ""
     },
     {
-      "name": "1 tablespoon vanilla extract",
+      "name": "1 汤匙香草精",
       "amount": ""
     },
     {
-      "name": "1.75 cups all-purpose flour",
+      "name": "1.75 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking powder",
+      "name": "2 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vegetable oil, or as needed",
+      "name": "2 茶匙植物油，或根据需要",
       "amount": ""
     }
   ],
@@ -44,33 +44,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat eggs and sugar in a large bowl until thick. Stir in melted butter and vanilla. Sift together flour and baking powder, and blend into the batter until smooth."
+      "text": "在一个大碗中将鸡蛋和糖打至浓稠。加入融化的黄油和香草精搅拌。将面粉和泡打粉一起过筛，加入面糊中直至光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat the pizzelle iron, and brush with oil. Drop about one tablespoon of batter onto each circle on the iron. You may need to experiment with the amount of batter and baking time depending on the iron. Bake for 20 to 45 seconds or until steam is no longer coming out of the iron. Carefully remove cookie from the iron and repeat with remaining batter."
+      "text": "加热披萨板，并刷上油。将大约一汤匙面糊滴到熨斗的每个圆圈上。您可能需要根据熨斗尝试面糊的量和烘烤时间。烘烤 20 至 45 秒或直至熨斗不再冒出蒸汽。小心地从熨斗中取出饼干，然后用剩余的面糊重复此操作。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cool completely before storing in an airtight container."
+      "text": "完全冷却后再存放在密封容器中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "1997-12-21",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/10220/pizzelles-iii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ee5b2479c37861c4f3ab7130f3810acb",
+    "translated": true
+  }
 }

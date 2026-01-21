@@ -1,6 +1,6 @@
 {
   "id": "7a8b55cd289b07b8534d5bbe53472a66",
-  "title": "Quiche Lorraine",
+  "title": "洛林乳蛋饼",
   "min_age_month": 12,
   "tags": [
     "Brunch",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 80,
   "cover_image": "images/21132901a52f4630eb4c59fddc431920.webp",
-  "nutrition_tip": "This quiche Lorraine with crisp bacon, shredded Swiss cheese, and onion baked in…",
+  "nutrition_tip": "这道洛林乳蛋饼配上脆培根、瑞士奶酪丝和洋葱，烘烤在……",
   "ingredients": [
     {
-      "name": "12 slices bacon",
+      "name": "12 片培根",
       "amount": ""
     },
     {
-      "name": "1 cup shredded Swiss cheese",
+      "name": "1 杯瑞士奶酪丝",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup minced onion",
+      "name": "0.33333334326744 杯 洋葱末",
       "amount": ""
     },
     {
-      "name": "1 (9 inch) prepared pie crust",
+      "name": "1 个（9 英寸）准备好的馅饼皮",
       "amount": ""
     },
     {
-      "name": "2 cups light cream",
+      "name": "2 杯淡奶油",
       "amount": ""
     },
     {
-      "name": "4 large eggs, beaten",
+      "name": "4 个大鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "0.75 teaspoon salt",
+      "name": "0.75 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon white sugar",
+      "name": "0.25 茶匙白糖",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon cayenne pepper",
+      "name": "0.125 茶匙辣椒",
       "amount": ""
     }
   ],
@@ -53,38 +53,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels, then chop coarsely."
+      "text": "将培根放入大煎锅中，用中高火煮，偶尔翻转，直至均匀变成棕色，大约 10 分钟。将培根片放在纸巾上沥干，然后粗切。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Sprinkle bacon, Swiss cheese, and onion into prepared pastry crust."
+      "text": "将培根、瑞士奶酪和洋葱撒入准备好的糕点皮中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Whisk cream, eggs, salt, sugar, and cayenne pepper in a medium bowl; pour mixture into pastry shell."
+      "text": "在一个中等大小的碗中搅拌奶油、鸡蛋、盐、糖和辣椒；将混合物倒入糕点壳中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven for 15 minutes. Reduce heat to 300 degrees F (150 degrees C) and continue baking until a knife inserted 1 inch from the edge comes out clean, about 30 minutes."
+      "text": "在预热好的烤箱中烘烤15分钟。将热量降至 300 华氏度（150 摄氏度）并继续烘烤，直到将刀插入距边缘 1 英寸的位置，拔出时干净，大约需要 30 分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Allow quiche to sit 10 minutes before cutting into wedges and serving."
+      "text": "让乳蛋饼静置 10 分钟，然后切成楔形并食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-04-05",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/17515/quiche-lorraine-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7d35b33e4ab68ce919237360a8c2fa1f",
+    "translated": true
+  }
 }

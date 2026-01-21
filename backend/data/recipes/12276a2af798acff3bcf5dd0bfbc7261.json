@@ -1,6 +1,6 @@
 {
   "id": "12276a2af798acff3bcf5dd0bfbc7261",
-  "title": "Classic Bran Muffins",
+  "title": "经典麸皮松饼",
   "min_age_month": 12,
   "tags": [
     "Breakfast",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 30,
   "cover_image": "images/c2765540ae49a0c0cb6ecfbca647ea70.webp",
-  "nutrition_tip": "Bran muffins made with wheat bran are a delicious source of fiber the whole fami…",
+  "nutrition_tip": "用麦麸制成的麸皮松饼是全家人美味的纤维来源......",
   "ingredients": [
     {
-      "name": "1.5 cups wheat bran",
+      "name": "1.5 杯麦麸",
       "amount": ""
     },
     {
-      "name": "1 cup buttermilk",
+      "name": "1 杯酪乳",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup brown sugar",
+      "name": "0.66666668653488 杯 红糖",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup vegetable oil",
+      "name": "0.33333334326744 杯植物油",
       "amount": ""
     },
     {
-      "name": "1 egg",
+      "name": "1 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon vanilla extract",
+      "name": "0.5 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "1 cup all-purpose flour",
+      "name": "1 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking powder",
+      "name": "1 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 cup raisins",
+      "name": "0.5 杯葡萄干",
       "amount": ""
     }
   ],
@@ -60,38 +60,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease 12 muffin cups or line with paper muffin liners."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。在 12 个松饼杯上涂上油脂或铺上松饼纸衬垫。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix wheat bran and buttermilk together in a large bowl; let stand for 10 minutes."
+      "text": "将麦麸和酪乳放入一个大碗中混合；静置 10 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Meanwhile, beat brown sugar, oil, egg, and vanilla together in a separate bowl until light and fluffy; stir into buttermilk mixture."
+      "text": "同时，将红糖、油、鸡蛋和香草精放入另一个碗中，搅拌至松软；搅拌成酪乳混合物。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Sift flour, baking soda, baking powder, and salt together; stir into buttermilk mixture until just blended. Fold in raisins; spoon batter into the prepared muffin cups, filling each 2/3 full."
+      "text": "将面粉、小苏打、泡打粉和盐一起过筛；搅拌至酪乳混合物中直至混合。拌入葡萄干；将面糊倒入准备好的松饼杯中，每个杯填满 2/3。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven until tops spring back when lightly pressed, about 15 to 20 minutes. Cool in the tin briefly, then transfer to a wire rack to cool completely. Enjoy!"
+      "text": "在预热的烤箱中烘烤约 15 至 20 分钟，直至轻压时顶部弹回。在罐中短暂冷却，然后转移到金属架上完全冷却。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-03-04",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/25224/classic-bran-muffins/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5273428f6b6b007d3c1c6ddafa771b2b",
+    "translated": true
+  }
 }

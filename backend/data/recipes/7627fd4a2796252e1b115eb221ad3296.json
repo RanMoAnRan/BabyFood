@@ -1,6 +1,6 @@
 {
   "id": "7627fd4a2796252e1b115eb221ad3296",
-  "title": "Pumpkin Custard Pie",
+  "title": "南瓜蛋奶派",
   "min_age_month": 6,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/4157aa60a39c2da2a4dcfd8fc75cb78a.webp",
-  "nutrition_tip": "This delicious pumpkin custard pie pairs a hot custard filling with a cold, unba…",
+  "nutrition_tip": "这个美味的南瓜蛋奶派将热蛋奶冻馅料与冷的unba…",
   "ingredients": [
     {
-      "name": "1.75 cups pumpkin puree",
+      "name": "1.75 杯南瓜泥",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup heavy whipping cream",
+      "name": "1 杯浓奶油",
       "amount": ""
     },
     {
-      "name": "0.5 cup milk",
+      "name": "0.5 杯牛奶",
       "amount": ""
     },
     {
-      "name": "2 large eggs, beaten",
+      "name": "2 个大鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "1 (9 inch) frozen unbaked pie crust, thawed in the refrigerator, but still cold",
+      "name": "1 个（9 英寸）冷冻未烘烤的馅饼皮，在冰箱中解冻，但仍然冷",
       "amount": ""
     }
   ],
@@ -52,33 +52,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 400 degrees F (200 degrees C)."
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place pumpkin puree in a saucepan over medium-high heat; cook and stir until slightly dry and caramelized, 10 to 20 minutes. Remove from the heat."
+      "text": "将南瓜泥放入平底锅中，中火加热；煮并搅拌 10 至 20 分钟，直至稍微干燥并焦糖化。从火上移开。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir sugar, cinnamon, ginger, and salt into the caramelized pumpkin until well combined. Mix in cream, milk, and eggs until smooth. Pour into the cold pie crust."
+      "text": "将糖、肉桂、生姜和盐放入焦糖南瓜中搅拌均匀。加入奶油、牛奶和鸡蛋，搅拌至光滑。倒入冷的馅饼皮中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until crust is golden brown and filling is mostly set except for a small spot in the center that jiggles when the pie is shaken slightly, 25 to 55 minutes."
+      "text": "在预热的烤箱中烘烤 25 至 55 分钟，直至饼皮呈金黄色，馅料基本凝固，但中间有一个小点，轻微摇动馅饼时会晃动。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Remove from the oven and allow to cool completely on wire rack before cutting."
+      "text": "从烤箱中取出，在切割前放在金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-11-17",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13858/pumpkin-custard-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3c5e8045f4f1316d9e9b2780f78495c9",
+    "translated": true
+  }
 }

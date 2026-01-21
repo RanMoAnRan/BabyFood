@@ -1,6 +1,6 @@
 {
   "id": "83d9138ca8047d758990c16e0ec961a8",
-  "title": "Caramel Pecan Pie",
+  "title": "焦糖山核桃派",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 85,
   "cover_image": "images/62e40aaa36ade98e33eb589f69f83b19.webp",
-  "nutrition_tip": "This caramel pecan pie is a twist on the standard holiday classic! Buttery caram…",
+  "nutrition_tip": "这款焦糖山核桃派是标准假日经典的一个变体！黄油焦糖…",
   "ingredients": [
     {
-      "name": "1 (9 inch) unbaked pie crust",
+      "name": "1 个（9 英寸）未烘烤的馅饼皮",
       "amount": ""
     },
     {
-      "name": "36 individually wrapped caramels, unwrapped",
+      "name": "36 个独立包装的焦糖，未包装",
       "amount": ""
     },
     {
-      "name": "0.25 cup unsalted butter",
+      "name": "0.25 杯无盐黄油",
       "amount": ""
     },
     {
-      "name": "0.25 cup milk",
+      "name": "0.25 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "3 large eggs",
+      "name": "3 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon vanilla extract",
+      "name": "0.5 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup pecan halves",
+      "name": "1 杯半山核桃",
       "amount": ""
     }
   ],
@@ -52,33 +52,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C.)"
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine caramels, butter, and milk in a saucepan over low heat. Cook, stirring frequently, until caramels are melted and mixture is smooth, 10 to 15 minutes. Remove from the heat and set aside."
+      "text": "将焦糖、黄油和牛奶放入平底锅中，用小火混合。煮 10 到 15 分钟，经常搅拌，直至焦糖融化且混合物光滑。从火上移开并放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix together sugar, eggs, vanilla, and salt in a large bowl. Gradually mix in the melted caramel mixture, then stir in pecans. Pour filling into unbaked pie crust."
+      "text": "在一个大碗中将糖、鸡蛋、香草精和盐混合在一起。逐渐加入融化的焦糖混合物，然后加入山核桃。将馅料倒入未烘烤的馅饼皮中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until pastry is golden brown, 45 to 50 minutes. Remove from the oven and let set on a wire rack until filling is firm, about 15 minutes."
+      "text": "在预热的烤箱中烘烤 45 至 50 分钟，直至糕点呈金黄色。从烤箱中取出，放在金属架上，直到馅料变硬，大约需要 15 分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/24090/caramel-pecan-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0b8e547e7f982713b48ff4021534f184",
+    "translated": true
+  }
 }

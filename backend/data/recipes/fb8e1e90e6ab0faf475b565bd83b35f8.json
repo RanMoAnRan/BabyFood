@@ -1,6 +1,6 @@
 {
   "id": "fb8e1e90e6ab0faf475b565bd83b35f8",
-  "title": "Molasses Cookies",
+  "title": "糖蜜饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 110,
   "cover_image": "images/74b546f4c3446b187e39453fc2719bc3.webp",
-  "nutrition_tip": "Chewy molasses cookies spiced with ginger and cinnamon. These delicious cookies…",
+  "nutrition_tip": "耐嚼的糖蜜饼干，加姜和肉桂调味。这些美味的饼干……",
   "ingredients": [
     {
-      "name": "1.5 cups white sugar, divided",
+      "name": "1.5 杯白糖，分开",
       "amount": ""
     },
     {
-      "name": "0.75 cup margarine, melted",
+      "name": "0.75 杯人造黄油，融化",
       "amount": ""
     },
     {
-      "name": "1 egg",
+      "name": "1 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.25 cup molasses",
+      "name": "0.25 杯糖蜜",
       "amount": ""
     },
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking soda",
+      "name": "2 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cloves",
+      "name": "0.5 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜末",
       "amount": ""
     }
   ],
@@ -56,43 +56,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix 1 cup sugar, butter, and egg together in a medium bowl until smooth."
+      "text": "将 1 杯糖、黄油和鸡蛋放入一个中等大小的碗中混合直至光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in molasses."
+      "text": "加入糖蜜搅拌。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Combine flour, baking soda, cinnamon, salt, cloves, and ginger in a separate medium bowl; add to the molasses mixture and stir until well combined. Cover and chill dough for 1 hour."
+      "text": "将面粉、小苏打、肉桂、盐、丁香和生姜混合在一个单独的中等大小的碗中；添加到糖蜜混合物中并搅拌直至充分混合。盖上面团并冷藏 1 小时。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C). While the oven is preheating, roll dough into 1-inch diameter balls; roll each ball in remaining 1/2 cup white sugar before placing 2 inches apart on ungreased cookie sheets."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。烤箱预热时，将面团擀成直径1英寸的球；将每个球放入剩余的 1/2 杯白糖中滚动，然后将其间隔 2 英寸放在未涂油的饼干片上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in batches in the preheated oven until tops are cracked, about 8 to 10 minutes."
+      "text": "在预热的烤箱中分批烘烤，直至顶部破裂，大约需要 8 到 10 分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Cool on wire racks. Enjoy!"
+      "text": "在金属架上冷却。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "1998-12-03",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9311/molasses-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e652dad6d501552b6d2d2ba32c0e2c5c",
+    "translated": true
+  }
 }

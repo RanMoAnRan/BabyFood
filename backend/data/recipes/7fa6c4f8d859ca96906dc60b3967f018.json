@@ -1,6 +1,6 @@
 {
   "id": "7fa6c4f8d859ca96906dc60b3967f018",
-  "title": "Hawaiian Bread",
+  "title": "夏威夷面包",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 155,
   "cover_image": "images/c5586e33d4a73147c3c9240e03c53c5e.webp",
-  "nutrition_tip": "Hawaiian bread is fluffy, tender, and slightly sweet; this homemade recipe makes…",
+  "nutrition_tip": "夏威夷面包蓬松、松软、微甜；这个自制食谱使……",
   "ingredients": [
     {
-      "name": "0.5 cup warm water (110 degrees F/45 degrees C)",
+      "name": "0.5 杯温水（110 华氏度/45 摄氏度）",
       "amount": ""
     },
     {
-      "name": "2 (.25 ounce) envelopes active dry yeast",
+      "name": "2（0.25 盎司）信封活性干酵母",
       "amount": ""
     },
     {
-      "name": "1 cup pineapple juice",
+      "name": "1 杯菠萝汁",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "3 eggs",
+      "name": "3 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, melted",
+      "name": "0.5 杯黄油，融化",
       "amount": ""
     },
     {
-      "name": "0.5 cup water",
+      "name": "0.5 杯水",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "6 cups all-purpose flour",
+      "name": "6 杯通用面粉",
       "amount": ""
     }
   ],
@@ -56,33 +56,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Pour warm water into a bowl; add yeast and let stand until it begins to form a creamy foam, about 10 minutes."
+      "text": "将温水倒入碗中；加入酵母，静置约 10 分钟，直至开始形成奶油状泡沫。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat yeast mixture, pineapple juice, sugar, eggs, melted butter, 1/2 cup water, vanilla, and ginger together in a large bowl. Stir in 1/2 of the flour until no dry spots remain. Stir in remaining flour, 1/2 cup at a time, mixing well after each addition to form a stiff dough."
+      "text": "将酵母混合物、菠萝汁、糖、鸡蛋、融化的黄油、1/2 杯水、香草精和生姜一起放入一个大碗中。加入 1/2 面粉，搅拌直至没有干点。加入剩余的面粉，一次 1/2 杯，每次添加后充分搅拌，形成硬面团。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place dough in a large, lightly-oiled bowl and turn to coat. Cover with a towel and let rise in a warm place until doubled in volume, about 1 hour. Meanwhile, lightly grease three round cake pans; set aside."
+      "text": "将面团放入一个涂有少许油的大碗中，然后转动面团。盖上毛巾，放在温暖的地方发酵约 1 小时，直至体积翻倍。同时，在三个圆形蛋糕盘上涂上少许油脂；放在一边。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Deflate dough and turn it out onto a well floured surface. Divide dough into three equal pieces and form into round loaves. Place the loaves in the prepared cake pans; cover with a towel and let rise in a warm place until doubled in volume, about 40 minutes. Meanwhile, preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "将面团排气，然后将其放在撒有面粉的表面上。将面团分成三等份，然后擀成圆形面包。将面包放入准备好的蛋糕盘中；盖上毛巾，放在温暖的地方发酵约 40 分钟，直至体积翻倍。同时，将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake loaves in the preheated oven until top is golden brown, and the bottom of a loaf sounds hollow when tapped, about 25 to 30 minutes."
+      "text": "在预热的烤箱中烘烤面包，直至顶部呈金黄色，轻敲时面包底部发出空心的声音，大约需要 25 至 30 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/23704/hawaiian-bread-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "caad204cec55dfc0d1f0b34eb9f3188b",
+    "translated": true
+  }
 }

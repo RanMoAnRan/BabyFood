@@ -1,6 +1,6 @@
 {
   "id": "7d5999fa00553590c20b814605cb8e7c",
-  "title": "Hamburger Potato Casserole",
+  "title": "汉堡土豆砂锅",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 100,
   "cover_image": "images/5debeda8e29bd751e67090212e992810.webp",
-  "nutrition_tip": "Hamburger potato casserole is an oldie but a goodie! This recipe layers ground b…",
+  "nutrition_tip": "汉堡土豆砂锅菜是老菜，但却是美味！这个食谱将磨碎的…",
   "ingredients": [
     {
-      "name": "1 pound lean ground beef",
+      "name": "1 磅瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 (10.5 ounce) can condensed cream of mushroom soup",
+      "name": "1 罐（10.5 盎司）浓缩奶油蘑菇汤",
       "amount": ""
     },
     {
-      "name": "0.75 cup milk",
+      "name": "0.75 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped onion",
+      "name": "0.5 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "salt and ground black pepper to taste",
+      "name": "盐和黑胡椒粉适量",
       "amount": ""
     },
     {
-      "name": "3 cups peeled and thinly sliced potatoes",
+      "name": "3 杯去皮切成薄片的土豆",
       "amount": ""
     },
     {
-      "name": "1 cup shredded Cheddar cheese",
+      "name": "1 杯切达干酪丝",
       "amount": ""
     }
   ],
@@ -44,43 +44,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat oven to 350 degrees F (175 degrees C)."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。排干并丢弃油脂。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix condensed soup, milk, onion, salt, and pepper in a medium bowl until combined."
+      "text": "将浓缩汤、牛奶、洋葱、盐和胡椒粉放入一个中等大小的碗中，直至混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Alternately layer the potatoes, soup mixture, and browned ground beef in a 2-quart baking dish. Cover the dish tightly with foil."
+      "text": "将土豆、汤混合物和棕色碎牛肉交替放入 2 夸脱的烤盘中。用箔纸紧紧地盖住盘子。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until potatoes are tender, about 1 to 1 ½ hours."
+      "text": "在预热的烤箱中烘烤约 1 至 1 ½ 小时，直至土豆变软。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove foil, sprinkle Cheddar cheese on top, and continue baking until cheese is melted and bubbly, 5 to 10 minutes."
+      "text": "取下箔纸，在上面撒上切达干酪，然后继续烘烤 5 到 10 分钟，直到奶酪融化并起泡。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve and enjoy."
+      "text": "上菜并享用。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/26609/hamburger-potato-casserole/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "00e3225c68c3406afd0cfaf6554b7e6e",
+    "translated": true
+  }
 }

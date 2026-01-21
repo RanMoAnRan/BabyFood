@@ -1,6 +1,6 @@
 {
   "id": "a123da2082abbd4f8dc846b59d3f8555",
-  "title": "Banana Chocolate Chip Bread",
+  "title": "香蕉巧克力片面包",
   "min_age_month": 6,
   "tags": [
     "Snack",
@@ -10,50 +10,50 @@
   "difficulty": 1,
   "time_cost": 95,
   "cover_image": "images/c09bb48a0e8c269837041bb42f21bd02.webp",
-  "nutrition_tip": "This chocolate chip banana bread is sweet and moist thanks to the addition of ve…",
+  "nutrition_tip": "这款巧克力片香蕉面包由于添加了...",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking powder",
+      "name": "1 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "3 ripe bananas, mashed",
+      "name": "3 根熟香蕉，捣碎",
       "amount": ""
     },
     {
-      "name": "1 tablespoon milk",
+      "name": "1 汤匙牛奶",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon, or to taste",
+      "name": "1 茶匙肉桂粉，或适量",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, softened",
+      "name": "0.5 杯黄油，软化",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 cup semisweet chocolate chips",
+      "name": "1 杯半甜巧克力片",
       "amount": ""
     }
   ],
@@ -61,48 +61,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat the oven to 325 degrees F (165 degrees C). Grease a 9x5-inch loaf pan, preferably glass."
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在 9x5 英寸的烤盘（最好是玻璃烤盘）上涂抹油脂。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix flour, baking powder, baking soda, and salt in a bowl."
+      "text": "在碗中混合面粉、泡打粉、小苏打和盐。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir bananas, milk, and cinnamon in another bowl."
+      "text": "在另一个碗中搅拌香蕉、牛奶和肉桂。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Beat sugar and butter together in a third bowl with an electric mixer until light and fluffy; add eggs one at a time, beating well after each addition."
+      "text": "将糖和黄油放入第三个碗中，用电动搅拌机搅拌至松软；一次加入一个鸡蛋，每次加入后搅拌均匀。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Stir banana mixture into butter mixture; mix in flour mixture until just blended. Fold in chocolate chips; pour batter into the prepared loaf pan."
+      "text": "将香蕉混合物搅拌成黄油混合物；加入面粉混合物直至混合。拌入巧克力片；将面糊倒入准备好的面包盘中。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 70 minutes. Cool in the pan for 10 minutes before removing to cool completely on a wire rack before slicing."
+      "text": "在预热的烤箱中烘烤约 70 分钟，直至插入中心的牙签拔出时是干净的。在平底锅中冷却 10 分钟，然后取出放在金属架上完全冷却，然后切片。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Slice and enjoy!"
+      "text": "切片并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/230482/banana-chocolate-chip-bread/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "52f337bc667cb318877540d1d7883ff4",
+    "translated": true
+  }
 }

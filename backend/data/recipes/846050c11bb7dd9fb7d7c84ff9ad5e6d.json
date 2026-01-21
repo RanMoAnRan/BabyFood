@@ -1,6 +1,6 @@
 {
   "id": "846050c11bb7dd9fb7d7c84ff9ad5e6d",
-  "title": "Buttery Garlic Green Beans",
+  "title": "黄油蒜青豆",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -10,26 +10,26 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/ec15e6aa2593b845fbebe80943611cbf.webp",
-  "nutrition_tip": "This easy, 5-ingredient green bean recipe featuring fresh green beans sautéed in…",
+  "nutrition_tip": "这个简单的 5 种成分的绿豆食谱，以新鲜的绿豆炒......",
   "ingredients": [
     {
-      "name": "1 pound fresh green beans, trimmed and snapped in half",
+      "name": "1 磅新鲜青豆，修剪并折成两半",
       "amount": ""
     },
     {
-      "name": "3 tablespoons butter",
+      "name": "3 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "3 cloves garlic, minced",
+      "name": "3 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon lemon-pepper seasoning, or more to taste",
+      "name": "0.125 茶匙柠檬胡椒调味料，或更多调味料",
       "amount": ""
     },
     {
-      "name": "salt to taste",
+      "name": "加盐调味",
       "amount": ""
     }
   ],
@@ -37,33 +37,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place green beans into a large skillet and cover with water; bring to a boil. Reduce heat to medium-low and simmer until beans just start to soften, 3 to 5 minutes."
+      "text": "将青豆放入大煎锅中，盖上水；煮沸。将热量调至中低，煮 3 至 5 分钟，直至豆子开始软化。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Drain and return to the skillet. Add butter and stir until melted, 1 to 2 minutes."
+      "text": "沥干并返回煎锅。加入黄油，搅拌 1 至 2 分钟直至融化。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add garlic; cook until tender and fragrant, 1 to 2 minutes."
+      "text": "加入大蒜；煮1至2分钟，直至变软并散发出香味。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Season with lemon-pepper seasoning and salt before serving."
+      "text": "食用前用柠檬胡椒调味料和盐调味。"
     }
   ],
   "warnings": [],
   "publish_date": "2009-04-09",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/230103/buttery-garlic-green-beans/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a1d1700b0db7de97d12659ebbf1be8ba",
+    "translated": true
+  }
 }

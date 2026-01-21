@@ -1,6 +1,6 @@
 {
   "id": "3315eaf4d62f40f969b8ad3bbf844e19",
-  "title": "Chocolate Chip Pecan Pie",
+  "title": "巧克力片山核桃派",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/ec0876fa9074ed42f1b3c178499eeda5.webp",
-  "nutrition_tip": "This chocolate chip pecan pie defines next-level deliciousness! A sweet. gooey,…",
+  "nutrition_tip": "这款巧克力片山核桃派定义了更高层次的美味！一个甜蜜的。粘糊糊的，…",
   "ingredients": [
     {
-      "name": "3 large eggs",
+      "name": "3 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1.25 cups white sugar, or more to taste",
+      "name": "1.25 杯白糖，或更多适量",
       "amount": ""
     },
     {
-      "name": "0.5 cup all-purpose flour",
+      "name": "0.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 cup corn syrup",
+      "name": "0.5 杯玉米糖浆",
       "amount": ""
     },
     {
-      "name": "6 tablespoons unsalted butter, melted",
+      "name": "6 汤匙无盐黄油，融化",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon lemon juice",
+      "name": "0.5 茶匙柠檬汁",
       "amount": ""
     },
     {
-      "name": "1.5 cups semisweet chocolate chips",
+      "name": "1.5 杯半甜巧克力片",
       "amount": ""
     },
     {
-      "name": "1.5 cups chopped pecans",
+      "name": "1.5 杯山核桃碎",
       "amount": ""
     },
     {
-      "name": "1 (9 inch) unbaked pie shell",
+      "name": "1 个（9 英寸）未烘烤的馅饼壳",
       "amount": ""
     }
   ],
@@ -56,33 +56,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "收集原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat eggs in a large mixing bowl with an electric mixer until light and fluffy. Add sugar, flour, corn syrup, melted butter, salt, and lemon juice; mix until thoroughly combined."
+      "text": "将鸡蛋放入一个大搅拌碗中，用电动搅拌机搅拌至松软。加入糖、面粉、玉米糖浆、融化的黄油、盐和柠檬汁；混合直至完全混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in chocolate chips and pecans, then pour mixture into the pie shell."
+      "text": "加入巧克力片和山核桃，然后将混合物倒入馅饼壳中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until crust is golden and filling is set, 45 to 60 minutes."
+      "text": "在预热的烤箱中烘烤 45 至 60 分钟，直至外皮呈金黄色且馅料凝固。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Remove from the oven and let cool and set before serving."
+      "text": "从烤箱中取出，冷却并凝固后再食用。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-11-21",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/15850/chocolate-chip-pecan-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "801c97afe48678587a887eaa1ccd8047",
+    "translated": true
+  }
 }

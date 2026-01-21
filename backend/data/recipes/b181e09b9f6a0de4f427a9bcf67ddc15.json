@@ -1,6 +1,6 @@
 {
   "id": "b181e09b9f6a0de4f427a9bcf67ddc15",
-  "title": "Cream Corn Like No Other",
+  "title": "奶油玉米与众不同",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/6f7e6fad484c0b3aa1b00fd7ad78f89f.webp",
-  "nutrition_tip": "Creamed corn made from scratch beats any canned variety! A rich, creamy sauce wi…",
+  "nutrition_tip": "从头开始制作的奶油玉米胜过任何罐装品种！浓郁的奶油酱...",
   "ingredients": [
     {
-      "name": "2 (10 ounce) packages frozen corn kernels, thawed",
+      "name": "2 包（10 盎司）冷冻玉米粒，解冻",
       "amount": ""
     },
     {
-      "name": "1 cup heavy cream",
+      "name": "1 杯浓奶油",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt, or to taste",
+      "name": "1 茶匙盐，或适量",
       "amount": ""
     },
     {
-      "name": "2 tablespoons granulated sugar",
+      "name": "2 汤匙砂糖",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon freshly ground black pepper, or to taste",
+      "name": "0.25 茶匙现磨黑胡椒，或适量",
       "amount": ""
     },
     {
-      "name": "2 tablespoons butter",
+      "name": "2 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "0.5 cup whole milk",
+      "name": "0.5 杯全脂牛奶",
       "amount": ""
     },
     {
-      "name": "2 tablespoons all-purpose flour",
+      "name": "2 汤匙通用面粉",
       "amount": ""
     },
     {
-      "name": "0.25 cup freshly grated Parmesan cheese, or more to taste",
+      "name": "0.25 杯新鲜磨碎的帕尔马干酪，或更多品尝",
       "amount": ""
     }
   ],
@@ -53,33 +53,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine corn, heavy cream, sugar, butter, salt, and black pepper in a skillet over medium heat. Cook, stirring occasionally, until butter melts, 3 to 5 minutes."
+      "text": "将玉米、浓奶油、糖、黄油、盐和黑胡椒放入煎锅中，用中火加热。煮 3 到 5 分钟，偶尔搅拌，直至黄油融化。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Meanwhile, whisk milk and flour together in a small bowl until smooth."
+      "text": "同时，将牛奶和面粉放入小碗中搅拌直至光滑。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Whisk in milk mixture; cook, stirring constantly, until thickened and corn is heated through, about 4 minutes."
+      "text": "加入牛奶混合物搅拌；煮约 4 分钟，不断搅拌，直至变稠且玉米被加热透。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Remove from heat and stir in Parmesan cheese until melted. Serve hot."
+      "text": "从火上移开，加入帕尔马干酪搅拌直至融化。趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2002-08-19",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/53304/cream-corn-like-no-other/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dd7cdfad50b1ca070b103b810ad49d1c",
+    "translated": true
+  }
 }

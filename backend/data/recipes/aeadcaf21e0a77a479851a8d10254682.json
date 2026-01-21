@@ -1,6 +1,6 @@
 {
   "id": "aeadcaf21e0a77a479851a8d10254682",
-  "title": "Persimmon Cake",
+  "title": "柿饼",
   "min_age_month": 6,
   "tags": [
     "Dessert",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 75,
   "cover_image": "images/67c1b79a6c5c41b7e7cbe406aca03e9b.webp",
-  "nutrition_tip": "This easy persimmon cake is made with fresh ripe persimmons pureed into a pulp t…",
+  "nutrition_tip": "这个简单的柿饼是用新鲜成熟的柿子捣成泥制成的…",
   "ingredients": [
     {
-      "name": "nonstick cooking spray",
+      "name": "不粘烹饪喷雾",
       "amount": ""
     },
     {
-      "name": "2.5 cups all-purpose flour",
+      "name": "2.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "2 cups sugar",
+      "name": "2 杯糖",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking soda",
+      "name": "2 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon baking powder",
+      "name": "0.5 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "2 cups persimmon pulp",
+      "name": "2 杯 柿子浆",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vanilla extract",
+      "name": "2 茶匙香草精",
       "amount": ""
     }
   ],
@@ -56,33 +56,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 300 degrees F (150 degrees C). Spray a 9x13-inch baking pan with nonstick spray and dust with flour."
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。在 9x13 英寸烤盘上喷上不粘喷雾剂，并撒上面粉。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk together flour, sugar, baking soda, baking powder, and salt in a large bowl."
+      "text": "在一个大碗中将面粉、糖、小苏打、泡打粉和盐搅拌在一起。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Whisk persimmon pulp, milk, eggs, and vanilla together in a separate bowl until smooth."
+      "text": "将柿子果肉、牛奶、鸡蛋和香草精放入另一个碗中，搅拌至光滑。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Fold the persimmon mixture into the flour mixture until no dry lumps remain; pour batter into the prepared pan."
+      "text": "将柿子混合物拌入面粉混合物中，直至没有干块残留；将面糊倒入准备好的平底锅中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 50 to 75 minutes. Cool in the pan for 10 minutes, then remove from the pan, and allow to cool completely on a wire rack."
+      "text": "在预热的烤箱中烘烤 50 到 75 分钟，直到插入中心的牙签拔出来时是干净的。在锅中冷却 10 分钟，然后从锅中取出，放在金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/163497/persimmon-cake/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "df331aeb2a62adce5bef7ff83df101ee",
+    "translated": true
+  }
 }

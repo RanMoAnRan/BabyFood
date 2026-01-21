@@ -1,6 +1,6 @@
 {
   "id": "e7488b591704b90bba50e9ec63673e55",
-  "title": "Souvlaki",
+  "title": "烤肉串",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 160,
   "cover_image": "images/fb174b51f9a580d6855bbc4024c7765e.webp",
-  "nutrition_tip": "Delicious souvlaki skewers made with marinated pork, onions, and bell peppers co…",
+  "nutrition_tip": "美味的烤肉串，由腌制猪肉、洋葱和青椒制成……",
   "ingredients": [
     {
-      "name": "0.25 cup olive oil",
+      "name": "0.25 杯橄榄油",
       "amount": ""
     },
     {
-      "name": "0.25 cup soy sauce",
+      "name": "0.25 杯酱油",
       "amount": ""
     },
     {
-      "name": "1 medium lemon, juiced",
+      "name": "1 个中等大小的柠檬，榨汁",
       "amount": ""
     },
     {
-      "name": "3 cloves garlic, crushed",
+      "name": "3 瓣大蒜，压碎",
       "amount": ""
     },
     {
-      "name": "1 teaspoon dried oregano",
+      "name": "1 茶匙干牛至",
       "amount": ""
     },
     {
-      "name": "3 pounds pork tenderloin, cut into 1 inch cubes",
+      "name": "3 磅猪里脊肉，切成 1 英寸的方块",
       "amount": ""
     },
     {
-      "name": "2 medium yellow onions, cut into 1 inch pieces",
+      "name": "2 个中等大小的黄洋葱，切成 1 英寸的块",
       "amount": ""
     },
     {
-      "name": "2 medium green bell peppers, cut into 1 inch pieces",
+      "name": "2 个中等大小的青椒，切成 1 英寸的块",
       "amount": ""
     },
     {
-      "name": "skewers",
+      "name": "烤肉串",
       "amount": ""
     }
   ],
@@ -52,38 +52,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix oil, soy sauce, lemon juice, garlic, and oregano together in a large glass bowl."
+      "text": "在一个大玻璃碗中将油、酱油、柠檬汁、大蒜和牛至混合在一起。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add pork, onions, and bell peppers, and stir until coated. Cover and refrigerate for 2 to 3 hours."
+      "text": "加入猪肉、洋葱和青椒，搅拌直至裹上一层。盖上盖子并冷藏 2 至 3 小时。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+      "text": "将户外烤架预热至中高温，并在烤架上涂上少许油。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Remove pork and vegetables from marinade and shake off excess; thread onto skewers. Discard remaining marinade."
+      "text": "从腌料中取出猪肉和蔬菜，抖掉多余的；穿在串上。丢弃剩余的腌料。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cook on the preheated grill, turning frequently, until pork is no longer pink in the middle, 10 to 15 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+      "text": "在预热的烤架上烹饪 10 到 15 分钟，经常翻转，直到猪肉中间不再呈粉红色。插入中心的即时读数温度计读数应至少为 145 华氏度（63 摄氏度）。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-09-26",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/14713/souvlaki/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e204474b1199016a30322cc74c68828c",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "f5190db02ae07d81c09a091c3b2b46bd",
-  "title": "Mashed Sweet Potatoes",
+  "title": "红薯泥",
   "min_age_month": 6,
   "tags": [
     "Dinner",
@@ -10,22 +10,22 @@
   "difficulty": 1,
   "time_cost": 40,
   "cover_image": "images/e7441f13a2289717c0aee7a2f58074f8.webp",
-  "nutrition_tip": "This mashed sweet potatoes recipe makes smooth mashed sweet potatoes enriched wi…",
+  "nutrition_tip": "这个红薯泥配方使红薯泥变得光滑，富含…",
   "ingredients": [
     {
-      "name": "6 medium sweet potatoes, peeled and cubed",
+      "name": "6 个中等大小的红薯，去皮并切块",
       "amount": ""
     },
     {
-      "name": "0.75 cup warm 2% milk, or as needed",
+      "name": "0.75 杯 2% 温牛奶，或根据需要",
       "amount": ""
     },
     {
-      "name": "0.75 cup maple syrup, or to taste",
+      "name": "0.75 杯枫糖浆，或品尝",
       "amount": ""
     },
     {
-      "name": "0.5 cup softened butter, cut into chunks",
+      "name": "0.5 杯软化黄油，切成块",
       "amount": ""
     }
   ],
@@ -33,28 +33,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Bring a large pot of salted water to a boil. Add potatoes, reduce the heat to medium-low, and simmer until tender, 20 to 30 minutes. Drain and transfer to a large bowl."
+      "text": "将一大锅盐水煮沸。加入土豆，将火调至中低，煮 20 至 30 分钟直至变软。沥干并转移到一个大碗中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mash potatoes with a potato masher until mostly smooth."
+      "text": "用土豆捣碎器将土豆捣碎，直至基本光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Gradually stir in milk until potatoes reach desired consistency."
+      "text": "逐渐加入牛奶搅拌，直至土豆达到所需的稠度。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir in syrup and butter until smooth."
+      "text": "加入糖浆和黄油，搅拌至光滑。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-06-08",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/21220/mashed-sweet-potatoes/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ca58e58cce80e3de78063d2b05959cca",
+    "translated": true
+  }
 }

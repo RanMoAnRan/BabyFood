@@ -1,6 +1,6 @@
 {
   "id": "437a0dffd926da4394cedd6e4a4ac442",
-  "title": "Pumpkin Brownies",
+  "title": "南瓜布朗尼",
   "min_age_month": 6,
   "tags": [
     "Dessert",
@@ -9,62 +9,62 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/e983e0ed38ac330844e235c0ea35efb1.webp",
-  "nutrition_tip": "These fudgy pumpkin brownies are the perfect combination of chocolate, pumpkin p…",
+  "nutrition_tip": "这些软糖南瓜布朗尼是巧克力、南瓜饼的完美结合……",
   "ingredients": [
     {
-      "name": "0.75 cup all-purpose flour",
+      "name": "0.75 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon baking powder",
+      "name": "0.5 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.75 cup butter, melted",
+      "name": "0.75 杯黄油，融化",
       "amount": ""
     },
     {
-      "name": "1.5 cups white sugar",
+      "name": "1.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vanilla extract",
+      "name": "2 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "3 large eggs",
+      "name": "3 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 cup semi-sweet chocolate chips",
+      "name": "0.5 杯半甜巧克力片",
       "amount": ""
     },
     {
-      "name": "0.25 cup cocoa powder",
+      "name": "0.25 杯可可粉",
       "amount": ""
     },
     {
-      "name": "0.5 cup pumpkin puree",
+      "name": "0.5 杯南瓜泥",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped walnuts",
+      "name": "0.5 杯核桃碎",
       "amount": ""
     },
     {
-      "name": "0.75 teaspoon ground cinnamon",
+      "name": "0.75 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cloves",
+      "name": "0.5 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground nutmeg",
+      "name": "0.5 茶匙肉豆蔻粉",
       "amount": ""
     }
   ],
@@ -72,63 +72,68 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease an 8-inch square baking pan."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在8英寸方形烤盘上涂上油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Stir flour, baking powder, and salt together in a medium bowl."
+      "text": "将面粉、泡打粉和盐放入一个中等大小的碗中搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir sugar, melted butter, and vanilla together in a large bowl."
+      "text": "在一个大碗中将糖、融化的黄油和香草精搅拌在一起。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add one egg and mix with a spoon until well incorporated. Repeat to add remaining 2 eggs, mixing well after each addition."
+      "text": "加入一颗鸡蛋，用勺子搅拌直至充分混合。重复添加剩余的 2 个鸡蛋，每次添加后搅拌均匀。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Gradually add flour mixture and stir the batter until evenly moistened. Pour 1/2 of the batter back into the medium bowl that held the flour mixture."
+      "text": "逐渐加入面粉混合物并搅拌面糊直至均匀湿润。将 1/2 的面糊倒回装有面粉混合物的中型碗中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Stir chocolate chips and cocoa into one bowl of batter. Stir pumpkin puree, walnuts, cinnamon, cloves, and nutmeg into the second bowl of batter."
+      "text": "将巧克力片和可可放入一碗面糊中搅拌。将南瓜泥、核桃、肉桂、丁香和肉豆蔻放入第二碗面糊中搅拌。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Spread 1/2 of the chocolate batter into the bottom of the prepared baking pan, and follow with 1/2 of the pumpkin batter. Repeat the two layers once more."
+      "text": "将1/2的巧克力面糊铺在准备好的烤盘底部，然后铺上1/2的南瓜面糊。再次重复两​​层。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Drag a kitchen knife or small spatula gently through the layers in a swirling motion to create a marbled appearance."
+      "text": "以旋转动作轻轻拖动菜刀或小抹刀穿过各层，以创建大理石外观。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Bake in the preheated oven until the brownies begin to pull away from the sides of the pan, and a toothpick inserted into the center comes out clean, 40 to 45 minutes."
+      "text": "在预热的烤箱中烘烤 40 到 45 分钟，直到布朗尼蛋糕开始从锅的两侧脱离，并且用牙签插入中心，取出来时是干净的。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Remove from the oven and let cool in the pan before cutting into 16 squares."
+      "text": "从烤箱中取出并在锅中冷却，然后切成 16 个方块。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Serve warm, topped with a scoop of vanilla ice cream. Enjoy!"
+      "text": "趁热享用，上面放一勺香草冰淇淋。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/211165/pumpkin-brownies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6bd8d8e7a17b28799f7fdcf6df47e178",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "1e546d94d83e34a18eed184bacb99c29",
-  "title": "Amazingly Easy Irish Soda Bread",
+  "title": "非常简单的爱尔兰苏打面包",
   "min_age_month": 12,
   "tags": [
     "Breakfast",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/2f1341d805e1fb604fe0397b9b2c3caa.webp",
-  "nutrition_tip": "Irish soda bread is a quick bread to make with flour, buttermilk, and baking sod…",
+  "nutrition_tip": "爱尔兰苏打面包是一种用面粉、酪乳和小苏打制作的快速面包……",
   "ingredients": [
     {
-      "name": "4 cups all-purpose flour",
+      "name": "4 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 cup margarine, softened",
+      "name": "0.5 杯人造黄油，软化",
       "amount": ""
     },
     {
-      "name": "4 tablespoons white sugar",
+      "name": "4 汤匙白糖",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 tablespoon baking powder",
+      "name": "1 汤匙发酵粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup buttermilk",
+      "name": "1 杯酪乳",
       "amount": ""
     },
     {
-      "name": "1 egg",
+      "name": "1 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.25 cup butter, melted",
+      "name": "0.25 杯黄油，融化",
       "amount": ""
     },
     {
-      "name": "0.25 cup buttermilk",
+      "name": "0.25 杯酪乳",
       "amount": ""
     }
   ],
@@ -56,38 +56,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a large baking sheet."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。在大烤盘上涂上少许油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix flour, softened butter, sugar, baking soda, baking powder, and salt together in a large bowl. Stir in 1 cup of buttermilk and egg."
+      "text": "将面粉、软化黄油、糖、小苏打、泡打粉和盐放入一个大碗中混合。加入 1 杯酪乳和鸡蛋，搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Turn dough out onto a lightly floured surface and knead slightly. Form dough into a round loaf and place on the prepared baking sheet. Note that the dough will be a little sticky."
+      "text": "将面团翻到撒有少许面粉的表面上，轻轻揉捏。将面团形成圆形面包并放在准备好的烤盘上。注意，面团会有点粘。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Combine melted butter with 1/4 cup buttermilk in a small bowl; brush loaf with this mixture. Use a sharp knife to cut an &#39;X&#39; into the top of the loaf."
+      "text": "将融化的黄油与 1/4 杯酪乳混合在一个小碗中；用这种混合物刷面包。用锋利的刀切出“X”字形。进入面包的顶部。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in preheated oven until a toothpick inserted into the center of the loaf comes out clean, 45 to 50 minutes. Check for doneness after 30 minutes. You may continue to brush the loaf with the butter mixture while it bakes."
+      "text": "在预热的烤箱中烘烤 45 到 50 分钟，直至将牙签插入面包中心，拔出时是干净的。 30分钟后检查是否熟了。烘烤时，您可以继续在面包上刷黄油混合物。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Slice and enjoy!"
+      "text": "切片并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2000-03-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/16947/amazingly-easy-irish-soda-bread/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0299d1241b574335feacabb0a118f4b5",
+    "translated": true
+  }
 }

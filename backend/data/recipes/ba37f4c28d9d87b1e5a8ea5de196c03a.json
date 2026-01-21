@@ -1,6 +1,6 @@
 {
   "id": "ba37f4c28d9d87b1e5a8ea5de196c03a",
-  "title": "Thumbprint Cookies",
+  "title": "指纹饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 30,
   "cover_image": "images/92d2d162bd1d754bae700f916545ae77.webp",
-  "nutrition_tip": "Thumbprint cookies are coated with crisp walnuts and filled with your favorite j…",
+  "nutrition_tip": "指纹饼干涂有脆核桃，里面填满了你最喜欢的j…",
   "ingredients": [
     {
-      "name": "1 large egg, separated, divided",
+      "name": "1 个大鸡蛋，分开，分开",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, softened",
+      "name": "0.5 杯黄油，软化",
       "amount": ""
     },
     {
-      "name": "0.25 cup packed brown sugar",
+      "name": "0.25 杯包装红糖",
       "amount": ""
     },
     {
-      "name": "1 cup all-purpose flour",
+      "name": "1 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon vanilla extract",
+      "name": "0.5 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.25 cup finely chopped walnuts",
+      "name": "0.25 杯切碎的核桃",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup any flavor fruit jam",
+      "name": "0.66666668653488 杯 任意口味果酱",
       "amount": ""
     }
   ],
@@ -48,58 +48,63 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Preheat the oven to 300 degrees F (150 degrees C). Grease two cookie sheets and set aside."
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。在两张饼干片上涂上油脂并放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Whisk egg white in a small bowl. Place chopped walnuts in another small bowl."
+      "text": "在一个小碗中搅拌蛋清。将切碎的核桃放入另一个小碗中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Cream butter, brown sugar, and egg yolk in a mixing bowl until light and fluffy, about 2 minutes."
+      "text": "将黄油、红糖和蛋黄放入搅拌碗中，搅打至松软，约 2 分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Add flour, vanilla, and salt; mix until well combined."
+      "text": "加入面粉、香草精和盐；混合直至充分混合。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Scoop dough into 1 ½-inch balls. Dip in egg white, then roll in walnuts until coated. Place 2 inches apart on the prepared cookie sheets."
+      "text": "将面团舀成 1 ½ 英寸的球。浸入蛋清中，然后在核桃中滚动直至涂上涂层。将 2 英寸间隔放置在准备好的饼干片上。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until slightly puffed, about 5 minutes."
+      "text": "在预热的烤箱中烘烤约5分钟，直至稍微膨化。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Remove cookies from the oven. Use your thumb or the end of a wooden spoon to gently press an indent in the center of each cookie. Spoon jam into each thumbprint, filling it to the brim."
+      "text": "从烤箱中取出饼干。用拇指或木勺的末端轻轻地在每块饼干的中心压出一个凹痕。用勺子将果酱放入每个拇指印中，将其填满。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Return cookies to the oven and bake until set, about 8 minutes."
+      "text": "将饼干放回烤箱烘烤直至凝固，大约需要 8 分钟。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Remove from the oven and transfer to wire racks to cool completely."
+      "text": "从烤箱中取出并转移到金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "2008-06-30",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9618/thumbprint-cookies-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d82582db852d7de175a28797a18f09b2",
+    "translated": true
+  }
 }

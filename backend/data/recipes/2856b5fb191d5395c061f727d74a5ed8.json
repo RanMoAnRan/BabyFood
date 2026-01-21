@@ -1,6 +1,6 @@
 {
   "id": "2856b5fb191d5395c061f727d74a5ed8",
-  "title": "Best No-Bake Cherry Cheesecake",
+  "title": "最好的免烤樱桃芝士蛋糕",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 140,
   "cover_image": "images/8df21af7880c70c2f67a5c7ef3d43a9e.webp",
-  "nutrition_tip": "This no-bake cherry cheesecake has a graham cracker crust and an easy cherry pie…",
+  "nutrition_tip": "这个免烤樱桃芝士蛋糕有全麦饼干皮和简单的樱桃派......",
   "ingredients": [
     {
-      "name": "1.25 cups graham cracker crumbs",
+      "name": "1.25 杯全麦饼干屑",
       "amount": ""
     },
     {
-      "name": "0.25 cup unsalted butter, melted",
+      "name": "0.25 杯无盐黄油，融化",
       "amount": ""
     },
     {
-      "name": "0.25 cup white sugar",
+      "name": "0.25 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package cream cheese, softened",
+      "name": "1 包（8 盎司）奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "1 cup powdered sugar",
+      "name": "1 杯糖粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "1 cup heavy whipping cream",
+      "name": "1 杯浓奶油",
       "amount": ""
     },
     {
-      "name": "1 (12.5 ounce) can cherry pie filling (or other filling of your choice)",
+      "name": "1罐（12.5盎司）樱桃派馅料（或您选择的其他馅料）",
       "amount": ""
     }
   ],
@@ -48,43 +48,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "To make the crust: Mix graham cracker crumbs, butter, and sugar in a bowl until well incorporated and crumbly. Press mixture into a 9-inch pie plate, going up the sides as much as possible."
+      "text": "制作面包皮：将全麦饼干屑、黄油和糖放入碗中混合，直至充分混合并易碎。将混合物压入 9 英寸的馅饼盘中，尽可能压到两侧。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "To make the filling: Beat cream cheese, powdered sugar, and vanilla in a bowl with an electric mixer until smooth and spreadable."
+      "text": "制作馅料：将奶油芝士、糖粉和香草放入碗中，用电动搅拌机搅拌至光滑且可涂抹。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Beat cream in a chilled glass or metal bowl with an electric mixer until soft peaks form. Fold into cream cheese mixture until smooth."
+      "text": "在冰镇的玻璃或金属碗中用电动搅拌器搅拌奶油，直至形成软峰。拌入奶油干酪混合物直至光滑。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Pour filling into the prepared crust, and smooth the top with a spatula. Refrigerate until firm, about 2 to 3 hours."
+      "text": "将馅料倒入准备好的饼皮中，并用抹刀抹平顶部。冷藏约2至3小时直至变硬。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Spread cherry pie filling over the chilled cheesecake. Serve immediately or refrigerate until serving."
+      "text": "将樱桃派馅料涂在冷冻芝士蛋糕上。立即食用或冷藏直至食用。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/49066/the-best-unbaked-cherry-cheesecake-ever/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ea97cf76400c1cd62a9da7dabf22b05d",
+    "translated": true
+  }
 }

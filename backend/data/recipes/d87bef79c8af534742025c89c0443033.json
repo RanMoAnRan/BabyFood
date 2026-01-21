@@ -1,6 +1,6 @@
 {
   "id": "d87bef79c8af534742025c89c0443033",
-  "title": "Best Toffee Ever - Super Easy",
+  "title": "有史以来最好的太妃糖 - 超级简单",
   "min_age_month": 12,
   "tags": [
     "Candy",
@@ -9,26 +9,26 @@
   "difficulty": 1,
   "time_cost": 100,
   "cover_image": "images/79696405b935f99277c8efdd4b9682af.webp",
-  "nutrition_tip": "This toffee is layered with crunchy almonds and chocolate and tastes rich and bu…",
+  "nutrition_tip": "这款太妃糖夹有松脆的杏仁和巧克力，味道浓郁而醇厚……",
   "ingredients": [
     {
-      "name": "2 cups unsalted butter",
+      "name": "2 杯无盐黄油",
       "amount": ""
     },
     {
-      "name": "2 cups white sugar",
+      "name": "2 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "2 cups semisweet chocolate chips",
+      "name": "2 杯半甜巧克力片",
       "amount": ""
     },
     {
-      "name": "1 cup finely chopped almonds",
+      "name": "1 杯切碎的杏仁",
       "amount": ""
     }
   ],
@@ -36,58 +36,63 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine butter, sugar, and salt in a large, heavy-bottomed saucepan over medium heat."
+      "text": "将黄油、糖和盐放入一个大的厚底平底锅中，用中火加热。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir constantly in one direction until butter is melted, about 5 minutes."
+      "text": "不断朝一个方向搅拌，直至黄油融化，大约需要 5 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Meanwhile, line a 9x13-inch baking dish with a sheet of parchment paper, letting it overhang two sides of the dish."
+      "text": "同时，在 9x13 英寸的烤盘上铺上一张羊皮纸，让它悬在烤盘的两侧。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Once the butter has melted, stop stirring and bring mixture to a boil. Once boiling, cook, stirring only 2 to 3 times, until it turns a dark amber color and the temperature reaches 300 degrees F (150 degrees C) on a candy thermometer, 20 to 30 minutes."
+      "text": "黄油融化后，停止搅拌并将混合物煮沸。煮沸后，仅搅拌 2 至 3 次，直至变成深琥珀色，并且糖果温度计上的温度达到 300 华氏度（150 摄氏度），持续 20 至 30 分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Immediately pour toffee into the prepared baking dish. Sprinkle chocolate chips on top and let sit until they soften, 1 to 2 minutes."
+      "text": "立即将太妃糖倒入准备好的烤盘中。在上面撒上巧克力片，静置 1 到 2 分钟直至其变软。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Use a spatula to spread softened chocolate into a thin, even layer."
+      "text": "使用抹刀将软化的巧克力涂抹成薄而均匀的层。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Sprinkle nuts over the chocolate and press down slightly; wearing a plastic bag over your hand will minimize the mess."
+      "text": "将坚果撒在巧克力上，轻轻按下；在手上套上塑料袋可以最大程度地减少混乱。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Place toffee in the refrigerator until set, about 1 hour. Lift hardened toffee out of the baking dish with the parchment paper."
+      "text": "将太妃糖放入冰箱直至凝固，大约 1 小时。用羊皮纸将硬化的太妃糖从烤盘中取出。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Break into pieces and store in an airtight container."
+      "text": "分成碎片并存放在密封容器中。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/73412/best-toffee-ever-super-easy/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "38d1c9031434da89eaaead6382a1badd",
+    "translated": true
+  }
 }

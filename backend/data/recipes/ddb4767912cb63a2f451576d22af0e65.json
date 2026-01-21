@@ -1,6 +1,6 @@
 {
   "id": "ddb4767912cb63a2f451576d22af0e65",
-  "title": "Baby Blue Punch",
+  "title": "淡蓝色冲床",
   "min_age_month": 12,
   "tags": [
     "Drink",
@@ -10,26 +10,26 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/7ee0593ff258f426dcb2616e16c5f8d7.webp",
-  "nutrition_tip": "This beautiful baby blue shower punch recipe can be made with any flavor or colo…",
+  "nutrition_tip": "这个美丽的淡蓝色淋浴潘趣酒配方可以用任何口味或颜色制作......",
   "ingredients": [
     {
-      "name": "1 (2 liter) bottle lemon-lime flavored carbonated beverage",
+      "name": "1 瓶（2 升）柠檬酸橙味碳酸饮料",
       "amount": ""
     },
     {
-      "name": "1 (64 fluid ounce) bottle white cranberry juice",
+      "name": "1 瓶（64 液体盎司）白蔓越莓汁",
       "amount": ""
     },
     {
-      "name": "1 (0.13 ounce) package blue, berry flavored unsweetened drink mix",
+      "name": "1 包（0.13 盎司）蓝色浆果味无糖混合饮料",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar, or to taste",
+      "name": "1 杯白糖，或适量",
       "amount": ""
     },
     {
-      "name": "8 scoops vanilla ice cream",
+      "name": "8 勺香草冰淇淋",
       "amount": ""
     }
   ],
@@ -37,18 +37,23 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine lemon-lime soda, white cranberry juice, and drink mix in a large punch bowl until well mixed; stir in sugar until reaches desired sweetness."
+      "text": "将柠檬酸橙汽水、白蔓越莓汁混合，放入一个大潘趣酒碗中，直至充分混合；加入糖搅拌直至达到所需的甜度。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Float ice cream on top. The ice cream will start to melt and look like frothy white clouds floating on top."
+      "text": "将冰淇淋浮在上面。冰淇淋将开始融化，看起来像漂浮在顶部的泡沫白云。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/70551/baby-blue-punch/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "15882688b9e5a8b7e4f8ad3f72c45268",
+    "translated": true
+  }
 }

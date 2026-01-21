@@ -1,6 +1,6 @@
 {
   "id": "c0657bd084f67828ebcec053855401bf",
-  "title": "Rosettes",
+  "title": "玫瑰花结",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 105,
   "cover_image": "images/a0c9662c66e5753c6081c69fda2f505b.webp",
-  "nutrition_tip": "Rosettes are festive Swedish cookies made with a simple batter fried in a lacy p…",
+  "nutrition_tip": "玫瑰花结是瑞典节日饼干，用简单的面糊在花边煎饼中制成……",
   "ingredients": [
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 tablespoon white sugar",
+      "name": "1汤匙白糖",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup sifted all-purpose flour",
+      "name": "1 杯过筛的通用面粉",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "vegetable oil for frying",
+      "name": "煎炸用植物油",
       "amount": ""
     },
     {
-      "name": "confectioners' sugar for dusting",
+      "name": "用于撒粉的糖果糖",
       "amount": ""
     }
   ],
@@ -48,48 +48,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat eggs, sugar, and salt together in a large bowl. Add flour, milk, and vanilla extract; beat until smooth."
+      "text": "在一个大碗中将鸡蛋、糖和盐一起搅拌。加入面粉、牛奶和香草精；打至光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat about 2 inches of oil in a large, deep skillet to 375 degrees F (190 degrees C). Place a wire rack over paper towels."
+      "text": "在一个大的深煎锅中将约 2 英寸的油加热至 375 华氏度（190 摄氏度）。将金属架放在纸巾上。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Heat the rosette iron in hot oil for 2 minutes. Lift the iron and let excess oil drain. Dip the iron in batter to 1/4 inch from the top of the iron, then dip the iron immediately into hot oil."
+      "text": "将花形熨斗在热油中加热 2 分钟。提起熨斗，让多余的油排出。将熨斗浸入面糊中，距离熨斗顶部 1/4 英寸，然后立即将熨斗浸入热油中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Fry rosette in hot oil until crisp and lightly golden, about 30 seconds."
+      "text": "在热油中将玫瑰花炸至酥脆并呈浅金黄色，大约需要 30 秒。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Lift the iron out; tip upside down to drain. Use a fork to push rosette off the iron onto the prepared wire rack."
+      "text": "将熨斗取出；倒置以沥干水分。用叉子将熨斗上的花环推到准备好的金属架上。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Reheat the iron in hot oil for 1 minute; cook remaining batter. Sprinkle rosettes with confectioners&#39; sugar."
+      "text": "将熨斗在热油中重新加热 1 分钟；煮剩余的面糊。在玫瑰花结上撒上糖果。糖。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "1997-07-28",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9809/rosettes-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "062d53d8efa08662779890f7b5cb384a",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "93cd14a27decb7b4c0c79fe4f6118280",
-  "title": "Libby&#39;s Famous Pumpkin Pie",
+  "title": "利比著名的南瓜派",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 65,
   "cover_image": "images/edc5200afde1d60eb9c24244e0f28565.webp",
-  "nutrition_tip": "Libby&#39;s pumpkin pie with evaporated milk is a classic, no-fail holiday desse…",
+  "nutrition_tip": "Libby 的淡奶南瓜派是经典的、不会失败的节日甜点……",
   "ingredients": [
     {
-      "name": "1 (9 inch) unbaked deep-dish pie crust",
+      "name": "1 个（9 英寸）未烘烤的深盘馅饼皮",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground cloves",
+      "name": "0.25 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can LIBBY'S® 100% Pure Pumpkin",
+      "name": "1 罐（15 盎司）LIBBY'S® 100% 纯南瓜",
       "amount": ""
     },
     {
-      "name": "1 (12 fluid ounce) can NESTLE® CARNATION® Evaporated Milk",
+      "name": "1 罐（12 液量盎司）NESTLE® CARNATION® 淡奶",
       "amount": ""
     }
   ],
@@ -52,43 +52,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients. Preheat the oven to 425 degrees F (220 degrees C)."
+      "text": "收集原料。将烤箱预热至 425 华氏度（220 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine sugar, cinnamon, salt, ginger, and cloves in small bowl."
+      "text": "将糖、肉桂、盐、姜和丁香放入小碗中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat eggs lightly in large bowl."
+      "text": "在大碗中轻轻搅打鸡蛋。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir in pumpkin and sugar-spice mixture."
+      "text": "拌入南瓜和糖香料混合物。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Gradually stir in evaporated milk. Pour into pie shell."
+      "text": "逐渐加入淡奶搅拌。倒入饼皮中。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven for 15 minutes. Reduce temperature to 350 degrees F (175 degrees C) and continue to bake until a knife inserted near the center comes out clean, 40 to 50 more minutes. Remove from the oven and set on a wire rack to cool to room temperature."
+      "text": "在预热好的烤箱中烘烤15分钟。将温度降至 350 华氏度（175 摄氏度），然后继续烘烤 40 到 50 分钟，直到插入靠近中心的刀出来时干净为止。从烤箱中取出并放在金属架上冷却至室温。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve cooled pie immediately or refrigerate until ready to serve. (Do not freeze as this will cause the crust to separate from the filling.)"
+      "text": "立即供应冷却的馅饼或冷藏直至准备好供应。 （不要冷冻，因为这会导致外皮与馅料分离。）"
     }
   ],
   "warnings": [],
   "publish_date": "2000-10-17",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/22755/libbys-famous-pumpkin-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "69c12cdfb0fd4bf47c95dad9f6d058de",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "32d7bc13d2fb93d0e1131d06f5ef5828",
-  "title": "Rugelach",
+  "title": "地毯",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 145,
   "cover_image": "images/8568b66cfe094e520bac0a4fa4e9f07d.webp",
-  "nutrition_tip": "Rugelach are crescent-shaped pastries that are easy to make at home with flaky d…",
+  "nutrition_tip": "Rugelach 是新月形的糕点，很容易在家用片状 D 制作……",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 cup unsalted butter",
+      "name": "1 杯无盐黄油",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) package cream cheese",
+      "name": "1 包（8 盎司）奶油干酪",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup sour cream",
+      "name": "0.33333334326744 杯酸奶油",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup finely chopped walnuts",
+      "name": "1 杯切碎的核桃",
       "amount": ""
     },
     {
-      "name": "0.5 cup raisins",
+      "name": "0.5 杯葡萄干",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 tablespoon ground cinnamon",
+      "name": "1 汤匙肉桂粉",
       "amount": ""
     }
   ],
@@ -53,38 +53,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Place butter, cream cheese, sour cream, flour, and salt in a food processor; pulse until crumbly."
+      "text": "将黄油、奶油干酪、酸奶油、面粉和盐放入食品加工机中；脉冲直至易碎。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Shape and press crumbly dough mixture into four equal disks. Wrap each pastry disk; chill in the refrigerator for 1 hour or up to 2 days."
+      "text": "将易碎的面团混合物成型并压成四个相等的圆盘。将每个糕点盘包裹起来；在冰箱中冷藏 1 小时或最多 2 天。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine walnuts, raisins, sugar, and cinnamon in a bowl."
+      "text": "将核桃、葡萄干、糖和肉桂放入碗中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Roll each pastry disk into a 9-inch round keeping other disks chilled until ready to roll them. Sprinkle round with walnut-raisin mixture; press lightly into dough. Cut each round into 12 wedges with a chefs knife or pizza cutter. Roll wedges from wide to narrow, you will end up with point on outside of cookie. Place on ungreased baking sheets and chill rugelach for 20 minutes before baking."
+      "text": "将每个糕点盘卷成 9 英寸的圆形，保持其他盘冷藏，直到准备卷起。撒上核桃葡萄干混合物；轻轻压入面团中。用厨师刀或披萨刀将每个圆形切成 12 个楔形。将楔子从宽向窄滚动，最终您的点将位于饼干的外侧。放在未抹油的烤盘上，烘烤前将地毯冷却 20 分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (180 degrees C)."
+      "text": "将烤箱预热至 350 华氏度（180 摄氏度）。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "After rugelach are chilled, bake in the preheated oven on center rack until lightly golden, about 22 to 25 minutes; cool on wire racks."
+      "text": "地毯冷却后，放入已预热的烤箱中央架上烘烤，直至呈浅金黄色，约 22 至 25 分钟；放在金属架上冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-01-07",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/10115/rugelach/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "26a476ff5e8bb82e3b5f39c9c21cf87a",
+    "translated": true
+  }
 }

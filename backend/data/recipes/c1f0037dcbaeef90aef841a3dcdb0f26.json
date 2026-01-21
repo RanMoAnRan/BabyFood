@@ -1,6 +1,6 @@
 {
   "id": "c1f0037dcbaeef90aef841a3dcdb0f26",
-  "title": "Old-Fashioned Swedish Glögg",
+  "title": "老式瑞典热红酒",
   "min_age_month": 12,
   "tags": [
     "Drink",
@@ -11,50 +11,50 @@
   "difficulty": 1,
   "time_cost": 105,
   "cover_image": "images/d699d931fb3c39a65111745cad11686a.webp",
-  "nutrition_tip": "Glögg is a fragrant Swedish spiced wine punch spiked with whiskey and rum. You&#…",
+  "nutrition_tip": "Glögg 是一款芳香四溢的瑞典五香酒潘趣酒，添加了威士忌和朗姆酒。你&#...",
   "ingredients": [
     {
-      "name": "5 (750 milliliter) bottles port wine",
+      "name": "5 瓶（750 毫升）波特酒",
       "amount": ""
     },
     {
-      "name": "1 (750 milliliter) bottle 100 proof bourbon whiskey",
+      "name": "1 瓶（750 毫升）100 度波本威士忌",
       "amount": ""
     },
     {
-      "name": "1 (750 milliliter) bottle white rum",
+      "name": "1 瓶（750 毫升）白朗姆酒",
       "amount": ""
     },
     {
-      "name": "1 (3 inch) cinnamon stick",
+      "name": "1 根（3 英寸）肉桂棒",
       "amount": ""
     },
     {
-      "name": "1 (3 inch) strip of orange peel",
+      "name": "1 条（3 英寸）橙皮条",
       "amount": ""
     },
     {
-      "name": "4 whole cloves",
+      "name": "4 整个丁香",
       "amount": ""
     },
     {
-      "name": "3 whole cardamom pods, cracked",
+      "name": "3 个完整豆蔻荚，破裂",
       "amount": ""
     },
     {
-      "name": "1 (8 inch) square of cheesecloth",
+      "name": "1 块（8 英寸）方形粗棉布",
       "amount": ""
     },
     {
-      "name": "0.75 cup white sugar",
+      "name": "0.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) package dark raisins",
+      "name": "1 包（15 盎司）黑葡萄干",
       "amount": ""
     },
     {
-      "name": "1 (6 ounce) package blanched slivered almonds",
+      "name": "1 包（6 盎司）热烫杏仁片",
       "amount": ""
     }
   ],
@@ -62,38 +62,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat port wine in a large stockpot with a lid over medium heat until just below the simmering point. Add bourbon and rum; heat until just below simmering. Save the bottles and their caps for storing leftover glögg."
+      "text": "将波特酒放入带盖的大汤锅中，用中火加热至略低于沸点。加入波本威士忌和朗姆酒；加热至略低于沸腾状态。保留瓶子和瓶盖以存放剩余的 glögg。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Meanwhile, place cinnamon stick, orange peel, cloves, and cardamom pods in the center of the cheesecloth square. Gather edges of the cheesecloth and tie with kitchen twine to secure; set aside."
+      "text": "同时，将肉桂棒、橙皮、丁香和豆蔻荚放在粗棉布方块的中心。收集粗棉布的边缘，并用厨房麻绳系紧；放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "When wine mixture is very hot but not boiling, carefully light it with a long-handled match. Wearing a heatproof cooking mitt, carefully pour sugar into the flames; let mixture burn for 1 minute. Place the lid on the stockpot to extinguish the flames and turn off the heat. Let mixture cool, covered, about 10 minutes."
+      "text": "当葡萄酒混合物非常热但未沸腾时，用长柄火柴小心地点燃它。戴上耐热烹饪手套，小心地将糖倒入火焰中；让混合物燃烧 1 分钟。将锅盖盖在汤锅上，熄灭火焰并关掉火。让混合物冷却，盖上盖子，大约 10 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add the cheesecloth spice bundle, raisins, and almonds to warm wine mixture; let it cool to room temperature, about 1 hour."
+      "text": "将粗棉布香料束、葡萄干和杏仁加入温热的葡萄酒混合物中；让它冷却至室温，大约1小时。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Strain cooled glögg and reserve the raisins and almonds."
+      "text": "过滤冷却的 glögg 并保留葡萄干和杏仁。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "To serve: Pour glögg into a saucepan and warm over medium-low heat until hot but not simmering, about 5 minutes. Ladle 3 ounces of warmed glögg into a small coffee cup or a small Swedish-style glögg mug, and garnish each serving with a few reserved raisins and almonds."
+      "text": "食用：将 glögg 倒入平底锅中，用中低火加热至热但不要沸腾，大约 5 分钟。将 3 盎司温热的 glögg 舀入小咖啡杯或瑞典风格的小 glögg 马克杯中，并在每份上用一些保留的葡萄干和杏仁装饰。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/180453/old-fashioned-swedish-glogg/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0491a7f297394b008b13af520164b713",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "6feac99da70b4dff2b0c4da9d305754e",
-  "title": "Ratatouille",
+  "title": "料理鼠王",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -10,50 +10,50 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/9f0e702e0c24778b410ee5330ab80203.webp",
-  "nutrition_tip": "This ratatouille recipe with ripe summer tomatoes, zucchini, eggplant, and bell…",
+  "nutrition_tip": "这个料理鼠王食谱配有成熟的夏季西红柿、西葫芦、茄子和铃铛……",
   "ingredients": [
     {
-      "name": "2 tablespoons olive oil, divided",
+      "name": "2汤匙橄榄油，分开",
       "amount": ""
     },
     {
-      "name": "3 cloves garlic, minced",
+      "name": "3 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "1 eggplant, cut into 1/2 inch cubes",
+      "name": "1 个茄子，切成 1/2 英寸的方块",
       "amount": ""
     },
     {
-      "name": "2 teaspoons dried parsley",
+      "name": "2 茶匙干欧芹",
       "amount": ""
     },
     {
-      "name": "salt to taste",
+      "name": "加盐调味",
       "amount": ""
     },
     {
-      "name": "1 cup grated Parmesan cheese",
+      "name": "1 杯磨碎的帕尔马干酪",
       "amount": ""
     },
     {
-      "name": "2 zucchini, sliced",
+      "name": "2 个西葫芦，切片",
       "amount": ""
     },
     {
-      "name": "2 large tomatoes, chopped",
+      "name": "2 个大西红柿，切碎",
       "amount": ""
     },
     {
-      "name": "2 cups sliced fresh mushrooms",
+      "name": "2 杯新鲜蘑菇片",
       "amount": ""
     },
     {
-      "name": "1 large onion, sliced into rings",
+      "name": "1 个大洋葱，切成圈",
       "amount": ""
     },
     {
-      "name": "1 green bell pepper, sliced",
+      "name": "1 个青椒，切片",
       "amount": ""
     }
   ],
@@ -61,28 +61,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C). Coat the bottom and sides of a 1 ½-quart casserole dish with 1 tablespoon olive oil."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 1 ½ 夸脱的砂锅菜的底部和侧面涂上 1 汤匙橄榄油。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat remaining 1 tablespoon olive oil in a medium skillet over medium heat. Cook and stir garlic until fragrant and golden brown. Add eggplant and parsley; cook and stir until eggplant is tender and soft, about 10 minutes. Season with salt to taste."
+      "text": "在中型煎锅中用中火加热剩余的 1 汤匙橄榄油。煮并搅拌大蒜直至散发出香味并呈金黄色。加入茄子和欧芹；煮约10分钟，搅拌直至茄子变软。加盐调味。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Spread eggplant mixture evenly across the bottom of the prepared casserole dish; sprinkle with a few tablespoons of Parmesan cheese. Spread zucchini in an even layer over top. Lightly salt and sprinkle with a little more cheese. Continue layering in this fashion, with tomatoes, mushrooms, onion, and bell pepper, covering each layer with a sprinkling of salt and cheese."
+      "text": "将茄子混合物均匀地铺在准备好的砂锅底部；撒上几汤匙帕尔马干酪。将西葫芦均匀地铺在上面。撒上少许盐，再撒上一点奶酪。继续以这种方式分层，加入西红柿、蘑菇、洋葱和甜椒，在每一层上撒上盐和奶酪。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in preheated oven until vegetables are tender, about 45 minutes."
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至蔬菜变软。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-03-30",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/18411/ratatouille/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4c5a27abfec4c07388840f6f563b221a",
+    "translated": true
+  }
 }

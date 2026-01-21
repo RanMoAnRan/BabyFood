@@ -1,6 +1,6 @@
 {
   "id": "a7a1713713ae88a38325577ade5bcbdb",
-  "title": "Quick and Easy Hollandaise Sauce in the Microwave",
+  "title": "用微波炉快速简单地制作荷兰酱",
   "min_age_month": 12,
   "tags": [
     "Brunch",
@@ -11,26 +11,26 @@
   "difficulty": 1,
   "time_cost": 6,
   "cover_image": "images/3097c65a7bc023e8e1b6492585a8666f.webp",
-  "nutrition_tip": "Make perfect Hollandaise sauce in the microwave with this quick and easy recipe…",
+  "nutrition_tip": "用这个快速简单的食谱在微波炉中制作完美的荷兰酱......",
   "ingredients": [
     {
-      "name": "2 large egg yolks",
+      "name": "2 个大蛋黄",
       "amount": ""
     },
     {
-      "name": "0.25 medium lemon, juiced, or to taste",
+      "name": "0.25 个中等大小的柠檬，榨汁或调味",
       "amount": ""
     },
     {
-      "name": "1 pinch salt",
+      "name": "1 撮盐",
       "amount": ""
     },
     {
-      "name": "1 pinch cayenne pepper",
+      "name": "1 撮辣椒",
       "amount": ""
     },
     {
-      "name": "0.25 cup salted butter, melted",
+      "name": "0.25 杯咸黄油，融化",
       "amount": ""
     }
   ],
@@ -38,38 +38,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk egg yolks in a bowl."
+      "text": "在碗中搅拌蛋黄。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add lemon juice, salt, and cayenne pepper together in a microwave-safe bowl and beat until smooth."
+      "text": "将柠檬汁、盐和辣椒一起放入微波炉安全碗中，搅拌至光滑。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Slowly stream melted butter into the egg yolk mixture while whisking to incorporate."
+      "text": "将融化的黄油慢慢倒入蛋黄混合物中，同时搅拌使其混合。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Heat sauce in the microwave on medium for 15 to 20 seconds; whisk until well combined."
+      "text": "将酱汁放入微波炉中，中火加热 15 至 20 秒；搅拌直至充分混合。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2020-05-15",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/233971/quick-and-easy-hollandaise-sauce-in-the-microwave/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d059702f2f2daf3467a9200143b55977",
+    "translated": true
+  }
 }

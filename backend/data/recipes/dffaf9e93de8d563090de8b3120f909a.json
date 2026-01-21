@@ -1,6 +1,6 @@
 {
   "id": "dffaf9e93de8d563090de8b3120f909a",
-  "title": "Sugar Cookie Frosting",
+  "title": "糖饼干糖霜",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,26 +9,26 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/ecbb4025fc5b52611b9fe2c27debf764.webp",
-  "nutrition_tip": "This sugar cookie frosting is quick and easy to make with just 4 simple ingredie…",
+  "nutrition_tip": "这种糖饼干糖霜制作起来又快又容易，只需 4 种简单的原料……",
   "ingredients": [
     {
-      "name": "0.5 cup shortening",
+      "name": "0.5 杯起酥油",
       "amount": ""
     },
     {
-      "name": "4 cups confectioners' sugar",
+      "name": "4 杯糖果糖",
       "amount": ""
     },
     {
-      "name": "5 tablespoons milk, or more as needed",
+      "name": "5 汤匙牛奶，或根据需要更多",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract, or more to taste",
+      "name": "1 茶匙香草精，或更多适量",
       "amount": ""
     },
     {
-      "name": "food coloring",
+      "name": "食用色素",
       "amount": ""
     }
   ],
@@ -36,28 +36,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat shortening in a large bowl until creamy. Gradually mix in confectioners&#39; sugar in small amounts, alternating with 5 tablespoons milk, until smooth. Mix in vanilla and continue to beat until frosting is stiff and glossy, about 5 minutes, adding more milk if needed."
+      "text": "在一个大碗中搅拌起酥油直至呈奶油状。逐渐混合在糖果中。少量糖，与 5 汤匙牛奶交替，直至光滑。加入香草精，继续搅拌约 5 分钟，直至糖霜变得坚硬且有光泽，如果需要，可添加更多牛奶。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix in food coloring, separating into smaller bowls if using multiple colors."
+      "text": "加入食用色素，如果使用多种颜色，则分成较小的碗。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spread frosting on cookies or fill piping bags and decorate cookies as desired."
+      "text": "在饼干上涂上糖霜或填充裱花袋并根据需要装饰饼干。"
     }
   ],
   "warnings": [],
   "publish_date": "2008-06-30",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9840/sugar-cookie-frosting/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "12a09f0e0dfd18c9328fb4b253185452",
+    "translated": true
+  }
 }

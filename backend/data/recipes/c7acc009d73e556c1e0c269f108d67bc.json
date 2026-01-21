@@ -1,6 +1,6 @@
 {
   "id": "c7acc009d73e556c1e0c269f108d67bc",
-  "title": "Brunswick Stew",
+  "title": "不伦瑞克炖菜",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -9,58 +9,58 @@
   "difficulty": 1,
   "time_cost": 215,
   "cover_image": "images/b231fcc3dfad72e04d9846996d53601c.webp",
-  "nutrition_tip": "This is the best Brunswick stew! It&#39;s a Southern favorite with ground pork a…",
+  "nutrition_tip": "这是最好的不伦瑞克炖菜！这是南方人最喜欢的配猪肉末......",
   "ingredients": [
     {
-      "name": "1 tablespoon olive oil",
+      "name": "1 汤匙橄榄油",
       "amount": ""
     },
     {
-      "name": "1 cup chopped onions",
+      "name": "1 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "2 stalks celery, chopped",
+      "name": "2 茎芹菜，切碎",
       "amount": ""
     },
     {
-      "name": "1.5 pounds ground pork",
+      "name": "1.5 磅碎猪肉",
       "amount": ""
     },
     {
-      "name": "1.5 pounds ground beef",
+      "name": "1.5 磅碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 (3 pound) whole cooked chicken, deboned and shredded",
+      "name": "1 只（3 磅）整只煮熟的鸡肉，去骨并切丝",
       "amount": ""
     },
     {
-      "name": "3 (14.5 ounce) cans whole peeled tomatoes with liquid, chopped",
+      "name": "3 罐（14.5 盎司）整罐去皮番茄，带液体，切碎",
       "amount": ""
     },
     {
-      "name": "1 cup ketchup",
+      "name": "1 杯番茄酱",
       "amount": ""
     },
     {
-      "name": "0.5 cup hickory-flavored barbecue sauce",
+      "name": "0.5 杯山核桃味烧烤酱",
       "amount": ""
     },
     {
-      "name": "1 teaspoon hot sauce to taste",
+      "name": "1 茶匙辣酱（适量）",
       "amount": ""
     },
     {
-      "name": "salt and pepper to taste",
+      "name": "盐和胡椒调味",
       "amount": ""
     },
     {
-      "name": "1 medium green bell pepper",
+      "name": "1 个中等青椒",
       "amount": ""
     },
     {
-      "name": "3 (14.75 ounce) cans cream style corn",
+      "name": "3 罐（14.75 盎司）奶油风格玉米",
       "amount": ""
     }
   ],
@@ -68,23 +68,28 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Heat oil in a large stockpot over medium heat. Add onions and celery; cook and stir until translucent, about 5 minutes. Mix in pork and beef; cook and stir until evenly browned and crumbly, about 10 minutes. Do not drain."
+      "text": "在一个大汤锅中用中火加热油。加入洋葱和芹菜；煮约 5 分钟，搅拌直至半透明。加入猪肉和牛肉拌匀；煮约 10 分钟，搅拌直至均匀变成棕色且易碎。不要排水。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Add shredded chicken, tomatoes and their liquid, ketchup, barbecue sauce, hot sauce, salt, and pepper. Submerge whole green pepper in the mixture. Reduce the heat to low and cook, stirring occasionally, until thickened, about 2 hours."
+      "text": "加入鸡丝、西红柿及其液体、番茄酱、烧烤酱、辣酱、盐和胡椒。将整个青椒浸入混合物中。将火调小，煮约 2 小时，偶尔搅拌，直至变稠。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in corn and continue to cook for 1 hour, or to desired consistency. Remove green pepper; chop and return to the stew or discard."
+      "text": "拌入玉米并继续煮 1 小时，或达到所需的稠度。去掉青椒；切碎并返回炖菜或丢弃。"
     }
   ],
   "warnings": [],
   "publish_date": "2002-11-04",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/55610/get-a-husband-brunswick-stew/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0fb60d1ec3973acccfb8c425dd7d1b6e",
+    "translated": true
+  }
 }

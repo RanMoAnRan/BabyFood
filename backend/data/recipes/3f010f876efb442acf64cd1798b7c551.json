@@ -1,6 +1,6 @@
 {
   "id": "3f010f876efb442acf64cd1798b7c551",
-  "title": "Ricotta Cookies",
+  "title": "乳清干酪饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 35,
   "cover_image": "images/fb08b198c7d80a688ab01afddc4bb56c.webp",
-  "nutrition_tip": "These Italian ricotta cookies are soft, tender, and extra delicious topped with…",
+  "nutrition_tip": "这些意大利乳清干酪饼干又软又嫩，而且特别美味，上面还有……",
   "ingredients": [
     {
-      "name": "15 ounces ricotta cheese",
+      "name": "15 盎司乳清干酪",
       "amount": ""
     },
     {
-      "name": "1.75 cups white sugar",
+      "name": "1.75 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 pound butter",
+      "name": "0.5 磅黄油",
       "amount": ""
     },
     {
-      "name": "2 eggs",
+      "name": "2 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 tablespoons vanilla extract",
+      "name": "2 汤匙香草精",
       "amount": ""
     },
     {
-      "name": "4 cups all-purpose flour, or more as needed",
+      "name": "4 杯通用面粉，或根据需要更多",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking powder",
+      "name": "1 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1.5 cups confectioners' sugar",
+      "name": "1.5 杯糖果糖",
       "amount": ""
     },
     {
-      "name": "5 tablespoons milk",
+      "name": "5 汤匙牛奶",
       "amount": ""
     },
     {
-      "name": "1 teaspoon almond extract",
+      "name": "1 茶匙杏仁提取物",
       "amount": ""
     },
     {
-      "name": "0.25 cup colored candy sprinkles",
+      "name": "0.25 杯彩色糖果粒",
       "amount": ""
     }
   ],
@@ -64,38 +64,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease or line cookie sheets."
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。给饼干片涂上油脂或划线。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine ricotta, sugar, butter, eggs, and vanilla extract in a large bowl; beat with an electric mixer until smooth and creamy."
+      "text": "将乳清干酪、糖、黄油、鸡蛋和香草精放入一个大碗中；用电动搅拌机搅拌直至光滑且呈奶油状。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine flour, baking powder, and baking soda; blend into ricotta mixture, mixing in additional flour if needed to form a workable dough."
+      "text": "将面粉、泡打粉和小苏打混合；混合到乳清干酪混合物中，如果需要的话加入额外的面粉以形成可用的面团。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Roll dough into walnut-sized balls and place 2 inches apart onto prepared cookie sheets."
+      "text": "将面团擀成核桃大小的球，并以 2 英寸间隔放在准备好的饼干片上。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until edges are golden, about 8 to 10 minutes."
+      "text": "在预热的烤箱中烘烤约 8 至 10 分钟，直至边缘呈金黄色。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "To make the glaze: Mix confectioners&#39; sugar, milk, and almond extract together until smooth. Spoon over warm cookies, and sprinkle with colored candy sprinkles."
+      "text": "制作釉料：混合糖果制造商的混合物。糖、牛奶和杏仁提取物一起搅拌直至光滑。用勺子舀上热饼干，撒上彩色糖果粒。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-09-28",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/11067/ricotta-cookies-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4d95aacd568454c5c47bf0208492024c",
+    "translated": true
+  }
 }

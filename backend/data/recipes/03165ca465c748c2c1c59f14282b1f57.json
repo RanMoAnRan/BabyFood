@@ -1,6 +1,6 @@
 {
   "id": "03165ca465c748c2c1c59f14282b1f57",
-  "title": "Rainbow Cookies",
+  "title": "彩虹饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 630,
   "cover_image": "images/1b428ab300227274cd42404575d99e29.webp",
-  "nutrition_tip": "These colorful rainbow cookies have layers of soft almond cake, jam, and chocola…",
+  "nutrition_tip": "这些色彩缤纷的彩虹饼干有多层柔软的杏仁蛋糕、果酱和巧克力……",
   "ingredients": [
     {
-      "name": "8 ounces almond paste",
+      "name": "8 盎司杏仁酱",
       "amount": ""
     },
     {
-      "name": "1 cup butter, softened",
+      "name": "1 杯黄油，软化",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "4 large eggs, separated",
+      "name": "4 个大鸡蛋，分开",
       "amount": ""
     },
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "6 drops red food coloring",
+      "name": "6 滴红色食用色素",
       "amount": ""
     },
     {
-      "name": "6 drops green food coloring",
+      "name": "6 滴绿色食用色素",
       "amount": ""
     },
     {
-      "name": "0.25 cup seedless red raspberry jam",
+      "name": "0.25 杯无籽红树莓果酱",
       "amount": ""
     },
     {
-      "name": "0.25 cup apricot jam",
+      "name": "0.25 杯杏酱",
       "amount": ""
     },
     {
-      "name": "1 cup semisweet chocolate chips, melted",
+      "name": "1 杯半甜巧克力片，融化",
       "amount": ""
     }
   ],
@@ -56,38 +56,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C). Line three 9x13-inch baking pans with parchment paper."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在三个 9x13 英寸的烤盘上铺上羊皮纸。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Break almond paste apart with a fork in a large bowl. Add butter, sugar, and egg yolks; beat with an electric mixer until mixture is fluffy and smooth. Stir in flour to form a dough."
+      "text": "在一个大碗中用叉子将杏仁糊分开。加入黄油、糖、蛋黄；用电动搅拌机搅拌直至混合物蓬松光滑。加入面粉搅拌形成面团。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat egg whites in a glass, metal, or ceramic bowl until stiff peaks form. Gently fold egg whites into dough until combined. Divide dough into 3 equal portions. Mix one portion with red food coloring, and one with green food coloring. Spread each portion into one of the prepared baking pans."
+      "text": "在玻璃、金属或陶瓷碗中搅打蛋白，直至形成硬性发泡。轻轻地将蛋白拌入面团中直至混合。将面团分成3等份。将一份与红色食用色素混合，一份与绿色食用色素混合。将每一部分放入准备好的烤盘中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until lightly browned, about 8 to 10 minutes. Carefully remove from pan and remove parchment paper; cool completely on wire racks."
+      "text": "在预热的烤箱中烘烤约 8 至 10 分钟，直至呈浅棕色。小心地从锅中取出并除去羊皮纸；放在金属架上完全冷却。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Place green layer onto a piece of plastic wrap large enough to wrap all three layers. Spread green layer with raspberry jam and top with uncolored layer. Spread with apricot jam and top with pink layer. Transfer layers to a baking sheet and enclose with plastic wrap. Place a heavy pan or cutting board on top of wrapped layers to compress. Chill in the refrigerator 8 hours, or overnight."
+      "text": "将绿色层放在一块足够大的保鲜膜上，以包裹所有三层。在绿色层上涂上覆盆子果酱，然后在上面涂上无色层。涂上杏酱，上面涂上粉红色的一层。将各层转移到烤盘上并用保鲜膜包裹。将重平底锅或切菜板放在包裹层的顶部进行压缩。在冰箱中冷藏 8 小时或过夜。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove plastic wrap. Top with melted chocolate; refrigerate for 1 hour or until chocolate is firm. Slice into small 1-inch squares to serve."
+      "text": "除去保鲜膜。上面放上融化的巧克力；冷藏 1 小时或直至巧克力变硬。切成 1 英寸见方的小块即可食用。"
     }
   ],
   "warnings": [],
   "publish_date": "1997-11-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/10118/rainbow-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "99a8abb8de967d804feda04b5c4e7faf",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "5a959c2d65d5652fc62e39ce6d9a36b8",
-  "title": "Soft Oatmeal Cookies",
+  "title": "软燕麦饼干",
   "min_age_month": 8,
   "tags": [
     "Dessert",
@@ -9,58 +9,58 @@
   "difficulty": 1,
   "time_cost": 90,
   "cover_image": "images/525963393b4d6a714af56cb1de72907a.webp",
-  "nutrition_tip": "Oatmeal cookies are a family-favorite and this classic recipe is a winner, produ…",
+  "nutrition_tip": "燕麦饼干是家庭的最爱，这个经典食谱是赢家，产品......",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons ground cinnamon",
+      "name": "1.5 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup unsalted butter, softened",
+      "name": "1 杯无盐黄油，软化",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 cup packed brown sugar",
+      "name": "1 杯包装红糖",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "3 cups quick cooking oats",
+      "name": "3 杯快煮燕麦",
       "amount": ""
     },
     {
-      "name": "nonstick cooking spray with flour",
+      "name": "不粘面粉烹饪喷雾",
       "amount": ""
     },
     {
-      "name": "2 tablespoons water",
+      "name": "2 汤匙水",
       "amount": ""
     },
     {
-      "name": "2 tablespoons white sugar, or as needed",
+      "name": "2汤匙白糖，或根据需要",
       "amount": ""
     }
   ],
@@ -68,48 +68,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk flour, cinnamon, baking soda, and salt together in a medium bowl until well combined."
+      "text": "将面粉、肉桂、小苏打和盐放入一个中等大小的碗中，搅拌均匀。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat butter, 1 cup white sugar, and brown sugar in a large bowl with an electric mixer until creamy, at least 2 to 3 minutes."
+      "text": "将黄油、1 杯白糖和红糖放入一个大碗中，用电动搅拌机搅拌至奶油状，至少 2 至 3 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Beat in eggs, one at a time, then mix in vanilla."
+      "text": "打入鸡蛋，一次一个，然后加入香草精。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Gradually mix in dry ingredients until well combined. Add oats and mix until thoroughly incorporated. Cover the bowl and chill dough in the refrigerator for at least 1 hour."
+      "text": "逐渐加入干燥成分直至充分混合。加入燕麦并搅拌直至完全混合。盖上碗并将面团放入冰箱冷藏至少 1 小时。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "When ready to bake, preheat the oven to 375 degrees F (190 degrees C). Spray two cookie sheets with floured cooking spray. Place water in a small bowl and 2 tablespoons sugar in another small bowl. Roll chilled dough into walnut-sized balls, and place 2 inches apart on the prepared cookie sheets. Dip a large fork in water, then in sugar, and use to flatten each cookie, rewetting and resugaring as necessary."
+      "text": "准备烘烤时，将烤箱预热至 375 华氏度（190 摄氏度）。在两张饼干片上喷洒面粉烹饪喷雾。将水放入一个小碗中，将 2 汤匙糖放入另一个小碗中。将冷冻面团擀成核桃大小的球，并以 2 英寸间隔放置在准备好的饼干片上。将大叉子浸入水中，然后浸入糖中，然后用它压平每个饼干，必要时重新润湿并重新加糖。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until light golden brown around the edges and centers are nearly set, 8 to 10 minutes, switching racks halfway through."
+      "text": "在预热的烤箱中烘烤 8 到 10 分钟，直至边缘和中心呈浅金黄色，中途更换架子。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+      "text": "让饼干在烤盘上冷却 5 分钟，然后转移到金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-05-15",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/19247/soft-oatmeal-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5c4f26041e9d61fe780c880fe35d85f9",
+    "translated": true
+  }
 }

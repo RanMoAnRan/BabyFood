@@ -1,6 +1,6 @@
 {
   "id": "b85860bc6da5ff1c43e2d19e8da95913",
-  "title": "Mexican Wedding Cookies",
+  "title": "墨西哥婚礼饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 115,
   "cover_image": "images/73866d650c2d758834e168ac2898b217.webp",
-  "nutrition_tip": "Delicious, nutty Mexican wedding cookies, a traditional treat that&#39;s rolled…",
+  "nutrition_tip": "美味、坚果味的墨西哥婚礼饼干，一种卷制的传统美食……",
   "ingredients": [
     {
-      "name": "1 cup unsalted butter, softened",
+      "name": "1 杯无盐黄油，软化",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vanilla extract",
+      "name": "2 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "2 teaspoons water",
+      "name": "2 茶匙水",
       "amount": ""
     },
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 cup finely chopped almonds",
+      "name": "1 杯切碎的杏仁",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 cup powdered sugar, or more as needed",
+      "name": "0.5 杯糖粉，或根据需要更多",
       "amount": ""
     }
   ],
@@ -48,43 +48,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat butter and sugar in a medium bowl with an electric mixer until light and fluffy. Mix in vanilla and water. Add flour, almonds, and salt; beat on low speed until dough is just combined. Cover and chill for 1 to 3 hours."
+      "text": "将黄油和糖放入一个中等大小的碗中，用电动搅拌机搅拌至松软。加入香草和水。加入面粉、杏仁和盐；低速搅拌直至面团完全混合。盖上盖子并冷藏 1 至 3 小时。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Preheat the oven to 325 degrees F (165 degrees C). Shape chilled dough into 1-inch balls."
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。将冷藏好的面团搓成1英寸大小的球状。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Place 2 inches apart onto unlined cookie sheets."
+      "text": "将 2 英寸间隔放置在无衬里的饼干片上。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven for 15 to 20 minutes. Remove cookies from the sheets and transfer to wire racks to cool, 20 to 30 minutes."
+      "text": "在预热的烤箱中烘烤 15 至 20 分钟。从床单上取出饼干，然后转移到金属架上冷却 20 到 30 分钟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Place powdered sugar in a shallow bowl. Roll cooled cookies in powdered sugar to coat."
+      "text": "将糖粉放入一个浅碗中。将冷却后的饼干卷入糖粉中，裹上糖粉。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Transfer to an airtight container and store at room temperature."
+      "text": "转移到密封容器中并在室温下保存。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-08-19",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/15542/mexican-wedding-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "79322f708cb3242507cef5d6d9ad71b3",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "851ea9c5337180a663540a6960b38626",
-  "title": "White Chocolate Cranberry Oatmeal Cookies",
+  "title": "白巧克力蔓越莓燕麦饼干",
   "min_age_month": 8,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 30,
   "cover_image": "images/592dcf6bc84d69623dedea5b1f33b1c5.webp",
-  "nutrition_tip": "These white chocolate cranberry oatmeal cookies are easy to make, tender, and ch…",
+  "nutrition_tip": "这些白巧克力蔓越莓燕麦饼干很容易做，又嫩又香……",
   "ingredients": [
     {
-      "name": "0.66666668653488 cup butter, softened",
+      "name": "0.66666668653488 杯 黄油，软化",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup packed brown sugar",
+      "name": "0.66666668653488 杯包装红糖",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1.5 cups rolled oats",
+      "name": "1.5 杯燕麦片",
       "amount": ""
     },
     {
-      "name": "1.5 cups all-purpose flour",
+      "name": "1.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking soda",
+      "name": "1 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1.25 cups dried cranberries",
+      "name": "1.25 杯蔓越莓干",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup coarsely chopped white chocolate",
+      "name": "0.66666668653488 杯粗碎白巧克力",
       "amount": ""
     }
   ],
@@ -52,28 +52,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C)."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat butter and sugar with an electric mixer in a large bowl until light and fluffy; beat in eggs one at a time. Combine oats, flour, baking soda, and salt; stir into butter mixture one cup at a time, mixing well after each addition. Stir in dried cranberries and white chocolate."
+      "text": "在一个大碗中用电动搅拌机将黄油和糖搅打至松软；一次打一个鸡蛋。将燕麦、面粉、小苏打和盐混合；一次加入一杯黄油混合物，每次添加后搅拌均匀。加入干蔓越莓和白巧克力。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Drop spoonfuls of dough 2 inches apart onto ungreased cookie sheets."
+      "text": "将一勺面团放在未抹油的饼干片上，间隔 2 英寸。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until edges are golden, about 10 to 12 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely."
+      "text": "在预热的烤箱中烘烤约 10 至 12 分钟，直至边缘呈金黄色。在烤盘上短暂冷却，然后移至金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-05-26",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/10907/oatmeal-cranberry-white-chocolate-chunk-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d31df1e35e1ab18fcda42eb79fedab93",
+    "translated": true
+  }
 }

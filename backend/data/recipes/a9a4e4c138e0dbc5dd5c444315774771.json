@@ -1,6 +1,6 @@
 {
   "id": "a9a4e4c138e0dbc5dd5c444315774771",
-  "title": "Pumpkin Cake",
+  "title": "南瓜饼",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/afc081ca66c3a620dd8e9f8535701214.webp",
-  "nutrition_tip": "This moist pumpkin cake is lightly spiced, very moist, and baked in a sheet pan…",
+  "nutrition_tip": "这个湿润的南瓜蛋糕有轻微的香料，非常湿润，并且在平底锅中烘烤......",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "3 teaspoons baking powder",
+      "name": "3 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking soda",
+      "name": "2 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "2 teaspoons ground cinnamon",
+      "name": "2 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "2 cups white sugar",
+      "name": "2 杯白糖",
       "amount": ""
     },
     {
-      "name": "1.25 cups vegetable oil",
+      "name": "1.25 杯植物油",
       "amount": ""
     },
     {
-      "name": "2 cups canned pumpkin",
+      "name": "2 杯罐装南瓜",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "4 eggs",
+      "name": "4 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 cup chopped walnuts",
+      "name": "1 杯碎核桃",
       "amount": ""
     }
   ],
@@ -60,43 +60,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour a 12x18-inch sheet pan."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 12x18 英寸的烤盘上涂上油脂并撒上面粉。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Sift flour, baking powder, baking soda, cinnamon, and salt together in a large bowl; set aside."
+      "text": "将面粉、泡打粉、小苏打、肉桂和盐一起过筛到一个大碗中；放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat sugar and oil together in a large bowl with an electric mixer until smooth."
+      "text": "将糖和油放入一个大碗中，用电动搅拌机搅拌至光滑。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Blend in pumpkin and vanilla, then beat in eggs one at a time."
+      "text": "加入南瓜和香草精，然后一次打一个鸡蛋。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Gradually beat in flour mixture until just combined."
+      "text": "逐渐加入面粉混合物直至完全混合。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Stir in walnuts; spread batter into the prepared sheet pan."
+      "text": "拌入核桃；将面糊倒入准备好的平底锅中。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into the center of the cake comes out clean, about 30 minutes. Allow to cool."
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至用牙签插入蛋糕中心，取出来时是干净的。让其冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "2008-06-30",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/19079/pumpkin-cake-iii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8f8cc21c4e3f2b20f76a4e3a5e5e6617",
+    "translated": true
+  }
 }

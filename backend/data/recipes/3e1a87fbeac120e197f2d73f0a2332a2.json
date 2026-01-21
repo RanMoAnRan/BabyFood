@@ -1,6 +1,6 @@
 {
   "id": "3e1a87fbeac120e197f2d73f0a2332a2",
-  "title": "Chocolate Chip Pumpkin Bread",
+  "title": "巧克力片南瓜面包",
   "min_age_month": 6,
   "tags": [
     "Bread",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 80,
   "cover_image": "images/5b17885c4982ef020fc76a9661da2af3.webp",
-  "nutrition_tip": "This pumpkin chocolate chip bread is loaded with sweet mini chocolate chips and…",
+  "nutrition_tip": "这个南瓜巧克力片面包里装满了甜甜的迷你巧克力片和……",
   "ingredients": [
     {
-      "name": "3 cups white sugar",
+      "name": "3 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can pumpkin puree",
+      "name": "1 罐（15 盎司）南瓜泥",
       "amount": ""
     },
     {
-      "name": "4 large eggs",
+      "name": "4 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 cup vegetable oil",
+      "name": "1 杯植物油",
       "amount": ""
     },
     {
-      "name": "0.66666668653488 cup water",
+      "name": "0.66666668653488 杯水",
       "amount": ""
     },
     {
-      "name": "3.5 cups all-purpose flour",
+      "name": "3.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 tablespoon ground cinnamon, or to taste",
+      "name": "1 汤匙肉桂粉，或适量",
       "amount": ""
     },
     {
-      "name": "1 tablespoon ground nutmeg, or to taste",
+      "name": "1 汤匙 肉豆蔻粉，或适量",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking soda",
+      "name": "2 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons salt",
+      "name": "1.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup miniature semisweet chocolate chips",
+      "name": "1 杯微型半甜巧克力片",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped walnuts",
+      "name": "0.5 杯核桃碎",
       "amount": ""
     }
   ],
@@ -64,38 +64,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour three 9x5-inch loaf pans or three empty 16-ounce coffee tins."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在三个 9x5 英寸的面包盘或三个空的 16 盎司咖啡罐上涂抹油脂并撒上面粉。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine sugar, pumpkin, eggs, oil, and water in a large bowl. Beat with an electric mixer until smooth. Blend in flour, cinnamon, nutmeg, baking soda, and salt."
+      "text": "将糖、南瓜、鸡蛋、油和水放入一个大碗中。用电动搅拌机搅拌至光滑。加入面粉、肉桂、肉豆蔻、小苏打和盐。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Fold in chocolate chips and nuts."
+      "text": "拌入巧克力片和坚果。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Evenly divide batter between the prepared pans, filling each 1/2 to 3/4 full."
+      "text": "将面糊均匀地分在准备好的平底锅之间，每个平底锅填满 1/2 到 3/4。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until a knife inserted into the center comes out clean, about 1 hour."
+      "text": "在预热的烤箱中烘烤，直到插入中心的刀干净地出来，大约需要 1 小时。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cool in pans on wire racks before removing to slice and serve. Enjoy!"
+      "text": "将平底锅放在金属架上冷却，然后取出切片并食用。享受！"
     }
   ],
   "warnings": [],
   "publish_date": "1998-06-25",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/6732/chocolate-chip-pumpkin-bread/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ac5f98457fd3d862ea13013357de9a0e",
+    "translated": true
+  }
 }

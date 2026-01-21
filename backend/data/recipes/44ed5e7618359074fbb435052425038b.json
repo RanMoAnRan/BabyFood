@@ -1,6 +1,6 @@
 {
   "id": "44ed5e7618359074fbb435052425038b",
-  "title": "Italian Wedding Soup",
+  "title": "意大利婚礼汤",
   "min_age_month": 8,
   "tags": [
     "Soup",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/8cd87104c2fb6c9a41872c9645fc4ef3.webp",
-  "nutrition_tip": "This Italian wedding soup is loaded with homemade meatballs, tender orzo pasta,…",
+  "nutrition_tip": "这道意大利婚礼汤里有自制的肉丸、嫩米粒意大利面……",
   "ingredients": [
     {
-      "name": "0.5 pound extra-lean ground beef",
+      "name": "0.5 磅超瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 large egg, lightly beaten",
+      "name": "1 个大鸡蛋，轻轻打散",
       "amount": ""
     },
     {
-      "name": "2 tablespoons dry bread crumbs",
+      "name": "2 汤匙干面包屑",
       "amount": ""
     },
     {
-      "name": "1 tablespoon grated Parmesan cheese",
+      "name": "1 汤匙磨碎的帕尔马干酪",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon dried basil",
+      "name": "0.5 茶匙干罗勒",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon onion powder",
+      "name": "0.5 茶匙洋葱粉",
       "amount": ""
     },
     {
-      "name": "5.75 cups chicken broth",
+      "name": "5.75 杯鸡汤",
       "amount": ""
     },
     {
-      "name": "2 cups thinly sliced escarole",
+      "name": "2 杯切成薄片的蜗牛",
       "amount": ""
     },
     {
-      "name": "1 cup uncooked orzo pasta",
+      "name": "1 杯生米粒意大利面",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup finely chopped carrot",
+      "name": "0.33333334326744 杯切碎的胡萝卜",
       "amount": ""
     }
   ],
@@ -56,28 +56,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine ground beef, egg, bread crumbs, Parmesan cheese, basil, and onion powder in a bowl."
+      "text": "将碎牛肉、鸡蛋、面包屑、帕尔马干酪、罗勒和洋葱粉放入碗中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Shape beef mixture into 3/4-inch balls and place on a parchment-lined tray."
+      "text": "将牛肉混合物塑造成 3/4 英寸的球，放在衬有羊皮纸的托盘上。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat broth in a large pot over medium-high heat until boiling. Stir in escarole, orzo, carrot, and meatballs and return to boil. Reduce heat to medium and cook at slow boil, stirring frequently to prevent sticking, until pasta is tender yet firm to the bite, about 10 minutes."
+      "text": "在大锅中用中高火加热肉汤直至沸腾。加入蜗牛、米粒、胡萝卜和肉丸，再次煮沸。把火调至中火，慢火煮，经常搅拌以防止粘连，直到意大利面变软但咬起来很硬，大约需要 10 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Serve hot and enjoy!"
+      "text": "趁热享用吧！"
     }
   ],
   "warnings": [],
   "publish_date": "1999-01-25",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13024/italian-wedding-soup-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4fc5ba7cdc1e47edfb92f3e09bde017c",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "f9a3b95ee0774794ae7c4fc9074c22c6",
-  "title": "Real Welsh Rarebit",
+  "title": "真正的威尔士干酪",
   "min_age_month": 12,
   "tags": [
     "Lunch",
@@ -10,50 +10,50 @@
   "difficulty": 1,
   "time_cost": 20,
   "cover_image": "images/bf1053370112868ba36a1a9a8e8d44d6.webp",
-  "nutrition_tip": "Welsh rarebit is a smooth cheese sauce flavored with mustard and beer served ove…",
+  "nutrition_tip": "威尔士干酪是一种光滑的奶酪酱，用芥末和啤酒调味，在...",
   "ingredients": [
     {
-      "name": "0.25 cup butter",
+      "name": "0.25 杯黄油",
       "amount": ""
     },
     {
-      "name": "0.25 cup all-purpose flour",
+      "name": "0.25 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon pepper",
+      "name": "0.25 茶匙胡椒粉",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon dry mustard",
+      "name": "0.25 茶匙干芥末",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon Worcestershire sauce",
+      "name": "0.25 茶匙伍斯特酱",
       "amount": ""
     },
     {
-      "name": "2 drops hot pepper sauce (such as Tabasco®)",
+      "name": "2 滴辣椒酱（例如 Tabasco®）",
       "amount": ""
     },
     {
-      "name": "1 cup whole milk",
+      "name": "1 杯全脂牛奶",
       "amount": ""
     },
     {
-      "name": "0.5 cup beer",
+      "name": "0.5 杯啤酒",
       "amount": ""
     },
     {
-      "name": "0.5 pound Cheddar cheese, shredded",
+      "name": "0.5 磅切达干酪，切丝",
       "amount": ""
     },
     {
-      "name": "6 slices bread",
+      "name": "6 片面包",
       "amount": ""
     }
   ],
@@ -61,43 +61,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Melt butter in a saucepan over low heat. Stir in flour, salt, pepper, mustard, Worcestershire sauce, and hot pepper sauce. Cook and stir until smooth and bubbly, about 5 minutes."
+      "text": "在平底锅中用小火融化黄油。加入面粉、盐、胡椒、芥末、伍斯特酱和辣椒酱。煮约 5 分钟，搅拌直至光滑且起泡。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Remove the saucepan from the heat. Gradually stir in milk, then return to heat and stir continuously until mixture comes to a boil. Slowly pour in beer; cook and stir for 1 minute."
+      "text": "将平底锅从火上移开。逐渐加入牛奶，然后重新加热并持续搅拌直至混合物沸腾。慢慢倒入啤酒；煮并搅拌 1 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Melt Cheddar cheese into mixture in small portions until completely incorporated. Set the oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler."
+      "text": "将切达干酪分成小份融化到混合物中，直至完全混合。将烤箱架设置在距热源约 6 英寸的位置，并预热烤箱的烤肉机。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Toast bread slices on 1 side. Arrange on a baking sheet with the untoasted side facing up."
+      "text": "在一侧烤面包片。将未烘烤的一面朝上放在烤盘上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Spoon cheese sauce over untoasted side."
+      "text": "将奶酪酱舀到未烤的一面。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Cook under the preheated broiler until cheese sauce is bubbling and golden, 2 to 3 minutes. Serve hot."
+      "text": "在预热的烤炉下煮 2 到 3 分钟，直至奶酪酱冒泡并呈金黄色。趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/164787/real-welsh-rarebit/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6265041ce4eba3063c00b4c4b58da375",
+    "translated": true
+  }
 }

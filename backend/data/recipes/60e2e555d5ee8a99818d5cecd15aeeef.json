@@ -1,6 +1,6 @@
 {
   "id": "60e2e555d5ee8a99818d5cecd15aeeef",
-  "title": "Mediterranean Orzo Salad",
+  "title": "地中海米粒沙拉",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -11,62 +11,62 @@
   "difficulty": 1,
   "time_cost": 55,
   "cover_image": "images/9bb60281d2c27dc79e6c03d313b1b493.webp",
-  "nutrition_tip": "This orzo salad with tomatoes, cucumber, and olives is tossed with a Greek-inspi…",
+  "nutrition_tip": "这道米粒沙拉配上西红柿、黄瓜和橄榄，拌有希腊风味……",
   "ingredients": [
     {
-      "name": "0.5 (16 ounce) package uncooked orzo pasta",
+      "name": "0.5（16 盎司）包生米粒意大利面",
       "amount": ""
     },
     {
-      "name": "0.5 pint cherry tomatoes, halved",
+      "name": "0.5 品脱樱桃番茄，减半",
       "amount": ""
     },
     {
-      "name": "0.5 cup diced red onion",
+      "name": "0.5 杯红洋葱丁",
       "amount": ""
     },
     {
-      "name": "1 cup diced cucumber",
+      "name": "1 杯黄瓜丁",
       "amount": ""
     },
     {
-      "name": "1 cup pitted Mediterranean olives, cut in half",
+      "name": "1 杯去核地中海橄榄，切成两半",
       "amount": ""
     },
     {
-      "name": "1 cup finely diced Asiago cheese",
+      "name": "1 杯切细的 Asiago 奶酪",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons minced fresh garlic",
+      "name": "1.5 茶匙新鲜大蒜末",
       "amount": ""
     },
     {
-      "name": "0.5 cup extra-virgin olive oil",
+      "name": "0.5 杯特级初榨橄榄油",
       "amount": ""
     },
     {
-      "name": "0.5 cup red wine vinegar",
+      "name": "0.5 杯红酒醋",
       "amount": ""
     },
     {
-      "name": "0.5 lemon, juiced",
+      "name": "0.5 个柠檬，榨汁",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground black pepper",
+      "name": "0.5 茶匙黑胡椒粉",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped fresh basil",
+      "name": "0.25 杯切碎的新鲜罗勒",
       "amount": ""
     },
     {
-      "name": "2 tablespoons chopped fresh parsley",
+      "name": "2 汤匙切碎的新鲜欧芹",
       "amount": ""
     }
   ],
@@ -74,23 +74,28 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Bring a large pot of lightly salted water to a boil. Cook orzo in the boiling water, stirring occasionally until tender yet firm to the bite, about 9 minutes. Drain well. Rinse with cold water and drain well again."
+      "text": "将一大锅淡盐水煮沸。在沸水中煮米粒，偶尔搅拌，直到咬起来又软又硬，大约需要 9 分钟。沥干。用冷水冲洗并再次沥干。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine orzo, cherry tomatoes, red onion, cucumber, olives, and Asiago cheese in a large bowl."
+      "text": "将米粒、樱桃番茄、红洋葱、黄瓜、橄榄和阿夏戈奶酪放入一个大碗中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "To make the vinaigrette: Whisk garlic, olive oil, red wine vinegar, lemon juice, salt, and pepper together in a small bowl; drizzle over orzo mixture and toss lightly to combine. Add basil and parsley and mix well. Let sit for 20 minutes for flavors to blend, stirring occasionally."
+      "text": "制作油醋汁：将大蒜、橄榄油、红酒醋、柠檬汁、盐和胡椒粉放入一个小碗中搅拌；在米粒混合物上淋上毛毛雨，轻轻搅拌混合。加入罗勒和欧芹，搅拌均匀。静置 20 分钟，让味道混合，偶尔搅拌。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-09",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/280504/mediterranean-orzo-salad/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e29a3ce7f65eae871054f2d60b1d20d2",
+    "translated": true
+  }
 }

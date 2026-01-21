@@ -1,6 +1,6 @@
 {
   "id": "4fbc128274f928e4fca8033289ef4263",
-  "title": "White Chocolate Cranberry Cookies",
+  "title": "白巧克力蔓越莓饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,42 +9,42 @@
   "difficulty": 1,
   "time_cost": 25,
   "cover_image": "images/fb8f3e1e962e8da05d35923db1be471e.webp",
-  "nutrition_tip": "These festive white chocolate cranberry cookies are soft and chewy with tangy cr…",
+  "nutrition_tip": "这些节日白巧克力蔓越莓饼干柔软耐嚼，带有浓郁的奶油味……",
   "ingredients": [
     {
-      "name": "0.5 cup packed brown sugar",
+      "name": "0.5 杯包装红糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup unsalted butter, softened",
+      "name": "0.5 杯无盐黄油，软化",
       "amount": ""
     },
     {
-      "name": "1 large egg",
+      "name": "1 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 tablespoon brandy",
+      "name": "1 汤匙白兰地",
       "amount": ""
     },
     {
-      "name": "1.5 cups all-purpose flour",
+      "name": "1.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon baking soda",
+      "name": "0.5 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 cup dried cranberries",
+      "name": "1 杯蔓越莓干",
       "amount": ""
     },
     {
-      "name": "0.75 cup white chocolate chips",
+      "name": "0.75 杯白巧克力片",
       "amount": ""
     }
   ],
@@ -52,38 +52,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C). Grease 2 cookie sheets."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。给 2 个饼干片涂上油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Beat brown sugar, white sugar, and butter with an electric mixer in a large bowl until creamy. Add egg and brandy and beat until incorporated."
+      "text": "在一个大碗中用电动搅拌机将红糖、白糖和黄油搅打至奶油状。加入鸡蛋和白兰地，搅拌直至混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine flour and baking soda in a separate bowl. Stir flour mixture into the butter mixture until just combined. Fold in cranberries and white chocolate chips."
+      "text": "将面粉和小苏打混合在一个单独的碗中。将面粉混合物搅拌到黄油混合物中直至混合。加入蔓越莓和白巧克力片。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Drop spoonfuls of dough 2 inches apart onto the prepared baking sheets."
+      "text": "将一勺面团放在准备好的烤盘上，间隔 2 英寸。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven for 8 to 10 minutes, switching racks halfway through; cookies will still appear slightly doughy."
+      "text": "在预热好的烤箱中烘烤8到10分钟，中途更换架子；饼干仍然会显得有点软。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove from the oven and let cool briefly on the cookie sheets before transferring to wire racks to cool completely."
+      "text": "从烤箱中取出，在饼干片上短暂冷却，然后转移到金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-07-23",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/10917/white-chocolate-and-cranberry-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4a7ba1df7af87e61260e3951fed39aa7",
+    "translated": true
+  }
 }

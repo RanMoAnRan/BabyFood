@@ -1,6 +1,6 @@
 {
   "id": "7fc144877c80cff418586ccdecbdac41",
-  "title": "Scotch Eggs",
+  "title": "苏格兰鸡蛋",
   "min_age_month": 12,
   "tags": [
     "Appetizer",
@@ -9,30 +9,30 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/404f4be645df16ce41087fcc05b85942.webp",
-  "nutrition_tip": "Scotch eggs are soft-boiled eggs wrapped in sausage, coated in bread crumbs, and…",
+  "nutrition_tip": "苏格兰鸡蛋是用香肠包裹的半熟鸡蛋，涂上面包屑，还有……",
   "ingredients": [
     {
-      "name": "1 quart oil for frying",
+      "name": "1 夸脱煎炸油",
       "amount": ""
     },
     {
-      "name": "4 large eggs",
+      "name": "4 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 pounds bulk pork sausage",
+      "name": "2 磅散装猪肉香肠",
       "amount": ""
     },
     {
-      "name": "1 cup all-purpose flour",
+      "name": "1 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "4 large eggs, beaten",
+      "name": "4 个大鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "4 cups dried bread crumbs, seasoned",
+      "name": "4 杯干面包屑，调味",
       "amount": ""
     }
   ],
@@ -40,48 +40,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Heat oil in a deep-fryer to 375 degrees F (190 degrees C)."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。将油炸锅中的油加热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place eggs in a saucepan and cover with water. Bring to boil. Cover, remove from heat, and let eggs sit in hot water for 10 to 12 minutes. Remove from hot water, cool, and peel."
+      "text": "将鸡蛋放入平底锅中，盖上水。煮沸。盖上盖子，离火，让鸡蛋在热水中静置 10 到 12 分钟。从热水中取出，冷却并剥皮。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Flatten sausage and make a patty to surround each egg."
+      "text": "将香肠压平并制作一个肉饼来包围每个鸡蛋。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Very lightly flour the outer sausage layer then coat with beaten egg. Roll in bread crumbs to cover evenly."
+      "text": "在香肠外层撒上少许面粉，然后涂上打散的鸡蛋。滚入面包屑，均匀覆盖。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Deep-fry prepared eggs in hot oil until golden brown while making sure each side is well cooked."
+      "text": "将准备好的鸡蛋放入热油中炸至金黄色，同时确保每一面都煮熟。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven for 10 minutes."
+      "text": "在预热好的烤箱中烘烤10分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Cut in half and serve."
+      "text": "切成两半即可食用。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "1998-12-20",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/9482/scotch-eggs/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1ca9b0f4715876dfaae12fe6f3db34fc",
+    "translated": true
+  }
 }

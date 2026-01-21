@@ -1,6 +1,6 @@
 {
   "id": "bf3a924c8c77d43b338bfe4e52484f76",
-  "title": "Dutch Babies",
+  "title": "荷兰婴儿",
   "min_age_month": 12,
   "tags": [
     "Breakfast",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 25,
   "cover_image": "images/1b61aa804482e753870f007398e00ba0.webp",
-  "nutrition_tip": "This Dutch baby recipe makes a delicious oven-baked pancake for two that puffs u…",
+  "nutrition_tip": "这个荷兰婴儿食谱制作了一个美味的烤箱烤煎饼，适合两个人吃，让你……",
   "ingredients": [
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 cup milk",
+      "name": "0.5 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.5 cup sifted all-purpose flour",
+      "name": "0.5 杯过筛的通用面粉",
       "amount": ""
     },
     {
-      "name": "1 pinch ground nutmeg",
+      "name": "1 撮 肉豆蔻粉",
       "amount": ""
     },
     {
-      "name": "1 pinch salt",
+      "name": "1 撮盐",
       "amount": ""
     },
     {
-      "name": "2 tablespoons butter",
+      "name": "2 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "2 tablespoons confectioners' sugar for dusting",
+      "name": "2 汤匙糖粉，用于撒粉",
       "amount": ""
     }
   ],
@@ -44,43 +44,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place a 10-inch cast iron skillet into the oven and preheat to 475 degrees F (245 degrees C)."
+      "text": "将 10 英寸铸铁煎锅放入烤箱并预热至 475 华氏度（245 摄氏度）。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Whisk eggs in a medium bowl until light. Whisk in milk, then gradually whisk in flour, nutmeg, and salt."
+      "text": "在一个中等大小的碗中搅拌鸡蛋直至变轻。加入牛奶搅拌，然后逐渐加入面粉、肉豆蔻和盐。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Remove the skillet from the oven and reduce the heat to 425 degrees F (220 degrees C). Place butter into the hot skillet and swirl to melt over the bottom and sides."
+      "text": "从烤箱中取出煎锅，将温度降至 425 华氏度（220 摄氏度）。将黄油放入热煎锅中，旋转使其在底部和侧面融化。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Pour batter into the skillet and return to the oven."
+      "text": "将面糊倒入煎锅中，然后返回烤箱。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake until puffed and lightly browned, about 12 minutes. Remove and immediately sift confectioners&#39; sugar over top."
+      "text": "烘烤约 12 分钟，直至膨化并呈浅棕色。取出糖果并立即过筛糖在上面。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Enjoy!"
+      "text": "享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/23898/dutch-babies-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b627a9ff3de8099fb05be45a3ff915ab",
+    "translated": true
+  }
 }

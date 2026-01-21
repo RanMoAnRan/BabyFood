@@ -1,6 +1,6 @@
 {
   "id": "a87ed2e9a97fb51db6a2dadeab269d65",
-  "title": "5-Ingredient Peppermint Bark",
+  "title": "5 成分薄荷皮",
   "min_age_month": 12,
   "tags": [
     "Candy",
@@ -9,26 +9,26 @@
   "difficulty": 1,
   "time_cost": 145,
   "cover_image": "images/7b9897395bb69e3f9a1953bfb2a3f279.webp",
-  "nutrition_tip": "Homemade peppermint bark is easy to make with layers of semisweet and white choc…",
+  "nutrition_tip": "自制薄荷树皮很容易用半甜和白巧克力层制作......",
   "ingredients": [
     {
-      "name": "8 ounces high-quality semisweet chocolate, broken into pieces",
+      "name": "8 盎司优质半甜巧克力，破碎",
       "amount": ""
     },
     {
-      "name": "2 teaspoons canola oil, divided",
+      "name": "2 茶匙菜籽油，分开",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon peppermint extract, divided",
+      "name": "0.5 茶匙薄荷提取物，分开",
       "amount": ""
     },
     {
-      "name": "8 ounces high-quality white chocolate, broken into pieces",
+      "name": "8 盎司优质白巧克力，碎成块",
       "amount": ""
     },
     {
-      "name": "25 peppermint candies, crushed, divided",
+      "name": "25 颗薄荷糖，压碎，分开",
       "amount": ""
     }
   ],
@@ -36,38 +36,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Line a 9-inch square pan with parchment or waxed paper, smoothing out any wrinkles."
+      "text": "在 9 英寸方形平底锅上铺上羊皮纸或蜡纸，抚平皱纹。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine semisweet chocolate and 1 teaspoon canola oil in the top of a double boiler over just barely simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until chocolate is melted. Remove from the heat and stir in 1/4 teaspoon peppermint extract."
+      "text": "将半甜巧克力和 1 茶匙菜籽油混合在双层锅炉的顶部，在刚刚沸腾的水中。经常搅拌，用橡皮抹刀刮擦侧面以避免烧焦，直到巧克力融化。从火上移开并加入 1/4 茶匙薄荷提取物搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour melted chocolate into the prepared pan, and spread evenly to cover the bottom. Sprinkle 1/2 of the crushed candy over the chocolate and refrigerate until completely hardened, about 1 hour."
+      "text": "将融化的巧克力倒入准备好的平底锅中，均匀铺开以覆盖底部。将 1/2 碎糖果撒在巧克力上，冷藏约 1 小时直至完全硬化。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Combine white chocolate and remaining 1 teaspoon canola oil in the top of a double boiler over just barely simmering water. Stir frequently, scraping down the sides with a rubber spatula to avoid scorching, until white chocolate is melted. Remove from the heat and stir in remaining 1/4 teaspoon peppermint extract."
+      "text": "将白巧克力和剩余的 1 茶匙菜籽油混合在双层锅炉的顶部，在刚刚沸腾的水中。经常搅拌，用橡皮抹刀刮擦侧面以避免烧焦，直到白巧克力融化。从火上移开并加入剩余的 1/4 茶匙薄荷提取物搅拌。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Pour melted white chocolate into the pan, directly over the hardened chocolate layer; spread evenly. Sprinkle the remaining crushed candy over top and gently press in. Refrigerate until completely hardened, about 1 hour."
+      "text": "将融化的白巧克力倒入锅中，直接覆盖在硬化的巧克力层上；均匀分布。将剩余的碎糖撒在上面，轻轻压入。冷藏约 1 小时，直至完全硬化。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Remove from the pan and break into small pieces to serve."
+      "text": "从锅中取出，切成小块即可食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2008-12-20",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/185194/5-ingredient-peppermint-bark/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e8d52e58ef60b956ebf8236bc9d29132",
+    "translated": true
+  }
 }

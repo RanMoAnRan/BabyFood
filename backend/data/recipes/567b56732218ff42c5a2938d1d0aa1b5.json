@@ -1,6 +1,6 @@
 {
   "id": "567b56732218ff42c5a2938d1d0aa1b5",
-  "title": "Cheesy Potato Casserole from Ore-Ida",
+  "title": "来自奥雷伊达的芝士土豆砂锅",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -10,46 +10,46 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/33cfa7ce7bdaea660f5221caffc3045c.webp",
-  "nutrition_tip": "This cheesy potato casserole with lots of shredded hash browns and a crispy topp…",
+  "nutrition_tip": "这个奶酪土豆砂锅菜有很多碎薯饼和脆皮......",
   "ingredients": [
     {
-      "name": "nonstick cooking spray",
+      "name": "不粘烹饪喷雾",
       "amount": ""
     },
     {
-      "name": "1 (10.5 ounce) can condensed cream of chicken soup",
+      "name": "1 罐（10.5 盎司）浓缩奶油鸡汤",
       "amount": ""
     },
     {
-      "name": "2 cups sour cream",
+      "name": "2 杯酸奶油",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground black pepper",
+      "name": "0.25 茶匙黑胡椒粉",
       "amount": ""
     },
     {
-      "name": "2 cups shredded Cheddar cheese",
+      "name": "2 杯切达干酪丝",
       "amount": ""
     },
     {
-      "name": "0.33333334326744 cup sliced green onions",
+      "name": "0.33333334326744 杯 葱片",
       "amount": ""
     },
     {
-      "name": "1 (30 ounce) package Ore-Ida® Shredded Hash Brown Potatoes",
+      "name": "1 包（30 盎司）Ore-Ida® 碎土豆丝",
       "amount": ""
     },
     {
-      "name": "2 cups crushed corn flakes cereal",
+      "name": "2 杯碎玉米片麦片",
       "amount": ""
     },
     {
-      "name": "0.25 cup butter, melted",
+      "name": "0.25 杯黄油，融化",
       "amount": ""
     }
   ],
@@ -57,43 +57,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with nonstick spray."
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。用不粘喷雾剂喷洒 9x13 英寸烤盘。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix sour cream, condensed soup, salt, and pepper together in a large bowl."
+      "text": "将酸奶油、浓缩汤、盐和胡椒粉放入一个大碗中混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in Cheddar cheese, green onions, and hash brown potatoes until well mixed."
+      "text": "加入切达干酪、葱和土豆煎至充分混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spread evenly into the prepared baking dish."
+      "text": "均匀地铺入准备好的烤盘中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Mix crushed cereal and melted butter together in a medium bowl. Sprinkle evenly over the casserole."
+      "text": "将碎麦片和融化的黄油放入一个中等大小的碗中混合。均匀地撒在砂锅上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake uncovered until hot and bubbly, 45 to 50 minutes. Remove from the oven and let rest for 5 minutes before serving."
+      "text": "不盖盖子烘烤 45 到 50 分钟，直至变热并起泡。从烤箱中取出，放置 5 分钟后再食用。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve hot and enjoy!"
+      "text": "趁热享用吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2015-03-17",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/241797/cheesy-potato-casserole-from-ore-ida/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2140402fa1dd79b91768f3aa27ef2af1",
+    "translated": true
+  }
 }

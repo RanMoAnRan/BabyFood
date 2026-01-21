@@ -1,6 +1,6 @@
 {
   "id": "acb6ae67258dc8a78f5d9ffc6a9297a4",
-  "title": "Cranberry Jell-O Salad",
+  "title": "蔓越莓果冻沙拉",
   "min_age_month": 12,
   "tags": [
     "Side Dish",
@@ -10,26 +10,26 @@
   "difficulty": 1,
   "time_cost": 195,
   "cover_image": "images/b99118412245854b5656b32bdc761c49.webp",
-  "nutrition_tip": "This holiday cranberry Jell-O salad is made with cherry-flavored gelatin, cranbe…",
+  "nutrition_tip": "这款节日蔓越莓果冻沙拉是用樱桃味明胶、蔓越莓……制成的。",
   "ingredients": [
     {
-      "name": "2 cups boiling water",
+      "name": "2 杯开水",
       "amount": ""
     },
     {
-      "name": "2 (0.3 ounce) packages sugar-free cherry-flavored gelatin mix (such as Jell-O®)",
+      "name": "2 包（0.3 盎司）无糖樱桃味明胶混合物（例如 Jell-O®）",
       "amount": ""
     },
     {
-      "name": "1 (16 ounce) can jellied cranberry sauce",
+      "name": "1 罐（16 盎司）蔓越莓酱果冻",
       "amount": ""
     },
     {
-      "name": "1 (20 ounce) can crushed pineapple, drained",
+      "name": "1罐（20盎司）菠萝碎，沥干",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped pecans",
+      "name": "0.5 杯切碎的山核桃",
       "amount": ""
     }
   ],
@@ -37,33 +37,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine boiling water and gelatin mix in a bowl; stir until gelatin is dissolved."
+      "text": "将沸水和明胶混合在碗中；搅拌直至明胶溶解。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in cranberry sauce and crushed pineapple."
+      "text": "加入蔓越莓酱和碎菠萝搅拌。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Transfer to a large glass serving dish or 12 individual dishes. Sprinkle pecans on top."
+      "text": "转移到一个大玻璃盘子或 12 个单独的盘子中。在上面撒上山核桃。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Chill until set, 3 to 4 hours for individual dishes, or 4 hours to overnight for one large serving dish."
+      "text": "冷却至凝固，单个菜肴需要 3 到 4 小时，一份大菜需要 4 小时到过夜。"
     }
   ],
   "warnings": [],
   "publish_date": "2000-01-29",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/17265/cranberry-gelatin-salad-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "81df1ac89c8539f6fab5be097c8a391c",
+    "translated": true
+  }
 }

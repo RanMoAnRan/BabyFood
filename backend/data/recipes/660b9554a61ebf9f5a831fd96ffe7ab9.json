@@ -1,6 +1,6 @@
 {
   "id": "660b9554a61ebf9f5a831fd96ffe7ab9",
-  "title": "Spicy Chopped Cheese Sandwich",
+  "title": "辣切奶酪三明治",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 25,
   "cover_image": "images/c34fb558a3c20b2147891cd4407cb441.webp",
-  "nutrition_tip": "Chopped cheese sandwiches originated in New York City, but this version is spicy…",
+  "nutrition_tip": "切碎奶酪三明治起源于纽约，但这个版本很辣……",
   "ingredients": [
     {
-      "name": "1 tablespoon butter",
+      "name": "1 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped onions",
+      "name": "0.25 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "12 ounces lean ground beef",
+      "name": "12 盎司瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 tablespoon Sriracha sauce",
+      "name": "1汤匙是拉差酱",
       "amount": ""
     },
     {
-      "name": "salt and freshly ground black pepper to taste",
+      "name": "盐和现磨黑胡椒粉适量",
       "amount": ""
     },
     {
-      "name": "3 slices American cheese",
+      "name": "3 片美国奶酪",
       "amount": ""
     },
     {
-      "name": "2 hoagie buns, split and toasted",
+      "name": "2 个三明治面包，切开并烘烤",
       "amount": ""
     },
     {
-      "name": "1 cup shredded lettuce",
+      "name": "1 杯生菜丝",
       "amount": ""
     },
     {
-      "name": "1 roma tomato, thinly sliced",
+      "name": "1 个罗马番茄，切成薄片",
       "amount": ""
     }
   ],
@@ -53,33 +53,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Melt butter in a small skillet over medium-high heat. Add onions and cook until onions are tender and starting to caramelize, about 5 minutes. Remove from heat and set aside."
+      "text": "在小煎锅中用中高火融化黄油。加入洋葱，煮约 5 分钟，直至洋葱变软并开始焦糖化。从火上移开并放在一边。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine ground beef and Sriracha sauce in a large bowl; mix well until Sriracha is evenly distributed. Form mixture into two thin patties and season with salt and pepper."
+      "text": "将碎牛肉和是拉差酱放入一个大碗中；充分搅拌直至是拉差均匀分布。将混合物制成两个薄饼，用盐和胡椒调味。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat a large cast iron skillet over medium-high heat. Add hamburger patties and cook for 5 minutes or until a crust forms on the bottom. Flip patties over and cook for 3 minutes."
+      "text": "用中高火加热一个大铸铁煎锅。加入汉堡肉饼，煮 5 分钟或直至底部形成硬皮。将肉饼翻面，煮 3 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Break patties up into large pieces using a wide spatula. Sprinkle cooked onion in between hamburger pieces. Layer cheese on top and cook for 2 minutes or until cheese is melted."
+      "text": "使用宽抹刀将肉饼分成大块。将煮熟的洋葱撒在汉堡块之间。将奶酪铺在上面，煮 2 分钟或直至奶酪融化。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Divide hamburger and cheese mixture evenly between toasted hoagie rolls. Top each with shredded lettuce and sliced tomato."
+      "text": "将汉堡和奶酪混合物均匀地分布在烤三明治卷之间。在上面放上生菜丝和番茄片。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-05-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/273164/spicy-chopped-cheese-sandwich/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e35949c98aec752f38993a515ba244e8",
+    "translated": true
+  }
 }

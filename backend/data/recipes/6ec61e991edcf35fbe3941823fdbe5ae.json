@@ -1,6 +1,6 @@
 {
   "id": "6ec61e991edcf35fbe3941823fdbe5ae",
-  "title": "Easy English Cottage Pie",
+  "title": "简单的英式小屋馅饼",
   "min_age_month": 6,
   "tags": [
     "Dinner",
@@ -10,62 +10,62 @@
   "difficulty": 1,
   "time_cost": 75,
   "cover_image": "images/da49860e1cbd678bf4cd085c384b4122.webp",
-  "nutrition_tip": "This flavorful cottage pie made with ground beef, carrots, and onions is topped…",
+  "nutrition_tip": "这个美味的小屋馅饼是用碎牛肉、胡萝卜和洋葱制成的，上面是……",
   "ingredients": [
     {
-      "name": "1 pound lean ground beef",
+      "name": "1 磅瘦碎牛肉",
       "amount": ""
     },
     {
-      "name": "1 onion, diced",
+      "name": "1 个洋葱，切丁",
       "amount": ""
     },
     {
-      "name": "3 carrots, diced",
+      "name": "3 根胡萝卜，切丁",
       "amount": ""
     },
     {
-      "name": "2 tablespoons all-purpose flour",
+      "name": "2 汤匙通用面粉",
       "amount": ""
     },
     {
-      "name": "1 tablespoon Italian seasoning",
+      "name": "1 汤匙 意大利调味料",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cinnamon",
+      "name": "0.5 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "2 tablespoons chopped fresh parsley",
+      "name": "2 汤匙切碎的新鲜欧芹",
       "amount": ""
     },
     {
-      "name": "1.5 cups beef broth",
+      "name": "1.5 杯牛肉汤",
       "amount": ""
     },
     {
-      "name": "1 tablespoon tomato paste",
+      "name": "1 汤匙番茄酱",
       "amount": ""
     },
     {
-      "name": "salt and pepper to taste",
+      "name": "盐和胡椒调味",
       "amount": ""
     },
     {
-      "name": "4 potatoes, peeled and diced",
+      "name": "4 个土豆，去皮切丁",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.25 cup butter, softened",
+      "name": "0.25 杯黄油，软化",
       "amount": ""
     },
     {
-      "name": "0.25 pound shredded Cheddar cheese",
+      "name": "0.25 磅切达干酪丝",
       "amount": ""
     }
   ],
@@ -73,43 +73,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Add onion and carrot; cook and stir until onion has softened, about 5 minutes. Mix in flour, Italian seasoning, and cinnamon. Stir in parsley."
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。加入洋葱和胡萝卜；煮约 5 分钟，搅拌直至洋葱变软。加入面粉、意大利调味料和肉桂。拌入欧芹。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine beef broth and tomato paste together in a jug; add to beef mixture. Season with salt and pepper; lower heat and simmer for 15 minutes, stirring occasionally, until slightly thickened. Preheat the oven to 400 degrees F (200 degrees C)."
+      "text": "将牛肉汤和番茄酱一起放入罐中；添加到牛肉混合物中。用盐和胡椒调味；小火煮 15 分钟，偶尔搅拌，直至稍微变稠。将烤箱预热至 400 华氏度（200 摄氏度）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Meanwhile, place diced potatoes in a medium saucepan; cover with water and place over high heat. Bring to a boil and simmer until potatoes are tender, about 15 minutes; drain. Mash potatoes until smooth, then add milk and butter; whip until fluffy. Season with salt and pepper."
+      "text": "同时，将土豆丁放入中型平底锅中；用水覆盖并置于高温下。煮沸并小火煮约15分钟，直至土豆变软；流走。将土豆捣碎至光滑，然后加入牛奶和黄油；搅打至蓬松。用盐和胡椒调味。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spoon ground beef mixture into a 9x13-inch baking dish; spread mashed potatoes on top and sprinkle with grated Cheddar cheese."
+      "text": "将碎牛肉混合物倒入 9x13 英寸的烤盘中；将土豆泥铺在上面，撒上磨碎的切达干酪。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in preheated oven until top is browned and cheese is bubbly, about 25 minutes."
+      "text": "在预热的烤箱中烘烤约 25 分钟，直至顶部变成棕色且奶酪起泡。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "1999-02-17",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/15509/proper-english-cottage-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8349dfd903aa531a25a687fd7fe4b19d",
+    "translated": true
+  }
 }

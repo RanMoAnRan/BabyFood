@@ -1,6 +1,6 @@
 {
   "id": "02f406f92db0c9067f74b4feff391d27",
-  "title": "Tiramisu Cake",
+  "title": "提拉米苏蛋糕",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -10,66 +10,66 @@
   "difficulty": 1,
   "time_cost": 105,
   "cover_image": "images/6c8b58ff14c360accb870c7e9f498dba.webp",
-  "nutrition_tip": "This tiramisu cake with 3 layers of coffee-flavored sponge cake, coffee liqueur…",
+  "nutrition_tip": "这个提拉米苏蛋糕，有3层咖啡味海绵蛋糕，咖啡利口酒……",
   "ingredients": [
     {
-      "name": "1 (15.25 ounce) package moist white cake mix",
+      "name": "1 包（15.25 盎司）湿白蛋糕粉",
       "amount": ""
     },
     {
-      "name": "1 cup water",
+      "name": "1 杯水",
       "amount": ""
     },
     {
-      "name": "3 large egg whites",
+      "name": "3 个大蛋白",
       "amount": ""
     },
     {
-      "name": "0.33 cup vegetable oil",
+      "name": "0.33 杯植物油",
       "amount": ""
     },
     {
-      "name": "1 teaspoon instant coffee powder",
+      "name": "1 茶匙速溶咖啡粉",
       "amount": ""
     },
     {
-      "name": "0.25 cup coffee",
+      "name": "0.25 杯咖啡",
       "amount": ""
     },
     {
-      "name": "1 tablespoon coffee flavored liqueur",
+      "name": "1 汤匙咖啡味利口酒",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) container mascarpone cheese",
+      "name": "1 罐（8 盎司）马斯卡彭奶酪",
       "amount": ""
     },
     {
-      "name": "0.5 cup confectioners' sugar",
+      "name": "0.5 杯糖果糖",
       "amount": ""
     },
     {
-      "name": "2 tablespoons coffee flavored liqueur",
+      "name": "2 汤匙咖啡味利口酒",
       "amount": ""
     },
     {
-      "name": "2 cups heavy cream",
+      "name": "2 杯浓奶油",
       "amount": ""
     },
     {
-      "name": "0.25 cup confectioners' sugar",
+      "name": "0.25 杯糖果糖",
       "amount": ""
     },
     {
-      "name": "2 tablespoons coffee flavored liqueur",
+      "name": "2 汤匙咖啡味利口酒",
       "amount": ""
     },
     {
-      "name": "2 tablespoons unsweetened cocoa powder",
+      "name": "2 汤匙不加糖可可粉",
       "amount": ""
     },
     {
-      "name": "1 (1 ounce) square semisweet chocolate",
+      "name": "1 块（1 盎司）方形半甜巧克力",
       "amount": ""
     }
   ],
@@ -77,53 +77,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour three 9-inch pans."
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。在三个 9 英寸的平底锅上涂上油脂并撒上面粉。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "To make the cake: Beat cake mix, water, egg whites, and oil in a large bowl with an electric mixer on medium speed until well combined, about 2 minutes. Divide 2/3 of the batter between 2 prepared pans. Stir instant coffee into remaining batter; pour into the remaining prepared pan."
+      "text": "制作蛋糕：将蛋糕粉、水、蛋白和油放入一个大碗中，用电动搅拌机中速搅拌直至充分混合，大约需要 2 分钟。将 2/3 的面糊分在 2 个准备好的平底锅中。将速溶咖啡加入剩余的面糊中搅拌；倒入剩下的准备好的平底锅中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into the center of cakes comes out clean, 23 to 28 minutes. Cool cakes in the pans for 10 minutes, then turn out onto a wire rack to cool completely."
+      "text": "在预热的烤箱中烘烤 23 至 28 分钟，直至用牙签插入蛋糕中心，取出时是干净的。将蛋糕在平底锅中冷却 10 分钟，然后放在金属架上完全冷却。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "To make the syrup: Combine brewed coffee and coffee liqueur in a measuring cup; set aside."
+      "text": "制作糖浆：将煮好的咖啡和咖啡利口酒放入量杯中；放在一边。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "To make the filling: Beat mascarpone, confectioners&#39; sugar, and coffee liqueur in a medium bowl with an electric mixer on low speed until smooth. Cover with plastic wrap and place in the refrigerator to keep cool."
+      "text": "制作馅料：将马斯卡彭奶酪、糖果粉搅拌均匀。将糖和咖啡利口酒放入一个中等大小的碗中，用电动搅拌机低速搅拌直至光滑。用保鲜膜盖住并放入冰箱冷藏。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "To make the frosting: Beat cream, confectioners&#39; sugar, and coffee liqueur in a medium bowl with an electric mixer on medium-high speed until stiff. Fold 1/2 cup frosting into chilled filling until combined. Store frosting and filling, covered, in the refrigerator to keep cool."
+      "text": "制作糖霜：搅打奶油、糖果。将糖和咖啡利口酒放入一个中等大小的碗中，用电动搅拌机中高速搅拌直至变硬。将 1/2 杯糖霜折叠到冷冻馅料中直至混合。将糖霜和馅料盖好，存放在冰箱中以保持凉爽。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "To assemble the cake: Place 1 plain cake layer on a serving plate. Using a thin skewer, poke holes in cake, about 1 inch apart. Pour 1/3 of the coffee syrup over cake, then cover with 1/2 of the filling. Top with coffee-flavored cake layer; poke holes in cake. Pour another 1/3 of the coffee syrup over cake and cover with remaining filling. Top with remaining cake layer; poke holes in cake. Pour remaining coffee syrup on top. Spread sides and top of cake with frosting."
+      "text": "组装蛋糕：将 1 层普通蛋糕放在盘子上。用一根细签在蛋糕上戳一些孔，孔的间距大约为1英寸。将 1/3 的咖啡糖浆倒在蛋糕上，然后盖上 1/2 的馅料。上面铺上咖啡味的蛋糕层；在蛋糕上戳洞。将另外 1/3 的咖啡糖浆倒在蛋糕上，并用剩余的馅料覆盖。上面放上剩余的蛋糕层；在蛋糕上戳洞。将剩余的咖啡糖浆倒在上面。在蛋糕的侧面和顶部涂上糖霜。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "To garnish the cake: Place cocoa powder in a sieve and lightly dust top of cake. Run a vegetable peeler down the edge of chocolate square to form curls. Scatter chocolate curls over cake."
+      "text": "装饰蛋糕：将可可粉放入筛子中，并在蛋糕顶部轻轻撒上灰尘。用蔬菜削皮器沿着巧克力方块的边缘运行，形成卷曲。将巧克力卷撒在蛋糕上。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Chill cake in the refrigerator for at least 30 minutes before serving."
+      "text": "食用前将蛋糕放入冰箱冷藏至少 30 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/25639/tiramisu-layer-cake/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "80602515cb6401fd274c3198a613d739",
+    "translated": true
+  }
 }

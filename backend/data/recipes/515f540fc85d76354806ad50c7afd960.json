@@ -1,6 +1,6 @@
 {
   "id": "515f540fc85d76354806ad50c7afd960",
-  "title": "Figgy Pudding",
+  "title": "无花果布丁",
   "min_age_month": 8,
   "tags": [
     "Dessert",
@@ -9,66 +9,66 @@
   "difficulty": 1,
   "time_cost": 110,
   "cover_image": "images/0e310c810c9f4bd004c045dc77cc6aa2.webp",
-  "nutrition_tip": "This figgy pudding made with dried figs, almonds, and spices is moist and dense.…",
+  "nutrition_tip": "这种无花果布丁是用干无花果、杏仁和香料制成的，湿润而浓稠。...",
   "ingredients": [
     {
-      "name": "1.75 cups buttermilk",
+      "name": "1.75 杯酪乳",
       "amount": ""
     },
     {
-      "name": "12 ounces dried Calimyrna figs, coarsely chopped",
+      "name": "12 盎司干 Calimyrna 无花果，粗略切碎",
       "amount": ""
     },
     {
-      "name": "1.5 cups white whole-wheat flour (such as King Arthur®)",
+      "name": "1.5 杯白色全麦面粉（例如 King Arthur®）",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "2.5 teaspoons baking powder",
+      "name": "2.5 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground nutmeg",
+      "name": "1 茶匙肉豆蔻粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "3 eggs",
+      "name": "3 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "1.5 cups dry bread crumbs",
+      "name": "1.5 杯干面包屑",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter, melted",
+      "name": "0.5 杯黄油，融化",
       "amount": ""
     },
     {
-      "name": "1 (2.45 ounce) package sliced almonds",
+      "name": "1 包（2.45 盎司）杏仁片",
       "amount": ""
     },
     {
-      "name": "3 tablespoons orange marmalade",
+      "name": "3 汤匙 橙子果酱",
       "amount": ""
     },
     {
-      "name": "1 tablespoon grated orange zest",
+      "name": "1 汤匙 磨碎的橙皮碎",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon orange-vanilla flavoring (such as Fiori di Sicilia®",
+      "name": "0.5 茶匙橙子香草调味料（例如 Fiori di Sicilia®",
       "amount": ""
     }
   ],
@@ -76,53 +76,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Gently heat buttermilk and figs in a saucepan over medium-low heat until softened, 10 to 15 minutes; set aside until cool."
+      "text": "将酪乳和无花果放入平底锅中，用中低火轻轻加热至软化，持续 10 至 15 分钟；搁置直至冷却。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Preheat oven to 350 degrees F (175 degrees C). Grease a tube pan. Grease one side of a sheet of aluminum foil."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。给管盘涂上油脂。在铝箔的一侧涂上油脂。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Sift flour, sugar, baking powder, nutmeg, cinnamon, and salt together into a bowl."
+      "text": "将面粉、糖、发酵粉、肉豆蔻、肉桂和盐一起过筛到碗中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Beat eggs in a separate, large bowl with an electric mixer on high speed for 1 minute. Add the cooled fig and buttermilk mixture, bread crumbs, melted butter, almonds, orange marmalade, orange zest, and orange-vanilla flavoring; beat on low speed until blended."
+      "text": "将鸡蛋放入另一个大碗中，用电动搅拌器高速搅拌 1 分钟。加入冷却的无花果和酪乳混合物、面包屑、融化的黄油、杏仁、橙子果酱、橙皮和橙子香草调味料；低速搅拌直至混合。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Gradually mix in the sifted flour mixture until just incorporated."
+      "text": "逐渐加入过筛的面粉混合物，直至完全混合。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Spoon batter into the prepared pan and cover with the greased foil."
+      "text": "将面糊舀入准备好的平底锅中，并用涂有油脂的箔纸覆盖。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Bake in the preheated oven until firm and pulling away from sides of the pan, about 1 hour 15 minutes to 2 hours."
+      "text": "在预热的烤箱中烘烤约 1 小时 15 分钟至 2 小时，直至变硬并从烤盘两侧拉开。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Remove from the oven and let cool in the pan for 10 minutes. Turn out onto a wire rack."
+      "text": "从烤箱中取出并在锅中冷却 10 分钟。转到金属架上。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/229863/figgy-pudding/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "91a799cf070bb3a6173c19d808f97e35",
+    "translated": true
+  }
 }

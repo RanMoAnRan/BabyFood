@@ -1,6 +1,6 @@
 {
   "id": "76325aa87497f9fb120404fd6fe07754",
-  "title": "Peking Duck",
+  "title": "北京烤鸭",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -11,66 +11,66 @@
   "difficulty": 1,
   "time_cost": 230,
   "cover_image": "images/b8cd4932a8bcde4c4b32c512c0d79595.webp",
-  "nutrition_tip": "Peking duck is made by seasoning a whole duck with a fragrant spice rub before i…",
+  "nutrition_tip": "北京烤鸭是用香料擦整只鸭子调味而成的，然后...",
   "ingredients": [
     {
-      "name": "1 (4 pound) whole duck, dressed",
+      "name": "1 只（4 磅）整只鸭子，去皮",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cinnamon",
+      "name": "0.5 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground nutmeg",
+      "name": "0.25 茶匙肉豆蔻粉",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground white pepper",
+      "name": "0.25 茶匙白胡椒粉",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon ground cloves",
+      "name": "0.125 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "3 tablespoons soy sauce, divided",
+      "name": "3汤匙酱油，分开",
       "amount": ""
     },
     {
-      "name": "1 tablespoon honey",
+      "name": "1 汤匙蜂蜜",
       "amount": ""
     },
     {
-      "name": "5 green onions, divided",
+      "name": "5 个葱，分开",
       "amount": ""
     },
     {
-      "name": "0.5 cup plum jam",
+      "name": "0.5 杯李子酱",
       "amount": ""
     },
     {
-      "name": "0.25 cup finely chopped chutney",
+      "name": "0.25 杯切碎的酸辣酱",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons sugar",
+      "name": "1.5 茶匙糖",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons distilled white vinegar",
+      "name": "1.5 茶匙蒸馏白醋",
       "amount": ""
     },
     {
-      "name": "1 orange, sliced in rounds",
+      "name": "1 个橙子，切成圆片",
       "amount": ""
     },
     {
-      "name": "1 tablespoon chopped fresh parsley, for garnish",
+      "name": "1 汤匙切碎的新鲜欧芹，用于装饰",
       "amount": ""
     }
   ],
@@ -78,78 +78,83 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Rinse duck inside and out; pat dry. Cut off tail and discard."
+      "text": "将鸭子里里外外冲洗干净；拍干。剪掉尾巴并丢弃。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix cinnamon, ginger, nutmeg, white pepper, and cloves together in a small bowl. Sprinkle 1 teaspoon of spice mix into cavity of duck."
+      "text": "将肉桂、生姜、肉豆蔻、白胡椒和丁香放入一个小碗中混合。将 1 茶匙香料混合物撒入鸭腔中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir 1 tablespoon soy sauce into remaining spice mix and rub evenly over entire outside of duck."
+      "text": "将 1 汤匙酱油搅拌到剩余的香料混合物中，然后均匀地涂抹在鸭子的整个外部。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Cut 1 green onion in half and tuck it inside cavity."
+      "text": "将 1 个葱切成两半并将其塞入空腔内。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Cover and refrigerate duck for at least 2 hours or up to overnight."
+      "text": "盖上鸭子并冷藏至少 2 小时或最多过夜。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Place duck breast-side up on a rack set in a wok or pot. Steam for 1 hour, adding more water as it evaporates."
+      "text": "将鸭胸朝上放在炒锅或锅中的架子上。蒸1小时，水蒸发后加入更多水。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Lift duck with two large spoons to drain juices and green onion."
+      "text": "用两个大勺子将鸭子提起，沥干汁液和葱。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Preheat the oven to 375 degrees F (190 degrees C). Place duck breast-side up in a roasting pan and prick skin all over with a fork."
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。将鸭胸朝上放入烤盘中，用叉子将鸭皮全部刺破。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Roast duck in the preheated oven for 30 minutes."
+      "text": "将鸭子放入预热好的烤箱中烤30分钟。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Mix together remaining 2 tablespoons soy sauce and honey in a small bowl. Brush honey mixture onto duck."
+      "text": "将剩余的 2 汤匙酱油和蜂蜜放入小碗中混合。将蜂蜜混合物刷在鸭子上。"
     },
     {
       "step_index": 12,
       "img": "",
-      "text": "Increase the oven temperature to 500 degrees F (260 degrees C). Roast until skin is richly browned, about 5 minutes. Do not allow skin to char."
+      "text": "将烤箱温度提高到 500 华氏度（260 摄氏度）。烤约 5 分钟，直至表皮呈深褐色。不要让皮肤烧焦。"
     },
     {
       "step_index": 13,
       "img": "",
-      "text": "Mix plum jam, chutney, sugar, and vinegar in a small serving bowl. Chop remaining green onions and place them into a separate bowl."
+      "text": "将李子酱、酸辣酱、糖和醋放入一个小碗中混合。将剩余的葱切碎，放入另一个碗中。"
     },
     {
       "step_index": 14,
       "img": "",
-      "text": "Place whole duck onto a serving platter and garnish with orange slices and fresh parsley. Serve with plum sauce and chopped green onions."
+      "text": "将整只鸭子放在盘子上，并用橙片和新鲜欧芹装饰。与梅子酱和切碎的葱一起食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/31972/peking-duck/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2d8bc5d64ee81c6700f7820a9cb0f435",
+    "translated": true
+  }
 }

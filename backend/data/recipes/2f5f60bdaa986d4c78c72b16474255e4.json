@@ -1,6 +1,6 @@
 {
   "id": "2f5f60bdaa986d4c78c72b16474255e4",
-  "title": "Easy Homemade Pie Crust",
+  "title": "简单的自制馅饼皮",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,26 +9,26 @@
   "difficulty": 1,
   "time_cost": 40,
   "cover_image": "images/2a73af28837442707c035207ee6ac9c5.webp",
-  "nutrition_tip": "Chef John&#39;s pie crust recipe comes together quickly in a food processor and…",
+  "nutrition_tip": "约翰厨师的馅饼皮食谱在食品加工机中快速混合在一起......",
   "ingredients": [
     {
-      "name": "2.5 cups all-purpose flour",
+      "name": "2.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 cup unsalted butter - chilled, cut into tablespoon-size pieces",
+      "name": "1 杯无盐黄油 - 冷藏，切成汤匙大小的块",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "7 tablespoons ice water",
+      "name": "7 汤匙冰水",
       "amount": ""
     },
     {
-      "name": "1 tablespoon cider vinegar",
+      "name": "1 汤匙苹果醋",
       "amount": ""
     }
   ],
@@ -36,38 +36,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Combine flour, butter, and salt in a food processor. Pulse until mixture resembles coarse crumbs, about 10 (1-second) pulses."
+      "text": "将面粉、黄油和盐放入食品加工机中混合。脉冲约 10 次（1 秒）脉冲，直到混合物看起来像粗面包屑。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Stir ice water and vinegar in a small bowl."
+      "text": "在小碗中搅拌冰水和醋。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Pour 1/2 of the ice water mixture into flour mixture; pulse to combine, about 3 (1-second) pulses. Pour in remaining ice water mixture; pulse until mixture starts to come together, about 8 (1-second) pulses."
+      "text": "将1/2的冰水混合物倒入面粉混合物中；脉冲进行组合，大约 3 个（1 秒）脉冲。倒入剩余的冰水混合物；脉冲直至混合物开始聚集，大约 8 个（1 秒）脉冲。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Turn dough out onto a wooden surface, pat it into a circle, and divide it in half. Form each half into a disc, about 5-inches wide."
+      "text": "将面团翻到木质表面上，拍成圆形，然后将其分成两半。将每一半形成一个大约 5 英寸宽的圆盘。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Wrap each disc in plastic wrap and refrigerate for at least 30 minutes until ready to use."
+      "text": "用保鲜膜包裹每个光盘并冷藏至少 30 分钟，直到可以使用。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Use in your favorite pie recipe."
+      "text": "用于您最喜欢的馅饼食谱。"
     }
   ],
   "warnings": [],
   "publish_date": "2012-04-04",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/220996/easy-homemade-pie-crust/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b8ec8c6d8375316d26fdd0023d25177b",
+    "translated": true
+  }
 }

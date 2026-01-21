@@ -1,6 +1,6 @@
 {
   "id": "8fe9e23e5ea85656ed2073d7ef0268b8",
-  "title": "Dough Ornament Recipe",
+  "title": "面团装饰食谱",
   "min_age_month": 12,
   "tags": [
     "Candy",
@@ -9,18 +9,18 @@
   "difficulty": 1,
   "time_cost": 75,
   "cover_image": "images/f9d5d6fdfb9904e607abf36b8131d21a.webp",
-  "nutrition_tip": "Salt dough ornaments are easy and fun with this 3-ingredient recipe. Learn how t…",
+  "nutrition_tip": "用这个 3 成分食谱制作盐面团装饰品既简单又有趣。了解如何…",
   "ingredients": [
     {
-      "name": "4 cups all-purpose flour",
+      "name": "4 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 cup salt",
+      "name": "1 杯盐",
       "amount": ""
     },
     {
-      "name": "1.5 cups warm water",
+      "name": "1.5 杯温水",
       "amount": ""
     }
   ],
@@ -28,48 +28,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all your ingredients, and preheat the oven to 325 degrees F (165 degrees C)."
+      "text": "收集所有原料，并将烤箱预热至 325 华氏度（165 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Whisk together flour and salt in a mixing bowl until well combined. Gradually stir in water, about 1/2 cup at a time, until a dough forms. When it gets too difficult to stir with a spoon, use your hands to mix it."
+      "text": "将面粉和盐放入搅拌碗中搅拌直至充分混合。逐渐加入水搅拌，每次约 1/2 杯，直至形成面团。当用勺子搅拌太困难时，可以用手搅拌。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Transfer dough to a floured work surface and knead until soft and pliable."
+      "text": "将面团转移到撒有面粉的工作台上，揉捏直至柔软柔韧。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Roll out to a thickness of 1/8 inch; cut desired shapes with cookie cutters."
+      "text": "擀成1/8英寸的厚度；用饼干切刀切出想要的形状。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Transfer dough shapes to ungreased cookie sheets; use a toothpick to make a hole in each ornament for hanging."
+      "text": "将面团形状转移到未抹油的饼干片上；用牙签在每个装饰品上打一个孔以便悬挂。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven until hard, about 1 hour, switching racks halfway through."
+      "text": "在预热的烤箱中烘烤约 1 小时直至变硬，中途更换架子。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Remove from the oven and let cool to room temperature. Decorate as desired with acrylic paint and craft varnish to preserve. Thread a string through each hole."
+      "text": "从烤箱中取出并冷却至室温。根据需要用丙烯酸漆和工艺清漆进行装饰以保存。将一根绳子穿过每个孔。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Decorate and enjoy!"
+      "text": "装饰并享受！"
     }
   ],
   "warnings": [],
   "publish_date": "1998-11-22",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/11126/dough-ornament-recipe/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2b87d7a00b01a4a6e700872c9a682bd3",
+    "translated": true
+  }
 }

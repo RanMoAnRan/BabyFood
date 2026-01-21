@@ -1,6 +1,6 @@
 {
   "id": "09043d13f4e216c591438c45a6c3e7e9",
-  "title": "Cranberry Pumpkin Muffins",
+  "title": "蔓越莓南瓜松饼",
   "min_age_month": 6,
   "tags": [
     "Lunch",
@@ -14,66 +14,66 @@
   "difficulty": 1,
   "time_cost": 35,
   "cover_image": "images/87a999521affd51d40e4b07ba5737599.webp",
-  "nutrition_tip": "Moist and bursting with warm spices, these pumpkin muffins are studded with drie…",
+  "nutrition_tip": "这些南瓜松饼湿润且充满温暖的香料，上面点缀着干……",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.75 cup brown sugar, packed",
+      "name": "0.75 杯红糖，包装",
       "amount": ""
     },
     {
-      "name": "2 teaspoons baking powder",
+      "name": "2 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon baking soda",
+      "name": "0.25 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground ginger",
+      "name": "0.25 茶匙姜粉",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon ground cloves",
+      "name": "0.125 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon ground nutmeg",
+      "name": "0.125 茶匙肉豆蔻粉",
       "amount": ""
     },
     {
-      "name": "1 cup canned unsweetened pumpkin puree",
+      "name": "1 杯罐装不加糖南瓜泥",
       "amount": ""
     },
     {
-      "name": "0.5 cup unsalted butter, melted and cooled slightly",
+      "name": "0.5 杯无盐黄油，融化并稍微冷却",
       "amount": ""
     },
     {
-      "name": "0.25 cup buttermilk",
+      "name": "0.25 杯酪乳",
       "amount": ""
     },
     {
-      "name": "2 eggs, lightly beaten",
+      "name": "2 个鸡蛋，轻轻打散",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vanilla extract",
+      "name": "2 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "1 cup dried, sweetened cranberries",
+      "name": "1 杯干甜蔓越莓",
       "amount": ""
     }
   ],
@@ -81,28 +81,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 400 degrees F (200 degrees C). Line a 12-cup muffin tin with paper liners."
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。将 12 杯松饼罐垫上纸垫。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Mix flour, brown sugar, baking powder, cinnamon, salt, baking soda, ginger, cloves, and nutmeg together in a mixing bowl."
+      "text": "将面粉、红糖、泡打粉、肉桂、盐、小苏打、姜、丁香和肉豆蔻放入搅拌碗中混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat pumpkin puree, melted butter, buttermilk, eggs, and vanilla in another large mixing bowl until well combined. Gradually beat in flour mixture, then stir in dried cranberries until incorporated. Fill the prepared muffin cups about 3/4 full with batter."
+      "text": "将南瓜泥、融化的黄油、酪乳、鸡蛋和香草精放入另一个大搅拌碗中，搅拌均匀。逐渐加入面粉混合物，然后加入干蔓越莓搅拌直至混合。将准备好的松饼杯装满约 3/4 的面糊。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted in the middle of a muffin comes out clean, 20 to 25 minutes. Remove from the oven and let rest for a few minutes before turning muffins out onto a wire rack. Serve warm or at room temperature."
+      "text": "在预热的烤箱中烘烤 20 到 25 分钟，直到插入松饼中间的牙签干净为止。从烤箱中取出并休息几分钟，然后将松饼放在金属架上。趁热或在室温下食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-03-05",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/130700/cranberry-pumpkin-muffins/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e091c4506fcb78512c81b636df25f6a4",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "8fb04ccd51456067cb42f4d0c25e8656",
-  "title": "Best Soft Christmas Cookies",
+  "title": "最好的软圣诞饼干",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 155,
   "cover_image": "images/8f5ca7fd978501a2e13eae6747c755f0.webp",
-  "nutrition_tip": "This Christmas cookie recipe makes soft, tender cut-out sugar cookies that hold…",
+  "nutrition_tip": "这个圣诞饼干食谱可以制作柔软、嫩滑的糖饼干，可以容纳……",
   "ingredients": [
     {
-      "name": "3.75 cups all-purpose flour",
+      "name": "3.75 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon baking powder",
+      "name": "1 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1.5 cups white sugar",
+      "name": "1.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "1 cup margarine, softened",
+      "name": "1 杯人造黄油，软化",
       "amount": ""
     },
     {
-      "name": "2 eggs",
+      "name": "2 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 teaspoons vanilla extract",
+      "name": "2 茶匙香草精",
       "amount": ""
     }
   ],
@@ -44,53 +44,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Sift flour, baking powder, and salt together in a medium bowl; set aside."
+      "text": "将面粉、发酵粉和盐一起筛入一个中等大小的碗中；放在一边。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat sugar and butter in a large bowl with an electric mixer until smooth."
+      "text": "在一个大碗中用电动搅拌机将糖和黄油搅拌至光滑。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Beat first egg into butter mixture. Beat second egg into mixture along with vanilla extract; add flour mixture and stir until dough is just combined."
+      "text": "将第一个鸡蛋打入黄油混合物中。将第二个鸡蛋与香草精一起打入混合物中；加入面粉混合物并搅拌直至面团完全混合。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Wrap dough and chill in the refrigerator for 2 hours."
+      "text": "将面团包起来放入冰箱冷藏2小时。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Preheat the oven to 400 degrees F (200 degrees C). Grease two cookie sheets."
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。给两张饼干片涂上油脂。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Roll out dough on a clean floured surface to 1/4-inch thickness. Cut out shapes using Christmas cookie cutters; arrange them on the prepared cookie sheets. Gather scraps and repeat this step."
+      "text": "在干净的撒了面粉的表面上将面团擀成 1/4 英寸厚。使用圣诞饼干切刀切出形状；将它们排列在准备好的饼干片上。收集碎片并重复此步骤。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Bake in batches in the preheated oven until edges are golden, about 6 to 8 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely before frosting or decorating."
+      "text": "在预热的烤箱中分批烘烤，直至边缘呈金黄色，大约需要 6 到 8 分钟。在烤盘上短暂冷却，然后移至金属架上完全冷却，然后再进行糖霜或装饰。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "1997-11-08",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/10110/soft-christmas-cookies/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ba04f9923242d99d6483577ff60e2a14",
+    "translated": true
+  }
 }

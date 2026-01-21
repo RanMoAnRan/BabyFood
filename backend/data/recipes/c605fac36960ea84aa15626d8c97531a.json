@@ -1,6 +1,6 @@
 {
   "id": "c605fac36960ea84aa15626d8c97531a",
-  "title": "Pumpkin Cobbler",
+  "title": "南瓜馅饼",
   "min_age_month": 6,
   "tags": [
     "Dessert",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/b825aca11f6eb686fe210f9fe20d1526.webp",
-  "nutrition_tip": "This mix-and-bake pumpkin cobbler dessert has all the fall flavors you love. It&…",
+  "nutrition_tip": "这款混合烘烤南瓜馅饼甜点具有您喜欢的所有秋季风味。它&…",
   "ingredients": [
     {
-      "name": "cooking spray",
+      "name": "烹饪喷雾",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "2 large eggs, beaten",
+      "name": "2 个大鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can pumpkin puree",
+      "name": "1 罐（15 盎司）南瓜泥",
       "amount": ""
     },
     {
-      "name": "0.75 cup evaporated milk",
+      "name": "0.75 杯淡奶",
       "amount": ""
     },
     {
-      "name": "1 teaspoon orange extract",
+      "name": "1 茶匙橙子提取物",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜粉",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground cloves",
+      "name": "0.25 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 (9 ounce) package yellow cake mix (such as Jiffy® Golden Yellow cake mix)",
+      "name": "1 包（9 盎司）黄色蛋糕粉（例如 Jiffy® 金黄色蛋糕粉）",
       "amount": ""
     },
     {
-      "name": "0.25 cup unsalted butter, melted",
+      "name": "0.25 杯无盐黄油，融化",
       "amount": ""
     }
   ],
@@ -64,43 +64,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Spray an 8-inch square baking dish with cooking spray."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 8 英寸方形烤盘上喷洒烹饪喷雾。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine sugar and eggs in a bowl; whisk until light and fluffy."
+      "text": "将糖和鸡蛋放入碗中；搅拌至松软。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add pumpkin puree, evaporated milk, orange extract, cinnamon, ginger, cloves, and salt; mix until well combined."
+      "text": "加入南瓜泥、淡奶、橙汁、肉桂、生姜、丁香和盐；混合直至充分混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Pour pumpkin mixture into the prepared baking dish."
+      "text": "将南瓜混合物倒入准备好的烤盘中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Lightly sprinkle cake mix over the pumpkin mixture until completely covered."
+      "text": "将蛋糕混合物轻轻撒在南瓜混合物上，直至完全覆盖。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Slowly drizzle melted butter over cake mix. Do not stir."
+      "text": "慢慢地将融化的黄油淋在蛋糕粉上。不要搅拌。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Bake in the preheated oven until the pumpkin mixture is set and the topping is golden brown, 50 minutes to 1 hour. Let stand briefly before serving warm."
+      "text": "在预热的烤箱中烘烤 50 分钟至 1 小时，直至南瓜混合物凝固且顶部呈金黄色。趁热食用前先静置一会儿。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/230110/pumpkin-cobbler/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b602fb590d461ffdc9216742b97fe2ff",
+    "translated": true
+  }
 }

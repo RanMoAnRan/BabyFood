@@ -1,6 +1,6 @@
 {
   "id": "1e70475fd9b0dd9230cd071418d4447a",
-  "title": "Grandma Dot&#39;s Stuffing Balls",
+  "title": "点奶奶的馅球",
   "min_age_month": 8,
   "tags": [
     "Side Dish",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/9386834c1a81cde1f8ecb3e7cd4e8510.webp",
-  "nutrition_tip": "These stuffing balls are crispy outside, soft inside, and full of holiday flavor…",
+  "nutrition_tip": "这些馅球外皮酥脆，里面松软，充满了节日的味道……",
   "ingredients": [
     {
-      "name": "0.75 cup butter",
+      "name": "0.75 杯黄油",
       "amount": ""
     },
     {
-      "name": "0.5 cup diced onion",
+      "name": "0.5 杯洋葱丁",
       "amount": ""
     },
     {
-      "name": "0.5 cup diced celery",
+      "name": "0.5 杯芹菜丁",
       "amount": ""
     },
     {
-      "name": "1.5 teaspoons salt",
+      "name": "1.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 teaspoon poultry seasoning",
+      "name": "1 茶匙家禽调味料",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground black pepper",
+      "name": "0.5 茶匙黑胡椒粉",
       "amount": ""
     },
     {
-      "name": "0.5 cup chicken broth",
+      "name": "0.5 杯鸡汤",
       "amount": ""
     },
     {
-      "name": "2 large eggs",
+      "name": "2 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "10 cups cubed whole wheat bread",
+      "name": "10 杯全麦面包块",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped fresh parsley",
+      "name": "0.5 杯切碎的新鲜欧芹",
       "amount": ""
     }
   ],
@@ -56,38 +56,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with aluminum foil; grease the foil."
+      "text": "收集所有原料。将烤箱预热至 375 华氏度（190 摄氏度）。在烤盘上铺上铝箔；给箔纸涂上油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Melt butter in a large skillet over medium heat. Add onion and celery; cook and stir until softened, about 5 minutes. Stir in salt, poultry seasoning, and pepper; cook and stir until fragrant, about 1 minute. Remove from heat."
+      "text": "在大煎锅中用中火融化黄油。加入洋葱和芹菜；煮并搅拌直至变软，大约需要 5 分钟。加入盐、家禽调味料和胡椒粉搅拌；煮约1分钟，搅拌至香味四溢。从火上移开。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Meanwhile, whisk chicken broth and eggs together in a large bowl. Fold in bread cubes and parsley."
+      "text": "同时，将鸡汤和鸡蛋放入一个大碗中搅拌。拌入面包块和欧芹。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Add onion mixture to bread cubes; mix until combined."
+      "text": "将洋葱混合物加入面包块中；混合直至合并。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Use your hands to shape mixture into 24 (2-inch) balls; arrange on the prepared baking sheet."
+      "text": "用手将混合物塑造成 24 个（2 英寸）球；放在准备好的烤盘上。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven until golden and crisp, about 20 to 25 minutes. Serve warm and enjoy!"
+      "text": "在预热的烤箱中烘烤约 20 至 25 分钟，直至金黄酥脆。趁热享用吧！"
     }
   ],
   "warnings": [],
   "publish_date": "2018-06-08",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/254890/grandma-dots-stuffing-balls/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "46a6ab8be08f3a4516338aa51cc398fe",
+    "translated": true
+  }
 }

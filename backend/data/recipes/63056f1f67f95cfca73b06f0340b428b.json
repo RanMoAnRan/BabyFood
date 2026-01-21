@@ -1,6 +1,6 @@
 {
   "id": "63056f1f67f95cfca73b06f0340b428b",
-  "title": "Easy Pavlova",
+  "title": "简单巴甫洛娃",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 120,
   "cover_image": "images/8eb5e55fb45211bb8e8d9d1fd1433281.webp",
-  "nutrition_tip": "This pavlova has a crisp meringue exterior and soft, fluffy center; top with mou…",
+  "nutrition_tip": "这款巴甫洛娃具有酥脆的蛋白酥皮外层和柔软蓬松的中心；顶部有mo…",
   "ingredients": [
     {
-      "name": "4 large egg whites",
+      "name": "4 个大蛋白",
       "amount": ""
     },
     {
-      "name": "1.25 cups white sugar",
+      "name": "1.25 杯白糖",
       "amount": ""
     },
     {
-      "name": "2 teaspoons cornstarch",
+      "name": "2 茶匙玉米淀粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "1 teaspoon lemon juice",
+      "name": "1 茶匙柠檬汁",
       "amount": ""
     },
     {
-      "name": "1 pint heavy cream",
+      "name": "1 品脱浓奶油",
       "amount": ""
     },
     {
-      "name": "6 kiwi, peeled and sliced",
+      "name": "6 个猕猴桃，去皮切片",
       "amount": ""
     }
   ],
@@ -44,53 +44,58 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 300 degrees F (150 degrees C)."
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Line a baking sheet with parchment paper; draw a 9-inch circle on the parchment paper."
+      "text": "在烤盘上铺上羊皮纸；在羊皮纸上画一个 9 英寸的圆圈。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Beat egg whites in a glass, metal, or ceramic bowl until stiff but not dry. Gradually add sugar, about 1 tablespoon at a time, beating well after each addition. Continue beating until meringue is thick, white, and glossy."
+      "text": "在玻璃、金属或陶瓷碗中搅打蛋白，直至变硬但不干燥。逐渐加入糖，一次约一汤匙，每次加入后搅拌均匀。继续搅打直至蛋白霜变厚、变白、有光泽。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Gently fold in cornstarch, vanilla extract, and lemon juice."
+      "text": "轻轻拌入玉米淀粉、香草精和柠檬汁。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spoon mixture inside the circle drawn on the parchment paper. Working from the center, spread mixture toward the outside edge and build the edge slightly. This should leave a slight depression in the center."
+      "text": "用勺子将混合物放入羊皮纸上画的圆圈内。从中心开始，将混合物向外边缘涂抹，并稍微建造边缘。这应该在中心留下轻微的凹陷。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Bake in the preheated oven until meringue is dry and sounds hollow when tapped, about 1 hour. Cool on a wire rack."
+      "text": "在预热的烤箱中烘烤约 1 小时，直至蛋白酥皮变干并敲击时发出空心的声音。放在金属架上冷却。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Beat heavy cream in a medium bowl until stiff peaks form; set aside. Remove meringue from the parchment paper and place on a flat serving plate."
+      "text": "在一个中等大小的碗中搅打浓奶油，直至形成硬性峰；放在一边。从羊皮纸上取出蛋白酥皮，放在平坦的盘子上。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Fill center of meringue with whipped cream and top with kiwi slices."
+      "text": "将生奶油填入蛋白酥皮的中心，并在上面放上猕猴桃片。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Top with fruit and enjoy!"
+      "text": "上面放上水果，尽情享受吧！"
     }
   ],
   "warnings": [],
   "publish_date": "1998-04-05",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12126/easy-pavlova/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a528bb810a7510ec9e5507c7e8b7f8e6",
+    "translated": true
+  }
 }

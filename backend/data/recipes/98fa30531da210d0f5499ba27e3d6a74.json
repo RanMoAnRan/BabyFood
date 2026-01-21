@@ -1,6 +1,6 @@
 {
   "id": "98fa30531da210d0f5499ba27e3d6a74",
-  "title": "Semi-Homemade Stuffing",
+  "title": "半自制馅料",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -10,46 +10,46 @@
   "difficulty": 1,
   "time_cost": 60,
   "cover_image": "images/0708c9e9db04416412f337e968f223f7.webp",
-  "nutrition_tip": "Stuffing from a box just got a whole lot tastier! With easy upgrades (including…",
+  "nutrition_tip": "盒子里的东西变得更美味了！轻松升级（包括...",
   "ingredients": [
     {
-      "name": "1 teaspoon butter, or as needed",
+      "name": "1 茶匙黄油，或根据需要",
       "amount": ""
     },
     {
-      "name": "2 tablespoons olive oil",
+      "name": "2 汤匙橄榄油",
       "amount": ""
     },
     {
-      "name": "0.25 cup diced yellow onion",
+      "name": "0.25 杯 黄洋葱丁",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped celery",
+      "name": "0.25 杯切碎的芹菜",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped scallions",
+      "name": "0.25 杯葱花",
       "amount": ""
     },
     {
-      "name": "1 medium pear, cored and diced",
+      "name": "1 个中等大小的梨，去核并切丁",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon minced garlic",
+      "name": "0.25 茶匙蒜末",
       "amount": ""
     },
     {
-      "name": "2 (6 ounce) boxes dry bread stuffing mix",
+      "name": "2 盒（6 盎司）干面包馅料混合物",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped fresh parsley",
+      "name": "0.25 杯切碎的新鲜欧芹",
       "amount": ""
     },
     {
-      "name": "1 (32 ounce) container chicken broth",
+      "name": "1 罐（32 盎司）鸡汤",
       "amount": ""
     }
   ],
@@ -57,38 +57,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13-inch baking dish."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂黄油。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat olive oil in a skillet over medium heat. Add onion, celery, scallions, pear, and garlic; cook and stir until vegetables are tender, about 10 minutes."
+      "text": "在煎锅中用中火加热橄榄油。加入洋葱、芹菜、葱、梨和大蒜；煮约 10 分钟，搅拌直至蔬菜变软。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Place stuffing mix into a large mixing bowl. Stir in cooked vegetables and parsley. Add chicken broth, 1 cup a time, and stir until broth has been absorbed by the stuffing mix and stuffing is desired consistency."
+      "text": "将馅料混合物放入一个大搅拌碗中。拌入煮熟的蔬菜和欧芹。加入鸡汤，一次 1 杯，搅拌直至肉汤被馅料吸收，馅料达到所需的稠度。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spoon stuffing into the prepared pan."
+      "text": "用勺子将馅料放入准备好的锅中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until golden brown on top, about 30 minutes."
+      "text": "放入预热好的烤箱中烘烤约30分钟，直至表面呈金黄色。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2016-06-04",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/212704/semi-homemade-stuffing/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0008e278d078873599fe92ffd66d116b",
+    "translated": true
+  }
 }

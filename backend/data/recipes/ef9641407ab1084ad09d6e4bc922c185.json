@@ -1,6 +1,6 @@
 {
   "id": "ef9641407ab1084ad09d6e4bc922c185",
-  "title": "Double Layer Pumpkin Pie",
+  "title": "双层南瓜派",
   "min_age_month": 6,
   "tags": [
     "Dessert",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 255,
   "cover_image": "images/e9f1e192d09538807384b47a568b7870.webp",
-  "nutrition_tip": "This double layer pumpkin pie takes two dessert faves and layers them into one.…",
+  "nutrition_tip": "这个双层南瓜派将两种最爱的甜点合二为一。…",
   "ingredients": [
     {
-      "name": "1 cup cold milk",
+      "name": "1 杯冷牛奶",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can solid pack pumpkin puree",
+      "name": "1 罐（15 盎司）固体包装南瓜泥",
       "amount": ""
     },
     {
-      "name": "2 (3.5 ounce) packages instant vanilla pudding mix",
+      "name": "2 包（3.5 盎司）即食香草布丁混合物",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground ginger",
+      "name": "0.5 茶匙姜末",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground cloves",
+      "name": "0.25 茶匙丁香粉",
       "amount": ""
     },
     {
-      "name": "4 ounces cream cheese, softened",
+      "name": "4 盎司奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "1 tablespoon milk",
+      "name": "1 汤匙牛奶",
       "amount": ""
     },
     {
-      "name": "1 tablespoon white sugar",
+      "name": "1汤匙白糖",
       "amount": ""
     },
     {
-      "name": "1.5 cups frozen whipped topping, thawed",
+      "name": "1.5 杯冷冻搅打配料，解冻",
       "amount": ""
     },
     {
-      "name": "1 (9 inch) prepared graham cracker crust",
+      "name": "1 个（9 英寸）准备好的全麦饼干皮",
       "amount": ""
     }
   ],
@@ -60,33 +60,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Pour milk for pumpkin layer into large bowl. Add pumpkin puree, pudding mix, cinnamon, ginger, and cloves and whisk until thoroughly mixed. Let sit until thickened, about 5 minutes."
+      "text": "将南瓜层牛奶倒入大碗中。加入南瓜泥、布丁粉、肉桂、生姜和丁香，搅拌直至完全混合。静置约 5 分钟直至变稠。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Meanwhile, beat cream cheese, milk, and sugar for cheesecake layer in a large bowl with an electric mixer until smooth. Gently stir in whipped topping."
+      "text": "同时，将奶油芝士、牛奶和芝士蛋糕层糖放入一个大碗中，用电动搅拌机搅拌至光滑。轻轻搅拌搅打好的配料。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spoon into graham cracker crust and spread into an even layer."
+      "text": "用勺子舀入全麦饼干皮中，并铺成均匀的一层。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Spread thickened pumpkin mixture over top. Cover and refrigerate until set, at least 4 hours."
+      "text": "将浓稠的南瓜混合物铺在上面。盖上盖子并冷藏至少 4 小时直至凝固。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-11-29",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12482/double-layer-pumpkin-pie/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1d6045693825ac756df6f48fcf238972",
+    "translated": true
+  }
 }

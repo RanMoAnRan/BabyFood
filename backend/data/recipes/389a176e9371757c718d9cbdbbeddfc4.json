@@ -1,6 +1,6 @@
 {
   "id": "389a176e9371757c718d9cbdbbeddfc4",
-  "title": "Chocolate Pecan Pie",
+  "title": "巧克力山核桃派",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,38 +9,38 @@
   "difficulty": 1,
   "time_cost": 50,
   "cover_image": "images/cadd2fe1efacbd1aaf0738797cf33046.webp",
-  "nutrition_tip": "This chocolate pecan pie is just like the classic, but with chocolate chips that…",
+  "nutrition_tip": "这个巧克力山核桃派就像经典的一样，但是用巧克力片......",
   "ingredients": [
     {
-      "name": "1 cup light corn syrup",
+      "name": "1 杯淡玉米糖浆",
       "amount": ""
     },
     {
-      "name": "0.66666698455811 cup white sugar",
+      "name": "0.66666698455811 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.33333298563957 cup margarine, melted",
+      "name": "0.33333298563957 杯人造黄油，融化",
       "amount": ""
     },
     {
-      "name": "3 large eggs",
+      "name": "3 个大鸡蛋",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon salt",
+      "name": "0.5 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1.5 cups semisweet chocolate chips",
+      "name": "1.5 杯半甜巧克力片",
       "amount": ""
     },
     {
-      "name": "1 cup pecan halves",
+      "name": "1 杯半山核桃",
       "amount": ""
     },
     {
-      "name": "1 (9 inch) unbaked pie crust",
+      "name": "1 个（9 英寸）未烘烤的馅饼皮",
       "amount": ""
     }
   ],
@@ -48,33 +48,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C)."
+      "text": "收集所有原料。将烤箱预热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine corn syrup, sugar, melted butter, eggs, and salt in a mixing bowl; beat with an electric mixer until combined."
+      "text": "将玉米糖浆、糖、融化的黄油、鸡蛋和盐放入搅拌碗中；用电动搅拌机搅拌直至混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in chocolate chips and pecans. Pour mixture into unbaked pie crust."
+      "text": "加入巧克力片和山核桃。将混合物倒入未烘烤的馅饼皮中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven until crust is golden and center is set, 40 to 50 minutes."
+      "text": "在预热的烤箱中烘烤 40 至 50 分钟，直至外皮呈金黄色且中心凝固。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Cool completely on a wire rack before slicing to get the perfect gooey texture. The pie will firm as it cools."
+      "text": "在切片之前在金属架上完全冷却以获得完美的粘稠质地。馅饼冷却后会变硬。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-10-31",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13611/chocolate-pecan-pie-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "88d9a47b557393304aecbbf3c16e8fce",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "cf4f9429b54f1c95206ab64d4eded950",
-  "title": "Eggplant Rollatini",
+  "title": "茄子罗拉蒂尼",
   "min_age_month": 12,
   "tags": [
     "Dinner",
@@ -10,42 +10,42 @@
   "difficulty": 1,
   "time_cost": 45,
   "cover_image": "images/dce8ec3c2b4f30a0a80561b14142a312.webp",
-  "nutrition_tip": "This baked eggplant rollatini is made with eggplant slices stuffed with a tasty…",
+  "nutrition_tip": "这个烤茄子rollatini是用茄子片制成的，里面塞满了美味的……",
   "ingredients": [
     {
-      "name": "1 eggplant, peeled and cut lengthwise into 1/4 inch slices",
+      "name": "1 个茄子，去皮并纵向切成 1/4 英寸的片",
       "amount": ""
     },
     {
-      "name": "1 egg, beaten",
+      "name": "1 个鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "1 cup Italian seasoned bread crumbs",
+      "name": "1 杯意大利调味面包屑",
       "amount": ""
     },
     {
-      "name": "2 tablespoons olive oil",
+      "name": "2 汤匙橄榄油",
       "amount": ""
     },
     {
-      "name": "1 cup ricotta cheese",
+      "name": "1 杯意大利乳清干酪",
       "amount": ""
     },
     {
-      "name": "10 slices prosciutto",
+      "name": "10 片火腿",
       "amount": ""
     },
     {
-      "name": "1 (14 ounce) jar spaghetti sauce",
+      "name": "1 罐（14 盎司）意大利面酱",
       "amount": ""
     },
     {
-      "name": "2 cups shredded mozzarella cheese",
+      "name": "2 杯马苏里拉奶酪丝",
       "amount": ""
     },
     {
-      "name": "1 pound angel hair pasta",
+      "name": "1 磅天使发意大利面",
       "amount": ""
     }
   ],
@@ -53,43 +53,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Dip eggplant slices in egg, then coat with bread crumbs. Heat olive oil in a large skillet over medium-high heat."
+      "text": "将茄子片沾上鸡蛋液，然后裹上面包糠。在大煎锅中用中高火加热橄榄油。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Fry eggplant slices on each side until golden brown. Remove to a paper towel lined plate to drain. Preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "将茄子片两面煎至金黄色。移至内衬纸巾的盘子上沥干。将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Spread a thin layer of ricotta cheese onto each slice of eggplant. Place a slice of prosciutto onto each one. Roll up tightly, and place seam-side down in a 9x13-inch baking dish. Pour tomato pasta sauce over eggplant rolls, and top with shredded mozzarella cheese."
+      "text": "在每片茄子上铺上一层薄薄的乳清干酪。在每个火腿上放一片火腿。紧紧地卷起来，并将接缝面朝下放入 9x13 英寸的烤盘中。将番茄意大利面酱倒在茄子卷上，上面撒上切碎的马苏里拉奶酪。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake for 15 minutes in the preheated oven, until the cheese is melted and lightly browned."
+      "text": "在预热的烤箱中烘烤 15 分钟，直至奶酪融化并呈浅棕色。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "If you want to serve the eggplant rollatini on pasta, bring a large pot of lightly salted water to a boil while eggplant rolls are baking. Add pasta, and cook for 2 to 3 minutes, until tender. Drain."
+      "text": "如果您想将茄子卷放在意大利面上，请在烘烤茄子卷时将一大锅淡盐水煮沸。加入意大利面，煮 2 至 3 分钟，直至变软。流走。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Serve eggplant rolls and sauce over pasta."
+      "text": "将茄子卷和酱汁放在意大利面上。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/84774/eggplant-rollatini/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bec9400064d75e73777743213dfc10d1",
+    "translated": true
+  }
 }

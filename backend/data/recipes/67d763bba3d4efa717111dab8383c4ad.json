@@ -1,6 +1,6 @@
 {
   "id": "67d763bba3d4efa717111dab8383c4ad",
-  "title": "Louisiana Shrimp Creole",
+  "title": "路易斯安那克里奥尔虾",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -9,70 +9,70 @@
   "difficulty": 1,
   "time_cost": 35,
   "cover_image": "images/cf5dd2623b3cfe55c1640c02e115a0a7.webp",
-  "nutrition_tip": "In this tasty shrimp Creole recipe, shrimp are simmered in a tomato and green be…",
+  "nutrition_tip": "在这个美味的克里奥尔虾食谱中，虾在番茄和绿色蔬菜中慢炖......",
   "ingredients": [
     {
-      "name": "3 tablespoons butter",
+      "name": "3 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "0.5 cup finely diced onion",
+      "name": "0.5 杯切碎的洋葱",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped green bell pepper",
+      "name": "0.5 杯切碎的青椒",
       "amount": ""
     },
     {
-      "name": "0.5 cup chopped celery",
+      "name": "0.5 杯切碎的芹菜",
       "amount": ""
     },
     {
-      "name": "2 cloves garlic, minced",
+      "name": "2 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "2 tablespoons cornstarch",
+      "name": "2 汤匙玉米淀粉",
       "amount": ""
     },
     {
-      "name": "1 (14.5 ounce) can stewed tomatoes",
+      "name": "1 罐（14.5 盎司）炖西红柿",
       "amount": ""
     },
     {
-      "name": "1 (8 ounce) can tomato sauce",
+      "name": "1 罐（8 盎司）番茄酱",
       "amount": ""
     },
     {
-      "name": "1 cup water",
+      "name": "1 杯水",
       "amount": ""
     },
     {
-      "name": "1 tablespoon Worcestershire sauce",
+      "name": "1 汤匙伍斯特酱",
       "amount": ""
     },
     {
-      "name": "2 teaspoons Cajun seasoning",
+      "name": "2 茶匙卡津调味料",
       "amount": ""
     },
     {
-      "name": "1 teaspoon chili powder",
+      "name": "1 茶匙辣椒粉",
       "amount": ""
     },
     {
-      "name": "1 dash hot pepper sauce",
+      "name": "1 少许辣椒酱",
       "amount": ""
     },
     {
-      "name": "1 pound medium shrimp - peeled and deveined",
+      "name": "1 磅中型虾 - 去皮、去肠",
       "amount": ""
     },
     {
-      "name": "1 tablespoon lemon juice",
+      "name": "1 汤匙柠檬汁",
       "amount": ""
     },
     {
-      "name": "2 teaspoons chopped fresh thyme",
+      "name": "2 茶匙切碎的新鲜百里香",
       "amount": ""
     }
   ],
@@ -80,28 +80,33 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Melt butter in a 2-quart saucepan over medium heat; stir in onion, green pepper, celery, and garlic. Cook and stir until onion has softened and bell pepper is tender, about 5 to 7 minutes."
+      "text": "在 2 夸脱的平底锅中用中火融化黄油；加入洋葱、青椒、芹菜和大蒜。煮约 5 至 7 分钟，搅拌直至洋葱变软、灯笼椒变软。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Mix in cornstarch. Stir in stewed tomatoes, tomato sauce, water, Worcestershire sauce, chili powder, Cajun seasoning, and hot pepper sauce. Bring to a boil, stirring frequently."
+      "text": "加入玉米淀粉。加入炖番茄、番茄酱、水、伍斯特酱、辣椒粉、卡真调味料和辣椒酱。煮沸，经常搅拌。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir in shrimp, lemon juice, and fresh thyme; cook until shrimp are bright pink on the outside and the meat is opaque, about 5 minutes."
+      "text": "加入虾、柠檬汁和新鲜百里香；煮约 5 分钟，直至虾外部呈亮粉色且肉不透明。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-07-01",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12776/louisiana-shrimp-creole-ii/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dec97a0408de60ec319ae7384896ba60",
+    "translated": true
+  }
 }

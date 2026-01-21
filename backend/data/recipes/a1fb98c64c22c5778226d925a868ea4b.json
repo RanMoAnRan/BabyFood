@@ -1,6 +1,6 @@
 {
   "id": "a1fb98c64c22c5778226d925a868ea4b",
-  "title": "Beef Wellington",
+  "title": "惠灵顿牛肉",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 70,
   "cover_image": "images/6160aa04f0a2ba1b1bd4f5ccf968824c.webp",
-  "nutrition_tip": "Learn how to make beef Wellington with this recipe that wraps beef tenderloin an…",
+  "nutrition_tip": "学习如何用这个包裹牛里脊肉和......的食谱制作惠灵顿牛肉",
   "ingredients": [
     {
-      "name": "2.5 pounds beef tenderloin",
+      "name": "2.5 磅牛里脊肉",
       "amount": ""
     },
     {
-      "name": "4 tablespoons butter, softened, divided",
+      "name": "4 汤匙黄油，软化，分开",
       "amount": ""
     },
     {
-      "name": "2 tablespoons butter",
+      "name": "2 汤匙黄油",
       "amount": ""
     },
     {
-      "name": "1 onion, chopped",
+      "name": "1 个洋葱，切碎",
       "amount": ""
     },
     {
-      "name": "0.5 cup sliced fresh mushrooms",
+      "name": "0.5 杯切片新鲜蘑菇",
       "amount": ""
     },
     {
-      "name": "2 ounces liver pate",
+      "name": "2 盎司肝酱",
       "amount": ""
     },
     {
-      "name": "salt and pepper to taste",
+      "name": "盐和胡椒调味",
       "amount": ""
     },
     {
-      "name": "1 (17.5 ounce) package frozen puff pastry, thawed",
+      "name": "1 包（17.5 盎司）冷冻酥皮，解冻",
       "amount": ""
     },
     {
-      "name": "1 large egg yolk, beaten",
+      "name": "1 个大蛋黄，打散",
       "amount": ""
     },
     {
-      "name": "1 (10.5 ounce) can beef broth",
+      "name": "1 罐（10.5 盎司）牛肉汤",
       "amount": ""
     },
     {
-      "name": "2 tablespoons red wine",
+      "name": "2 汤匙红酒",
       "amount": ""
     }
   ],
@@ -60,63 +60,68 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 425 degrees F (220 degrees C)."
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Place beef tenderloin in a baking dish. Spread 2 tablespoons softened butter over beef."
+      "text": "将牛里脊肉放入烤盘中。将 2 汤匙软化黄油涂在牛肉上。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in the preheated oven until browned, 10 to 15 minutes. Remove beef from the pan and reserve pan juices; allow beef to cool completely."
+      "text": "在预热的烤箱中烘烤 10 至 15 分钟直至变成棕色。将牛肉从锅中取出，保留锅汁；让牛肉完全冷却。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Increase oven temperature to 450 degrees F (230 degrees C)."
+      "text": "将烤箱温度提高至 450 华氏度（230 摄氏度）。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Melt 2 tablespoons butter in a skillet over medium heat. Sauté onion and mushrooms in butter for 5 minutes. Remove from heat and let cool."
+      "text": "在煎锅中用中火融化 2 汤匙黄油。用黄油炒洋葱和蘑菇 5 分钟。从火上移开并冷却。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Mix paté and remaining 2 tablespoons softened butter together in a bowl; season with salt and pepper. Spread paté mixture over beef. Top with onion and mushroom mixture."
+      "text": "将肉酱和剩余的 2 汤匙软化黄油一起放入碗中混合；用盐和胡椒调味。将肉酱混合物涂在牛肉上。上面放上洋葱和蘑菇混合物。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Roll out puff pastry dough to about 1/4-inch thickness and place beef in the center."
+      "text": "将酥皮面团擀成约 1/4 英寸厚，将牛肉放在中间。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Fold up and seal all the edges, making sure the seams are not too thick. Place beef in a 9x13-inch baking dish, cut a few slits in the top of dough, and brush with egg yolk."
+      "text": "折叠并密封所有边缘，确保接缝不要太厚。将牛肉放入 9x13 英寸的烤盘中，在面团顶部切几条缝，刷上蛋黄。"
     },
     {
       "step_index": 9,
       "img": "",
-      "text": "Bake in the preheated oven for 10 minutes. Reduce heat to 425 degrees F (220 degrees C) and continue baking until pastry is a rich, golden brown, 10 to 15 minutes. An instant-read thermometer inserted into the center should read between 122 to 130 degrees F (50 to 54 degrees C) for medium rare. Set aside to rest."
+      "text": "放入预热好的烤箱烤10分钟。将热量降至 425 华氏度（220 摄氏度）并继续烘烤 10 到 15 分钟，直至糕点变成浓郁的金黄色。对于中等稀度，插入中心的即时读数温度计的读数应在 122 至 130 华氏度（50 至 54 摄氏度）之间。放在一边休息。"
     },
     {
       "step_index": 10,
       "img": "",
-      "text": "Meanwhile, place reserved pan juices in a small saucepan over high heat. Stir in beef broth and red wine; boil until slightly reduced, about 5 minutes. Strain and serve with beef."
+      "text": "同时，将保留的锅汁放入小平底锅中，用高温加热。加入牛肉汤和红酒搅拌均匀；煮约5分钟，直至稍微减少。过滤并与牛肉一起食用。"
     },
     {
       "step_index": 11,
       "img": "",
-      "text": "Serve hot and enjoy!"
+      "text": "趁热享用吧！"
     }
   ],
   "warnings": [],
   "publish_date": "1999-12-22",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/16899/beef-wellington/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f9e892ec19470ed23b7511fbf75fa18f",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "043624da9a477d299fba25d168e77e31",
-  "title": "Apricot Noodle Kugel",
+  "title": "杏面苦瓜",
   "min_age_month": 12,
   "tags": [
     "Side Dish",
@@ -9,50 +9,50 @@
   "difficulty": 1,
   "time_cost": 85,
   "cover_image": "images/a8894ca3344b1926f94a54f907e65561.webp",
-  "nutrition_tip": "This sweet, baked kugel recipe is made with apricot nectar, tender egg noodles,…",
+  "nutrition_tip": "这个甜的烤库格尔食谱是用杏花蜜、嫩鸡蛋面、……",
   "ingredients": [
     {
-      "name": "1 (8 ounce) package wide egg noodles",
+      "name": "1 包（8 盎司）宽鸡蛋面",
       "amount": ""
     },
     {
-      "name": "0.5 cup white sugar",
+      "name": "0.5 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.25 cup butter, softened",
+      "name": "0.25 杯黄油，软化",
       "amount": ""
     },
     {
-      "name": "3 eggs, beaten",
+      "name": "3 个鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "1 (3 ounce) package cream cheese, softened",
+      "name": "1 包（3 盎司）奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     },
     {
-      "name": "1 cup apricot nectar",
+      "name": "1 杯杏花蜜",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.5 cup golden raisins",
+      "name": "0.5 杯金色葡萄干",
       "amount": ""
     },
     {
-      "name": "1.5 cups cornflake crumbs",
+      "name": "1.5 杯玉米片面包屑",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     }
   ],
@@ -60,33 +60,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 9x9-inch baking pan."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x9 英寸的烤盘上涂上少许油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Fill a large saucepan with lightly salted water and bring to a boil. Cook egg noodles at a boil until tender yet firm to the bite, 8 to 10 minutes; drain."
+      "text": "在一个大平底锅中倒入淡盐水并煮沸。将鸡蛋面煮沸，煮8至10分钟，直至咬起来又软又硬；流走。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Combine noodles, ½ cup sugar, ¼ cup butter, eggs, cream cheese, and 1 teaspoon vanilla extract in a bowl; stir in apricot nectar and milk. Stir in raisins until evenly distributed. Transfer mixture to the prepared baking pan."
+      "text": "将面条、1/2 杯糖、1/4 杯黄油、鸡蛋、奶油干酪和 1 茶匙香草精放入碗中；加入杏花蜜和牛奶。加入葡萄干搅拌直至均匀分布。将混合物转移到准备好的烤盘中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Combine cornflake crumbs, remaining ¼ cup sugar, remaining ½ cup butter, remaining 1 teaspoon vanilla extract, and cinnamon in a bowl; spread over egg noodle mixture."
+      "text": "将玉米片屑、剩余的 1/4 杯糖、剩余的 1/2 杯黄油、剩余的 1 茶匙香草精和肉桂放入碗中混合；铺在鸡蛋面条混合物上。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until bubbly and lightly browned, about 45 minutes."
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至起泡并呈浅棕色。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/39936/apricot-noodle-kugel/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "541c2b7e86e9db51411f8d002fd81bcb",
+    "translated": true
+  }
 }

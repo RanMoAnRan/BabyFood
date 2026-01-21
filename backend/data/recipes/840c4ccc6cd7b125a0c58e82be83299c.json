@@ -1,6 +1,6 @@
 {
   "id": "840c4ccc6cd7b125a0c58e82be83299c",
-  "title": "Puerto Rican Coquito",
+  "title": "波多黎各科基托",
   "min_age_month": 12,
   "tags": [
     "Drink",
@@ -11,30 +11,30 @@
   "difficulty": 1,
   "time_cost": 70,
   "cover_image": "images/44369429f37f6ac2a695e54c39796fe1.webp",
-  "nutrition_tip": "This Puerto Rican coquito recipe, with dark rum, coconut milk, sweetened condens…",
+  "nutrition_tip": "这个波多黎各coquito食谱，用黑朗姆酒，椰奶，甜浓缩物......",
   "ingredients": [
     {
-      "name": "2 (15 ounce) cans coconut milk",
+      "name": "2 罐（15 盎司）椰奶",
       "amount": ""
     },
     {
-      "name": "1 (14 ounce) can sweetened condensed milk",
+      "name": "1 罐（14 盎司）甜炼乳",
       "amount": ""
     },
     {
-      "name": "1 cup dark rum",
+      "name": "1 杯黑朗姆酒",
       "amount": ""
     },
     {
-      "name": "0.5 cup water",
+      "name": "0.5 杯水",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground cinnamon",
+      "name": "0.5 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "1 pinch salt",
+      "name": "1 撮盐",
       "amount": ""
     }
   ],
@@ -42,18 +42,23 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Add coconut milk, sweetened condensed milk, rum, water, cinnamon, and salt to a blender."
+      "text": "将椰奶、甜炼乳、朗姆酒、水、肉桂和盐加入搅拌机中。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Blend until well combined; refrigerate for at least 1 hour, or until ready to serve."
+      "text": "搅拌直至充分混合；冷藏至少 1 小时，或直至可以食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2019-04-03",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/109906/puerto-rican-coquito/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "acc283c03cfbd860933cf450454f19fc",
+    "translated": true
+  }
 }

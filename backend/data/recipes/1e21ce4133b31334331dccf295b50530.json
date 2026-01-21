@@ -1,6 +1,6 @@
 {
   "id": "1e21ce4133b31334331dccf295b50530",
-  "title": "Baked Pumpkin Bread",
+  "title": "烤南瓜面包",
   "min_age_month": 6,
   "tags": [
     "Breakfast",
@@ -9,46 +9,46 @@
   "difficulty": 1,
   "time_cost": 70,
   "cover_image": "images/51fa08d5856b8d8c6d9c4bad9b52e830.webp",
-  "nutrition_tip": "This baked pumpkin bread recipe features buttermilk for a moist, tender crumb an…",
+  "nutrition_tip": "这个烤南瓜面包配方含有酪乳，可产生湿润、嫩滑的面包屑和……",
   "ingredients": [
     {
-      "name": "1.5 cups all-purpose flour",
+      "name": "1.5 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1.25 teaspoons baking soda",
+      "name": "1.25 茶匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 teaspoon ground cinnamon",
+      "name": "1 茶匙肉桂粉",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon ground nutmeg",
+      "name": "0.5 茶匙肉豆蔻粉",
       "amount": ""
     },
     {
-      "name": "1 cup solid pack pumpkin puree",
+      "name": "1 杯固体包装南瓜泥",
       "amount": ""
     },
     {
-      "name": "1 cup packed brown sugar",
+      "name": "1 杯包装红糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup buttermilk",
+      "name": "0.5 杯酪乳",
       "amount": ""
     },
     {
-      "name": "1 egg",
+      "name": "1 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "2 tablespoons butter, softened",
+      "name": "2 汤匙黄油，软化",
       "amount": ""
     }
   ],
@@ -56,23 +56,28 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Sift flour, baking soda, salt, cinnamon, and nutmeg into a bowl; mix well. Stir in pumpkin, brown sugar, buttermilk, egg, and butter until well blended. Pour batter into a 9x5-inch loaf pan; smooth the top."
+      "text": "将面粉、小苏打、盐、肉桂和肉豆蔻筛入碗中；搅拌均匀。加入南瓜、红糖、酪乳、鸡蛋和黄油，搅拌均匀。将面糊倒入9x5英寸的烤盘中；使顶部光滑。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into center comes out clean, about 1 hour."
+      "text": "在预热的烤箱中烘烤约 1 小时，直到插入中心的牙签拔出时干净为止。"
     }
   ],
   "warnings": [],
   "publish_date": "1998-08-14",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/6845/baked-pumpkin-bread/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6666ea73be87b7daeb25f1daacf43a88",
+    "translated": true
+  }
 }

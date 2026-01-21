@@ -1,6 +1,6 @@
 {
   "id": "edbf19d88f749a4739a340f2d893f7eb",
-  "title": "Mint Julep",
+  "title": "薄荷冰镇酒",
   "min_age_month": 12,
   "tags": [
     "Drink",
@@ -10,30 +10,30 @@
   "difficulty": 1,
   "time_cost": 10,
   "cover_image": "images/cc15a22ed3b5d25f9f800ca3a4117174.webp",
-  "nutrition_tip": "A mint julep is made with Kentucky bourbon, sweetened with simple syrup, and ser…",
+  "nutrition_tip": "薄荷冰镇酒是用肯塔基波本威士忌制成的，用简单的糖浆加甜，然后……",
   "ingredients": [
     {
-      "name": "2 cups water",
+      "name": "2 杯水",
       "amount": ""
     },
     {
-      "name": "2 cups white sugar",
+      "name": "2 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup roughly chopped fresh mint leaves",
+      "name": "0.5 杯切碎的新鲜薄荷叶",
       "amount": ""
     },
     {
-      "name": "8 cups crushed ice, or as needed",
+      "name": "8 杯碎冰，或根据需要",
       "amount": ""
     },
     {
-      "name": "32 fluid ounces Kentucky bourbon",
+      "name": "32 液量盎司肯塔基波本威士忌",
       "amount": ""
     },
     {
-      "name": "8 sprigs fresh mint for garnish",
+      "name": "8 枝新鲜薄荷装饰用",
       "amount": ""
     }
   ],
@@ -41,38 +41,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather the ingredients."
+      "text": "收集原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Make the simple syrup ahead of when you plan to serve: Bring water, sugar, and chopped mint to a boil over high heat in a small saucepan."
+      "text": "在准备上桌之前先制作简单的糖浆：将水、糖和切碎的薄荷放入小平底锅中，用高温煮沸。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Cook, stirring occasionally, until sugar is completely dissolved, 1 to 2 minutes. Remove from the heat and let cool ."
+      "text": "煮1到2分钟，偶尔搅拌，直到糖完全溶解。从火上移开并冷却。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Pour syrup through a strainer to remove mint leaves."
+      "text": "将糖浆倒入过滤器中以除去薄荷叶。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "To make the mint juleps: Fill eight glasses with crushed ice; pour 4 ounces bourbon and 1/4 cup mint syrup into each cup."
+      "text": "制作薄荷冰镇酒：在八个玻璃杯中倒入碎冰；将 4 盎司波本威士忌和 1/4 杯薄荷糖浆倒入每个杯子中​​。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Top each drink with a mint sprig."
+      "text": "在每杯饮料上放一根薄荷枝。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/49444/mint-juleps/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9aba647eaacb7ca858a7019c00825f33",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "3589eebe870ccb9c55d364537569c84f",
-  "title": "Homemade Corn Dogs",
+  "title": "自制玉米热狗",
   "min_age_month": 8,
   "tags": [
     "Dinner",
@@ -10,50 +10,50 @@
   "difficulty": 1,
   "time_cost": 40,
   "cover_image": "images/fd667b8fcf1f0aefef43a2f2adbaa9c8.webp",
-  "nutrition_tip": "Make your own corn dogs using beef frankfurters skewered on sticks, dipped in co…",
+  "nutrition_tip": "用串在棍子上的牛肉法兰克福香肠制作自己的玉米热狗，蘸上...",
   "ingredients": [
     {
-      "name": "1 cup yellow cornmeal",
+      "name": "1 杯黄玉米粉",
       "amount": ""
     },
     {
-      "name": "1 cup all-purpose flour",
+      "name": "1 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "0.25 cup white sugar",
+      "name": "0.25 杯白糖",
       "amount": ""
     },
     {
-      "name": "4 teaspoons baking powder",
+      "name": "4 茶匙泡打粉",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon salt",
+      "name": "0.25 茶匙盐",
       "amount": ""
     },
     {
-      "name": "0.125 teaspoon black pepper",
+      "name": "0.125 茶匙黑胡椒",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "1 egg",
+      "name": "1 个鸡蛋",
       "amount": ""
     },
     {
-      "name": "1 quart vegetable oil for frying",
+      "name": "1 夸脱煎炸用植物油",
       "amount": ""
     },
     {
-      "name": "2 (16 ounce) packages beef frankfurters",
+      "name": "2 包（16 盎司）牛肉法兰克福香肠",
       "amount": ""
     },
     {
-      "name": "16 wooden skewers",
+      "name": "16 根木串",
       "amount": ""
     }
   ],
@@ -61,48 +61,53 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine cornmeal, flour, sugar, baking powder, salt, and pepper in a medium bowl; stir in milk and egg to make a batter."
+      "text": "将玉米粉、面粉、糖、泡打粉、盐和胡椒粉放入一个中等大小的碗中；加入牛奶和鸡蛋搅拌成面糊。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Heat oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+      "text": "在油炸锅或大平底锅中将油加热至 375 华氏度（190 摄氏度）。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Meanwhile, pat frankfurters dry and insert a skewer into each one."
+      "text": "同时，将法兰克福香肠拍干，并在每个法兰克福香肠中插入一根串。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Roll frankfurters in batter until well coated."
+      "text": "将法兰克福香肠放入面糊中滚动，直至均匀裹上面糊。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Fry 2 or 3 corn dogs at a time in preheated oil until lightly browned, about 3 minutes."
+      "text": "在预热的油中一次煎 2 或 3 个玉米热狗，直至呈浅棕色，大约 3 分钟。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Drain on paper towels."
+      "text": "用纸巾吸干水分。"
     },
     {
       "step_index": 8,
       "img": "",
-      "text": "Serve and enjoy!"
+      "text": "上菜并享用！"
     }
   ],
   "warnings": [],
   "publish_date": "2001-05-08",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/35149/corn-dogs/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "57d06a3997b19eecb9bd1ea737860f77",
+    "translated": true
+  }
 }

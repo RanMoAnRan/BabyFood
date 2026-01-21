@@ -1,6 +1,6 @@
 {
   "id": "1b775822e4528e19dfd01b53a36540b8",
-  "title": "Fresh Cranberry Cake",
+  "title": "新鲜蔓越莓蛋糕",
   "min_age_month": 12,
   "tags": [
     "Dessert",
@@ -9,54 +9,54 @@
   "difficulty": 1,
   "time_cost": 90,
   "cover_image": "images/8f5bbabe516ddf2bb1a114c205659b49.webp",
-  "nutrition_tip": "This cranberry cake is easy to make, loaded with fresh tart cranberries, and top…",
+  "nutrition_tip": "这个蔓越莓蛋糕很容易做，里面有新鲜的酸蔓越莓，上面...",
   "ingredients": [
     {
-      "name": "2 cups all-purpose flour",
+      "name": "2 杯通用面粉",
       "amount": ""
     },
     {
-      "name": "1 tablespoon baking soda",
+      "name": "1 汤匙小苏打",
       "amount": ""
     },
     {
-      "name": "1 teaspoon salt",
+      "name": "1 茶匙盐",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "3 tablespoons butter, melted",
+      "name": "3 汤匙黄油，融化",
       "amount": ""
     },
     {
-      "name": "2 eggs, beaten",
+      "name": "2 个鸡蛋，打散",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "3 cups fresh cranberries",
+      "name": "3 杯新鲜蔓越莓",
       "amount": ""
     },
     {
-      "name": "1 cup white sugar",
+      "name": "1 杯白糖",
       "amount": ""
     },
     {
-      "name": "0.5 cup butter",
+      "name": "0.5 杯黄油",
       "amount": ""
     },
     {
-      "name": "0.5 cup heavy whipping cream",
+      "name": "0.5 杯浓奶油",
       "amount": ""
     },
     {
-      "name": "1 teaspoon vanilla extract",
+      "name": "1 茶匙香草精",
       "amount": ""
     }
   ],
@@ -64,43 +64,48 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "To make the cranberry cake: Combine flour, baking soda, and salt in a large bowl."
+      "text": "制作蔓越莓蛋糕：将面粉、小苏打和盐放入一个大碗中。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Whisk 1 cup sugar and 3 tablespoons melted butter together in a separate large bowl; add eggs and beat until smooth. Stir flour mixture and milk into egg mixture until batter is well blended."
+      "text": "将 1 杯糖和 3 汤匙融化的黄油放在一个单独的大碗中搅拌；加入鸡蛋，搅拌至光滑。将面粉混合物和牛奶搅拌到鸡蛋混合物中，直至面糊充分混合。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Fold in cranberries until just combined; pour batter into the prepared baking dish."
+      "text": "拌入蔓越莓直至完全混合；将面糊倒入准备好的烤盘中。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 30 minutes."
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至插入中心的牙签拔出时是干净的。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "To make the vanilla sauce: Heat 1 cup sugar, 1/2 cup butter, heavy cream, and vanilla extract in a saucepan over medium-low heat; cook and stir until sugar is dissolved, about 10 minutes."
+      "text": "制作香草酱：将 1 杯糖、1/2 杯黄油、浓奶油和香草精放入平底锅中，中低火加热；煮约 10 分钟，搅拌直至糖溶解。"
     },
     {
       "step_index": 7,
       "img": "",
-      "text": "Pour hot sauce over hot cake. Allow cake to cool in the baking dish for 10 minutes before removing to cool completely on a wire rack."
+      "text": "将辣酱倒在热蛋糕上。让蛋糕在烤盘中冷却 10 分钟，然后取出放在金属架上完全冷却。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/232698/fresh-cranberry-cake/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4477d154b7422939b0f9df1292caa840",
+    "translated": true
+  }
 }

@@ -1,6 +1,6 @@
 {
   "id": "6d90bb71ee1fa1c0a99f60ab58d3aa25",
-  "title": "Bacon &amp; Cheddar Green Bean Casserole",
+  "title": "培根和培根切达绿豆砂锅",
   "min_age_month": 8,
   "tags": [
     "Side Dish",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 40,
   "cover_image": "images/45727f43896f58aed57ac7e12e9c4e91.webp",
-  "nutrition_tip": "This green bean casserole with bacon and Cheddar is the perfect holiday side dis…",
+  "nutrition_tip": "这个绿豆砂锅配培根和切达干酪是完美的节日配菜......",
   "ingredients": [
     {
-      "name": "4 (14.5 ounce) cans Del Monte® Green Beans, any style, drained",
+      "name": "4 罐（14.5 盎司）Del Monte® 青豆，任何款式，沥干",
       "amount": ""
     },
     {
-      "name": "2 (10.5 ounce) cans Campbell's® Condensed Cream of Mushroom Soup",
+      "name": "2 罐（10.5 盎司）Campbell's® 浓缩奶油蘑菇汤",
       "amount": ""
     },
     {
-      "name": "2.6666667461395 cups French's® French Fried Onions, divided",
+      "name": "2.6666667461395 杯 French's® 法式炸洋葱，分开",
       "amount": ""
     },
     {
-      "name": "1 cup milk",
+      "name": "1 杯牛奶",
       "amount": ""
     },
     {
-      "name": "0.5 cup shredded Cheddar cheese, divided",
+      "name": "0.5 杯切达干酪丝，分开",
       "amount": ""
     },
     {
-      "name": "6 slices cooked bacon, divided",
+      "name": "6 片煮熟的培根，分开",
       "amount": ""
     },
     {
-      "name": "0.25 teaspoon ground black pepper",
+      "name": "0.25 茶匙黑胡椒粉",
       "amount": ""
     }
   ],
@@ -44,38 +44,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine green beans, condensed soup, milk, and pepper in a large bowl. Add 1 1/3 cups French-fried onions and 1/2 of the Cheddar cheese."
+      "text": "将青豆、浓缩汤、牛奶和胡椒粉放入一个大碗中。添加 1 1/3 杯炸洋葱和 1/2 切达干酪。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Crumble 5 slices of bacon; add to the green bean mixture and mix until well combined. Transfer to a 3-quart baking dish."
+      "text": "将 5 片培根弄碎；添加到绿豆混合物中并混合直至充分混合。转移到 3 夸脱的烤盘中。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Bake in the preheated oven for until hot and bubbly, about 25 minutes."
+      "text": "在预热的烤箱中烘烤约 25 分钟，直至变热并起泡。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Remove from the oven and stir. Sprinkle with the remaining Cheddar and onions. Crumble remaining slice of bacon over top."
+      "text": "从烤箱中取出并搅拌。撒上剩余的切达干酪和洋葱。将剩下的培根片压碎在上面。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Return to the oven and bake until onions are golden brown, about 5 more minutes."
+      "text": "返回烤箱，烘烤约 5 分钟，直到洋葱变成金黄色。"
     }
   ],
   "warnings": [],
   "publish_date": "2017-06-14",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/258600/bacon-cheddar-green-bean-casserole/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d15bf1f4b9e563fc84e12eabf2bc3558",
+    "translated": true
+  }
 }

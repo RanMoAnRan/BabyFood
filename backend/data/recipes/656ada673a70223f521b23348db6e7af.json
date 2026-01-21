@@ -1,6 +1,6 @@
 {
   "id": "656ada673a70223f521b23348db6e7af",
-  "title": "Best Cheese Ball",
+  "title": "最好的奶酪球",
   "min_age_month": 12,
   "tags": [
     "Appetizer",
@@ -9,34 +9,34 @@
   "difficulty": 1,
   "time_cost": 15,
   "cover_image": "images/cfe777f968c2e7f862eca023ed04fe93.webp",
-  "nutrition_tip": "This easy cheese ball with Cheddar, Worcestershire sauce, and pecans makes a ric…",
+  "nutrition_tip": "这个简单的奶酪球配上切达干酪、伍斯特沙司和山核桃，可以做成米饭……",
   "ingredients": [
     {
-      "name": "3 (8 ounce) packages cream cheese, softened",
+      "name": "3 包（8 盎司）奶油干酪，软化",
       "amount": ""
     },
     {
-      "name": "1 tablespoon Worcestershire sauce",
+      "name": "1 汤匙伍斯特酱",
       "amount": ""
     },
     {
-      "name": "1 tablespoon hot pepper sauce",
+      "name": "1汤匙辣椒酱",
       "amount": ""
     },
     {
-      "name": "0.5 teaspoon minced garlic",
+      "name": "0.5 茶匙蒜末",
       "amount": ""
     },
     {
-      "name": "1 pound shredded Cheddar cheese",
+      "name": "1 磅切达干酪丝",
       "amount": ""
     },
     {
-      "name": "1 cup finely chopped pecans",
+      "name": "1 杯切碎的山核桃",
       "amount": ""
     },
     {
-      "name": "0.25 cup finely chopped fresh parsley",
+      "name": "0.25 杯切碎的新鲜欧芹",
       "amount": ""
     }
   ],
@@ -44,38 +44,43 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Combine cream cheese, Worcestershire sauce, hot pepper sauce, and garlic in a food processor. Blend until smooth and well combined."
+      "text": "将奶油奶酪、伍斯特沙司、辣椒酱和大蒜放入食品加工机中混合。搅拌直至光滑并充分混合。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Add Cheddar cheese and process until Cheddar is finely chopped but still very visible."
+      "text": "添加切达干酪并加工，直到切达干酪切碎但仍然非常明显。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Remove mixture from the food processor and shape into 3 or 4 balls. Place on a baking sheet or plate and freeze for about 15 minutes to firm slightly."
+      "text": "将混合物从食品加工机中取出并塑造成 3 或 4 个球。放在烤盘或烤盘上，冷冻约 15 分钟，使其稍微变硬。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Combine pecans and parsley in a shallow bowl. Remove chilled cheese balls from the freezer and roll in the pecan-parsley mixture until well coated."
+      "text": "将山核桃和欧芹放入浅碗中。从冰箱中取出冷冻奶酪球，然后在山核桃欧芹混合物中滚动，直至涂好。"
     },
     {
       "step_index": 6,
       "img": "",
-      "text": "Serve immediately, or wrap nut-coated cheese balls tightly in plastic wrap and then in aluminum foil. Freeze for up to 1 month."
+      "text": "立即食用，或将坚果涂层奶酪球用保鲜膜紧紧包裹，然后用铝箔包裹。冷冻最多 1 个月。"
     }
   ],
   "warnings": [],
   "publish_date": "2008-06-30",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/16600/herman-reunion-cheese-ball/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8de85bbf98407091e99f42e62ca0d087",
+    "translated": true
+  }
 }

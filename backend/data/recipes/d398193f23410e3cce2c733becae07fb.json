@@ -1,6 +1,6 @@
 {
   "id": "d398193f23410e3cce2c733becae07fb",
-  "title": "Chicken Tortilla Soup",
+  "title": "鸡肉玉米饼汤",
   "min_age_month": 8,
   "tags": [
     "Soup",
@@ -9,78 +9,78 @@
   "difficulty": 1,
   "time_cost": 40,
   "cover_image": "images/4d93184ad15f0932f3d67cee5605e527.webp",
-  "nutrition_tip": "This chicken tortilla soup with tender chicken, black beans, chiles, and corn is…",
+  "nutrition_tip": "这道鸡肉玉米饼汤里有嫩鸡肉、黑豆、辣椒和玉米……",
   "ingredients": [
     {
-      "name": "1 tablespoon olive oil",
+      "name": "1 汤匙橄榄油",
       "amount": ""
     },
     {
-      "name": "1 medium onion, chopped",
+      "name": "1 个中等大小的洋葱，切碎",
       "amount": ""
     },
     {
-      "name": "3 cloves garlic, minced",
+      "name": "3 瓣大蒜，切碎",
       "amount": ""
     },
     {
-      "name": "1 (28 ounce) can crushed tomatoes",
+      "name": "1 罐（28 盎司）碎番茄",
       "amount": ""
     },
     {
-      "name": "1 (10.5 ounce) can condensed chicken broth",
+      "name": "1 罐（10.5 盎司）浓缩鸡汤",
       "amount": ""
     },
     {
-      "name": "1.25 cups water",
+      "name": "1.25 杯水",
       "amount": ""
     },
     {
-      "name": "2 teaspoons chili powder",
+      "name": "2 茶匙辣椒粉",
       "amount": ""
     },
     {
-      "name": "1 teaspoon dried oregano",
+      "name": "1 茶匙干牛至",
       "amount": ""
     },
     {
-      "name": "1 (15 ounce) can black beans, rinsed and drained",
+      "name": "1 罐（15 盎司）黑豆，冲洗并沥干",
       "amount": ""
     },
     {
-      "name": "2 large boneless chicken breast halves, cooked and cut into bite-sized pieces",
+      "name": "2 个大的去骨鸡胸肉，煮熟并切成一口大小的块",
       "amount": ""
     },
     {
-      "name": "1 cup whole corn kernels, cooked",
+      "name": "1 杯完整玉米粒，煮熟",
       "amount": ""
     },
     {
-      "name": "1 cup white hominy",
+      "name": "1 杯白色玉米粥",
       "amount": ""
     },
     {
-      "name": "1 (4 ounce) can chopped green chile peppers",
+      "name": "1 罐（4 盎司）切碎的青辣椒",
       "amount": ""
     },
     {
-      "name": "0.25 cup chopped fresh cilantro",
+      "name": "0.25 杯切碎的新鲜香菜",
       "amount": ""
     },
     {
-      "name": "0.5 cup crushed tortilla chips, or to taste",
+      "name": "0.5 杯碎玉米片，或品尝",
       "amount": ""
     },
     {
-      "name": "2 medium avocados, sliced, or to taste",
+      "name": "2 个中等大小的牛油果，切片，或适量",
       "amount": ""
     },
     {
-      "name": "0.5 cup shredded Monterey Jack cheese, or to taste",
+      "name": "0.5 杯切碎的蒙特利杰克奶酪，或品尝",
       "amount": ""
     },
     {
-      "name": "2 tablespoons chopped green onions, or to taste",
+      "name": "2 汤匙切碎的葱，或品尝",
       "amount": ""
     }
   ],
@@ -88,33 +88,38 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "Gather all ingredients."
+      "text": "收集所有原料。"
     },
     {
       "step_index": 2,
       "img": "",
-      "text": "Heat oil in a stockpot over medium heat. Add onion and garlic; sauté until soft, about 5 minutes. Stir in chili powder and oregano."
+      "text": "在汤锅中用中火加热油。加入洋葱和大蒜；炒至软，约5分钟。加入辣椒粉和牛至。"
     },
     {
       "step_index": 3,
       "img": "",
-      "text": "Stir in crushed tomatoes, condensed broth, and water; bring to a boil. Reduce heat and simmer for 5 to 10 minutes."
+      "text": "拌入碎番茄、浓缩肉汤和水；煮沸。减少热量并煮 5 至 10 分钟。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "Stir in black beans, cooked chicken, corn, hominy, chile peppers, and cilantro. Simmer for 10 minutes."
+      "text": "加入黑豆、煮熟的鸡肉、玉米、玉米粥、智利辣椒和香菜。煮10分钟。"
     },
     {
       "step_index": 5,
       "img": "",
-      "text": "Ladle soup into individual serving bowls, and top with crushed tortilla chips, avocado slices, Monterey Jack cheese, and green onions."
+      "text": "将汤舀入单独的碗中，并在上面放上压碎的玉米饼片、鳄梨片、蒙特利杰克奶酪和葱。"
     }
   ],
   "warnings": [],
   "publish_date": "1999-01-25",
-  "updated_at": "2026-01-21T05:10:13Z",
+  "updated_at": "2026-01-21T06:41:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13351/chicken-tortilla-soup-i/",
   "origin_url": "",
-  "source_name": "Allrecipes"
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "148c34b90183639bd5b8cef6967a05ab",
+    "translated": true
+  }
 }
