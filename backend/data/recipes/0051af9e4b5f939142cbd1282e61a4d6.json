@@ -1,0 +1,142 @@
+{
+  "id": "0051af9e4b5f939142cbd1282e61a4d6",
+  "title": "White Cheese Chicken Lasagna",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/b67ba06ea5de00be7066718315f0ae3f.webp",
+  "nutrition_tip": "This cheesy chicken lasagna with spinach uses a creamy white sauce that&#39;s ma…",
+  "ingredients": [
+    {
+      "name": "9 lasagna noodles",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup butter",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "2 cups chicken broth",
+      "amount": ""
+    },
+    {
+      "name": "1.5 cups milk",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "4 cups shredded mozzarella cheese, divided",
+      "amount": ""
+    },
+    {
+      "name": "1 cup grated Parmesan cheese, divided",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon dried basil",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "2 cups ricotta cheese",
+      "amount": ""
+    },
+    {
+      "name": "2 cups cubed, cooked chicken meat",
+      "amount": ""
+    },
+    {
+      "name": "2 (10 ounce) packages frozen chopped spinach, thawed and drained",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon chopped fresh parsley",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Bring a large pot of lightly salted water to a boil. Add lasagna noodles and cook for 8 to 10 minutes or until al dente; drain and rinse with cold water."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Meanwhile, melt butter in a large saucepan over medium heat; stir in onion and garlic. Whisk in flour until lightly browned and onion is tender, about 2 minutes. Add chicken broth, milk, and salt; cook, whisking continuously, for 1 minute."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Stir in 2 cups mozzarella and 1/4 cup Parmesan until well combined. Season with basil, oregano, and black pepper; remove from heat and set aside."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Spread 1/3 of the sauce mixture in the bottom of a 9x13-inch baking dish."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Layer with 3 lasagna noodles, ricotta, and chicken."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Arrange 3 lasagna noodles over the chicken and layer with 1/3 of the sauce mixture, spinach, remaining 2 cups mozzarella, and 1/2 cup Parmesan."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Arrange remaining noodles over cheese and spread remaining sauce evenly over noodles. Sprinkle with parsley and remaining 1/4 cup Parmesan."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Bake in the preheated oven for 35 to 40 minutes."
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "Serve and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-06-29",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/8758/white-cheese-chicken-lasagna/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

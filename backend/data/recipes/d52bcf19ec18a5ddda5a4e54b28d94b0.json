@@ -1,0 +1,100 @@
+{
+  "id": "d52bcf19ec18a5ddda5a4e54b28d94b0",
+  "title": "Porcupine Meatballs",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/8b87ca6d5ab02c92719267930bcf3dc3.webp",
+  "nutrition_tip": "These porcupine meatballs made with ground beef and onion and filled with little…",
+  "ingredients": [
+    {
+      "name": "1 pound ground beef",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup uncooked white rice",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup water",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 cup chopped onion",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon celery salt",
+      "amount": ""
+    },
+    {
+      "name": "0.125 teaspoon garlic powder",
+      "amount": ""
+    },
+    {
+      "name": "0.125 teaspoon ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon canola oil",
+      "amount": ""
+    },
+    {
+      "name": "1 (15 ounce) can tomato sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 cup low-sodium chicken stock, or more as needed",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons Worcestershire sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon granulated sugar",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Mix ground beef, rice, water, onion, salt, celery salt, garlic powder, and black pepper thoroughly in a bowl until well combined. Roll mixture into 12 meatballs."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Heat oil in a large skillet over medium-high heat. Place meatballs into the hot skillet; cook, turning once halfway through cooking, until well browned, about 8 minutes. Drain and discard excess grease."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Pour tomato sauce, chicken stock, Worcestershire sauce, and sugar into the skillet; reduce heat to medium-low. Cover and simmer until meatballs are no longer pink in the center and rice is tender, about 45 minutes. Stir in more stock if sauce becomes too dry."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/218493/melindas-porcupine-meatballs/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

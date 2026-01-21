@@ -1,0 +1,95 @@
+{
+  "id": "cf4f9429b54f1c95206ab64d4eded950",
+  "title": "Eggplant Rollatini",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/dce8ec3c2b4f30a0a80561b14142a312.webp",
+  "nutrition_tip": "This baked eggplant rollatini is made with eggplant slices stuffed with a tasty…",
+  "ingredients": [
+    {
+      "name": "1 eggplant, peeled and cut lengthwise into 1/4 inch slices",
+      "amount": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": ""
+    },
+    {
+      "name": "1 cup Italian seasoned bread crumbs",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 cup ricotta cheese",
+      "amount": ""
+    },
+    {
+      "name": "10 slices prosciutto",
+      "amount": ""
+    },
+    {
+      "name": "1 (14 ounce) jar spaghetti sauce",
+      "amount": ""
+    },
+    {
+      "name": "2 cups shredded mozzarella cheese",
+      "amount": ""
+    },
+    {
+      "name": "1 pound angel hair pasta",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Dip eggplant slices in egg, then coat with bread crumbs. Heat olive oil in a large skillet over medium-high heat."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Fry eggplant slices on each side until golden brown. Remove to a paper towel lined plate to drain. Preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Spread a thin layer of ricotta cheese onto each slice of eggplant. Place a slice of prosciutto onto each one. Roll up tightly, and place seam-side down in a 9x13-inch baking dish. Pour tomato pasta sauce over eggplant rolls, and top with shredded mozzarella cheese."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake for 15 minutes in the preheated oven, until the cheese is melted and lightly browned."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "If you want to serve the eggplant rollatini on pasta, bring a large pot of lightly salted water to a boil while eggplant rolls are baking. Add pasta, and cook for 2 to 3 minutes, until tender. Drain."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Serve eggplant rolls and sauce over pasta."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/84774/eggplant-rollatini/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

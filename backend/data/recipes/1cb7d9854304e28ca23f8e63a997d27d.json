@@ -1,0 +1,80 @@
+{
+  "id": "1cb7d9854304e28ca23f8e63a997d27d",
+  "title": "南瓜软糖",
+  "min_age_month": 12,
+  "tags": [
+    "Candy",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/33b1ee816132abe680aa496454851bd7.webp",
+  "nutrition_tip": "这个南瓜软糖配方由白巧克力片、棉花糖奶油、ca…",
+  "ingredients": [
+    {
+      "name": "2.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯淡奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯南瓜罐头",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "7 盎司棉花糖奶油",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙黄油，室温",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在9英寸方形烤盘上铺上铝箔；涂上烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和牛奶放入 3 夸脱的平底锅中，中火加热，偶尔用木勺搅拌；将糖果温度计连接到平底锅上，将混合物煮沸。加入南瓜泥和肉桂粉；重新煮沸。不断搅拌，直至混合物达到 238 华氏度（114 摄氏度），大约需要 18 分钟。稍微冷却5分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将白巧克力片放入一个大碗中：将软糖混合物倒在上面，放在一边直至白巧克力软化，需要 5 分钟。搅拌至光滑。加入棉花糖奶油、黄油和香草精，搅拌直至黄油融化且混合物变得光滑。倒入准备好的锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "冷软糖，大约 1 小时。切成正方形。存放在阴凉、干燥的地方。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-20T09:50:28Z",
+  "source_url": "https://www.allrecipes.com/recipe/9432/pumpkin-fudge/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ebd9f6752bbbd0156e2f79f63908b374",
+    "translated": true
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "e3fb8802531014e23c4c5603e64cdc3f",
+  "title": "Hot Italian Giardiniera",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 3405,
+  "cover_image": "images/31b83b3ec8fbcff8813d0caec6a057fa.webp",
+  "nutrition_tip": "Hot Italian giardiniera made by pickling peppers, jalapeños, cauliflower, and ol…",
+  "ingredients": [
+    {
+      "name": "2 green bell peppers, diced",
+      "amount": ""
+    },
+    {
+      "name": "2 red bell peppers, diced",
+      "amount": ""
+    },
+    {
+      "name": "8 fresh jalapeno peppers, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 celery stalk, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 medium carrot, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 small onion, chopped",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup fresh cauliflower florets",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup salt",
+      "amount": ""
+    },
+    {
+      "name": "1 (5 ounce) jar pimento-stuffed green olives, chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon dried oregano",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 cup white vinegar",
+      "amount": ""
+    },
+    {
+      "name": "1 cup olive oil",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place green and red peppers, jalapeños, celery, carrots, onion, and cauliflower in a large bowl. Stir in salt, then fill with enough cold water to cover. Place plastic wrap or aluminum foil over the bowl; refrigerate for 8 hours to overnight."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Drain salty water; rinse vegetables and set aside."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Mix together olives, garlic, oregano, red pepper flakes, and black pepper in a medium bowl. Pour in vinegar and olive oil; mix well. Combine with vegetable mixture; cover and refrigerate for 2 days before using."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/81581/hot-italian-giardiniera/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

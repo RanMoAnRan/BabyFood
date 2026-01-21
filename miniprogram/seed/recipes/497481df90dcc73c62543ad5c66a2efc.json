@@ -1,0 +1,93 @@
+{
+  "id": "497481df90dcc73c62543ad5c66a2efc",
+  "title": "Hot Spinach Artichoke Dip",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/5f117d0b93319fcfe91716b5624d9f7c.webp",
+  "nutrition_tip": "This spinach artichoke dip is deliciously cheesy, creamy, and easy to make! Serv…",
+  "ingredients": [
+    {
+      "name": "1 (8 ounce) package cream cheese, softened",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup mayonnaise",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup grated Romano cheese",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, peeled and minced",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon dried basil",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon garlic salt",
+      "amount": ""
+    },
+    {
+      "name": "salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "1 (14 ounce) can artichoke hearts, drained and chopped",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup frozen chopped spinach, thawed and drained",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup shredded mozzarella cheese",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a small baking dish."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Mix cream cheese, mayonnaise, Parmesan cheese, Romano cheese, garlic, basil, garlic salt, salt, and pepper together in a medium bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Gently stir in artichoke hearts and spinach."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Transfer the mixture to the prepared baking dish; top with mozzarella cheese."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake in the preheated oven until bubbly and lightly browned, about 25 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/26819/hot-artichoke-and-spinach-dip-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

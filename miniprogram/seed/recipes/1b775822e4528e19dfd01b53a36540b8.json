@@ -1,0 +1,106 @@
+{
+  "id": "1b775822e4528e19dfd01b53a36540b8",
+  "title": "Fresh Cranberry Cake",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/8f5bbabe516ddf2bb1a114c205659b49.webp",
+  "nutrition_tip": "This cranberry cake is easy to make, loaded with fresh tart cranberries, and top…",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon baking soda",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons butter, melted",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs, beaten",
+      "amount": ""
+    },
+    {
+      "name": "1 cup milk",
+      "amount": ""
+    },
+    {
+      "name": "3 cups fresh cranberries",
+      "amount": ""
+    },
+    {
+      "name": "1 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup butter",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup heavy whipping cream",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "To make the cranberry cake: Combine flour, baking soda, and salt in a large bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Whisk 1 cup sugar and 3 tablespoons melted butter together in a separate large bowl; add eggs and beat until smooth. Stir flour mixture and milk into egg mixture until batter is well blended."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Fold in cranberries until just combined; pour batter into the prepared baking dish."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 30 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "To make the vanilla sauce: Heat 1 cup sugar, 1/2 cup butter, heavy cream, and vanilla extract in a saucepan over medium-low heat; cook and stir until sugar is dissolved, about 10 minutes."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Pour hot sauce over hot cake. Allow cake to cool in the baking dish for 10 minutes before removing to cool completely on a wire rack."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/232698/fresh-cranberry-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

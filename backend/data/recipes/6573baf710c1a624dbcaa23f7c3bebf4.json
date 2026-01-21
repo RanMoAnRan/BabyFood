@@ -1,0 +1,70 @@
+{
+  "id": "6573baf710c1a624dbcaa23f7c3bebf4",
+  "title": "Homemade Apple Cider",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "U.S.",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 195,
+  "cover_image": "images/68457923727845ae60f7d780a49abc4b.webp",
+  "nutrition_tip": "This apple cider recipe is simple to make at home by slow-cooking apples, sugar,…",
+  "ingredients": [
+    {
+      "name": "10 large apples, quartered",
+      "amount": ""
+    },
+    {
+      "name": "water, to cover",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon ground allspice",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place apples in a large stockpot; cover with water by at least 2 inches. Stir in sugar, cinnamon, and allspice. Bring to a boil over medium-high heat. Boil, uncovered, for 1 hour. Reduce heat to low; cover and simmer for 2 hours."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Strain apple mixture through a fine-mesh sieve; discard solids. Drain cider again through a cheesecloth-lined sieve."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Serve warm or refrigerate cider until cold."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/211772/homemade-apple-cider/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

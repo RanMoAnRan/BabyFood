@@ -1,0 +1,132 @@
+{
+  "id": "272e285e461395daaebb68358df3321d",
+  "title": "German Lebkuchen",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "German"
+  ],
+  "difficulty": 1,
+  "time_cost": 510,
+  "cover_image": "images/e2343cc9f8148070ba9d79fa37864f74.webp",
+  "nutrition_tip": "Lebkuchen are traditional German Christmas spice cookies flavored with honey, ca…",
+  "ingredients": [
+    {
+      "name": "0.75 cup brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup honey",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup dark molasses",
+      "amount": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": ""
+    },
+    {
+      "name": "3 cups sifted all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1.25 teaspoons ground nutmeg",
+      "amount": ""
+    },
+    {
+      "name": "1.25 teaspoons ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground cloves",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground allspice",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon baking soda",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup slivered almonds",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup candied mixed fruit peel, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 egg white, beaten",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon lemon zest",
+      "amount": ""
+    },
+    {
+      "name": "1.5 cups sifted confectioners' sugar",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Beat brown sugar, honey, and egg in a large bowl with an electric mixer until smooth; stir in molasses."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine flour, nutmeg, cinnamon, cloves, allspice, and baking soda in a separate bowl; stir into the molasses mixture to form a sticky dough. Stir in almonds and candied fruit peel. Cover dough and chill overnight."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Preheat the oven to 400 degrees F (200 degrees C). Grease or line cookie sheets. Roll out dough on a lightly floured surface to a thickness of 1/4 inch."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Cut into 2x3-inch rectangles. Place cookies 1 ½ inches apart on prepared cookie sheets."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Bake in the preheated oven until lightly browned, about 10 to 12 minutes."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "While the cookies are baking, make the glaze: Stir egg white, lemon juice, and lemon zest together in a small bowl. Mix in confectioners&#39; sugar until smooth."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Brush glaze over cookies while they are still warm."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Transfer cookies to a wire rack to cool and set completely before storing in a single layer in airtight containers."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-04",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/25827/german-lebkuchen/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

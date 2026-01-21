@@ -3,12 +3,13 @@ import hashlib
 import json
 import os
 import re
+import signal
 from datetime import datetime, timezone
 
 import requests
 from PIL import Image
 
-from sources import myplate_gov, nutrition_gov
+from sources import allrecipes_com, nutrition_gov
 try:
     from utils.translator import translate_text
 except Exception:  # pragma: no cover
@@ -20,8 +21,20 @@ DATA_DIR = os.path.join(BACKEND_DIR, "data")
 RECIPES_DIR = os.path.join(DATA_DIR, "recipes")
 IMAGES_DIR = os.path.join(DATA_DIR, "images")
 
+_STOP_REQUESTED = False
 _RE_CHINESE = re.compile(r"[\u4e00-\u9fff]")
 _RE_ASCII_LETTER = re.compile(r"[A-Za-z]")
+
+
+def _install_interrupt_handler() -> None:
+    def _handler(signum, frame):
+        global _STOP_REQUESTED
+        if _STOP_REQUESTED:
+            raise KeyboardInterrupt
+        _STOP_REQUESTED = True
+        print("stop requested: finishing current item then writing partial results...", flush=True)
+
+    signal.signal(signal.SIGINT, _handler)
 
 
 def utc_now_iso() -> str:
@@ -424,6 +437,7 @@ def build_nutrition_gov_data(
     download_images: bool,
     *,
     verbose: bool = False,
+    allow_partial: bool = False,
 ) -> tuple[dict, dict, dict]:
     session = new_session()
 
@@ -438,6 +452,9 @@ def build_nutrition_gov_data(
     latest = []
 
     for slug in slugs:
+        if allow_partial and _STOP_REQUESTED:
+            print("[nutrition_gov] stop requested; skip remaining recipes.", flush=True)
+            break
         i = len(items) + 1
         total = len(slugs)
         if verbose or total <= 10 or i == 1 or i == total or i % 20 == 0:
@@ -521,36 +538,40 @@ def build_nutrition_gov_data(
     return manifest, index, details_by_id
 
 
-def build_myplate_gov_data(
+def build_allrecipes_com_data(
     limit: int | None,
     max_pages: int,
     download_images: bool,
     *,
     verbose: bool = False,
+    allow_partial: bool = False,
 ) -> tuple[dict, dict, dict]:
     session = new_session()
 
-    print(f"[myplate_gov] 列表抓取中… max_pages={max_pages}", flush=True)
-    slugs = myplate_gov.list_recipe_slugs(session, max_pages=max_pages, verbose=verbose)
+    print(f"[allrecipes_com] 列表抓取中… max_pages={max_pages}", flush=True)
+    slugs = allrecipes_com.list_recipe_slugs(session, max_pages=max_pages, verbose=verbose)
     if limit:
         slugs = slugs[:limit]
-    print(f"[myplate_gov] 获取到 {len(slugs)} 条 recipe 入口", flush=True)
+    print(f"[allrecipes_com] 获取到 {len(slugs)} 条 recipe 入口", flush=True)
     if not slugs:
-        print("[myplate_gov] 提示：若持续为 0，多半是 www.myplate.gov 访问超时/被拦；可加 --verbose 看具体失败原因。", flush=True)
+        print("[allrecipes_com] 提示：若持续为 0，请检查站点访问/robots 限制或尝试 --verbose。", flush=True)
 
     items = []
     details_by_id = {}
     latest = []
 
     for slug in slugs:
+        if allow_partial and _STOP_REQUESTED:
+            print("[allrecipes_com] stop requested; skip remaining recipes.", flush=True)
+            break
         i = len(items) + 1
         total = len(slugs)
         if verbose or total <= 10 or i == 1 or i == total or i % 20 == 0:
-            print(f"[myplate_gov] 抓取详情 {i}/{total}: {slug}", flush=True)
+            print(f"[allrecipes_com] 抓取详情 {i}/{total}: {slug}", flush=True)
         try:
-            pr = myplate_gov.fetch_recipe(session, slug)
+            pr = allrecipes_com.fetch_recipe(session, slug)
         except Exception as e:
-            print(f"warn: myplate_gov fetch failed: {slug}: {e}")
+            print(f"warn: allrecipes_com fetch failed: {slug}: {e}")
             continue
         rid = md5(pr.source_url)
 
@@ -558,7 +579,7 @@ def build_myplate_gov_data(
         if download_images and cover:
             cover = download_and_convert_cover(session, cover)
 
-        tags = myplate_gov.map_tags(pr.meal_types, pr.categories, pr.food_groups)
+        tags = allrecipes_com.map_tags(pr.meal_types, pr.categories, pr.food_groups)
         min_age_month = infer_min_age_month(pr.title, pr.description, pr.ingredients, tags)
 
         publish_date = parse_iso_date(pr.publish_date) or "1970-01-01"
@@ -573,7 +594,7 @@ def build_myplate_gov_data(
             "time_cost": time_cost,
             "cover_image": cover,
             "publish_date": publish_date,
-            "source_name": "MyPlate Kitchen (USDA)",
+            "source_name": "Allrecipes",
         }
         items.append(index_item)
 
@@ -597,7 +618,7 @@ def build_myplate_gov_data(
             "updated_at": "",
             "source_url": pr.source_url,
             "origin_url": pr.origin_url,
-            "source_name": "MyPlate Kitchen (USDA)",
+            "source_name": "Allrecipes",
         }
         details_by_id[rid] = detail
         latest.append((publish_date, rid))
@@ -607,7 +628,7 @@ def build_myplate_gov_data(
     latest.sort(reverse=True)
     latest_ids = [rid for _, rid in latest[:10]]
 
-    print(f"[myplate_gov] 解析完成：{len(items)} 条", flush=True)
+    print(f"[allrecipes_com] 解析完成：{len(items)} 条", flush=True)
 
     manifest = {
         "version": "",
@@ -615,9 +636,9 @@ def build_myplate_gov_data(
         "recipe_count": len(items),
         "latest_ids": latest_ids,
         "source": {
-            "name": "MyPlate Kitchen (USDA)",
-            "base_url": "https://www.myplate.gov/myplate-kitchen/recipes",
-            "note": "MyPlate.gov 为 USDA 站点；上线前建议保留 source_url/origin_url 并核对可再分发范围。",
+            "name": "Allrecipes",
+            "base_url": "https://www.allrecipes.com/recipes/",
+            "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。",
         },
     }
 
@@ -631,6 +652,8 @@ def build_all_data(
     download_images: bool,
     *,
     verbose: bool = False,
+    allow_partial: bool = False,
+    allrecipes_limit: int | None = None,
 ) -> tuple[dict, dict, dict]:
     items: list[dict] = []
     details_by_id: dict[str, dict] = {}
@@ -639,21 +662,29 @@ def build_all_data(
     remaining = limit
     build_fns = [
         ("nutrition_gov", build_nutrition_gov_data),
-        ("myplate_gov", build_myplate_gov_data),
+        ("allrecipes_com", build_allrecipes_com_data),
     ]
 
     for name, fn in build_fns:
         src_limit = remaining if remaining is not None else None
+        if name == "allrecipes_com" and allrecipes_limit is not None:
+            if src_limit is None:
+                src_limit = allrecipes_limit
+            else:
+                src_limit = min(src_limit, allrecipes_limit)
         try:
             src_manifest, src_index, src_details = fn(
                 limit=src_limit,
                 max_pages=max_pages,
                 download_images=download_images,
                 verbose=verbose,
+                allow_partial=allow_partial,
             )
         except Exception as e:
             print(f"warn: skip {name}: {e}")
             continue
+        if allow_partial and _STOP_REQUESTED:
+            break
 
         src = src_manifest.get("source")
         if isinstance(src, dict):
@@ -702,9 +733,9 @@ def build_all_data(
             sources[0]
             if len(sources) == 1
             else {
-                "name": "Nutrition.gov + MyPlate Kitchen (USDA)",
+                "name": "Multi-source recipes",
                 "base_url": "",
-                "note": "聚合多个 USDA 站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。",
+                "note": "聚合多个站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。",
             }
         ),
     }
@@ -719,19 +750,26 @@ def main():
     - 后续：替换为真实抓取逻辑（目标站解析、图片下载压缩、去重、增量写入等）
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument("--site", default="all", choices=["all", "nutrition_gov", "myplate_gov"])
+    parser.add_argument(
+        "--site",
+        default="all",
+        choices=["all", "nutrition_gov", "allrecipes_com"],
+    )
     parser.add_argument("--limit", type=int, default=0, help="仅抓取前 N 条（0 表示全量）")
     parser.add_argument("--max-pages", type=int, default=20, help="最多翻页数（每页 24 条）")
+    parser.add_argument("--allrecipes-limit", type=int, default=200, help="Allrecipes 最多抓取 N 条（0 表示不限制）")
     parser.add_argument("--no-images", action="store_true", help="跳过图片下载（调试用）")
     parser.add_argument("--no-translate", action="store_true", help="跳过中文翻译（默认会翻译详情文本）")
     parser.add_argument("--verbose", action="store_true", help="打印抓取进度")
     parser.add_argument("--dry-run", action="store_true", help="只抓取与解析，不落盘写文件")
+    parser.add_argument("--allow-partial", action="store_true", help="中断时写入已抓取的部分数据")
     args = parser.parse_args()
 
     print(
         f"run: site={args.site} limit={args.limit or 0} max_pages={args.max_pages} "
         f"images={'off' if args.no_images else 'on'} translate={'off' if args.no_translate else 'on'} "
-        f"dry_run={'yes' if args.dry_run else 'no'}",
+        f"dry_run={'yes' if args.dry_run else 'no'} allrecipes_limit={args.allrecipes_limit} "
+        f"partial={'yes' if args.allow_partial else 'no'}",
         flush=True,
     )
 
@@ -744,7 +782,19 @@ def main():
     old_index = read_json(index_path, {})
 
     limit = args.limit or None
+    allrecipes_limit = args.allrecipes_limit or None
+    if allrecipes_limit is not None and allrecipes_limit <= 0:
+        allrecipes_limit = None
     download_images = not args.no_images
+
+    if args.allow_partial:
+        _install_interrupt_handler()
+        if _STOP_REQUESTED:
+            print("stop requested before start; exiting.", flush=True)
+            return
+
+    if args.site == "allrecipes_com" and limit is None and allrecipes_limit is not None:
+        limit = allrecipes_limit
 
     if args.site == "nutrition_gov":
         new_manifest, new_index, details = build_nutrition_gov_data(
@@ -752,13 +802,15 @@ def main():
             max_pages=args.max_pages,
             download_images=download_images,
             verbose=args.verbose,
+            allow_partial=args.allow_partial,
         )
-    elif args.site == "myplate_gov":
-        new_manifest, new_index, details = build_myplate_gov_data(
+    elif args.site == "allrecipes_com":
+        new_manifest, new_index, details = build_allrecipes_com_data(
             limit=limit,
             max_pages=args.max_pages,
             download_images=download_images,
             verbose=args.verbose,
+            allow_partial=args.allow_partial,
         )
     elif args.site == "all":
         new_manifest, new_index, details = build_all_data(
@@ -766,6 +818,8 @@ def main():
             max_pages=args.max_pages,
             download_images=download_images,
             verbose=args.verbose,
+            allow_partial=args.allow_partial,
+            allrecipes_limit=allrecipes_limit,
         )
     else:
         raise SystemExit(f"unsupported site: {args.site}")
@@ -782,6 +836,9 @@ def main():
     do_translate = not args.no_translate
     if do_translate and translate_text is None:
         print("translate disabled: missing translator dependency")
+        do_translate = False
+    if _STOP_REQUESTED and do_translate:
+        print("stop requested: skip translation to flush partial data.", flush=True)
         do_translate = False
     print(f"translate: {'on' if do_translate else 'off'}", flush=True)
 

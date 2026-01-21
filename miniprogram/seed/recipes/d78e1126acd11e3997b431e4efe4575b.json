@@ -1,0 +1,97 @@
+{
+  "id": "d78e1126acd11e3997b431e4efe4575b",
+  "title": "Triple-Dipped Fried Chicken",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/fef21939938026f0ea242e237ec4008c.webp",
+  "nutrition_tip": "This fried chicken batter yields the crispiest, spiciest, homemade fried chicken…",
+  "ingredients": [
+    {
+      "name": "1 quart vegetable oil for frying",
+      "amount": ""
+    },
+    {
+      "name": "4.333 cups all-purpose flour, divided",
+      "amount": ""
+    },
+    {
+      "name": "1.5 tablespoons garlic salt",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon paprika",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon poultry seasoning",
+      "amount": ""
+    },
+    {
+      "name": "1.5 cups beer, or as needed",
+      "amount": ""
+    },
+    {
+      "name": "2 egg yolks, beaten",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 (3 pound) whole chicken, cut into pieces",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat oil in a deep fryer to 350 degrees F (175 degrees C). Mix 3 cups flour, garlic salt, 1 tablespoon pepper, paprika, and poultry seasoning together in a medium bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Stir 1 1/2 cups beer, remaining 1 1/3 cups flour, egg yolks, salt, and 1/4 teaspoon pepper together in a separate bowl; thin with more beer if batter is too thick."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Moisten chicken pieces with a little water, then dip in seasoned flour mixture. Shake off excess and dip in beer batter, then dip in the seasoned flour mixture once more."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Lower chicken pieces carefully into the hot oil in batches. Fry until crispy and well-browned, about 15 to 18 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Transfer to a paper towel-lined plate to drain. Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/89268/triple-dipped-fried-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "96e77f0ca0f8de17368f50a621155830",
+  "title": "Kung Pao Chicken",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Chinese"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/a98a3dcbbba4d1cb13ab2123294088ca.webp",
+  "nutrition_tip": "This easy kung pao chicken recipe stir fries tender marinated chicken in a sweet…",
+  "ingredients": [
+    {
+      "name": "2 tablespoons white wine, divided",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce, divided",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons sesame oil, divided",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons cornstarch, dissolved in 2 tablespoons water",
+      "amount": ""
+    },
+    {
+      "name": "1 pound skinless, boneless chicken breast halves - cut into chunks",
+      "amount": ""
+    },
+    {
+      "name": "1 ounce hot chile paste",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon distilled white vinegar",
+      "amount": ""
+    },
+    {
+      "name": "1 (8 ounce) can water chestnuts",
+      "amount": ""
+    },
+    {
+      "name": "4 ounces chopped peanuts",
+      "amount": ""
+    },
+    {
+      "name": "4 green onions, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon chopped garlic",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Whisk 1 tablespoon wine, 1 tablespoon soy sauce, 1 tablespoon sesame oil, and 1 ½ teaspoons cornstarch in a large glass bowl until smooth. Add chicken pieces and toss to coat. Cover the dish and refrigerate for 30 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine remaining 1 tablespoon wine, 1 tablespoon soy sauce, and 1 tablespoon sesame oil in a medium bowl. Whisk in chili paste, brown sugar, and vinegar. Add water chestnuts, peanuts, green onions, and garlic and toss to coat."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Transfer water chestnut sauce mixture to a medium skillet. Heat slowly over medium heat until aromatic."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Meanwhile, transfer chicken from marinade into a large skillet; cook over medium-high heat, stirring, until chicken is cooked through and juices run clear."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Combine water chestnut mixture and cooked chicken together in one skillet. Adjust heat and simmer until sauce thickens and coats chicken, 1 to 2 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-05-16",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/9027/kung-pao-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

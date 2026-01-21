@@ -1,0 +1,83 @@
+{
+  "id": "44ed5e7618359074fbb435052425038b",
+  "title": "Italian Wedding Soup",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/8cd87104c2fb6c9a41872c9645fc4ef3.webp",
+  "nutrition_tip": "This Italian wedding soup is loaded with homemade meatballs, tender orzo pasta,…",
+  "ingredients": [
+    {
+      "name": "0.5 pound extra-lean ground beef",
+      "amount": ""
+    },
+    {
+      "name": "1 large egg, lightly beaten",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons dry bread crumbs",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon dried basil",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon onion powder",
+      "amount": ""
+    },
+    {
+      "name": "5.75 cups chicken broth",
+      "amount": ""
+    },
+    {
+      "name": "2 cups thinly sliced escarole",
+      "amount": ""
+    },
+    {
+      "name": "1 cup uncooked orzo pasta",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 cup finely chopped carrot",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine ground beef, egg, bread crumbs, Parmesan cheese, basil, and onion powder in a bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Shape beef mixture into 3/4-inch balls and place on a parchment-lined tray."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Heat broth in a large pot over medium-high heat until boiling. Stir in escarole, orzo, carrot, and meatballs and return to boil. Reduce heat to medium and cook at slow boil, stirring frequently to prevent sticking, until pasta is tender yet firm to the bite, about 10 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Serve hot and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-01-25",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/13024/italian-wedding-soup-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

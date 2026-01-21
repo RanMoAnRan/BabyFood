@@ -1,0 +1,79 @@
+{
+  "id": "387e19c9a2be9e81ff6c45d757b765ef",
+  "title": "Chocolate Cookies",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/47ef72418d7da935c5a989b8e1921ff0.webp",
+  "nutrition_tip": "Chocolate cookies made with crunchy chopped walnuts are ready in just 10 minutes…",
+  "ingredients": [
+    {
+      "name": "2 cups white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1.25 cups margarine, softened",
+      "amount": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup unsweetened cocoa powder",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon baking soda",
+      "amount": ""
+    },
+    {
+      "name": "0.125 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 cup chopped walnuts",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Cream sugar and margarine in a large bowl until light and fluffy. Beat in eggs, one at a time, then stir in vanilla."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine flour, cocoa, baking soda, and salt in a separate bowl. Add to the creamed mixture and mix until just blended. Stir in walnuts. Drop spoonfuls of dough 2 inches apart onto ungreased cookie sheets."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Bake in the preheated oven until edges are set and centers are soft, 8 to 10 minutes. Let sit briefly before transferring to wire racks to cool completely."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1997-08-31",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/10281/chewy-chocolate-cookies-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

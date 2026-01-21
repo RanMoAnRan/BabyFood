@@ -1,0 +1,93 @@
+{
+  "id": "1e70475fd9b0dd9230cd071418d4447a",
+  "title": "Grandma Dot&#39;s Stuffing Balls",
+  "min_age_month": 8,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/9386834c1a81cde1f8ecb3e7cd4e8510.webp",
+  "nutrition_tip": "These stuffing balls are crispy outside, soft inside, and full of holiday flavor…",
+  "ingredients": [
+    {
+      "name": "0.75 cup butter",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup diced onion",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup diced celery",
+      "amount": ""
+    },
+    {
+      "name": "1.5 teaspoons salt",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon poultry seasoning",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup chicken broth",
+      "amount": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "10 cups cubed whole wheat bread",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup chopped fresh parsley",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients. Preheat the oven to 375 degrees F (190 degrees C). Line a baking sheet with aluminum foil; grease the foil."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Melt butter in a large skillet over medium heat. Add onion and celery; cook and stir until softened, about 5 minutes. Stir in salt, poultry seasoning, and pepper; cook and stir until fragrant, about 1 minute. Remove from heat."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Meanwhile, whisk chicken broth and eggs together in a large bowl. Fold in bread cubes and parsley."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add onion mixture to bread cubes; mix until combined."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Use your hands to shape mixture into 24 (2-inch) balls; arrange on the prepared baking sheet."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Bake in the preheated oven until golden and crisp, about 20 to 25 minutes. Serve warm and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/254890/grandma-dots-stuffing-balls/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

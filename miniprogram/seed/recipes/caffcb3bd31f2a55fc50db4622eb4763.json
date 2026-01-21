@@ -1,0 +1,86 @@
+{
+  "id": "caffcb3bd31f2a55fc50db4622eb4763",
+  "title": "Turkey Giblet Gravy",
+  "min_age_month": 12,
+  "tags": [
+    "Sauce",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/d13f57a4f489435323a4d602731594e9.webp",
+  "nutrition_tip": "This turkey giblet gravy is made with gizzards, giblets, and flavorsome pan drip…",
+  "ingredients": [
+    {
+      "name": "1 package of giblets and neck from turkey, excluding liver",
+      "amount": ""
+    },
+    {
+      "name": "4 cups water",
+      "amount": ""
+    },
+    {
+      "name": "1 cup turkey drippings",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup cold water",
+      "amount": ""
+    },
+    {
+      "name": "6 tablespoons cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "1 large hard-cooked egg, chopped",
+      "amount": ""
+    },
+    {
+      "name": "salt and ground black pepper to taste",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Combine turkey giblets, neck, and 4 cups water in a saucepan; bring to a boil. Reduce heat to low and simmer until broth is reduced to 3 cups, about 1 hour."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Strain broth and reserve 1/2 cup giblets."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Combine strained broth and turkey drippings in a saucepan over medium heat. Whisk together 1/2 cup cold water and cornstarch in a small bowl until smooth; pour into broth mixture in the saucepan and bring to a boil."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "While broth is coming to a boil, finely chop giblets."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Reduce heat to low; stir giblets and hard-cooked egg into gravy."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Simmer until gravy is thickened, about 5 minutes. Season with salt and black pepper."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/229958/turkey-giblet-gravy/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

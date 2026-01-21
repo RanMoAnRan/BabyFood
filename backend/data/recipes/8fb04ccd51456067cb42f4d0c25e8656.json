@@ -1,0 +1,96 @@
+{
+  "id": "8fb04ccd51456067cb42f4d0c25e8656",
+  "title": "Best Soft Christmas Cookies",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 155,
+  "cover_image": "images/8f5ca7fd978501a2e13eae6747c755f0.webp",
+  "nutrition_tip": "This Christmas cookie recipe makes soft, tender cut-out sugar cookies that hold…",
+  "ingredients": [
+    {
+      "name": "3.75 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon baking powder",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1.5 cups white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 cup margarine, softened",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons vanilla extract",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Sift flour, baking powder, and salt together in a medium bowl; set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Beat sugar and butter in a large bowl with an electric mixer until smooth."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Beat first egg into butter mixture. Beat second egg into mixture along with vanilla extract; add flour mixture and stir until dough is just combined."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Wrap dough and chill in the refrigerator for 2 hours."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Preheat the oven to 400 degrees F (200 degrees C). Grease two cookie sheets."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Roll out dough on a clean floured surface to 1/4-inch thickness. Cut out shapes using Christmas cookie cutters; arrange them on the prepared cookie sheets. Gather scraps and repeat this step."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Bake in batches in the preheated oven until edges are golden, about 6 to 8 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely before frosting or decorating."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Serve and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1997-11-08",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/10110/soft-christmas-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

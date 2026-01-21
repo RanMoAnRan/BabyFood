@@ -1,0 +1,87 @@
+{
+  "id": "46fec1a240c8135bf62a3457c51fdf59",
+  "title": "Cranberry Brie Bites",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/43d66badcf3fab0064ea37d132ebf142.webp",
+  "nutrition_tip": "These cranberry Brie bites are crispy squares of puff pastry filled with cranber…",
+  "ingredients": [
+    {
+      "name": "1 (8 ounce) round Brie cheese",
+      "amount": ""
+    },
+    {
+      "name": "cooking spray",
+      "amount": ""
+    },
+    {
+      "name": "1 sheet frozen puff pastry, thawed",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup cranberry sauce",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup finely chopped walnuts",
+      "amount": ""
+    },
+    {
+      "name": "sea salt to taste",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Remove and discard rind from Brie cheese. Place cheese in the freezer for 20 minutes to make it easier to cut."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Meanwhile, oil a 24-cup mini muffin pan with cooking spray."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Roll puff pastry sheet out into a 10x14-inch rectangle. Cut sheet lengthwise into 4 even strips and then crosswise into 6 even strips, making 24 squares. Separate squares and gently press each one into a prepared muffin cup."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Remove chilled Brie from the freezer; cut into 24 pieces, approximately 3/4-inch in size."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Add 1 teaspoon cranberry sauce to each pastry-lined muffin cup, then press in a piece of Brie and top with 1 teaspoon chopped walnuts. Season each bite with a pinch of sea salt. Transfer muffin pan to the refrigerator and chill for at least 30 minutes, or cover and chill for up to 3 days. When ready to bake, preheat the oven to 400 degrees F (200 degrees C)."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Bake bites in the preheated oven until golden brown, 18 to 20 minutes."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Serve warm, and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-11-07",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/259545/cranberry-brie-bites/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

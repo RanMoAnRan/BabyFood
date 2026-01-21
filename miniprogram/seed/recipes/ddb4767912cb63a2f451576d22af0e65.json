@@ -1,0 +1,54 @@
+{
+  "id": "ddb4767912cb63a2f451576d22af0e65",
+  "title": "Baby Blue Punch",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/7ee0593ff258f426dcb2616e16c5f8d7.webp",
+  "nutrition_tip": "This beautiful baby blue shower punch recipe can be made with any flavor or colo…",
+  "ingredients": [
+    {
+      "name": "1 (2 liter) bottle lemon-lime flavored carbonated beverage",
+      "amount": ""
+    },
+    {
+      "name": "1 (64 fluid ounce) bottle white cranberry juice",
+      "amount": ""
+    },
+    {
+      "name": "1 (0.13 ounce) package blue, berry flavored unsweetened drink mix",
+      "amount": ""
+    },
+    {
+      "name": "1 cup white sugar, or to taste",
+      "amount": ""
+    },
+    {
+      "name": "8 scoops vanilla ice cream",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine lemon-lime soda, white cranberry juice, and drink mix in a large punch bowl until well mixed; stir in sugar until reaches desired sweetness."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Float ice cream on top. The ice cream will start to melt and look like frothy white clouds floating on top."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/70551/baby-blue-punch/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

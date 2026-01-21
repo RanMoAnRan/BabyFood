@@ -1,0 +1,69 @@
+{
+  "id": "7c78093dcb3215d07eb3b5ffff475743",
+  "title": "Fresh Rhubarb Pie",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Pie",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/fb3c212588e3aab9c14ee099855b48e3.webp",
+  "nutrition_tip": "This rhubarb pie is made with fresh rhubarb and easy pantry ingredients for a lu…",
+  "ingredients": [
+    {
+      "name": "1.3333333730698 cups white sugar",
+      "amount": ""
+    },
+    {
+      "name": "6 tablespoons all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 (14.1 ounce) package double-crust pie pastry, thawed",
+      "amount": ""
+    },
+    {
+      "name": "4 cups chopped rhubarb",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon butter",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients, and preheat the oven to 450 degrees F (230 degrees C). Place an oven rack in the lowest position."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Line the bottom and sides of a 9-inch pie plate with one pie crust. Combine sugar and flour in a small bowl; sprinkle 1/4 of the sugar mixture over the prepared bottom crust."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Heap chopped rhubarb on top and sprinkle with remaining sugar mixture. Dot with butter and cover with top crust."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Bake pie in the preheated oven for 15 minutes. Reduce temperature to 350 degrees F (175 degrees C) and continue baking until filling is bubbly and crust is golden brown, about 40 to 45 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Serve the pie warm or cold. Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-07-04",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/12316/fresh-rhubarb-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

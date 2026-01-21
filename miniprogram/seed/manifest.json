@@ -1,8 +1,34 @@
 {
-  "version": "seed-1",
-  "updated_at": "2024-01-01T00:00:00Z",
-  "recipe_count": 1,
-  "latest_ids": ["demo_pumpkin_potato"],
-  "notes": "本地种子数据，仅用于首次启动或离线兜底。"
+  "version": "2026-01-21T05:10:14Z",
+  "updated_at": "2026-01-21T05:10:14Z",
+  "recipe_count": 342,
+  "latest_ids": [
+    "e64358bbba6d95695846e65fc8cdba11",
+    "edd7ff443da4daa0b49912713c8e79f8",
+    "dc0d98cde77a5ce4e7f7f2d69bdc358f",
+    "f2ad0c707a675329a05dc414dda3649a",
+    "0a3fc2d969eede82c28a62b63c0679e6",
+    "fa3291e4e71d681adc1793467df8e0bb",
+    "6d5a157835e4e6ef288a087fffc5d48f",
+    "919305218644e7db5e60c413af61abf1",
+    "89325112e89a52936067de876e399ee2",
+    "dcf40fa3d4f6cc884bcfc6edea1a0e9a"
+  ],
+  "sources": [
+    {
+      "name": "Nutrition.gov (USDA)",
+      "base_url": "https://www.nutrition.gov/recipes/search",
+      "note": "USDA/NAL 站点内容一般为 public domain，但仍建议保留 source_url/origin_url 以便溯源。"
+    },
+    {
+      "name": "Allrecipes",
+      "base_url": "https://www.allrecipes.com/recipes/",
+      "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。"
+    }
+  ],
+  "source": {
+    "name": "Multi-source recipes",
+    "base_url": "",
+    "note": "聚合多个站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。"
+  }
 }
-

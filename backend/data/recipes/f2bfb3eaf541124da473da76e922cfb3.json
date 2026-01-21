@@ -1,0 +1,124 @@
+{
+  "id": "f2bfb3eaf541124da473da76e922cfb3",
+  "title": "Santa Sugar Cookies",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 160,
+  "cover_image": "images/a4d2e2dbd6a1715f8b0156d57582bf16.webp",
+  "nutrition_tip": "These Santa Claus cookies are decorated with red and white icing to create a fac…",
+  "ingredients": [
+    {
+      "name": "3 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon baking powder",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1.5 cups granulated sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 cup butter, softened",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": ""
+    },
+    {
+      "name": "1.5 teaspoons vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "1.5 teaspoons almond extract",
+      "amount": ""
+    },
+    {
+      "name": "PAM® Original No-Stick Cooking Spray",
+      "amount": ""
+    },
+    {
+      "name": "2 (7 ounce) pouches red decorating cookie icing",
+      "amount": ""
+    },
+    {
+      "name": "2 (7 ounce) pouches white decorating cookie icing",
+      "amount": ""
+    },
+    {
+      "name": "22 red candy-coated chocolate pieces",
+      "amount": ""
+    },
+    {
+      "name": "44 semisweet chocolate morsels",
+      "amount": ""
+    },
+    {
+      "name": "Reddi-wip® Original Dairy Whipped Topping",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Combine flour, baking powder, and salt in a medium bowl; set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Beat sugar and butter in large bowl with electric mixer on medium speed until light and fluffy. Add eggs, vanilla, and almond extracts; mix well. Gradually add flour mixture beating on low speed after each addition until well blended."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Divide dough into 3 portions; wrap each tightly in plastic wrap. Refrigerate dough 2 hours or until throughly chilled and firm enough to handle."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Preheat the oven to 325 degrees F (165 degrees C). Spray baking sheets and 5-inch Santa face cookie cutter with cooking spray; set aside."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Roll out one portion of dough to 1/4-inch thickness on a floured surface with a floured rolling pin. Cut out cookies with the prepared cutter; transfer them onto prepared baking sheets using a metal spatula, placing them 1-inch apart. Repeat with remaining dough, spraying the cutter with additional cooking spray as needed."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Bake in the preheated oven until edges are golden brown, about 7 to 10 minutes. Cool on the baking sheets briefly before transferring them to a wire rack to cool completely."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Use red icing to fill in the hat, leaving the tip of the hat blank. Use white icing to fill in the tip of the hat, the brim of the hat, the beard and to make 2 dots in the center of the face for the eyes. Place a red candy centered between the eyes at the top of the beard for the nose and a mini morsel on each white dot to make eyes."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Top beard with whipped cream just before serving. Serve and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-08-27",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/244829/santa-sugar-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

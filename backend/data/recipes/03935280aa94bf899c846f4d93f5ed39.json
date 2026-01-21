@@ -1,0 +1,71 @@
+{
+  "id": "03935280aa94bf899c846f4d93f5ed39",
+  "title": "Easy Oreo Truffles",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Candy",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 100,
+  "cover_image": "images/91231b437d393483a73c30deb266e9d8.webp",
+  "nutrition_tip": "These delicious Oreo truffles are bite-sized chocolaty treats easily made with 3…",
+  "ingredients": [
+    {
+      "name": "2 (8 ounce) packages semisweet baking chocolate",
+      "amount": ""
+    },
+    {
+      "name": "16 ounces cream-filled chocolate sandwich cookies (such as Oreo®), divided",
+      "amount": ""
+    },
+    {
+      "name": "1 (8 ounce) package cream cheese, softened",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Melt chocolate in a saucepan over low heat, stirring occasionally, 4 to 6 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "While the chocolate is melting, place 9 cream-filled sandwich cookies in a food processor and blend until finely crushed. Transfer crumbs to a bowl and reserve for decorating."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add remaining cookies to the food processor and blend until finely crushed. Transfer crumbs to a large bowl and stir in cream cheese; mix until well-blended. Roll mixture into 42 balls, about 1-inch in diameter."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Place each ball in melted chocolate and use two forks to roll it until fully coated. Lift the ball with both forks and allow excess chocolate to drip off."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Place coated truffle on a wax paper-lined baking sheet and sprinkle with reserved cookie crumbs to decorate. Repeat to make remaining truffles."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Refrigerate truffles until firm, at least 1 hour. Keep in the refrigerator until just before serving. Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-03-13",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/127491/easy-oreo-truffles/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

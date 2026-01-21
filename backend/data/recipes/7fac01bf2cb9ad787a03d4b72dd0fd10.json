@@ -1,0 +1,119 @@
+{
+  "id": "7fac01bf2cb9ad787a03d4b72dd0fd10",
+  "title": "Bibimbap (Korean Rice Bowl)",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Korean"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/e30dbd0339f810ef15e36e5d5775a8b5.webp",
+  "nutrition_tip": "Bibimbap is a delicious Korean rice dish of warm white rice topped with tender b…",
+  "ingredients": [
+    {
+      "name": "1 English cucumber, cut into matchsticks",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup gochujang (Korean hot pepper paste)",
+      "amount": ""
+    },
+    {
+      "name": "1 bunch fresh spinach, cut into thin strips",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons olive oil, divided",
+      "amount": ""
+    },
+    {
+      "name": "2 carrots, cut into matchsticks",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "1 pound thinly-sliced beef top round steak",
+      "amount": ""
+    },
+    {
+      "name": "4 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "4 cups cooked white rice",
+      "amount": ""
+    },
+    {
+      "name": "4 teaspoons toasted sesame oil, divided",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon sesame seeds",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons gochujang (Korean hot pepper paste), divided",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Stir cucumber pieces and gochujang paste together in a bowl; set aside."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Bring about 2 cups water to a boil in a large nonstick skillet and stir in spinach; cook until bright green and wilted, 2 to 3 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Drain spinach and squeeze out as much moisture as possible; set spinach aside in a bowl and stir in soy sauce."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Heat 1 teaspoon olive oil in a large nonstick skillet; cook and stir carrots until softened, about 3 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Stir in garlic and cook just until fragrant, about 1 minute. Stir in cucumber mixture; sprinkle with red pepper flakes. Set carrot mixture aside in a bowl."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Brown beef in a clean nonstick skillet over medium heat, about 5 minutes per side; set aside."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Heat remaining 1 teaspoon olive oil in another nonstick skillet over medium-low heat. Fry eggs just on one side until yolks are runny, but whites are firm, 2 to 4 minutes."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Divide cooked rice into 4 large serving bowls; top with spinach mixture, a few pieces of beef, and cucumber mixture. Place 1 egg atop each serving. Drizzle each bowl with 1 teaspoon sesame oil, a sprinkle of sesame seeds, and a small amount of gochujang paste if desired."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2012-04-27",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/228240/bibimbap-korean-rice-with-mixed-vegetables/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

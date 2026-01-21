@@ -1,0 +1,121 @@
+{
+  "id": "60d1d5df475750c442389083ab482892",
+  "title": "Chef John&#39;s Gazpacho",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Soup",
+    "Spanish"
+  ],
+  "difficulty": 1,
+  "time_cost": 165,
+  "cover_image": "images/66932c0a4ccac3fc94aacc03de0b9fa7.webp",
+  "nutrition_tip": "Gazpacho is an incredibly refreshing tomato and vegetable soup served cold for a…",
+  "ingredients": [
+    {
+      "name": "4 large fresh tomatoes, peeled and diced",
+      "amount": ""
+    },
+    {
+      "name": "0.5 English cucumber, peeled and finely diced",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup finely diced red bell pepper",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup minced green onion",
+      "amount": ""
+    },
+    {
+      "name": "1 large jalapeno pepper, seeded and minced",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch dried oregano",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch cayenne pepper, or to taste",
+      "amount": ""
+    },
+    {
+      "name": "freshly ground black pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "1 pint cherry tomatoes",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup extra-virgin olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 lime, juiced",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon balsamic vinegar",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon Worcestershire sauce",
+      "amount": ""
+    },
+    {
+      "name": "salt and ground black pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons thinly sliced fresh basil",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Combine diced tomatoes, cucumber, bell pepper, green onion, jalapeño, and garlic in a large bowl. Stir in salt, cumin, oregano, cayenne pepper, and black pepper."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place cherry tomatoes, olive oil, lime juice, balsamic vinegar, and Worcestershire sauce in a blender. Cover and purée until smooth."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Pour puréed mixture through a strainer into the tomato-cucumber mixture; stir to combine."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Place 1/3 of the tomato mixture into the blender. Cover, turn blender on, and purée until smooth. Return puréed mixture to the remaining tomato-cucumber mixture. Stir to combine. Cover and chill in the refrigerator for 2 hours."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Season cold soup with salt and black pepper to taste. Ladle into bowls and top with basil."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2012-05-09",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/222331/chef-johns-gazpacho/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

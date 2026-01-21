@@ -1,0 +1,71 @@
+{
+  "id": "f42fc6f9e7e931d030f872fa736cebb3",
+  "title": "Fast and Easy Turkey Pot Pie",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/1e8ee5c7f443e6b74eef40bb60329cf5.webp",
+  "nutrition_tip": "An easy turkey pot pie recipe is just the ticket after turkey day! Leftover turk…",
+  "ingredients": [
+    {
+      "name": "1 (14.1 ounce) package pastry for 9-inch double-crust pie",
+      "amount": ""
+    },
+    {
+      "name": "2 cups chopped leftover turkey",
+      "amount": ""
+    },
+    {
+      "name": "1 (16 ounce) package frozen mixed vegetables, thawed and drained",
+      "amount": ""
+    },
+    {
+      "name": "1 (10.5 ounce) can condensed cream of chicken soup",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup shredded Cheddar cheese",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon seasoned salt",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon seasoned pepper blend",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Line an 8-inch pie dish with one of the pastry crusts; set the other crust aside."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Combine turkey, mixed vegetables, condensed soup, Cheddar cheese, seasoned salt, and seasoned pepper in a bowl; mix until well combined. Pour mixture into the bottom crust."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Place the second pie crust over the filling; pinch and fold the edges of both crusts together to seal. Use a sharp knife to cut one or two slits in the top pie crust to allow the steam to vent as the pie cooks."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Bake in the preheated oven until the crust is golden brown and the filling is bubbling, about 40 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/215442/fast-and-easy-turkey-pot-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

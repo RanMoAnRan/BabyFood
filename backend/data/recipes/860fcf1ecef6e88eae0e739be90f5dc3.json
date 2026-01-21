@@ -1,0 +1,75 @@
+{
+  "id": "860fcf1ecef6e88eae0e739be90f5dc3",
+  "title": "钟楼与樱桃番茄",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/517cead6ff5c7ce61b709f01862f4082.webp",
+  "nutrition_tip": "Campanelle 意大利面与奶酪、樱桃番茄酱一起拌入这个快速而……",
+  "ingredients": [
+    {
+      "name": "1 磅 钟楼意大利面",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，捣碎",
+      "amount": ""
+    },
+    {
+      "name": "4 杯樱桃番茄，减半",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 杯新鲜磨碎的佩科里诺奶酪",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的新鲜罗勒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大锅中倒入淡盐水；煮沸。拌入钟楼；回到沸腾状态。不盖盖子，煮大约 5 分钟，偶尔搅拌，直到咬起来又软又硬。沥干水分，保留 ½ 杯意大利面水。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，用中高温加热一个大煎锅。加入油和大蒜；煮大约1分钟，直到大蒜散发出香味并开始变成棕色。加入西红柿和粗盐；煮约 3 分钟，经常搅拌，直到西红柿开始分解并释放出汁液。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入煮熟的意大利面；撒上帕尔马干酪，搅拌均匀。撒上佩科里诺奶酪和罗勒；折腾合并。用保留的意大利面水稀释酱汁，以达到所需的稠度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-06-02",
+  "updated_at": "2026-01-20T09:50:28Z",
+  "source_url": "https://www.allrecipes.com/recipe/284121/campanelle-with-cherry-tomatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1c89248fa2ec1825cb991a9bfcaa31d9",
+    "translated": true
+  }
+}

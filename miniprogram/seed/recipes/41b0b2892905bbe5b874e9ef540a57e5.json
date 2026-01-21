@@ -1,0 +1,119 @@
+{
+  "id": "41b0b2892905bbe5b874e9ef540a57e5",
+  "title": "Pan de Muertos (Mexican Bread of the Dead)",
+  "min_age_month": 12,
+  "tags": [
+    "Bread",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 190,
+  "cover_image": "images/80ff0ff465acca357df5fea44e0265f0.webp",
+  "nutrition_tip": "Pan de muerto is a sweet yeast bread, or pan dulce, topped with a sugary orange…",
+  "ingredients": [
+    {
+      "name": "0.25 cup milk",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup margarine",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup warm water (110 degrees F/45 degrees C)",
+      "amount": ""
+    },
+    {
+      "name": "3 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons anise seed",
+      "amount": ""
+    },
+    {
+      "name": "1.25 teaspoons active dry yeast",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs, beaten",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon orange zest",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup orange juice",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons orange zest",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons white sugar",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "To make the bread: Heat milk and butter in a medium saucepan over low heat until butter melts. Remove from heat and add warm water. Mixture should be around 110 degrees F (43 degrees C)."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine 1 cup flour, sugar, anise seed, yeast, and salt in a large bowl. Beat in warm milk mixture, then add eggs and orange zest; beat until well combined. Stir in 1/2 cup flour and continue adding more flour until dough is soft."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Turn dough out onto a lightly floured surface; knead until smooth and elastic. Place dough into a lightly greased bowl. Cover with plastic wrap and let rise in a warm place until doubled in size, 1 to 2 hours."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Punch dough down and shape into a large round loaf with a round knob on top. Place dough onto a baking sheet; loosely cover with plastic wrap. Let rise in a warm place until just about doubled in size, about 1 hour."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Bake in the preheated oven until golden brown, 35 to 45 minutes. Cool slightly before brushing with glaze."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "To make the glaze: Combine 1/4 cup sugar, orange juice, and orange zest in a small saucepan. Bring to a boil over medium heat and boil for 2 minutes."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Brush glaze over top of warm bread. Sprinkle with 2 tablespoons sugar."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-09-20",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/7224/pan-de-muertos-mexican-bread-of-the-dead/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

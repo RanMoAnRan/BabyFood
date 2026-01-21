@@ -1,0 +1,78 @@
+{
+  "id": "1e21ce4133b31334331dccf295b50530",
+  "title": "Baked Pumpkin Bread",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/51fa08d5856b8d8c6d9c4bad9b52e830.webp",
+  "nutrition_tip": "This baked pumpkin bread recipe features buttermilk for a moist, tender crumb an…",
+  "ingredients": [
+    {
+      "name": "1.5 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1.25 teaspoons baking soda",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground nutmeg",
+      "amount": ""
+    },
+    {
+      "name": "1 cup solid pack pumpkin puree",
+      "amount": ""
+    },
+    {
+      "name": "1 cup packed brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup buttermilk",
+      "amount": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons butter, softened",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Sift flour, baking soda, salt, cinnamon, and nutmeg into a bowl; mix well. Stir in pumpkin, brown sugar, buttermilk, egg, and butter until well blended. Pour batter into a 9x5-inch loaf pan; smooth the top."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Bake in the preheated oven until a toothpick inserted into center comes out clean, about 1 hour."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-08-14",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/6845/baked-pumpkin-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "dd172638e0c10bbb3c54fa85e71a3de2",
+  "title": "French Crêpes",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/2309ee0c2b22147b4ce732232951620f.webp",
+  "nutrition_tip": "These French crêpes are thin, delicate, and delicious for breakfast or dessert.…",
+  "ingredients": [
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon white sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "3 eggs",
+      "amount": ""
+    },
+    {
+      "name": "2 cups milk",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons butter, melted",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Sift flour, sugar, and salt into a bowl; set aside. Beat eggs and milk together in a large bowl with an electric mixer."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Beat in flour mixture until smooth; stir in melted butter."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Lightly grease a griddle or frying pan; heat over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 2 tablespoons for each crêpe."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Immediately rotate the skillet to spread batter out in a thin layer. Cook until the top of the crêpe is no longer wet and the bottom has turned light brown, 1 to 2 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Shake the pan or loosen with a spatula; turn or flip it over and cook until other side has turned light brown, about 1 minute more. Repeat with remaining batter."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Serve with your choice of fillings or toppings, and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-07-08",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/20931/french-crepes/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

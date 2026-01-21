@@ -1,0 +1,83 @@
+{
+  "id": "a51e3780dbb6a75e36690bfa6fc2a19f",
+  "title": "芝士蛋糕水果沙拉",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/f938781fbd208f6d27827aa180ae8957.webp",
+  "nutrition_tip": "这个芝士蛋糕水果沙拉食谱的特色是浆果、香蕉和折叠的葡萄……",
+  "ingredients": [
+    {
+      "name": "1.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 包（3.4 盎司）即食芝士蛋糕布丁粉",
+      "amount": ""
+    },
+    {
+      "name": "2 盎司奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 个（8 盎司）容器冷冻搅打配料，解冻",
+      "amount": ""
+    },
+    {
+      "name": "3 杯葡萄",
+      "amount": ""
+    },
+    {
+      "name": "1 磅新鲜草莓，去壳并切片",
+      "amount": ""
+    },
+    {
+      "name": "2 个大香蕉，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）新鲜黑莓",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）新鲜覆盆子",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）新鲜蓝莓",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将牛奶和布丁放入立式搅拌机的碗中搅拌直至混合；慢慢搅拌奶油干酪，将速度提高到最高，直到混合物光滑且有点稠。用抹刀拌入冷冻搅打过的配料，直至充分混合、呈淡奶油状。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "轻轻拌入葡萄、草莓、香蕉、黑莓、覆盆子和蓝莓，直至均匀地裹上水果。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上盖子并冷藏直至可以食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-10-25",
+  "updated_at": "2026-01-20T09:50:28Z",
+  "source_url": "https://www.allrecipes.com/recipe/285743/cheesecake-fruit-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ba160dc827a6b71997a19c4c6deb19b0",
+    "translated": true
+  }
+}

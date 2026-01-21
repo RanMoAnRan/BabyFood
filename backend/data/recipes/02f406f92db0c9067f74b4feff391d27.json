@@ -1,0 +1,129 @@
+{
+  "id": "02f406f92db0c9067f74b4feff391d27",
+  "title": "Tiramisu Cake",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Cake",
+    "Italian Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/6c8b58ff14c360accb870c7e9f498dba.webp",
+  "nutrition_tip": "This tiramisu cake with 3 layers of coffee-flavored sponge cake, coffee liqueur…",
+  "ingredients": [
+    {
+      "name": "1 (15.25 ounce) package moist white cake mix",
+      "amount": ""
+    },
+    {
+      "name": "1 cup water",
+      "amount": ""
+    },
+    {
+      "name": "3 large egg whites",
+      "amount": ""
+    },
+    {
+      "name": "0.33 cup vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon instant coffee powder",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup coffee",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon coffee flavored liqueur",
+      "amount": ""
+    },
+    {
+      "name": "1 (8 ounce) container mascarpone cheese",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup confectioners' sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons coffee flavored liqueur",
+      "amount": ""
+    },
+    {
+      "name": "2 cups heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup confectioners' sugar",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons coffee flavored liqueur",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons unsweetened cocoa powder",
+      "amount": ""
+    },
+    {
+      "name": "1 (1 ounce) square semisweet chocolate",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease and flour three 9-inch pans."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "To make the cake: Beat cake mix, water, egg whites, and oil in a large bowl with an electric mixer on medium speed until well combined, about 2 minutes. Divide 2/3 of the batter between 2 prepared pans. Stir instant coffee into remaining batter; pour into the remaining prepared pan."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Bake in the preheated oven until a toothpick inserted into the center of cakes comes out clean, 23 to 28 minutes. Cool cakes in the pans for 10 minutes, then turn out onto a wire rack to cool completely."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "To make the syrup: Combine brewed coffee and coffee liqueur in a measuring cup; set aside."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "To make the filling: Beat mascarpone, confectioners&#39; sugar, and coffee liqueur in a medium bowl with an electric mixer on low speed until smooth. Cover with plastic wrap and place in the refrigerator to keep cool."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "To make the frosting: Beat cream, confectioners&#39; sugar, and coffee liqueur in a medium bowl with an electric mixer on medium-high speed until stiff. Fold 1/2 cup frosting into chilled filling until combined. Store frosting and filling, covered, in the refrigerator to keep cool."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "To assemble the cake: Place 1 plain cake layer on a serving plate. Using a thin skewer, poke holes in cake, about 1 inch apart. Pour 1/3 of the coffee syrup over cake, then cover with 1/2 of the filling. Top with coffee-flavored cake layer; poke holes in cake. Pour another 1/3 of the coffee syrup over cake and cover with remaining filling. Top with remaining cake layer; poke holes in cake. Pour remaining coffee syrup on top. Spread sides and top of cake with frosting."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "To garnish the cake: Place cocoa powder in a sieve and lightly dust top of cake. Run a vegetable peeler down the edge of chocolate square to form curls. Scatter chocolate curls over cake."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Chill cake in the refrigerator for at least 30 minutes before serving."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/25639/tiramisu-layer-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

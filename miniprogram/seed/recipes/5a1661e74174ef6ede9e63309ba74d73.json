@@ -1,0 +1,115 @@
+{
+  "id": "5a1661e74174ef6ede9e63309ba74d73",
+  "title": "Bacon Chili without Beans",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 455,
+  "cover_image": "images/d89ea4fe78848cc2fc560de94e4b9c0b.webp",
+  "nutrition_tip": "Mom&#39;s adapted recipe for beef and bacon chili without beans may start out lo…",
+  "ingredients": [
+    {
+      "name": "2 pounds ground beef",
+      "amount": ""
+    },
+    {
+      "name": "1 (16 ounce) package thick-cut bacon, cut into 1/2-inch pieces",
+      "amount": ""
+    },
+    {
+      "name": "2 (14.5 ounce) cans petite diced tomatoes, drained",
+      "amount": ""
+    },
+    {
+      "name": "2 (8 ounce) cans tomato sauce",
+      "amount": ""
+    },
+    {
+      "name": "2 medium onions, chopped",
+      "amount": ""
+    },
+    {
+      "name": "1 medium green bell pepper, chopped",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup beef stock",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup hot sauce (such as Frank's® RedHot®)",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons Worcestershire sauce",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon minced garlic",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons chili powder",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon cayenne pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon dried oregano",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons salt",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon dried basil",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground paprika",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground black pepper",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat a large skillet over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Transfer beef to a slow cooker."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Cook bacon in the same skillet, stirring occasionally, until evenly browned, 7 to 10 minutes. Drain and discard grease. Transfer bacon to the slow cooker; stir."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Add diced tomatoes, tomato sauce, onions, bell pepper, beef stock, hot sauce, Worcestershire sauce, and garlic to the slow cooker; stir until well combined. Stir in chili powder, cayenne pepper, oregano, salt, cumin, basil, paprika, and black pepper until thoroughly mixed."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Cover the slow cooker; cook on Low for 5 hours. Stir; continue to cook 2 to 3 hours more."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2014-07-14",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/282229/bacon-chili-without-beans/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

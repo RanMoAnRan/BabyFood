@@ -1,0 +1,99 @@
+{
+  "id": "2ea73636f49f3a5d8a1e606fa2be7e82",
+  "title": "Super-Delicious Zuppa Toscana",
+  "min_age_month": 8,
+  "tags": [
+    "Lunch",
+    "Italian Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/d2de279a55f3fba781ff781dbc3c2f21.webp",
+  "nutrition_tip": "Zuppa Toscana made with sausage, potatoes, cream, spinach, and red pepper flakes…",
+  "ingredients": [
+    {
+      "name": "1 pound bulk mild Italian sausage",
+      "amount": ""
+    },
+    {
+      "name": "1.25 teaspoons crushed red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "4 slices bacon, cut into 1/2 inch pieces",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon minced garlic",
+      "amount": ""
+    },
+    {
+      "name": "5 (13.75 ounce) cans chicken broth",
+      "amount": ""
+    },
+    {
+      "name": "6 medium potatoes, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "0.25 bunch fresh spinach, tough stems removed",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Cook Italian sausage and red pepper flakes in a Dutch oven over medium-high heat until crumbly, browned, and no longer pink, 10 to 15 minutes. Drain and set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Cook bacon in the same Dutch oven over medium heat until crisp, about 10 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Drain, leaving a few tablespoons of drippings with the bacon in the bottom of the Dutch oven. Stir in onions and garlic; cook until onions are soft and translucent, about 5 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Stir in chicken broth and bring to a boil over high heat."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Add potatoes and simmer until fork tender, about 20 minutes."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Reduce heat to medium; stir in cream, cooked sausage, and spinach."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Cook and stir until spinach has wilted and sausage is warmed through; serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-09-12",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/143069/super-delicious-zuppa-toscana/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

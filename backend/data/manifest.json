@@ -1,7 +1,7 @@
 {
-  "version": "20862870246",
-  "updated_at": "2026-01-09T19:19:17Z",
-  "recipe_count": 142,
+  "version": "2026-01-21T05:10:14Z",
+  "updated_at": "2026-01-21T05:10:14Z",
+  "recipe_count": 342,
   "latest_ids": [
     "e64358bbba6d95695846e65fc8cdba11",
     "edd7ff443da4daa0b49912713c8e79f8",
@@ -21,14 +21,14 @@
       "note": "USDA/NAL 站点内容一般为 public domain，但仍建议保留 source_url/origin_url 以便溯源。"
     },
     {
-      "name": "MyPlate Kitchen (USDA)",
-      "base_url": "https://www.myplate.gov/myplate-kitchen/recipes",
-      "note": "MyPlate.gov 为 USDA 站点；上线前建议保留 source_url/origin_url 并核对可再分发范围。"
+      "name": "Allrecipes",
+      "base_url": "https://www.allrecipes.com/recipes/",
+      "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。"
     }
   ],
   "source": {
-    "name": "Nutrition.gov + MyPlate Kitchen (USDA)",
+    "name": "Multi-source recipes",
     "base_url": "",
-    "note": "聚合多个 USDA 站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。"
+    "note": "聚合多个站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。"
   }
 }

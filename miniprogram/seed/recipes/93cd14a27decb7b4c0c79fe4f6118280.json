@@ -1,0 +1,94 @@
+{
+  "id": "93cd14a27decb7b4c0c79fe4f6118280",
+  "title": "Libby&#39;s Famous Pumpkin Pie",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/edc5200afde1d60eb9c24244e0f28565.webp",
+  "nutrition_tip": "Libby&#39;s pumpkin pie with evaporated milk is a classic, no-fail holiday desse…",
+  "ingredients": [
+    {
+      "name": "1 (9 inch) unbaked deep-dish pie crust",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground ginger",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon ground cloves",
+      "amount": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "1 (15 ounce) can LIBBY'S® 100% Pure Pumpkin",
+      "amount": ""
+    },
+    {
+      "name": "1 (12 fluid ounce) can NESTLE® CARNATION® Evaporated Milk",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients. Preheat the oven to 425 degrees F (220 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Combine sugar, cinnamon, salt, ginger, and cloves in small bowl."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Beat eggs lightly in large bowl."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Stir in pumpkin and sugar-spice mixture."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Gradually stir in evaporated milk. Pour into pie shell."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Bake in the preheated oven for 15 minutes. Reduce temperature to 350 degrees F (175 degrees C) and continue to bake until a knife inserted near the center comes out clean, 40 to 50 more minutes. Remove from the oven and set on a wire rack to cool to room temperature."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Serve cooled pie immediately or refrigerate until ready to serve. (Do not freeze as this will cause the crust to separate from the filling.)"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-17",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/22755/libbys-famous-pumpkin-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

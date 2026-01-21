@@ -1,0 +1,106 @@
+{
+  "id": "6e0a3e5300a925d731e27ff18745fffc",
+  "title": "Cranberry Sauce Muffins",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/bf7cfd88a2b044003861c9ca884152cb.webp",
+  "nutrition_tip": "Put your leftover Thanksgiving cranberry sauce to good use with this recipe for…",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup packed brown sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon baking powder",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground cardamom",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 cup leftover cranberry sauce",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup milk",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "1 large egg, slightly beaten",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Preheat the oven to 400 degrees F (200 degrees C). Line 18 muffin cups with paper liners."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Beat cranberry sauce, milk, oil, egg, and vanilla together in a bowl until well combined."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Whisk flour, brown sugar, white sugar, baking powder, cinnamon, cardamom, and salt together in a separate bowl."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Stir dry ingredients into wet ingredients until batter is just moistened."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Pour into the prepared muffin cups."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Bake in the preheated oven until golden brown, about 20 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/240388/cranberry-sauce-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

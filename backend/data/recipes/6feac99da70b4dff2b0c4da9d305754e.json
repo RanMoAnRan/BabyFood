@@ -1,0 +1,88 @@
+{
+  "id": "6feac99da70b4dff2b0c4da9d305754e",
+  "title": "Ratatouille",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/9f0e702e0c24778b410ee5330ab80203.webp",
+  "nutrition_tip": "This ratatouille recipe with ripe summer tomatoes, zucchini, eggplant, and bell…",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil, divided",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 eggplant, cut into 1/2 inch cubes",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons dried parsley",
+      "amount": ""
+    },
+    {
+      "name": "salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "1 cup grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "2 zucchini, sliced",
+      "amount": ""
+    },
+    {
+      "name": "2 large tomatoes, chopped",
+      "amount": ""
+    },
+    {
+      "name": "2 cups sliced fresh mushrooms",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, sliced into rings",
+      "amount": ""
+    },
+    {
+      "name": "1 green bell pepper, sliced",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Coat the bottom and sides of a 1 ½-quart casserole dish with 1 tablespoon olive oil."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat remaining 1 tablespoon olive oil in a medium skillet over medium heat. Cook and stir garlic until fragrant and golden brown. Add eggplant and parsley; cook and stir until eggplant is tender and soft, about 10 minutes. Season with salt to taste."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Spread eggplant mixture evenly across the bottom of the prepared casserole dish; sprinkle with a few tablespoons of Parmesan cheese. Spread zucchini in an even layer over top. Lightly salt and sprinkle with a little more cheese. Continue layering in this fashion, with tomatoes, mushrooms, onion, and bell pepper, covering each layer with a sprinkling of salt and cheese."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Bake in preheated oven until vegetables are tender, about 45 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-30",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/18411/ratatouille/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

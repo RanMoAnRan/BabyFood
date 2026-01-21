@@ -1,0 +1,88 @@
+{
+  "id": "7fa6c4f8d859ca96906dc60b3967f018",
+  "title": "Hawaiian Bread",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Hawaiian"
+  ],
+  "difficulty": 1,
+  "time_cost": 155,
+  "cover_image": "images/c5586e33d4a73147c3c9240e03c53c5e.webp",
+  "nutrition_tip": "Hawaiian bread is fluffy, tender, and slightly sweet; this homemade recipe makes…",
+  "ingredients": [
+    {
+      "name": "0.5 cup warm water (110 degrees F/45 degrees C)",
+      "amount": ""
+    },
+    {
+      "name": "2 (.25 ounce) envelopes active dry yeast",
+      "amount": ""
+    },
+    {
+      "name": "1 cup pineapple juice",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "3 eggs",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup butter, melted",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup water",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground ginger",
+      "amount": ""
+    },
+    {
+      "name": "6 cups all-purpose flour",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Pour warm water into a bowl; add yeast and let stand until it begins to form a creamy foam, about 10 minutes."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Beat yeast mixture, pineapple juice, sugar, eggs, melted butter, 1/2 cup water, vanilla, and ginger together in a large bowl. Stir in 1/2 of the flour until no dry spots remain. Stir in remaining flour, 1/2 cup at a time, mixing well after each addition to form a stiff dough."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Place dough in a large, lightly-oiled bowl and turn to coat. Cover with a towel and let rise in a warm place until doubled in volume, about 1 hour. Meanwhile, lightly grease three round cake pans; set aside."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Deflate dough and turn it out onto a well floured surface. Divide dough into three equal pieces and form into round loaves. Place the loaves in the prepared cake pans; cover with a towel and let rise in a warm place until doubled in volume, about 40 minutes. Meanwhile, preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake loaves in the preheated oven until top is golden brown, and the bottom of a loaf sounds hollow when tapped, about 25 to 30 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/23704/hawaiian-bread-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

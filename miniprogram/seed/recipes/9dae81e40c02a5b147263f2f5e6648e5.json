@@ -1,0 +1,93 @@
+{
+  "id": "9dae81e40c02a5b147263f2f5e6648e5",
+  "title": "Chocolate Chocolate Chip Cookies",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/db2f3108cb8a2d8ed3c8c0dc04e0d7b0.webp",
+  "nutrition_tip": "These chocolate chocolate chip cookies are impossible to resist thanks to a doub…",
+  "ingredients": [
+    {
+      "name": "1.5 cups white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 cup butter, softened",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 cup cocoa powder",
+      "amount": ""
+    },
+    {
+      "name": "0.75 teaspoon baking soda",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "2 cups semisweet chocolate chips",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup chopped walnuts",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Beat sugar, butter, eggs, and vanilla in a large bowl until light and fluffy."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine flour, cocoa powder, baking soda, and salt in another bowl; stir into butter mixture until well blended."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Stir chocolate chips and walnuts into dough until evenly distributed. Drop rounded tablespoonfuls of dough 2 inches apart onto ungreased baking sheets."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake in the preheated oven just until set, 8 to 10 minutes. Cool slightly on the cookie sheets before transferring to wire racks to cool completely."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1997-08-01",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/9827/chocolate-chocolate-chip-cookies-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

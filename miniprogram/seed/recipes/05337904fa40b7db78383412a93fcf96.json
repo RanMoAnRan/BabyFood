@@ -1,0 +1,107 @@
+{
+  "id": "05337904fa40b7db78383412a93fcf96",
+  "title": "Nanaimo Bars",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Canadian",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/b6454acc41a13ca4738977146e18964b.webp",
+  "nutrition_tip": "These Nanaimo bars have three layers of coconut-graham crust, thick custard, and…",
+  "ingredients": [
+    {
+      "name": "1 cup butter, softened, divided",
+      "amount": ""
+    },
+    {
+      "name": "5 tablespoons unsweetened cocoa powder",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 egg, beaten",
+      "amount": ""
+    },
+    {
+      "name": "1.75 cups graham cracker crumbs",
+      "amount": ""
+    },
+    {
+      "name": "1 cup flaked coconut",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup finely chopped almonds",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons heavy cream",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons custard powder",
+      "amount": ""
+    },
+    {
+      "name": "2 cups confectioners' sugar",
+      "amount": ""
+    },
+    {
+      "name": "4 (1 ounce) squares semisweet baking chocolate",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons butter",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "In the top of a double boiler, combine 1/2 cup softened butter, cocoa powder, and sugar. Stir occasionally until melted and smooth. Beat in egg and stir until thick, 2 to 3 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Remove from the heat and mix in graham cracker crumbs, coconut, and almonds. Press into the bottom of an ungreased 8x8-inch pan."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "For the middle layer, beat remaining 1/2 cup softened butter, heavy cream, and custard powder until light and fluffy. Mix in confectioners&#39; sugar until smooth. Spread over the bottom layer in the pan. Chill to set."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "While the second layer is chilling, melt semisweet chocolate and 2 teaspoons butter together in the microwave or over low heat."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Spread melted chocolate mixture over chilled bars."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Let the chocolate set before cutting into squares."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/25095/nanaimo-bars-iii/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

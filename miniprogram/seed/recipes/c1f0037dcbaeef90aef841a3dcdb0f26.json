@@ -1,0 +1,99 @@
+{
+  "id": "c1f0037dcbaeef90aef841a3dcdb0f26",
+  "title": "Old-Fashioned Swedish Glögg",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "Swedish",
+    "Scandinavian"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/d699d931fb3c39a65111745cad11686a.webp",
+  "nutrition_tip": "Glögg is a fragrant Swedish spiced wine punch spiked with whiskey and rum. You&#…",
+  "ingredients": [
+    {
+      "name": "5 (750 milliliter) bottles port wine",
+      "amount": ""
+    },
+    {
+      "name": "1 (750 milliliter) bottle 100 proof bourbon whiskey",
+      "amount": ""
+    },
+    {
+      "name": "1 (750 milliliter) bottle white rum",
+      "amount": ""
+    },
+    {
+      "name": "1 (3 inch) cinnamon stick",
+      "amount": ""
+    },
+    {
+      "name": "1 (3 inch) strip of orange peel",
+      "amount": ""
+    },
+    {
+      "name": "4 whole cloves",
+      "amount": ""
+    },
+    {
+      "name": "3 whole cardamom pods, cracked",
+      "amount": ""
+    },
+    {
+      "name": "1 (8 inch) square of cheesecloth",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 (15 ounce) package dark raisins",
+      "amount": ""
+    },
+    {
+      "name": "1 (6 ounce) package blanched slivered almonds",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat port wine in a large stockpot with a lid over medium heat until just below the simmering point. Add bourbon and rum; heat until just below simmering. Save the bottles and their caps for storing leftover glögg."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Meanwhile, place cinnamon stick, orange peel, cloves, and cardamom pods in the center of the cheesecloth square. Gather edges of the cheesecloth and tie with kitchen twine to secure; set aside."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "When wine mixture is very hot but not boiling, carefully light it with a long-handled match. Wearing a heatproof cooking mitt, carefully pour sugar into the flames; let mixture burn for 1 minute. Place the lid on the stockpot to extinguish the flames and turn off the heat. Let mixture cool, covered, about 10 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Add the cheesecloth spice bundle, raisins, and almonds to warm wine mixture; let it cool to room temperature, about 1 hour."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Strain cooled glögg and reserve the raisins and almonds."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "To serve: Pour glögg into a saucepan and warm over medium-low heat until hot but not simmering, about 5 minutes. Ladle 3 ounces of warmed glögg into a small coffee cup or a small Swedish-style glögg mug, and garnish each serving with a few reserved raisins and almonds."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/180453/old-fashioned-swedish-glogg/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

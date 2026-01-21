@@ -1,0 +1,144 @@
+{
+  "id": "35e72efa062d21d4b276d1a1b106440a",
+  "title": "General Tso&#39;s Chicken",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Asian Inspired",
+    "Asian",
+    "Chinese"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/03781debac54f4bbcb07ff33531deb92.webp",
+  "nutrition_tip": "General Tso&#39;s chicken is the perfect combination of crispy breaded deep-frie…",
+  "ingredients": [
+    {
+      "name": "4 cups vegetable oil for frying",
+      "amount": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": ""
+    },
+    {
+      "name": "1.5 pounds skinless, boneless chicken thighs, cut into 1 1/2-inch pieces",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch white pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 cup cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons chopped green onion",
+      "amount": ""
+    },
+    {
+      "name": "1 clove garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "6 dried whole red chilies",
+      "amount": ""
+    },
+    {
+      "name": "1 strip orange zest",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup soy sauce",
+      "amount": ""
+    },
+    {
+      "name": "3 tablespoons chicken broth",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons peanut oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons sesame oil",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon ground ginger",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons cornstarch",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup water",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Heat vegetable oil in a deep fryer or large saucepan to 375 degrees F (190 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Whisk egg in large mixing bowl. Add chicken, salt, sugar, and pepper; mix well. Mix in cornstarch, a little bit at a time, until chicken is well coated."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Working in batches, carefully drop one piece of chicken at a time into the hot oil. Fry until chicken turns golden brown and begins to float, about 3 minutes. Remove chicken to a plate and allow to cool as you fry the next batch."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Once all of the chicken has been fried, refry the chicken, starting with the batch that was cooked first. Fry each batch until chicken turns deep golden brown, about 2 minutes more. Drain on a paper towel-lined plate."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "To make the sauce: Heat vegetable oil in a wok or large skillet over high heat. Stir in green onion, garlic, whole chiles, and orange zest. Cook and stir until garlic turns golden and chiles brighten, 1 to 2 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Add sugar, soy sauce, chicken broth, peanut oil, rice vinegar, sesame oil, and ginger; bring to a boil and cook for 3 minutes. Whisk 2 teaspoons of cornstarch in water until dissolved. Stir into the boiling sauce. Return to a boil and cook until the sauce thickens and is no longer cloudy from the cornstarch, about 1 minute."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Stir chicken into the boiling sauce. Reduce heat to low and cook until chicken is heated through and has absorbed some of the sauce, about 3 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/91499/general-tsaos-chicken-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

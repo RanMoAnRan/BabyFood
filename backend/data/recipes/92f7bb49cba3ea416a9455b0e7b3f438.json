@@ -1,0 +1,99 @@
+{
+  "id": "92f7bb49cba3ea416a9455b0e7b3f438",
+  "title": "Old-Fashioned Coconut Cream Pie",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 270,
+  "cover_image": "images/a81fa78f1d25635cbe9334bdb36c3348.webp",
+  "nutrition_tip": "This coconut cream pie is made with a homemade coconut custard filling that&#39;…",
+  "ingredients": [
+    {
+      "name": "1 cup sweetened flaked coconut",
+      "amount": ""
+    },
+    {
+      "name": "3 cups half-and-half",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "2 large eggs, beaten",
+      "amount": ""
+    },
+    {
+      "name": "0.25 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "1 (9 inch) pie shell, baked",
+      "amount": ""
+    },
+    {
+      "name": "1 cup frozen whipped topping, thawed",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Preheat the oven to 350 degrees F (175 degrees C). Spread coconut on a baking sheet."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Bake coconut in the preheated oven, stirring occasionally, until golden brown, about 5 minutes."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Combine half-and-half, sugar, flour, eggs, and salt in a medium pot. Bring to a boil over low heat, stirring constantly, until mixture thickens and coats the back of a wooden spoon, about 15 minutes."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Remove the pan from heat and stir in 3/4 cup toasted coconut and vanilla; reserve remaining toasted coconut for garnishing the pie."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Pour custard into pie shell and chill until firm, about 4 hours."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Top with whipped topping and reserved toasted coconut."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-11-25",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/12481/old-fashioned-coconut-cream-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

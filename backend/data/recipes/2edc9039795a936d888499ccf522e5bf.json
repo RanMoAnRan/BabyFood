@@ -1,0 +1,107 @@
+{
+  "id": "2edc9039795a936d888499ccf522e5bf",
+  "title": "John Wayne Casserole",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/4c9aea5c78ee5b65a9c16cf3465652dd.webp",
+  "nutrition_tip": "John Wayne casserole is a delicious taco beef casserole cooked in biscuit dough…",
+  "ingredients": [
+    {
+      "name": "1 (16.3 ounce) can refrigerated biscuits",
+      "amount": ""
+    },
+    {
+      "name": "2 pounds ground beef",
+      "amount": ""
+    },
+    {
+      "name": "1 (1 ounce) package taco seasoning",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup water",
+      "amount": ""
+    },
+    {
+      "name": "1 medium onion, halved and sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 medium red bell pepper, halved and sliced (1 1/2 cups)",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup sour cream",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup mayonnaise",
+      "amount": ""
+    },
+    {
+      "name": "8 ounces shredded Cheddar cheese, divided",
+      "amount": ""
+    },
+    {
+      "name": "2 medium tomatoes, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 (4 ounce) jar sliced jalapeno peppers, drained",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C) and lightly grease a 9x13-inch baking pan."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Place and press biscuit dough into the bottom of the baking pan and halfway up the sides."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Bake in the preheated oven until lightly browned, 15 to 20 minutes. Leave the oven on."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Meanwhile, heat a nonstick skillet over medium-high heat and cook ground beef until browned and crumbly, about 5 minutes. Drain fat. Stir in taco seasoning and water. Bring to a boil, reduce heat, and simmer, stirring occasionally, for 5 minutes. Transfer cooked meat to a bowl and wipe out the skillet."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Add onion and bell peppers to the same skillet and cook over medium heat until slightly tender, about 5 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Combine sour cream, mayonnaise, 1/2 of the Cheddar cheese, and 1/2 of the onion-pepper mixture in a bowl."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Layer browned meat, tomatoes, onion-pepper mixture, jalapeño peppers, and sour cream mixture on top of prebaked biscuit dough. Sprinkle with remaining Cheddar cheese."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Bake uncovered in the preheated oven until cheese is lightly browned and bubbly, 30 to 40 minutes."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2022-08-08",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/8444531/john-wayne-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

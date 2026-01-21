@@ -1,0 +1,98 @@
+{
+  "id": "79f5618dac024cb5211417011355ee83",
+  "title": "Easy Lasagna",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/1cea353e52dd28be3318818310b2ee00.webp",
+  "nutrition_tip": "This easy lasagna recipe is made with lean ground beef, three types of cheese, a…",
+  "ingredients": [
+    {
+      "name": "1 pound lean ground beef",
+      "amount": ""
+    },
+    {
+      "name": "1 (32 ounce) jar spaghetti sauce",
+      "amount": ""
+    },
+    {
+      "name": "32 ounces cottage cheese",
+      "amount": ""
+    },
+    {
+      "name": "3 cups shredded mozzarella cheese, divided",
+      "amount": ""
+    },
+    {
+      "name": "2 eggs",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons dried parsley",
+      "amount": ""
+    },
+    {
+      "name": "salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "ground black pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "9 lasagna noodles",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup water",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients and preheat the oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 8 to 10 minutes. Drain and discard grease. Stir in spaghetti sauce and simmer for 5 minutes."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Combine cottage cheese, 2 cups of mozzarella cheese, eggs, 1/2 of the grated Parmesan cheese, dried parsley, salt, and pepper in a large bowl."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Spread 3/4 cup of sauce in a 9x13-inch baking dish. Cover with 3 uncooked lasagna noodles, 1 3/4 cups of cheese mixture, and 1/4 cup sauce; repeat layers once more. Top with remaining 3 noodles, sauce, mozzarella, and Parmesan cheese. Pour 1/2 cup water along the edges of the dish. Cover tightly with aluminum foil."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake in the preheated oven for 45 minutes. Uncover and bake for an additional 10 minutes. Let stand 10 minutes before serving."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Serve and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-02-07",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/12011/easy-lasagna-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

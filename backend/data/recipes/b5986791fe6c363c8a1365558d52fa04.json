@@ -1,0 +1,100 @@
+{
+  "id": "b5986791fe6c363c8a1365558d52fa04",
+  "title": "Sopapilla Cheesecake Pie",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Mexican Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 170,
+  "cover_image": "images/02d223c8c4e4b618299052c28be2c550.webp",
+  "nutrition_tip": "Sopapilla cheesecake, made with layers of flaky crescent dough, sweet cream chee…",
+  "ingredients": [
+    {
+      "name": "cooking spray",
+      "amount": ""
+    },
+    {
+      "name": "2 (8 ounce) packages cream cheese, softened",
+      "amount": ""
+    },
+    {
+      "name": "1.75 cups white sugar, divided",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon Mexican vanilla extract",
+      "amount": ""
+    },
+    {
+      "name": "2 (8 ounce) cans refrigerated crescent rolls",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup butter, room temperature",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "0.25 cup honey",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish with cooking spray."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Beat cream cheese, 1 cup sugar, and vanilla extract in a bowl until smooth."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Unroll crescent roll dough, and use a rolling pin to shape each sheet into a 9x13-inch rectangle."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Press one piece into the bottom of the prepared baking dish."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Evenly spread cream cheese mixture on top."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Cover with remaining piece of crescent dough."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Mash remaining 3/4 cup sugar, butter, and cinnamon with a fork until combined."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Dot mixture over top of dough."
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "Bake in the preheated oven until crescent dough has puffed and turned golden brown, about 30 minutes. Remove from the oven and drizzle with honey. Cool cheesecake completely in the pan for about 2 hours before cutting into 12 squares."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/169305/sopapilla-cheesecake-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

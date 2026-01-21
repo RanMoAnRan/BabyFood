@@ -1,0 +1,79 @@
+{
+  "id": "f5f2a789773e864a7ccc1d54f7193116",
+  "title": "Basic Biscuits",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Bread",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/df2b0b6b915616eb7f1b825cb715d948.webp",
+  "nutrition_tip": "This biscuit recipe is easy to make from scratch for delicious homemade biscuits…",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon baking powder",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup shortening",
+      "amount": ""
+    },
+    {
+      "name": "0.75 cup cold milk",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients and preheat oven to 450 degrees F (230 degrees C)."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Sift flour, baking powder, and salt together in a large mixing bowl; cut in shortening with a fork or pastry blender until mixture resembles coarse crumbs."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Pour milk into flour mixture while stirring with a fork. Mix in milk until dough is soft, moist and pulls away from the side of the bowl."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Turn dough out onto a lightly floured surface and knead dough briefly, 5 to 7 times."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Roll dough out into a 1/2 inch thick sheet and cut out biscuits with a floured cookie cutter. Press together unused dough and repeat rolling and cutting procedure."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Place biscuits on ungreased baking sheets and bake in preheated oven until golden brown, about 10 minutes."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-07-28",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/20075/basic-biscuits/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

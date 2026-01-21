@@ -1,0 +1,92 @@
+{
+  "id": "db9df85492a997c141805c73e1e5b138",
+  "title": "Traditional Swedish Pepparkakor",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Swedish"
+  ],
+  "difficulty": 1,
+  "time_cost": 110,
+  "cover_image": "images/9f7b3b100f5a7a858ea1f3e89529883c.webp",
+  "nutrition_tip": "Pepparkakor are delicate, crispy gingerbread cookies that are a beloved Swedish…",
+  "ingredients": [
+    {
+      "name": "3.75 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons baking soda",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cloves",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground ginger",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cardamom",
+      "amount": ""
+    },
+    {
+      "name": "1 cup unsalted butter, softened",
+      "amount": ""
+    },
+    {
+      "name": "1 cup white sugar",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup brown sugar, packed",
+      "amount": ""
+    },
+    {
+      "name": "1 large egg, beaten",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons dark corn syrup",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Sift flour, baking soda, cinnamon, cloves, ginger, and cardamom into a large bowl."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Beat butter, white sugar, and brown sugar together in a separate bowl with an electric mixer on medium speed until light and fluffy. Beat in egg and corn syrup until smooth. Gradually stir in flour mixture until evenly blended. Divide dough into four equal portions and wrap tightly in plastic wrap; refrigerate for at least 1 hour, or overnight."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "When ready to bake, preheat the oven to 375 degrees F (190 degrees C). Lightly grease baking sheets."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Working with one disk of dough at a time, and leaving the remaining disks in the refrigerator, unwrap chilled dough and place onto a lightly floured surface. Roll dough with a floured rolling pin to a thickness of 1/8 inch. Cut dough into desired shapes with cookie cutters, dipping the cutters into flour as needed so they don&#39;t stick to the dough. Place cookies 1 inch apart on prepared baking sheets."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake in the preheated oven until set, about 5 minutes. Transfer cookies to wire racks to cool. Repeat rolling, cutting, and baking the remaining cookies."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/155728/traditional-swedish-pepparkakor/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

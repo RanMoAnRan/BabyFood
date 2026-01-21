@@ -1,0 +1,87 @@
+{
+  "id": "0645fa5a8355dba722066e765756abb0",
+  "title": "两人份鸡肉玉米卷汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/942d7ba683bc7244ffe7c0683c181eef.webp",
+  "nutrition_tip": "这种快速、简单的鸡肉炸玉米饼汤适合两个食谱，是用冷冻玉米和玉米粉制成的……",
+  "ingredients": [
+    {
+      "name": "2 茶匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 玉米卷调味料，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5（14 盎司）罐装火烤番茄丁，加果汁",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯冷冻玉米",
+      "amount": ""
+    },
+    {
+      "name": "1块（5盎司）去骨去皮鸡胸肉，沿对角线切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯玉米片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个牛油果，切片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯瓦哈卡奶酪丝，或品尝",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙酸奶油，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在重平底锅中用中高火加热橄榄油直至闪烁。加入洋葱和 1 ½ 汤匙玉米卷调味料；煮并搅拌 3 至 4 分钟，直至洋葱变软且半透明。加入鸡汤、西红柿汁和玉米。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将剩余的 1 ½ 汤匙玉米卷调味料撒在鸡块上；搅拌成汤。覆盖;煮至鸡肉熟透，大约5分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "与玉米片、鳄梨片、瓦哈卡奶酪和酸奶油一起上汤。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-15",
+  "updated_at": "2026-01-20T09:50:28Z",
+  "source_url": "https://www.allrecipes.com/recipe/279294/chicken-taco-soup-for-two/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e9de5492d69d326161789edf44249f7d",
+    "translated": true
+  }
+}

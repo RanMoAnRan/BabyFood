@@ -1,0 +1,125 @@
+{
+  "id": "ce374f7c1d48b27facfa01cd4c193e2f",
+  "title": "Hearty Barley Turkey Soup",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 225,
+  "cover_image": "images/44a52bdbbbede4eb20cfc31c9228ac72.webp",
+  "nutrition_tip": "This flavorsome turkey barley soup is made with homemade turkey stock from your…",
+  "ingredients": [
+    {
+      "name": "5 quarts water, or as needed",
+      "amount": ""
+    },
+    {
+      "name": "1 turkey carcass",
+      "amount": ""
+    },
+    {
+      "name": "1.5 cups coarsely chopped onion",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup chopped carrot",
+      "amount": ""
+    },
+    {
+      "name": "3 stalks celery, cut in half",
+      "amount": ""
+    },
+    {
+      "name": "10 whole black peppercorns",
+      "amount": ""
+    },
+    {
+      "name": "1 large bay leaf",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch dried thyme, or to taste",
+      "amount": ""
+    },
+    {
+      "name": "1.5 pounds carrots, cut into 1-inch chunks",
+      "amount": ""
+    },
+    {
+      "name": "2 medium onions, diced",
+      "amount": ""
+    },
+    {
+      "name": "6 stalks celery, cut into 1/2-inch slices",
+      "amount": ""
+    },
+    {
+      "name": "1 cup barley",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup chopped mushrooms",
+      "amount": ""
+    },
+    {
+      "name": "2 large bay leaves",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons salt",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon dried marjoram",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground black pepper",
+      "amount": ""
+    },
+    {
+      "name": "1 pinch dried thyme",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all stock and soup ingredients."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "To make the turkey stock: Combine 5 quarts water and turkey carcass in a large stockpot over medium-high heat; bring to a boil. Add onion, carrot, celery, peppercorns, bay leaf, and thyme. Reduce the heat and simmer, skimming excess fat and foam from the surface as needed and adding more water as it evaporates, for 2 to 2 ½ hours."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Remove carcass to a cutting board and cool. Strain stock; discard solids and return liquid to the pot."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Pull meat from cooled carcass and discard bones. Shred meat and refrigerate until needed."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Make the soup: Add carrots, onions, celery, barley, mushrooms, bay leaves, salt, marjoram, pepper, and thyme to stock; bring to a boil. Reduce the heat and simmer, stirring occasionally, until barley is fully cooked, about 1 hour 20 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Return shredded turkey to the soup; simmer until heated through, about 10 minutes. Remove bay leaves and serve."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/230904/hearty-barley-turkey-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}

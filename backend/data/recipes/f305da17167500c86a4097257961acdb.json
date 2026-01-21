@@ -1,0 +1,111 @@
+{
+  "id": "f305da17167500c86a4097257961acdb",
+  "title": "Pumpkin Squares",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/9f36939207adbb0cc10209e18ed995e4.webp",
+  "nutrition_tip": "Tasty pumpkin squares are cakelike in texture and crustless, too! Fans of pumpki…",
+  "ingredients": [
+    {
+      "name": "1 (15 ounce) can pumpkin puree",
+      "amount": ""
+    },
+    {
+      "name": "2 cups white sugar",
+      "amount": ""
+    },
+    {
+      "name": "1 cup vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "4 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons ground cinnamon",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon baking soda",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground cloves",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground ginger",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon ground nutmeg",
+      "amount": ""
+    },
+    {
+      "name": "0.5 teaspoon salt",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking pan."
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "Mix pumpkin, sugar, oil, and eggs together in a mixing bowl until smooth."
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "Sift flour, cinnamon, baking powder, baking soda, cloves, ginger, nutmeg, and salt together in a separate bowl."
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "Stir flour mixture into the pumpkin mixture until well combined. Spread evenly into the prepared pan."
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "Bake in the preheated oven until top until tops spring back when lightly pressed, 25 to 30 minutes."
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "Remove from the oven and cool completely before cutting into 24 squares."
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "Top with cream cheese frosting or glaze, if desired."
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "Serve and enjoy!"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-25",
+  "updated_at": "2026-01-21T05:10:13Z",
+  "source_url": "https://www.allrecipes.com/recipe/15236/pumpkin-squares/",
+  "origin_url": "",
+  "source_name": "Allrecipes"
+}
