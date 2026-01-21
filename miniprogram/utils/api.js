@@ -162,16 +162,26 @@ async function fetchManifest({ force = false } = {}) {
 
 async function fetchIndex({ force = false } = {}) {
   const cached = storage.get(STORAGE_KEYS.index, null);
-  if (!force && cached && Array.isArray(cached.items)) {
+  let manifest = storage.get(STORAGE_KEYS.manifest, null);
+  const hasCachedItems = cached && Array.isArray(cached.items);
+  if (force || hasCachedItems || !manifest || !manifest.version) {
+    const fetched = await fetchManifest({ force: true });
+    if (fetched && fetched.version) manifest = fetched;
+  }
+
+  const bust = manifest && manifest.version ? manifest.version : "";
+  const cachedMatches = hasCachedItems && bust && cached.version === bust;
+  if (!force && hasCachedItems && (!bust || cachedMatches)) {
     const normalized = normalizeIndexData(cached);
     if (normalized !== cached) storage.set(STORAGE_KEYS.index, normalized);
     return normalized;
   }
 
-  let manifest = storage.get(STORAGE_KEYS.manifest, null);
-  if (!manifest || !manifest.version) manifest = await fetchManifest();
-  const bust = manifest && manifest.version ? manifest.version : "";
-  const url = withQuery(joinUrl(CDN_BASE, PATHS.index), force ? { v: bust, t: Date.now() } : { v: bust });
+  const shouldBust = force || (hasCachedItems && bust && cached.version !== bust);
+  const url = withQuery(
+    joinUrl(CDN_BASE, PATHS.index),
+    shouldBust ? { v: bust, t: Date.now() } : { v: bust },
+  );
   try {
     const data = await request.requestJson(url);
     const normalized = normalizeIndexData(data);
