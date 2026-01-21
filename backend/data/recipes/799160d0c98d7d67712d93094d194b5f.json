@@ -1,0 +1,103 @@
+{
+  "id": "799160d0c98d7d67712d93094d194b5f",
+  "title": "火鸡野米馅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/e1628efecf59dcb7704ff3d0edbd82e3.webp",
+  "nutrition_tip": "野生稻、芹菜、甜椒和油煎面包块在这个经过家庭测试的...",
+  "ingredients": [
+    {
+      "name": "1 杯热水",
+      "amount": ""
+    },
+    {
+      "name": "3 块鸡汤，捣碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（6 盎司）长粒米和菰米，例如 Ben's Original",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯冷水，或根据需要覆盖",
+      "amount": ""
+    },
+    {
+      "name": "1 块鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 杯热水",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的芹菜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的青椒",
+      "amount": ""
+    },
+    {
+      "name": "1 包（5.5 盎司）调味油煎面包块",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙家禽调味料",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "制作米饭：将热水和 3 个碎肉汤块放入一个中型平底锅中；搅拌溶解。加入菰米和 1 1/4 杯冷水，或根据需要加盖；煮沸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "沸腾后，调小火，盖上锅盖，小火煮，偶尔搅拌，直至水被吸收，大约需要 25 分钟。从火上移开，盖上盖子静置 5 分钟。用叉子把米饭弄松。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在烤盘上涂上大量油脂。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "制作馅料：将肉汤块溶解在1杯热水中制成肉汤；放在一边。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在中型煎锅中用中火融化黄油。加入芹菜和青椒翻炒；煮5至7分钟，直至变软。加入保留的肉汤，然后将混合物转移到一个大碗中。加入煮熟的米饭、油煎面包块和家禽调味料；转移到准备好的烤盘中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "盖上盖子，放入预热好的烤箱中烘烤 30 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/77977/wild-rice-stuffing-for-turkey/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "134924f2155cd4304b1bf86ba44548bd",
+    "translated": true
+  }
+}

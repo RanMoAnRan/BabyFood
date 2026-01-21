@@ -1,0 +1,76 @@
+{
+  "id": "b0b921d9e09c6e1c09cd84bc91993925",
+  "title": "苹果肉桂面包布丁",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/9661fcc4d068950d42fc660de61d4b2d.webp",
+  "nutrition_tip": "这个简单而美味的面包布丁食谱，用奶油蛋卷面包制成，很饱……",
+  "ingredients": [
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油，软化，或根据需要更多",
+      "amount": ""
+    },
+    {
+      "name": "8 片奶油蛋卷面包",
+      "amount": ""
+    },
+    {
+      "name": "2 个苹果 - 去皮、去核、切丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。在玻璃深盘馅饼盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和肉桂放入碗中混合；放在一边。在另一个碗中将牛奶和鸡蛋一起搅拌直至光滑；放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在每个面包片的一侧涂上黄油；将切片切成方块。将 ½ 个面包块放入准备好的馅饼盘中；撒上 1/2 肉桂糖混合物，然后在上面放 1/2 苹果。将剩下的 1/2 面包块、肉桂糖混合物和苹果重复分层。将牛奶鸡蛋混合物倒在上面；放置约 10 分钟，直至面包块湿润。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 40 至 50 分钟，直至顶部酥脆。食用前冷却至少 20 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/277616/apple-cinnamon-bread-pudding/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "755a6c9a93bcd8328c799f9a4a8b0979",
+    "translated": true
+  }
+}

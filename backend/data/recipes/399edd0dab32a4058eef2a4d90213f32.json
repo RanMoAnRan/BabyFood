@@ -1,0 +1,91 @@
+{
+  "id": "399edd0dab32a4058eef2a4d90213f32",
+  "title": "苹果酿橡子南瓜",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/6c098eac47e15e1c9fe90abc468f058d.webp",
+  "nutrition_tip": "在这个苹果酿橡子南瓜的素食食谱中，青苹果和……",
+  "ingredients": [
+    {
+      "name": "3 个橡子南瓜，切半并去籽",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "3 杯 青苹果，去皮、去籽、切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯金色葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 淡红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜切成两半，切面朝下，放在烤盘上。添加足够的水，使水达到烤盘两侧 1/2 英寸的高度。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤40分钟。沥干剩余的水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，在大煎锅中用中火融化人造黄油。加入苹果和洋葱；煮10到15分钟，直到洋葱变软并变成半透明。将混合物转移到碗中冷却。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "南瓜煮熟后，将切达干酪、葡萄干、红糖和肉桂放入苹果混合物中搅拌直至均匀混合。将南瓜切成两半，放在烤盘上；用苹果混合物填充空腔。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在加热的烤箱中烘烤约 15 分钟，直至馅料变热且奶酪融化。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/212708/apple-stuffed-acorn-squash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a58d8a6e530158dc4c6be845b97060e0",
+    "translated": true
+  }
+}

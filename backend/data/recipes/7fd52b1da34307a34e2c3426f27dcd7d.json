@@ -1,0 +1,85 @@
+{
+  "id": "7fd52b1da34307a34e2c3426f27dcd7d",
+  "title": "卡罗尔阿姨的苹果派",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/7e6922bbfdfc1cca7db5338bd0a75fc2.webp",
+  "nutrition_tip": "卡罗尔阿姨的苹果派食谱是我最喜欢的，最好用 Macint 制作……",
+  "ingredients": [
+    {
+      "name": "2 磅青苹果",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 个 9 英寸双层皮馅饼的配方糕点",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙白糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 450 华氏度（230 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "苹果去皮切片；将切片放入碗中。加入1杯白糖、红糖、面粉和肉桂粉；搅拌直至苹果均匀地涂上一层。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在撒了少许面粉的工作台上擀出 1 个馅饼皮；适合 10 英寸玻璃饼盘。将苹果馅倒入饼皮中；点上黄油。将剩余的 1 个馅饼皮擀开；放在填充物上。将边缘压在一起以密封。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用水弄湿双手；将馅饼顶部弄湿，然后撒上一汤匙白糖。用叉子在顶部外壳上戳一些通风孔，以便蒸汽逸出。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 15 分钟，在馅饼盘下垫一张铝箔以接住溢出的部分。将烤箱温度降低至 350 华氏度（175 摄氏度）；继续烘烤约 45 分钟，直至外皮呈金黄色。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-11-19",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/13622/aunt-carols-apple-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4ea2b7595043eb8a6b5803e8dcb1e7da",
+    "translated": true
+  }
+}

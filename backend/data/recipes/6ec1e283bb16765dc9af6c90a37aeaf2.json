@@ -1,0 +1,132 @@
+{
+  "id": "6ec1e283bb16765dc9af6c90a37aeaf2",
+  "title": "奶油芝士糖霜南瓜饼干（世界上最好的！）",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/27bd1c28487e48f2109c3824a89c00a0.webp",
+  "nutrition_tip": "柔软、湿润的南瓜饼干和奶油奶酪糖霜非常适合万圣节……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙姜末",
+      "amount": ""
+    },
+    {
+      "name": "1 杯无盐黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 包（3 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯无盐黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 杯糖粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两张烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作饼干：将面粉、发酵粉、肉桂、小苏打、肉豆蔻和生姜放入碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在另一个大碗中用电动搅拌机将黄油、糖、鸡蛋和香草精搅拌至光滑。加入南瓜泥。将干燥的原料逐渐搅拌到南瓜混合物中直至混合；面糊会湿的。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将一茶匙面糊放在准备好的烤盘上，间隔约 2 英寸。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 10 到 12 分钟，直至饼干呈浅棕色，中途更换架子。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "从烤箱中取出，放在床单上冷却 5 分钟。将饼干转移到金属架上并完全冷却，大约需要 25 分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "当饼干冷却时，制作糖霜：用电动搅拌机将奶油芝士、黄油和香草放入碗中，搅拌至柔软且呈奶油状。加入糖粉，一次约 1/2 杯，直至糖霜光滑且可涂抹。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "在冷却的饼干上涂上糖霜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/229108/pumpkin-cookies-with-cream-cheese-frosting-the-worlds-best/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "43cd3e87fdf3ae9b8c7bacf1f23878e5",
+    "translated": true
+  }
+}

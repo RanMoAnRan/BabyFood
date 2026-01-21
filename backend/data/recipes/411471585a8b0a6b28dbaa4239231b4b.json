@@ -1,0 +1,91 @@
+{
+  "id": "411471585a8b0a6b28dbaa4239231b4b",
+  "title": "苹果核桃面包",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/3feacfbc4738ad02510df44c1e01332b.webp",
+  "nutrition_tip": "这个简单易做的苹果核桃面包配方是用全麦面粉制成的，应用...",
+  "ingredients": [
+    {
+      "name": "1.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯苹果酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯全麦面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "3 杯苹果，去皮、去核、切块",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。在两个 9x5 英寸的面包盘上涂抹少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖、油、鸡蛋、苹果酱和香草精放入碗中混合。将中筋面粉、全麦面粉、肉桂、小苏打和盐过筛到另一个碗中；加入糖混合物中搅拌，直至完全混合。拌入苹果和核桃。将面糊分装在准备好的平底锅之间。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 70 分钟，直到插入中心的刀取出来时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-09-15",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/22456/apple-walnut-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0dd7770c8a528586e3a6ab9d34a84856",
+    "translated": true
+  }
+}

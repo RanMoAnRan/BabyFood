@@ -1,0 +1,76 @@
+{
+  "id": "d241c2e1f3c53aa3353c399bd6a27da7",
+  "title": "巴巴·加努什",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Middle Eastern"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/652edf7ccc3fb39948e0b3661d0f7a53.webp",
+  "nutrition_tip": "Baba ghanoush（或 baba ganoush）是一种烟熏中东烤茄子酱......",
+  "ingredients": [
+    {
+      "name": "1 个茄子",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯芝麻酱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙芝麻",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙橄榄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将茄子放在准备好的烤盘上，用叉子在茄子皮上扎一些洞。在预热的烤箱中烘烤 30 至 40 分钟，偶尔翻转，直到非常软嫩。将茄子放在一边，直到冷却到可以处理为止；切成两半，将肉舀入漏勺或碗上的细网筛中；沥干5分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将茄子、柠檬汁、芝麻酱、芝麻和大蒜放入搅拌机中，打成泥。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将茄子混合物转移到一个中等大小的搅拌碗中，并慢慢与橄榄油混合。食用前将巴巴加努什冷藏至完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-08",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/14859/baba-ghanoush/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4a3afc96a760fb973796409cdf7e6fe0",
+    "translated": true
+  }
+}

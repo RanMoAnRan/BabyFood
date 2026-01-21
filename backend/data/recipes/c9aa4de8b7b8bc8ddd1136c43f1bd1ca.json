@@ -1,0 +1,144 @@
+{
+  "id": "c9aa4de8b7b8bc8ddd1136c43f1bd1ca",
+  "title": "香蕉蛋糕",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 135,
+  "cover_image": "images/10bf11eb603e197a8b7358d0e1c169ed.webp",
+  "nutrition_tip": "这个香蕉蛋糕食谱用简单的食品储藏室原料制作出湿润、美味的蛋糕......",
+  "ingredients": [
+    {
+      "name": "1.5 杯香蕉泥",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2.125 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯酪乳",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "3.5 杯糖果糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 275 华氏度（135 摄氏度）。在 9x13 英寸的平底锅上涂抹油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作蛋糕：将捣碎的香蕉与柠檬汁在一个小碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个中等大小的碗中混合面粉、小苏打和盐。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大碗中将糖和黄油搅打至松软，需要 3 到 4 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "一次打入一个鸡蛋，然后加入香草精搅拌。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将面粉混合物与酪乳交替搅拌。加入香蕉混合物搅拌。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "在预热的烤箱中烘烤，直至用牙签插入蛋糕中心，拔出时干净，大约需要 1 小时。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "将蛋糕从烤箱中取出，直接放入冰箱（不盖盖子）45 分钟。这会让蛋糕变得非常湿润。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "同时，制作糖霜：将黄油和奶油干酪奶油化，直至光滑。加入香草精。加入糖粉，低速搅拌直至混合，然后高速搅拌直至糖霜光滑。"
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "在冷却的蛋糕上涂上糖霜。"
+    },
+    {
+      "step_index": 12,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-11",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/8333/banana-cake-vi/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2bb13dc24bca6e31a65483b10e4456d5",
+    "translated": true
+  }
+}

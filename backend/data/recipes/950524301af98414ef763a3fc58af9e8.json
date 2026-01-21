@@ -1,0 +1,49 @@
+{
+  "id": "950524301af98414ef763a3fc58af9e8",
+  "title": "苹果派香料食谱",
+  "min_age_month": 12,
+  "tags": [
+    "Spice Mix",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/6a129f81899838fc8b806e6247fb6081.webp",
+  "nutrition_tip": "肉桂、肉豆蔻、小豆蔻和多香果是您制作……所需的唯一成分。",
+  "ingredients": [
+    {
+      "name": "1 汤匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙五香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙小豆蔻粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将肉桂、肉豆蔻、五香粉和豆蔻放入密封容器中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-09-23",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/255495/apple-pie-spice-recipe/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5565732c52a27f39b54cc07e3d2a8f34",
+    "translated": true
+  }
+}

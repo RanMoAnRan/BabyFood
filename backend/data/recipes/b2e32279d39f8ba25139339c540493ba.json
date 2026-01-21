@@ -1,0 +1,96 @@
+{
+  "id": "b2e32279d39f8ba25139339c540493ba",
+  "title": "苹果酱西葫芦面包",
+  "min_age_month": 12,
+  "tags": [
+    "Bread",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/ec9f7c27c00a846ece821f9ecf715e54.webp",
+  "nutrition_tip": "这种湿润的西葫芦面包配上苹果酱和肉桂食谱让人难以抗拒……",
+  "ingredients": [
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯西葫芦丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯苹果酱",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的山核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。给 2 个面包盘涂上油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、肉桂、盐、小苏打和泡打粉放入碗中搅拌。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖、油和鸡蛋放入另一个碗中；加入西葫芦、苹果酱和香草精，搅拌均匀。加入面粉混合物搅拌直至合并；拌入山核桃。将面糊分装在准备好的平底锅之间。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至插入中心的牙签取出时是干净的。切片前稍微冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/278070/applesauce-zucchini-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "50f8716fc50433ac370de577da6d09e2",
+    "translated": true
+  }
+}

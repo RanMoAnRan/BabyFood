@@ -1,0 +1,101 @@
+{
+  "id": "b2c1dd1e40a8bcda95ec9c40595d6b99",
+  "title": "苹果西葫芦面包",
+  "min_age_month": 12,
+  "tags": [
+    "Bread",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/38a4333ba9432835efa316dcb8cc1f8f.webp",
+  "nutrition_tip": "这种湿润的苹果西葫芦面包食谱很容易用切碎的苹果和祖...",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "3.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯去皮切碎的西葫芦",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎、去皮的苹果",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有材料。将烤箱预热至 350 华氏度（175 摄氏度）。在两个 9x5 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在碗中将白糖、红糖、鸡蛋、油和香草精一起搅拌直至充分混合。将面粉、肉桂、小苏打和盐混合在另一个碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉混合物搅拌到糖混合物中，直至充分混合。拌入西葫芦、苹果和核桃，直至均匀分布。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊分装在准备好的平底锅之间。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至轻压时面包中心弹回。将面包放入锅中冷却 10 分钟，然后将其从锅中取出；转移到金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-22",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/20663/zucchini-apple-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e41cffa95a8a82a38b71f7a237a3d6f3",
+    "translated": true
+  }
+}

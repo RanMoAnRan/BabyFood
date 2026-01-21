@@ -1,0 +1,136 @@
+{
+  "id": "3d173a76071a69bbd90223f69b09ba99",
+  "title": "胡萝卜蛋糕饼干",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/fe0bfa9f6805f169f789a1ea96f958e3.webp",
+  "nutrition_tip": "这些带有香草奶油奶酪糖霜的胡萝卜蛋糕饼干轻盈湿润……",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "1/2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）菠萝碎，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯胡萝卜丝",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    },
+    {
+      "name": "4 盎司奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1/4 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 1/2 至 3 杯糖粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "制作饼干：收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在饼干片或饼干线上涂上羊皮纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄油、红糖和白糖放入一个大碗中，用电动搅拌机搅拌至光滑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入鸡蛋，一次一个，直至混合。加入压碎的菠萝、胡萝卜和葡萄干。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面粉、泡打粉、小苏打、盐和肉桂混合；搅拌成胡萝卜混合物。如果使用的话，折叠 3/4 杯核桃。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将一勺面团放在准备好的饼干片上，间隔 2 英寸。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 14 至 16 分钟，直至顶部凝固。让饼干在饼干片上冷却 2 分钟，然后移至金属架上完全冷却。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "制作奶油芝士糖霜：在一个大碗中用电动搅拌机中速搅拌奶油芝士、黄油和香草精，直至松软。逐渐加入糖粉，直至达到铺展的稠度。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "用奶油奶酪糖霜冷冻饼干；如果需要，撒上剩余的 1/4 杯核桃。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-04",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/25803/carrot-cake-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "37e6d9f864b917a4f0d79e94e90afbd1",
+    "translated": true
+  }
+}

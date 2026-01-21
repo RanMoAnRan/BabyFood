@@ -1,0 +1,97 @@
+{
+  "id": "afe4f7d4ccd70425e123d21cc61d81ab",
+  "title": "简单的纯素姜饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 160,
+  "cover_image": "images/14422dde53a4f97ec450bd46734d2b2d.webp",
+  "nutrition_tip": "这些纯素姜饼饼干是用椰子油、糖蜜和温暖的香料制成的……",
+  "ingredients": [
+    {
+      "name": "1.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙姜末",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙五香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯椰子油，室温",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯糖蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将面粉、发酵粉、肉桂、小苏打、生姜、五香粉和盐筛入碗中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将椰子油、糖蜜和糖放入另一个碗中，用电动搅拌机中速搅拌直至充分混合；添加香草精。加入面粉混合物，搅拌形成粘性面团，大约需要 2 分钟。用保鲜膜包裹面团并冷藏 2 小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "准备烘烤时，将烤箱预热至 350 华氏度（175 摄氏度）。在 2 个烤盘上铺上羊皮纸。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在撒了面粉的表面上将面团擀成 1/4 英寸的厚度。用饼干切刀将面团切成所需的形状，根据需要将切刀浸入面粉中，这样它们就不会粘在面团上；将它们放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 8 至 10 分钟直至变硬。在烤盘上短暂冷却，然后将其转移到金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/261805/easy-vegan-gingerbread-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6d0cdc0a8325a46c32baa52b3f8a249a",
+    "translated": true
+  }
+}

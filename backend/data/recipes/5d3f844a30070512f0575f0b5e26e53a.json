@@ -1,0 +1,86 @@
+{
+  "id": "5d3f844a30070512f0575f0b5e26e53a",
+  "title": "简易香草烤火鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 225,
+  "cover_image": "images/5b9ddedf14a2b5038a4170138117a3a4.webp",
+  "nutrition_tip": "美味香草和香料的简单混合物是火鸡的最佳调味料！…",
+  "ingredients": [
+    {
+      "name": "1 只（12 磅）整只火鸡，去掉脖子和内脏",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙鼠尾草粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。清洁火鸡并用纸巾拍干。放入带盖的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将橄榄油、大蒜粉、罗勒、鼠尾草、盐和胡椒粉放入一个小碗中。用涂油刷将香草混合物涂抹在未煮熟的火鸡的整个外部。将 2 杯水倒入烤盘底部。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "盖上锅盖，在预热的烤箱中烘烤，直到用即时读数温度计测量大腿最厚部分的内部温度为 180 华氏度（82 摄氏度），持续 3 至 3 1/2 小时。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将火鸡从烤箱中取出，静置约 30 分钟后再进行切肉。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/41393/easy-herb-roasted-turkey/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e5fb1d67dfefb2a05a2947766bd0613b",
+    "translated": true
+  }
+}

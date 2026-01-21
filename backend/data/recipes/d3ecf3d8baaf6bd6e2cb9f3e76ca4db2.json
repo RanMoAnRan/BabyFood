@@ -1,0 +1,97 @@
+{
+  "id": "d3ecf3d8baaf6bd6e2cb9f3e76ca4db2",
+  "title": "维也纳炸肉排",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Drink",
+    "German"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/0d387fdb7ad615e3b06f9b41d08c6911.webp",
+  "nutrition_tip": "这个维也纳炸肉排是一种简单的德国食谱，用于制作嫩小牛肉片，上面涂有……",
+  "ingredients": [
+    {
+      "name": "1.5 磅小牛排",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙欧芹碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯干面包屑",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "4 片柠檬",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将小牛肉片放在坚固、水平表面上的 2 片厚塑料片之间。用肉锤光滑的一面将肉片用力敲打至 1/4 英寸厚。将肉片沾上面粉；甩掉多余的东西。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡蛋、帕尔马干酪、牛奶、欧芹、盐、胡椒和肉豆蔻放入一个浅碗中，搅拌直至混合。将面包屑放在盘子上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将每块肉排浸入鸡蛋混合物中，然后压入面包屑以裹上面包屑。将涂有涂层的肉排放在盘子上，冷藏 1 小时至过夜。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在大煎锅中用中火融化黄油。用黄油将裹有面包屑的肉排煎至棕色，每面约 3 分钟。将肉排转移到盘子上，然后将锅汁倒在上面。用柠檬片装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/78117/wienerschnitzel/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "03c643e1181ea138d9bdfb09e7c96178",
+    "translated": true
+  }
+}

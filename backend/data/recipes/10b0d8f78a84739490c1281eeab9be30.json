@@ -1,0 +1,58 @@
+{
+  "id": "10b0d8f78a84739490c1281eeab9be30",
+  "title": "老式雪冰淇淋",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/6e49ac6fcb1b21f0d6f6ed93bdeafe09.webp",
+  "nutrition_tip": "这个雪冰淇淋配方包括淡奶、生鸡蛋、糖和香草精……",
+  "ingredients": [
+    {
+      "name": "1 罐（12 液量盎司）淡奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 加仑雪",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将淡奶、糖、鸡蛋和香草精放入一个大碗中，搅拌至光滑。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在雪中逐渐搅拌，直至混合物达到所需的稠度。立即吃饭。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/24940/snow-ice-cream-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "944f77584d7a68d73d9c05eb776c22b9",
+    "translated": true
+  }
+}

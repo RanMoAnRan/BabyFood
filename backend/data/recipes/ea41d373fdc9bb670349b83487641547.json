@@ -1,0 +1,52 @@
+{
+  "id": "ea41d373fdc9bb670349b83487641547",
+  "title": "晒干的西红柿",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "Italian Inspired",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 255,
+  "cover_image": "images/d0a5281db6faa26f436f7ab2e5fb5e75.webp",
+  "nutrition_tip": "晒干的西红柿可以用新鲜的西红柿和一点点在温暖的烤箱中制作......",
+  "ingredients": [
+    {
+      "name": "4 磅西红柿",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 200 华氏度（95 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将西红柿洗净并切半。轻轻地挤出种子。将西红柿放在不粘烤盘上，撒上盐调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤西红柿，直至非常干燥但仍然柔韧，4 小时后检查一次，然后每小时检查一次。请记住，较大的西红柿需要更多的烤箱时间。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-09-08",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/14081/sun-dried-tomatoes-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "57cdfc02f7cb34af0def2f4cb18cf3f9",
+    "translated": true
+  }
+}

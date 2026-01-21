@@ -1,0 +1,78 @@
+{
+  "id": "8fbed3be2a815fdaac05e1c12285d22a",
+  "title": "意大利面培根蛋面",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Pasta",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/02fb79f855c2934fb013208aa209cd21.webp",
+  "nutrition_tip": "Carbonara由腌猪肉、鸡蛋、佩科里诺奶酪、意大利面和大量的pe…",
+  "ingredients": [
+    {
+      "name": "2 茶匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 磅 guanciale（腌猪颊肉），切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）意大利面",
+      "amount": ""
+    },
+    {
+      "name": "3 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "10 汤匙磨碎的佩科里诺罗马诺奶酪，分开",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在大煎锅中用中火加热橄榄油；添加guanciale（参见库克的注释）。煮 5 到 10 分钟，偶尔翻面，直至均匀变褐色且酥脆。从火上移开并用纸巾沥干。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅盐水煮沸。在沸水中煮意大利面，偶尔搅拌，直至变软但咬起来很硬，大约需要 9 分钟。沥干并返回锅中。冷却约 5 分钟，偶尔搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡蛋、1/2 罗马佩克里诺奶酪和一些黑胡椒放入碗中，搅拌至光滑细腻。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将鸡蛋混合物倒在意大利面上，快速搅拌，直至呈奶油状并稍微冷却。拌入guanciale。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上面放上剩余的佩科里诺罗马诺奶酪和更多的黑胡椒。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-16",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/245775/spaghetti-alla-carbonara-the-traditional-italian-recipe/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c4288da1f0497c785fcf043e6d792cbd",
+    "translated": true
+  }
+}

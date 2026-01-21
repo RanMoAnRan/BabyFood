@@ -1,0 +1,102 @@
+{
+  "id": "8922890a39850a7c2007b9b07afdcb2b",
+  "title": "最好的姜饼人饼干",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 270,
+  "cover_image": "images/d2fcb8a9ce296723380934e8f63d27b0.webp",
+  "nutrition_tip": "这个姜饼饼干食谱可以制作出大量可爱的、完美调味的姜饼……",
+  "ingredients": [
+    {
+      "name": "3 杯面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙 McCormick® 生姜，磨碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙 McCormick® 肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙 McCormick® 肉豆蔻粉，磨碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯包装牢固的红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯糖蜜",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙 McCormick® 纯香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大碗中混合面粉、生姜、肉桂、小苏打、肉豆蔻和盐。在大碗中用电动搅拌机中速搅拌黄油和红糖，直至松软。加入糖蜜、鸡蛋和香草精；搅拌均匀。低速逐渐搅拌面粉混合物直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团压成厚而平坦的圆盘。用保鲜膜包裹。冷藏 4 小时或过夜。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在撒了少许面粉的表面上将面团擀成 1/4 英寸的厚度。用5英寸的饼干切刀切成姜饼人形状。将姜饼人放在未抹油的烤盘上，间隔 1 英寸。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 8 到 10 分钟，直至饼干边缘凝固并开始变成棕色。在烤盘上冷却 1 到 2 分钟，然后移至金属架上完全冷却。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "根据需要装饰冷却的饼干。将饼干存放在密封容器中最多 5 天。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/230238/gingerbread-men-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ba9ed8796d91019f5563b941cbd3f560",
+    "translated": true
+  }
+}

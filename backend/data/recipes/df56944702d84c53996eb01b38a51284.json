@@ -1,0 +1,63 @@
+{
+  "id": "df56944702d84c53996eb01b38a51284",
+  "title": "自制凝脂奶油",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "English",
+    "British"
+  ],
+  "difficulty": 1,
+  "time_cost": 1205,
+  "cover_image": "images/504357d6270c5c9d22222214f631f52b.webp",
+  "nutrition_tip": "将新鲜奶油在烤箱中慢慢煮熟制成的凝结奶油；尝试约翰厨师……",
+  "ingredients": [
+    {
+      "name": "4 杯浓奶油（未经超巴氏灭菌）",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 175 至 180 华氏度（80 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶油倒入浅玻璃或陶瓷烤盘（8 或 9 英寸的方形烤盘是理想的）。奶油的深度应约为 1 ½ 至 2 英寸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤12小时。不要搅拌。小心地从烤箱中取出并冷却至室温。盖上保鲜膜并冷藏 8 小时至过夜，直至完全冷却。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将顶层稠奶油的一角推到一边。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "小心地将液体倒入碗或容器中；将其冷藏并用于您最喜欢的烤饼食谱中（与凝脂奶油完美搭配）。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将增稠（凝结）的奶油装入陶瓷罐或罐头罐中。盖上盖子并冷藏最多 5 天。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-04-07",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/257734/chef-johns-clotted-cream/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2bf44d1e457af48cd47307715decb0b6",
+    "translated": true
+  }
+}

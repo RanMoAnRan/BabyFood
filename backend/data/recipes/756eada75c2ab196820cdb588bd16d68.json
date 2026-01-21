@@ -1,0 +1,71 @@
+{
+  "id": "756eada75c2ab196820cdb588bd16d68",
+  "title": "顶级草莓配料",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Sauce",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/0e004dcdefad5179706df6be2ccc2f61.webp",
+  "nutrition_tip": "这款自制的草莓酱充满了新鲜的草莓风味，使......",
+  "ingredients": [
+    {
+      "name": "1 品脱新鲜草莓，去壳并切半",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "草莓去壳，切成两半。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将草莓、糖和香草精（如果使用的话）放入平底锅中，用中火加热。煮，偶尔搅拌，直到混合物发出嘶嘶声并开始形成果汁。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "继续搅拌；用木勺或耐热抹刀捣碎一些草莓以帮助产生糖浆。煮约15分钟，直至酱汁变稠。从火上移开。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将 1/3 草莓酱转移到搅拌机中。将混合物制成泥状时，用隔热垫盖住盖子。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将糊状混合物重新加入剩余的酱汁中，搅拌直至混合。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "搭配一片芝士蛋糕、冰淇淋或您最喜欢的甜点。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2001-11-25",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/43914/supreme-strawberry-topping/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2b18ff8906ad7f8cd5a711bdcc27753c",
+    "translated": true
+  }
+}

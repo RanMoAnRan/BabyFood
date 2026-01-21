@@ -1,0 +1,93 @@
+{
+  "id": "48dd15cc27115aa3994b480b9fa45160",
+  "title": "日本玉子蛋",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Appetizer",
+    "Japanese"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/5ee14cf6bb2dcdea5af4844808a8890c.webp",
+  "nutrition_tip": "Tamago 是一种清淡、微甜、咸味的日本煎蛋卷，也被称为……",
+  "ingredients": [
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯高汤",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙味醂（日本甜酒）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙植物油，或根据需要更多",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡蛋放入碗中彻底打散；加入高汤、糖、味醂和酱油，搅拌直至糖溶解。在玉米煎锅或小不粘锅上涂上少许油脂，然后用中火加热。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将一层薄薄的鸡蛋混合物倒入热锅中，并旋转以覆盖锅。煮约 1 分钟，直至蛋层底部变硬，但顶部仍有轻微液体。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "然后用抹刀提起一侧边缘并卷起蛋层。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将煎蛋卷推到煎锅的一侧。再次给煎锅上油，倒入另一层薄薄的鸡蛋，将第一个煎蛋卷稍微向上提起，让鸡蛋流到下面。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将第一个煎蛋卷卷入新的鸡蛋层中，然后像以前一样将煎蛋卷推到煎锅边缘。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "用剩下的鸡蛋混合物重复这个过程，如果需要的话，每次给锅上油。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将卷好的煎蛋卷放入盘中，切成 6 等份即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2010-11-17",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/221923/japanese-tamago-egg/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dcacb90ae738bd030770ed964899477f",
+    "translated": true
+  }
+}

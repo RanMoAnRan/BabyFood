@@ -1,0 +1,124 @@
+{
+  "id": "629341a546d0e8d36960e0ab3cec529b",
+  "title": "乌克兰红罗宋汤汤",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "Ukrainian",
+    "Eastern European"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/62ec56f55bad51501afd7cc8dc91fd4d.webp",
+  "nutrition_tip": "罗宋汤是一种丰盛的甜菜汤，里面有卷心菜、土豆和大蒜，很受欢迎……",
+  "ingredients": [
+    {
+      "name": "1 包（16 盎司）猪肉香肠",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等大小的甜菜，去皮并切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 根胡萝卜，去皮切丝",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等烘烤土豆，去皮并切块",
+      "amount": ""
+    },
+    {
+      "name": "0.5 颗中等大小的卷心菜，去芯切丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯西红柿丁，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "8.75 杯水，分开，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙白糖，或适量",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯酸奶油，用于浇头",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙切碎的新鲜欧芹作为装饰",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将香肠弄碎放入煎锅中，用中高温加热。煮并搅拌直至不再呈粉红色。从火上移开并放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大锅中倒入一半的水（约 8 杯）并煮沸。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将香肠加入锅中，盖上锅盖，再次煮沸。加入甜菜，煮 10 分钟。加入胡萝卜和土豆，继续煮约 10 分钟，直至土豆变软。拌入卷心菜和西红柿。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在煎锅中用中火加热油。加入洋葱，煮至变软。加入番茄酱和剩余的 3/4 杯水，搅拌均匀；转移到锅里。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将大蒜加入汤中，盖上盖子，关火。静置 5 分钟。加入糖搅拌，用盐和胡椒调味。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "用勺子舀入碗中。用酸奶油和莳萝装饰。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/84450/ukrainian-red-borscht-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5196e2993f4c4538478365f7e5fed270",
+    "translated": true
+  }
+}

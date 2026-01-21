@@ -1,0 +1,108 @@
+{
+  "id": "50006a8841566879b20ab61c3f28e849",
+  "title": "苹果酱南瓜面包",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 140,
+  "cover_image": "images/456401fb42d7e726359a2286ec7e26e7.webp",
+  "nutrition_tip": "这个湿润的苹果酱南瓜面包配方中含有核桃、巧克力酱……",
+  "ingredients": [
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯苹果酱",
+      "amount": ""
+    },
+    {
+      "name": "2 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙姜末",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙 狼牙棒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯糖果糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 9x5 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将白糖和苹果酱放入碗中；加入南瓜泥和鸡蛋，搅拌至光滑。加入发酵粉、小苏打、肉桂、盐、生姜、丁香和肉豆蔻粉，搅拌直至混合。拌入核桃和巧克力片。加入面粉搅拌直至完全混合。将面糊分装在准备好的面包盘之间。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至插入中心的牙签取出时是干净的。在锅中冷却 10 分钟，然后从锅中取出；转移到金属架上完全冷却，大约需要 50 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在面包上撒上糖果。食用前加糖。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/230579/applesauce-pumpkin-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b89a50cb7d528a786864dc03b82424b1",
+    "translated": true
+  }
+}

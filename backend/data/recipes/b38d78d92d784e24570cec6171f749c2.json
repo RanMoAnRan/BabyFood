@@ -1,0 +1,84 @@
+{
+  "id": "b38d78d92d784e24570cec6171f749c2",
+  "title": "苹果覆盆子脆",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/4e35afdb3763c54074d969a5c455c27f.webp",
+  "nutrition_tip": "在 9x9 英寸的盘子中烘烤，这款覆盆子苹果脆食谱的特色是 Granny Smit……",
+  "ingredients": [
+    {
+      "name": "1 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "5 个大青苹果 - 去皮、去核并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冷冻覆盆子，解冻",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯老式燕麦",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙黄油，融化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x9 英寸的方形烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将红糖和1汤匙面粉放入碗中直至混合；拌入苹果和覆盆子。转移到准备好的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将燕麦、½ 杯面粉、肉桂和盐放入碗中；加入融化的黄油搅拌至易碎。撒在苹果混合物上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 50 至 55 分钟，直至顶部呈浅棕色。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-04",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/49617/apple-raspberry-crisp/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "013652f7539707f846637a78e188b5ea",
+    "translated": true
+  }
+}

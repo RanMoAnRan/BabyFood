@@ -1,0 +1,70 @@
+{
+  "id": "16084d3319dc387950ce662fba077caf",
+  "title": "冰箱用苹果酱",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/1e5a195bb0b7f9f378bd7ae2d033548f.webp",
+  "nutrition_tip": "按照这个食谱，用柠檬汁和柠檬皮制作你自己的苹果酱……",
+  "ingredients": [
+    {
+      "name": "3.5 磅苹果 - 去皮、去核、切成四等分",
+      "amount": ""
+    },
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯深红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖，或更少适量",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙柠檬汁，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "1 根（3 英寸）肉桂棒",
+      "amount": ""
+    },
+    {
+      "name": "4 条柠檬皮屑",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将苹果、水、红糖、白糖、柠檬汁、肉桂棒、柠檬皮碎和盐放入一个大锅中；盖上盖子并煮沸。将热量降至中低；煮20到30分钟，直到苹果变软。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "关火，取出并丢弃肉桂棒和柠檬皮。用土豆捣碎器捣碎苹果，直至达到所需的稠度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/234078/applesauce-for-the-freezer/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0175af14ad02b2acd0b0e477a460a2e6",
+    "translated": true
+  }
+}

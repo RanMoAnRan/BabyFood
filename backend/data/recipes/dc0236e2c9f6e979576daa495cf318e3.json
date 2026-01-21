@@ -1,0 +1,82 @@
+{
+  "id": "dc0236e2c9f6e979576daa495cf318e3",
+  "title": "神",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 770,
+  "cover_image": "images/5c530d69d663102eba32438d81b055d3.webp",
+  "nutrition_tip": "这个神圣的食谱结合了糖、玉米糖浆、蛋清和香草来制作……",
+  "ingredients": [
+    {
+      "name": "2.6666667461395 杯 白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯 淡玉米糖浆",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 个蛋白",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯核桃碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有材料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在 2 夸脱的平底锅中用小火加热糖、玉米糖浆和水；不断搅拌直至糖溶解并且混合物沸腾。继续煮，不要搅拌，直到混合物达到 250 华氏度（120 摄氏度）或直到少量糖浆滴入冷水中形成坚硬的球。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在 1 1/2 夸脱的玻璃、金属或陶瓷碗中搅打蛋白，直至形成硬性发泡。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "继续搅拌，同时将热糖浆慢慢倒入蛋清中"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "添加香草；搅拌直至混合物保持其形状并开始失去光泽。拌入核桃。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "从涂了油的勺子滴到蜡纸上。室温下静置，将糖果翻面一次，直至糖果外部变硬，至少12小时。存放在密封容器中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-12-12",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/9327/divinity/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0c39cef9025b512f4c6735c5579ca120",
+    "translated": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "c9900b5728d60091e48df591ad53a069",
+  "title": "土豆泥砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/bad65d97b169cf1695f77c4f75e45976.webp",
+  "nutrition_tip": "这个Tater Tot砂锅菜很容易用碎牛肉、奶油蘑菇酱做……",
+  "ingredients": [
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.5 盎司）浓缩奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）冷冻土豆泥",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌，直至完全变成棕色且易碎，需要 7 到 10 分钟。加入浓缩汤搅拌；用盐和黑胡椒调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将牛肉混合物转移到 9x13 英寸的烤盘中；将土豆泥均匀地铺在上面，撒上切达干酪。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 30 至 45 分钟，直至土豆泥呈金黄色且热。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-21T19:26:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/222037/tater-tots-r-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0b48a49435154c65b712e750c17e6220",
+    "translated": true
+  }
+}
