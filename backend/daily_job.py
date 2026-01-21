@@ -851,9 +851,12 @@ def main():
         return
 
     version = os.environ.get("DATA_VERSION") or utc_now_iso()
+    data_ref = os.environ.get("DATA_REF") or ""
     new_manifest["version"] = version
     new_index["version"] = version
     new_manifest["updated_at"] = utc_now_iso()
+    if data_ref:
+        new_manifest["data_ref"] = data_ref
 
     print(f"[write] 写入数据：manifest/index + {len(details)} 份详情", flush=True)
     write_json(manifest_path, new_manifest)

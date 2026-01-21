@@ -35,6 +35,7 @@ module.exports = {
   STORAGE_KEYS: {
     manifest: "bf_manifest",
     index: "bf_index",
+    cdnBase: "bf_cdn_base",
     favorites: "bf_favorites",
     profile: "bf_profile",
     cachePrefix: "bf_cache_",

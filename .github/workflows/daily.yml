@@ -31,10 +31,12 @@ jobs:
       - name: Run daily job
         env:
           DATA_VERSION: ${{ github.run_id }}
+          DATA_REF: data-${{ github.run_id }}-${{ github.run_attempt }}
         run: python backend/daily_job.py
 
       - name: Commit changes
         run: |
+          DATA_REF="data-${{ github.run_id }}-${{ github.run_attempt }}"
           if git diff --quiet; then
             echo "No changes."
             exit 0
@@ -48,7 +50,8 @@ jobs:
             git fetch origin main
             # backend/data is generated; if remote also updated it, prefer this run's output.
             git rebase -X theirs origin/main || { echo "Rebase failed"; git rebase --abort || true; exit 1; }
-            if git push; then
+            git tag -f "${DATA_REF}"
+            if git push origin main "${DATA_REF}"; then
               exit 0
             fi
             echo "Push failed (attempt $i). Retrying..."

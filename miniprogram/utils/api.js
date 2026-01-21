@@ -1,6 +1,26 @@
-const { CDN_BASE, PATHS, STORAGE_KEYS } = require("../config");
+const { CDN_BASE, PATHS, STORAGE_KEYS, REMOTE_CDN_BASE } = require("../config");
 const request = require("./request");
 const storage = require("./storage");
+
+function resolveCdnBase() {
+  const saved = storage.get(STORAGE_KEYS.cdnBase, "");
+  return saved || CDN_BASE;
+}
+
+function replaceCdnRef(base, ref) {
+  if (!base || !ref) return base;
+  const m = String(base).match(/^(https?:\/\/[^@]+@)([^/]+)(\/.*)$/);
+  if (!m) return base;
+  return `${m[1]}${ref}${m[3]}`;
+}
+
+function updateCdnBaseFromManifest(manifest) {
+  if (!manifest || !manifest.data_ref) return;
+  const ref = String(manifest.data_ref || "").trim();
+  if (!ref) return;
+  const base = replaceCdnRef(REMOTE_CDN_BASE || CDN_BASE, ref);
+  if (base) storage.set(STORAGE_KEYS.cdnBase, base);
+}
 
 function joinUrl(base, path) {
   if (!base.endsWith("/")) base += "/";
@@ -19,7 +39,7 @@ function withQuery(url, params) {
 function normalizeMediaUrl(maybeUrl) {
   if (!maybeUrl) return maybeUrl;
   if (/^https?:\/\//i.test(maybeUrl)) return maybeUrl;
-  return joinUrl(CDN_BASE, maybeUrl);
+  return joinUrl(resolveCdnBase(), maybeUrl);
 }
 
 function normalizeMealTags(tags) {
@@ -146,13 +166,17 @@ function normalizeRecipeData(data) {
 
 async function fetchManifest({ force = false } = {}) {
   const cached = storage.get(STORAGE_KEYS.manifest, null);
-  if (!force && cached && cached.version) return cached;
+  if (!force && cached && cached.version) {
+    updateCdnBaseFromManifest(cached);
+    return cached;
+  }
 
   const needBust = force || !cached || !cached.version;
   const url = withQuery(joinUrl(CDN_BASE, PATHS.manifest), needBust ? { t: Date.now() } : {});
   try {
     const data = await request.requestJson(url);
     if (data && data.version) storage.set(STORAGE_KEYS.manifest, data);
+    updateCdnBaseFromManifest(data);
     return data;
   } catch (e) {
     if (cached && cached.version) return cached;
@@ -179,7 +203,7 @@ async function fetchIndex({ force = false } = {}) {
 
   const shouldBust = force || (hasCachedItems && bust && cached.version !== bust);
   const url = withQuery(
-    joinUrl(CDN_BASE, PATHS.index),
+    joinUrl(resolveCdnBase(), PATHS.index),
     shouldBust ? { v: bust, t: Date.now() } : { v: bust },
   );
   try {
@@ -215,7 +239,10 @@ async function fetchRecipe(id, { force = false, version = null } = {}) {
   let manifest = storage.get(STORAGE_KEYS.manifest, null);
   if (!manifest || !manifest.version) manifest = await fetchManifest();
   const bust = manifest && manifest.version ? manifest.version : "";
-  const url = withQuery(joinUrl(CDN_BASE, `${PATHS.recipeDir}/${id}.json`), force ? { v: bust, t: Date.now() } : { v: bust });
+  const url = withQuery(
+    joinUrl(resolveCdnBase(), `${PATHS.recipeDir}/${id}.json`),
+    force ? { v: bust, t: Date.now() } : { v: bust },
+  );
   try {
     const data = await request.requestJson(url);
     const normalized = normalizeRecipeData(data);
