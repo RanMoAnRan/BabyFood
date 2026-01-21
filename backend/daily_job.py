@@ -257,85 +257,6 @@ def _translate_detail_inplace(
     detail["_translation"] = new_meta
 
 
-def ensure_seed_data():
-    os.makedirs(RECIPES_DIR, exist_ok=True)
-
-    manifest_path = os.path.join(DATA_DIR, "manifest.json")
-    index_path = os.path.join(DATA_DIR, "recipes_index.json")
-    demo_detail_path = os.path.join(RECIPES_DIR, "demo_pumpkin_potato.json")
-
-    if os.path.exists(manifest_path) and os.path.exists(index_path) and os.path.exists(demo_detail_path):
-        return
-
-    demo_id = "demo_pumpkin_potato"
-    version = "seed-1"
-    now = "2024-01-01T00:00:00Z"
-
-    write_json(
-        manifest_path,
-        {
-            "version": version,
-            "updated_at": now,
-            "recipe_count": 1,
-            "latest_ids": [demo_id],
-        },
-    )
-
-    write_json(
-        index_path,
-        {
-            "version": version,
-            "items": [
-                {
-                    "id": demo_id,
-                    "title": "奶香南瓜土豆泥",
-                    "min_age_month": 6,
-                    "tags": ["6m+", "补锌", "通便", "早餐"],
-                    "difficulty": 1,
-                    "time_cost": 15,
-                    "cover_image": "https://via.placeholder.com/800x600.png?text=BabyFood",
-                    "publish_date": "2023-10-27",
-                }
-            ],
-        },
-    )
-
-    write_json(
-        demo_detail_path,
-        {
-            "id": demo_id,
-            "title": "奶香南瓜土豆泥",
-            "min_age_month": 6,
-            "tags": ["6m+", "补锌", "通便", "早餐"],
-            "difficulty": 1,
-            "time_cost": 15,
-            "cover_image": "https://via.placeholder.com/800x600.png?text=BabyFood",
-            "nutrition_tip": "南瓜含有丰富的果胶，能保护胃肠道粘膜。",
-            "ingredients": [
-                {"name": "老南瓜", "amount": "30g"},
-                {"name": "土豆", "amount": "50g"},
-                {"name": "配方奶", "amount": "30ml"},
-            ],
-            "steps": [
-                {
-                    "step_index": 1,
-                    "img": "https://via.placeholder.com/800x600.png?text=Step+1",
-                    "text": "南瓜和土豆去皮切块，上锅蒸15分钟。",
-                },
-                {
-                    "step_index": 2,
-                    "img": "https://via.placeholder.com/800x600.png?text=Step+2",
-                    "text": "倒入料理机，加入配方奶搅打细腻。",
-                },
-            ],
-            "warnings": ["如果不甜可以不加糖", "1岁以内严禁加盐"],
-            "source_url": "https://example.com/recipe/demo",
-            "publish_date": "2023-10-27",
-            "updated_at": now,
-        },
-    )
-
-
 def parse_iso_date(date_str: str) -> str:
     if not date_str:
         return ""
@@ -772,8 +693,6 @@ def main():
         f"partial={'yes' if args.allow_partial else 'no'}",
         flush=True,
     )
-
-    ensure_seed_data()
 
     manifest_path = os.path.join(DATA_DIR, "manifest.json")
     index_path = os.path.join(DATA_DIR, "recipes_index.json")

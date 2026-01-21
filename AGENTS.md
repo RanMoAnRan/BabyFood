@@ -5,10 +5,9 @@
 - `miniprogram/`: WeChat Mini Program source (WXML/JS/WXSS).
   - `miniprogram/pages/<page>/index.{js,wxml,wxss,json}`: page modules (`home`, `list`, `detail`, `profile`).
   - `miniprogram/utils/`: shared utilities (CDN fetch, caching, age calc, favorites).
-  - `miniprogram/seed/`: built-in offline “seed” data used when CDN is unavailable.
 - `backend/`: Python backend utilities (single-site importer + dataset generator).
   - `backend/daily_job.py`: dataset generator (runs locally and in GitHub Actions).
-  - `backend/sources/`: single-site import adapters (currently `nutrition_gov.py`).
+  - `backend/sources/`: single-site import adapters (currently `nutrition_gov.py`, `allrecipes_com.py`).
 - `backend/data/`: generated static dataset served via GitHub + jsDelivr.
   - `backend/data/manifest.json`: update entrypoint (version + latest ids).
   - `backend/data/recipes_index.json`: list/index data for browsing/search.

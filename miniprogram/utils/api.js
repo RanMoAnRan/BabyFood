@@ -27,10 +27,13 @@ function normalizeMealTags(tags) {
   const out = [];
   const seen = new Set();
   let changed = false;
+  let hasMeal = false;
+  const mealTags = new Set(["早餐", "午餐", "晚餐", "小吃", "正餐"]);
 
   const add = (t) => {
     const key = String(t || "");
     if (!key) return;
+    if (mealTags.has(key)) hasMeal = true;
     if (seen.has(key)) {
       changed = true;
       return;
@@ -81,6 +84,11 @@ function normalizeMealTags(tags) {
 
     add(s);
   });
+
+  if (!hasMeal) {
+    changed = true;
+    add("午餐");
+  }
 
   if (!changed && out.length === tags.length) return tags;
   return out;
@@ -136,14 +144,6 @@ function normalizeRecipeData(data) {
   return changed ? out : data;
 }
 
-function loadSeedJson(relPath) {
-  try {
-    return require(`../seed/${relPath}`);
-  } catch (e) {
-    return null;
-  }
-}
-
 async function fetchManifest({ force = false } = {}) {
   const cached = storage.get(STORAGE_KEYS.manifest, null);
   if (!force && cached && cached.version) return cached;
@@ -156,7 +156,7 @@ async function fetchManifest({ force = false } = {}) {
     return data;
   } catch (e) {
     if (cached && cached.version) return cached;
-    return loadSeedJson(PATHS.manifest);
+    return null;
   }
 }
 
@@ -183,7 +183,7 @@ async function fetchIndex({ force = false } = {}) {
       if (normalized !== cached) storage.set(STORAGE_KEYS.index, normalized);
       return normalized;
     }
-    return normalizeIndexData(loadSeedJson(PATHS.index));
+    return { version: "", items: [] };
   }
 }
 
@@ -217,7 +217,7 @@ async function fetchRecipe(id, { force = false, version = null } = {}) {
       if (normalized !== cached) storage.set(key, normalized);
       return normalized;
     }
-    return normalizeRecipeData(loadSeedJson(`${PATHS.recipeDir}/${id}.json`));
+    return null;
   }
 }
 
