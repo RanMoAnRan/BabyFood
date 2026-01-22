@@ -8,18 +8,18 @@
 
 .filters-row {
   display: flex;
-  gap: 20rpx;
+  gap: 12rpx;
   align-items: center;
 }
 
 .filters-search {
   flex: 1;
-  height: 84rpx;
-  padding: 0 20rpx;
+  height: 72rpx;
+  padding: 0 12rpx;
   border-radius: 999rpx;
   display: flex;
   align-items: center;
-  gap: 14rpx;
+  gap: 10rpx;
   background: rgba(15, 23, 42, 0.04);
   border: 2rpx solid rgba(15, 23, 42, 0.06);
 }
@@ -31,7 +31,8 @@
 .search-input {
   flex: 1;
   font-size: 28rpx;
-  height: 64rpx;
+  height: 52rpx;
+  line-height: 52rpx;
   color: #0F172A;
 }
 
@@ -39,9 +40,21 @@
   color: #94A3B8;
 }
 
-.small-btn {
-  font-size: 26rpx;
-  padding: 12rpx 22rpx;
+.search-btn {
+  flex: 0 0 auto;
+  width: 100rpx;
+  height: 52rpx;
+  line-height: 52rpx;
+  padding: 0;
+  font-size: 22rpx;
+  border-radius: 999rpx;
+  color: #ffffff;
+  background: rgba(249, 115, 22, 0.7);
+  font-weight: 700;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .chips {

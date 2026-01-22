@@ -82,22 +82,16 @@ Page({
     this.loadData();
   },
 
-  onQueryInput(e) {
-    this.setData({ query: (e.detail && e.detail.value) || "" });
-  },
-
-  onSearch() {
+  onGoSearch() {
     const q = (this.data.query || "").trim();
-    wx.navigateTo({ url: `/pages/list/index?q=${encodeURIComponent(q)}` });
+    const url = q ? `/pages/search/index?q=${encodeURIComponent(q)}` : "/pages/search/index";
+    wx.navigateTo({ url });
   },
 
   onNavBucket(e) {
     const bucket = e.currentTarget.dataset.bucket;
-    wx.navigateTo({ url: `/pages/list/index?bucket=${encodeURIComponent(bucket)}` });
-  },
-
-  onOpenAll() {
-    wx.navigateTo({ url: "/pages/list/index" });
+    storage.set(STORAGE_KEYS.listContext, { query: "", bucket: bucket || "" });
+    wx.switchTab({ url: "/pages/list/index" });
   },
 
   onOpenDetail(e) {

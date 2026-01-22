@@ -3,10 +3,6 @@
   margin-bottom: 22rpx;
 }
 
-.fav-section {
-  margin-bottom: 24rpx;
-}
-
 .block-title {
   font-size: 34rpx;
   font-weight: 800;
@@ -47,77 +43,6 @@
   font-weight: 700;
 }
 
-.reco-card {
-  margin-top: 12rpx;
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
-  overflow: hidden;
-}
-
-.reco-img {
-  width: 200rpx;
-  height: 200rpx;
-  background: rgba(0, 0, 0, 0.04);
-  flex-shrink: 0;
-}
-
-.reco-body {
-  padding: 16rpx 20rpx;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.reco-title {
-  font-size: 32rpx;
-  line-height: 1.25;
-  display: -webkit-box;
-  overflow: hidden;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-}
-
-.reco-chips {
-  margin-top: 8rpx;
-  display: flex;
-  gap: 10rpx;
-  flex-wrap: wrap;
-}
-
-.reco-chip {
-  font-size: 24rpx;
-  padding: 6rpx 12rpx;
-  border-radius: 999rpx;
-  background: rgba(0, 0, 0, 0.04);
-  color: #555;
-}
-
-.reco-bottom {
-  margin-top: 10rpx;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12rpx;
-}
-
-.reco-meta {
-  display: flex;
-  gap: 12rpx;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-.reco-del {
-  font-size: 24rpx;
-  padding: 10rpx 18rpx;
-  line-height: 1.2;
-  border-radius: 999rpx;
-  color: #EF4444;
-  border-color: rgba(239, 68, 68, 0.35);
-}
-
 .btn-row {
   display: flex;
   gap: 20rpx;
@@ -127,4 +52,9 @@
 .note {
   margin-top: 16rpx;
   font-size: 24rpx;
+}
+
+.about-block {
+  margin-top: 24rpx;
+  margin-bottom: 120rpx;
 }

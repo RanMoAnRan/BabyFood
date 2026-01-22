@@ -39,5 +39,7 @@ module.exports = {
     favorites: "bf_favorites",
     profile: "bf_profile",
     cachePrefix: "bf_cache_",
+    listContext: "bf_list_context",
+    searchHistory: "bf_search_history",
   },
 };

@@ -1,25 +1,21 @@
 const api = require("../../utils/api");
 const storage = require("../../utils/storage");
-const favorites = require("../../utils/favorites");
 const { STORAGE_KEYS } = require("../../config");
 
 Page({
   data: {
     birthday: "",
-    favItems: [],
   },
 
   async onLoad() {
     this.loadProfile();
-    await this.loadFavorites();
   },
 
   onShow() {
     if (this.getTabBar && this.getTabBar()) {
-      this.getTabBar().setSelected(1);
+      this.getTabBar().setSelected(3);
     }
     this.loadProfile();
-    this.loadFavorites();
   },
 
   loadProfile() {
@@ -35,30 +31,6 @@ Page({
     storage.set(STORAGE_KEYS.profile, profile);
     this.setData({ birthday });
     wx.showToast({ title: "已保存", icon: "success" });
-  },
-
-  async loadFavorites() {
-    const ids = favorites.getFavorites();
-    if (ids.length === 0) {
-      this.setData({ favItems: [] });
-      return;
-    }
-    const index = await api.fetchIndex();
-    const items = (index && index.items) || [];
-    const map = new Map(items.map((x) => [x.id, x]));
-    const favItems = ids.map((id) => map.get(id)).filter(Boolean);
-    this.setData({ favItems });
-  },
-
-  onOpenDetail(e) {
-    const id = e.currentTarget.dataset.id;
-    wx.navigateTo({ url: `/pages/detail/index?id=${encodeURIComponent(id)}` });
-  },
-
-  onRemoveFav(e) {
-    const id = e.currentTarget.dataset.id;
-    favorites.removeFavorite(id);
-    this.loadFavorites();
   },
 
   onClearDataCache() {
@@ -77,7 +49,6 @@ Page({
       if (updated) {
         await api.fetchIndex({ force: true });
         wx.showToast({ title: "已更新", icon: "success" });
-        await this.loadFavorites();
       } else {
         wx.showToast({ title: "已是最新", icon: "success" });
       }

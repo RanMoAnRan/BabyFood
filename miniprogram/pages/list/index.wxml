@@ -1,19 +1,13 @@
-<view class="container safe-bottom">
+<view class="container safe-tabbar">
   <view class="filters card">
     <view class="filters-row">
-      <view class="filters-search">
+      <view class="filters-search" bindtap="onGoSearch">
         <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
-        <input
-          class="search-input"
-          placeholder="搜索菜名/食材"
-          placeholder-class="search-placeholder"
-          value="{{query}}"
-          confirm-type="search"
-          bindinput="onQueryInput"
-          bindconfirm="applyFilters"
-        />
+        <view class="search-input {{query ? '' : 'search-placeholder'}}">
+          {{query || '搜索菜名/食材'}}
+        </view>
+        <view class="search-btn" catchtap="onGoSearch">搜索</view>
       </view>
-      <button class="btn-ghost small-btn" bindtap="onClear">清空</button>
     </view>
 
     <scroll-view class="chips" scroll-x="true" enhanced show-scrollbar="{{false}}">

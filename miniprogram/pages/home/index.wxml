@@ -1,15 +1,10 @@
 <view class="container safe-tabbar">
-  <view class="searchbar card">
+  <view class="searchbar card" bindtap="onGoSearch">
     <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
-    <input
-      class="search-input"
-      placeholder="搜索食材/菜名（如：三文鱼、菠菜）"
-      placeholder-class="search-placeholder"
-      value="{{query}}"
-      confirm-type="search"
-      bindinput="onQueryInput"
-      bindconfirm="onSearch"
-    />
+    <view class="search-input {{query ? '' : 'search-placeholder'}}">
+      {{query || '搜索食材/菜名（如：三文鱼、菠菜）'}}
+    </view>
+    <view class="search-btn" catchtap="onGoSearch">搜索</view>
   </view>
 
   <view class="profile card">
@@ -73,7 +68,6 @@
         <view class="section-accent"></view>
         <text class="section-title-text">每日推荐</text>
       </view>
-      <text class="section-link" bindtap="onOpenAll">查看全部</text>
     </view>
     <view wx:if="{{reco.length === 0}}" class="muted">暂无数据</view>
     <view

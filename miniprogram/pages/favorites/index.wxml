@@ -1,0 +1,44 @@
+<view class="container safe-tabbar">
+  <view class="fav-header">
+    <view class="block-title">我的收藏</view>
+    <view wx:if="{{favItems.length}}" class="fav-actions">
+      <view class="select-all" bindtap="onToggleAll">
+        <view class="check {{allSelected ? 'check-active' : ''}}"></view>
+        <text class="select-text">全选</text>
+      </view>
+      <button
+        class="btn-ghost del-selected"
+        bindtap="onDeleteSelected"
+        disabled="{{selectedCount === 0}}"
+      >删除</button>
+    </view>
+  </view>
+  <view wx:if="{{favItems.length === 0}}" class="muted">还没有收藏</view>
+  <view
+    wx:for="{{favItems}}"
+    wx:key="id"
+    class="reco-card card"
+  >
+    <view class="select-box" catchtap="onToggleSelect" data-id="{{item.id}}">
+      <view class="check {{item.selected ? 'check-active' : ''}}"></view>
+    </view>
+    <view class="reco-main" bindtap="onOpenDetail" data-id="{{item.id}}">
+      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
+      <view class="reco-body">
+        <view class="title reco-title">{{item.title}}</view>
+        <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
+          <block wx:for="{{item.tags}}" wx:key="*this">
+            <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
+          </block>
+        </view>
+        <view class="reco-bottom">
+          <view class="reco-meta">
+            <text class="tag">{{item.min_age_month}}m+</text>
+            <text class="muted">{{item.time_cost}}分钟</text>
+          </view>
+          <button class="btn-ghost reco-del" data-id="{{item.id}}" catchtap="onRemoveFav">删除</button>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

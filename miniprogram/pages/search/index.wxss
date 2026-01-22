@@ -1,0 +1,174 @@
+.searchbar {
+  padding: 10rpx 12rpx;
+  display: flex;
+  align-items: center;
+  gap: 10rpx;
+}
+
+.search-icon {
+  flex: 0 0 auto;
+}
+
+.search-input {
+  flex: 1;
+  height: 52rpx;
+  line-height: 52rpx;
+  font-size: 28rpx;
+  color: #0F172A;
+}
+
+.search-placeholder {
+  color: #94A3B8;
+}
+
+.search-btn {
+  flex: 0 0 auto;
+  width: 100rpx;
+  height: 52rpx;
+  line-height: 52rpx;
+  padding: 0;
+  font-size: 22rpx;
+  border-radius: 999rpx;
+  color: #ffffff;
+  background: rgba(249, 115, 22, 0.7);
+  font-weight: 700;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-clear {
+  width: 44rpx;
+  height: 44rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 4rpx;
+}
+
+.input-clear-img {
+  width: 30rpx;
+  height: 30rpx;
+}
+
+.clear-icon {
+  width: 52rpx;
+  height: 52rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.clear-icon-img {
+  width: 36rpx;
+  height: 36rpx;
+}
+
+.section {
+  margin-top: 28rpx;
+}
+
+.load {
+  margin-top: 24rpx;
+  padding-bottom: 40rpx;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 32rpx;
+  font-weight: 800;
+  color: #0F172A;
+  margin-bottom: 16rpx;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section-title-left {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+.section-accent {
+  width: 8rpx;
+  height: 32rpx;
+  background: #F97316;
+  border-radius: 4rpx;
+  margin-right: 16rpx;
+}
+
+.section-title-text {
+  min-width: 0;
+}
+
+.history {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12rpx;
+}
+
+.history-item {
+  padding: 10rpx 18rpx;
+  border-radius: 999rpx;
+  background: rgba(15, 23, 42, 0.04);
+  color: #334155;
+  font-size: 26rpx;
+  border: 2rpx solid rgba(15, 23, 42, 0.06);
+}
+
+.reco-card {
+  margin-bottom: 24rpx;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  overflow: hidden;
+}
+
+.reco-img {
+  width: 200rpx;
+  height: 200rpx;
+  background: #f0f0f0;
+  flex-shrink: 0;
+}
+
+.reco-body {
+  padding: 16rpx 20rpx;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.reco-title {
+  font-size: 32rpx;
+  line-height: 1.25;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.reco-chips {
+  margin-top: 8rpx;
+  display: flex;
+  gap: 10rpx;
+  flex-wrap: wrap;
+}
+
+.reco-chip {
+  font-size: 24rpx;
+  padding: 6rpx 12rpx;
+  border-radius: 999rpx;
+  background: rgba(0, 0, 0, 0.04);
+  color: #555;
+}
+
+.reco-meta {
+  margin-top: 10rpx;
+  display: flex;
+  gap: 16rpx;
+  align-items: center;
+  flex-wrap: wrap;
+}

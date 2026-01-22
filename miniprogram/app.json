@@ -2,7 +2,9 @@
   "pages": [
     "pages/home/index",
     "pages/list/index",
+    "pages/search/index",
     "pages/detail/index",
+    "pages/favorites/index",
     "pages/profile/index"
   ],
   "window": {
@@ -22,6 +24,14 @@
       {
         "pagePath": "pages/home/index",
         "text": "首页"
+      },
+      {
+        "pagePath": "pages/list/index",
+        "text": "菜谱"
+      },
+      {
+        "pagePath": "pages/favorites/index",
+        "text": "收藏"
       },
       {
         "pagePath": "pages/profile/index",

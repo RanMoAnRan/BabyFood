@@ -1,4 +1,6 @@
 const api = require("../../utils/api");
+const storage = require("../../utils/storage");
+const { STORAGE_KEYS } = require("../../config");
 
 function splitColumns(items) {
   const left = [];
@@ -65,6 +67,19 @@ function paginate(items, page, pageSize) {
   return items.slice(start, end);
 }
 
+function parseListContext(options) {
+  const query = options && options.q ? decodeURIComponent(options.q) : "";
+  const bucket = options && options.bucket ? decodeURIComponent(options.bucket) : "";
+  if (!query && !bucket) return null;
+  return { query, bucket };
+}
+
+function consumeListContext() {
+  const ctx = storage.get(STORAGE_KEYS.listContext, null);
+  if (ctx) storage.remove(STORAGE_KEYS.listContext);
+  return ctx;
+}
+
 Page({
   data: {
     query: "",
@@ -84,16 +99,11 @@ Page({
   },
 
   async onLoad(options) {
-    const query = options && options.q ? decodeURIComponent(options.q) : "";
-    const bucket = options && options.bucket ? decodeURIComponent(options.bucket) : "";
-
-    if (bucket) {
-      wx.setNavigationBarTitle({ title: `${bucket} 辅食` });
-    } else if (query) {
-      wx.setNavigationBarTitle({ title: `搜索: ${query}` });
-    }
-
+    const ctx = parseListContext(options) || {};
+    const query = ctx.query || "";
+    const bucket = ctx.bucket || "";
     this.setData({ query, bucket });
+    this.setNavTitle(query, bucket);
 
     wx.showLoading({ title: "加载中" });
     try {
@@ -108,6 +118,21 @@ Page({
     }
   },
 
+  onShow() {
+    if (this.getTabBar && this.getTabBar()) {
+      this.getTabBar().setSelected(1);
+    }
+    const ctx = consumeListContext();
+    if (!ctx) return;
+    const query = ctx.query ? String(ctx.query) : "";
+    const bucket = ctx.bucket ? String(ctx.bucket) : "";
+    const shuffled = this.shuffle(this.data.indexItems || []);
+    this.setData({ query, bucket, activeTag: "", indexItems: shuffled }, () => {
+      this.setNavTitle(query, bucket);
+      this.applyFilters();
+    });
+  },
+
   onReachBottom() {
     if (!this.data.hasMore || this.data.loadingMore) return;
     this.setData({ loadingMore: true });
@@ -117,20 +142,16 @@ Page({
     this.setData({ loadingMore: false });
   },
 
-  onQueryInput(e) {
-    this.setData({ query: (e.detail && e.detail.value) || "" });
-    this.applyFilters();
+  onGoSearch() {
+    const q = (this.data.query || "").trim();
+    const url = q ? `/pages/search/index?q=${encodeURIComponent(q)}` : "/pages/search/index";
+    wx.navigateTo({ url });
   },
 
   onTagTap(e) {
     const tag = e.currentTarget.dataset.tag;
     const shuffled = this.shuffle(this.data.indexItems || []);
     this.setData({ activeTag: tag || "", indexItems: shuffled }, () => this.applyFilters());
-  },
-
-  onClear() {
-    const shuffled = this.shuffle(this.data.indexItems || []);
-    this.setData({ query: "", activeTag: "", bucket: "", indexItems: shuffled }, () => this.applyFilters());
   },
 
   updateDisplayed() {
@@ -193,6 +214,18 @@ Page({
   onOpenDetail(e) {
     const id = e.currentTarget.dataset.id;
     wx.navigateTo({ url: `/pages/detail/index?id=${encodeURIComponent(id)}` });
+  },
+
+  setNavTitle(query, bucket) {
+    if (bucket) {
+      wx.setNavigationBarTitle({ title: `${bucket} 辅食` });
+      return;
+    }
+    if (query) {
+      wx.setNavigationBarTitle({ title: `搜索: ${query}` });
+      return;
+    }
+    wx.setNavigationBarTitle({ title: "菜谱" });
   },
 
   shuffle(array) {

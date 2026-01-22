@@ -1,0 +1,77 @@
+<view class="container safe-bottom">
+  <view class="searchbar card">
+    <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
+    <input
+      class="search-input"
+      placeholder="搜索菜名/食材"
+      placeholder-class="search-placeholder"
+      value="{{query}}"
+      confirm-type="search"
+      bindinput="onQueryInput"
+      bindconfirm="onSearch"
+    />
+    <view wx:if="{{query}}" class="input-clear" bindtap="onClearQuery">
+      <image class="input-clear-img" src="/images/icons/clear.svg"></image>
+    </view>
+    <view class="search-btn" catchtap="onSearch">搜索</view>
+  </view>
+
+  <view class="section">
+    <view class="section-title">
+      <view class="section-title-left">
+        <view class="section-accent"></view>
+        <text class="section-title-text">搜索历史</text>
+      </view>
+      <view wx:if="{{history.length}}" class="clear-icon" bindtap="onClearHistory">
+        <image class="clear-icon-img" src="/images/icons/delete.svg"></image>
+      </view>
+    </view>
+    <view wx:if="{{history.length === 0}}" class="muted">暂无搜索历史</view>
+    <view wx:if="{{history.length}}" class="history">
+      <view
+        wx:for="{{history}}"
+        wx:key="*this"
+        class="history-item"
+        data-query="{{item}}"
+        bindtap="onTapHistory"
+      >
+        {{item}}
+      </view>
+    </view>
+  </view>
+
+  <view class="section" wx:if="{{searched}}">
+    <view class="section-title">
+      <view class="section-title-left">
+        <view class="section-accent"></view>
+        <text class="section-title-text">搜索结果</text>
+      </view>
+      <text class="muted">已显示 {{results.length}} / {{totalCount}}</text>
+    </view>
+    <view wx:if="{{results.length === 0}}" class="muted">没有匹配的菜谱</view>
+    <view
+      wx:for="{{results}}"
+      wx:key="id"
+      class="reco-card card"
+      hover-class="card-hover"
+      data-id="{{item.id}}"
+      bindtap="onOpenDetail"
+    >
+      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
+      <view class="reco-body">
+        <view class="title reco-title">{{item.title}}</view>
+        <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
+          <block wx:for="{{item.tags}}" wx:key="*this">
+            <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
+          </block>
+        </view>
+        <view class="reco-meta">
+          <text class="tag">{{item.min_age_month}}m+</text>
+          <text class="muted">{{item.time_cost}}分钟 · 难度{{item.difficulty}}</text>
+        </view>
+      </view>
+    </view>
+    <view wx:if="{{results.length > 0 && hasMore}}" class="load muted">下拉加载更多…</view>
+    <view wx:if="{{results.length > 0 && !hasMore}}" class="load muted">没有更多了</view>
+  </view>
+</view>

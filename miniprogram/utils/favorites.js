@@ -26,5 +26,12 @@ function removeFavorite(id) {
   return ids;
 }
 
-module.exports = { getFavorites, isFavorite, toggleFavorite, removeFavorite };
+function removeFavorites(ids) {
+  const removeSet = new Set(Array.isArray(ids) ? ids : []);
+  if (removeSet.size === 0) return getFavorites();
+  const next = getFavorites().filter((x) => !removeSet.has(x));
+  storage.set(STORAGE_KEYS.favorites, next);
+  return next;
+}
 
+module.exports = { getFavorites, isFavorite, toggleFavorite, removeFavorite, removeFavorites };

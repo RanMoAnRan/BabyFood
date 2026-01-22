@@ -9,6 +9,18 @@ Component({
         selectedIconPath: "/images/tabbar/home-active.svg"
       },
       {
+        pagePath: "/pages/list/index",
+        text: "菜谱",
+        iconPath: "/images/tabbar/recipe.svg",
+        selectedIconPath: "/images/tabbar/recipe-active.svg"
+      },
+      {
+        pagePath: "/pages/favorites/index",
+        text: "收藏",
+        iconPath: "/images/tabbar/favorite.svg",
+        selectedIconPath: "/images/tabbar/favorite-active.svg"
+      },
+      {
         pagePath: "/pages/profile/index",
         text: "我的",
         iconPath: "/images/tabbar/user.svg",
