@@ -1,0 +1,101 @@
+{
+  "id": "0de7e08723caaa456e32e43ff33196c3",
+  "title": "南瓜苹果糖粉奶油细末松饼",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/589f453e0621a9b620000ca28a12533a.webp",
+  "nutrition_tip": "这个南瓜苹果糖粉奶油细末松饼食谱的特点是苹果的质地......",
+  "ingredients": [
+    {
+      "name": "2.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯罐装南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋，轻轻打散",
+      "amount": ""
+    },
+    {
+      "name": "2 杯苹果，去皮、去核、切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙黄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 18 个松饼杯或带纸衬垫的杯形杯上涂上油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 2 ½ 杯面粉、2 杯糖、南瓜派香料、小苏打和盐一起筛入碗中。将南瓜泥、油和鸡蛋混合在另一个碗中；搅拌到面粉混合物中，直到面糊刚刚湿润。折叠苹果。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面糊分装到准备好的松饼杯中，将每个杯填满。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将剩余的 1/4 杯糖、2 汤匙面粉和肉桂放入碗中搅拌；用两把刀或糕点搅拌机切黄油，直到混合物看起来像粗面包屑。将肉桂粉均匀地撒在松饼面糊上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 35 到 40 分钟，直到插入松饼的牙签拔出来时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-03",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/20237/pumpkin-apple-streusel-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9344fdc43395c6c721927de1a2af6205",
+    "translated": true
+  }
+}

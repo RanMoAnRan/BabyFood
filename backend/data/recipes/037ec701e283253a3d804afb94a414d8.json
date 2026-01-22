@@ -1,0 +1,100 @@
+{
+  "id": "037ec701e283253a3d804afb94a414d8",
+  "title": "大蒜红糖鸡大腿",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/1b592e266dc395ddc6d79bd31a2b1e5a.webp",
+  "nutrition_tip": "用甜蜜蒜酱烘烤的红糖鸡保持嫩滑多汁......",
+  "ingredients": [
+    {
+      "name": "8 个（5 盎司）带骨带皮鸡大腿",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙无盐黄油，分开",
+      "amount": ""
+    },
+    {
+      "name": "4 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干罗勒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用盐和胡椒调味鸡大腿。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大的耐热煎锅中用中高温融化 2 汤匙黄油。加入鸡肉，带皮的一面朝下，每面煎 2 至 3 分钟，直至呈棕色。将鸡肉移至盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在煎锅中融化剩余的 1 汤匙黄油，搅拌以松开底部的褐色碎片。加入大蒜；煮约30秒，搅拌至香味四溢。加入红糖、蜂蜜、牛至、百里香和罗勒，直至充分混合。关掉火，将鸡肉放回煎锅中，带皮的一面朝下。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烤 20 到 25 分钟，直至鸡肉的骨头不再呈粉红色且汁液清澈。插入骨头附近的即时读数温度计的读数应为 165 华氏度（74 摄氏度）。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "上菜时将锅酱淋在鸡大腿上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-01-07",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/279903/garlic-brown-sugar-chicken-thighs/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "440b25ee24506228409fe0faf5ee5671",
+    "translated": true
+  }
+}

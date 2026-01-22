@@ -1,0 +1,72 @@
+{
+  "id": "aa9fe2cd68951ce2c01ced8330c5c31e",
+  "title": "Champurrado（墨西哥热巧克力）",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/4afbc5cc1d423b7f9fbe5b1827146aa8.webp",
+  "nutrition_tip": "Champurrado 是一种浓稠的热巧克力饮料，由墨西哥巧克力、皮诺尔……制成。",
+  "ingredients": [
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 根肉桂棒",
+      "amount": ""
+    },
+    {
+      "name": "1 整瓣丁香",
+      "amount": ""
+    },
+    {
+      "name": "1 荚八角",
+      "amount": ""
+    },
+    {
+      "name": "4.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 片墨西哥巧克力（例如 Chocolate Ibarra®）",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯 pinole（粗磨玉米粉）",
+      "amount": ""
+    },
+    {
+      "name": "1 撮压碎的 piloncillo（墨西哥红糖甜筒），或更多适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将水、肉桂棒、丁香和八角放入平底锅中，中火加热；煮沸。离火，让香料浸泡约 10 分钟，直到水发出香味；拉紧。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在另一个平底锅中用中火加热牛奶、巧克力和皮诺尔，搅拌约 10 分钟，直至巧克力溶解且液体变稠。远离热源；加入 piloncillo 并静置约 5 分钟，直至糖溶解。将肉桂水倒入巧克力混合物中，搅拌混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/230155/champurrado/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "71dd402a56f613d579ba3293c1cafa0d",
+    "translated": true
+  }
+}

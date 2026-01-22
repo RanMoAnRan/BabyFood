@@ -1,0 +1,104 @@
+{
+  "id": "8bc8a0d4e8165c5e432a0f51552c145c",
+  "title": "尼斯沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Lunch",
+    "Salad",
+    "European",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 165,
+  "cover_image": "images/6d598a2d0bfab3c589308cc4dcc4d49a.webp",
+  "nutrition_tip": "Niçoise 沙拉是一种味道鲜美的法式沙拉，里面有金枪鱼、土豆、蔬菜……",
+  "ingredients": [
+    {
+      "name": "0.5 磅新土豆，切成四等分",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 磅新鲜青豆 - 冲洗、修剪和焯水",
+      "amount": ""
+    },
+    {
+      "name": "1罐（5盎司）金枪鱼罐头",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个洋葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯去核尼斯橄榄",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅混合沙拉蔬菜",
+      "amount": ""
+    },
+    {
+      "name": "1 杯柠檬油醋汁",
+      "amount": ""
+    },
+    {
+      "name": "3 个煮熟的鸡蛋，切成四份",
+      "amount": ""
+    },
+    {
+      "name": "3 个罗马（李子）西红柿，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "4 块凤尾鱼片",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙刺山柑",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅盐水煮沸；加入土豆，煮约 15 分钟，直至变软但仍然坚硬。沥干并冷却。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将土豆、青豆、金枪鱼、洋葱、欧芹、橄榄和欧芹放入一个大碗中；冷藏2至4小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蔬菜和油醋汁放入沙拉碗中；上面放上冷冻土豆混合物。用鸡蛋、西红柿、凤尾鱼和刺山柑装饰。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-08-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/14239/salad-nicoise/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6c3a7d091e9db453dd0bd819f5c70148",
+    "translated": true
+  }
+}

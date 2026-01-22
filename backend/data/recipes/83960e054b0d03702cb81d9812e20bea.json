@@ -1,0 +1,85 @@
+{
+  "id": "83960e054b0d03702cb81d9812e20bea",
+  "title": "感恩节剩菜砂锅",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/190c839121fcd20b1dc5838caafef811.webp",
+  "nutrition_tip": "你的家人一定会喜欢这个感恩节剩菜砂锅。馅料、火鸡、...",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "3 杯剩余馅料",
+      "amount": ""
+    },
+    {
+      "name": "4 杯切碎的剩余烤火鸡",
+      "amount": ""
+    },
+    {
+      "name": "2 杯剩下的煮熟的蔬菜",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "3 杯剩下的土豆泥",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙辣椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 375 华氏度（190 摄氏度）。在 9x13 英寸烤盘上喷洒烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将馅料均匀地铺在准备好的烤盘底部。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将火鸡、蔬菜和蛋黄酱放入碗中混合，直至充分混合；用勺子浇在馅料上，并铺成均匀的一层。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将土豆泥和切达奶酪混合均匀；铺在火鸡混合物上。在上面撒上辣椒粉。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 30 至 40 分钟，直至热透。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-09-23",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/234631/thanksgiving-leftovers-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a3423256b621b208ec9e0cce14643832",
+    "translated": true
+  }
+}

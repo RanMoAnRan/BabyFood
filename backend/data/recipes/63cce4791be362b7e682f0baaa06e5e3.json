@@ -1,0 +1,103 @@
+{
+  "id": "63cce4791be362b7e682f0baaa06e5e3",
+  "title": "不偷看鸡",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/6f5b12b45dad02eea510ef75eca8c384.webp",
+  "nutrition_tip": "No-peek Chicken 是由烘焙小鸡制作的令人难以置信的简单和舒适的晚餐......",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "2 杯长粒白米",
+      "amount": ""
+    },
+    {
+      "name": "2 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个黄洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个红甜椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）洋葱混合汤",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜牛至",
+      "amount": ""
+    },
+    {
+      "name": "4 块鸡大腿",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙通用调味料",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中搅拌米饭、水、鸡汤、蘑菇汤、洋葱、甜椒、洋葱汤混合物和牛至，直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将米饭混合物倒入准备好的盘子中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在鸡大腿上撒上调味盐，然后放在米饭混合物上。用箔纸紧紧盖住盘子。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 1 小时 30 分钟，盖紧盖子。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "上菜并享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2022-12-05",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/8515263/no-peek-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0c1f60cb722a37f3045ee72aee33eb6a",
+    "translated": true
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "87f8114fe46fc309ac7a65bfb549e968",
+  "title": "苹果片方块",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/5aaa170e1da4b305a522ec58517bcdb4.webp",
+  "nutrition_tip": "这个苹果片方块食谱包含苹果派的所有配料，包括……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 罩杯缩短",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "6 个苹果 - 去皮、去核，切成 1/2 英寸厚的片，或更多以品尝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 2 杯面粉和盐放入碗中搅拌；用糕点搅拌机或叉子将黄油切成碎块。将鸡蛋、水和柠檬汁放入另一个碗中搅拌直至混合；加入面粉混合物中搅拌，直至面团形成球状。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团分成两半；在撒了少许面粉的工作面上将每一半卷成大约 9x13 英寸的矩形。将 1 个长方形压入 9x13 英寸的烤盘中，形成底皮；将剩余的面团长方形放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将苹果片、糖、3汤匙面粉和肉桂一起放入碗中，搅拌均匀，直到苹果均匀地裹上一层；铺在地壳上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用剩余的面团矩形覆盖苹果馅，形成顶部外壳，将碎片拼凑在一起以覆盖任何孔。在顶部外壳上切几个通风缝，以便烘烤时蒸汽逸出。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 至 60 分钟，直至边缘变成棕色且酥脆。冷却至室温，然后切成方块，大约需要 30 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/237305/apple-slice-squares/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dfe902509387273bb53ed44305f1caf6",
+    "translated": true
+  }
+}

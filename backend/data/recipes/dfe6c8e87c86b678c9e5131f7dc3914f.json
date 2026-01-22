@@ -1,0 +1,81 @@
+{
+  "id": "dfe6c8e87c86b678c9e5131f7dc3914f",
+  "title": "空气炸锅火鸡胸肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/929f7df8415729cdf0c1e95bf453f842.webp",
+  "nutrition_tip": "这个多汁的空气炸锅火鸡胸肉比整只火鸡更容易烤，准备好了……",
+  "ingredients": [
+    {
+      "name": "1 汤匙切碎的新鲜迷迭香",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜细香葱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜大蒜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙冷无盐黄油",
+      "amount": ""
+    },
+    {
+      "name": "2.75 磅带皮带骨火鸡胸肉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将空气炸锅预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将迷迭香、细香葱、大蒜、盐和胡椒放在切板上。将黄油切成薄片，放在香草和调味料上，捣碎直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将火鸡胸肉拍干，并在两侧和皮下涂抹香草黄油。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将火鸡皮面朝下放入空气炸锅篮中，空气炸 20 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "小心地将火鸡翻到皮面朝上，继续煎炸，直到插入骨头附近的即时温度计读数为 165 华氏度（74 摄氏度），大约需要 18 分钟。转移到盘子和带有铝箔的帐篷中；休息 10 分钟。切片并趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-08-26",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/275372/air-fryer-turkey-breast/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4e607080b20cd7b27017f8bc55c19f91",
+    "translated": true
+  }
+}

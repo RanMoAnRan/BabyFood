@@ -1,0 +1,86 @@
+{
+  "id": "11e70de043280739c2d808124f7e322d",
+  "title": "珍妮特奶奶的神奇德国红卷心菜",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Dinner",
+    "German",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/1af55e894a3f7c6531c2c75dd1b8594f.webp",
+  "nutrition_tip": "这个德国红甘蓝菜谱很容易用切碎的红甘蓝、苹果制作......",
+  "ingredients": [
+    {
+      "name": "5 杯红卷心菜丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯青苹果片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯苹果醋",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "2.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙丁香粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将卷心菜、苹果、糖和黄油放入一个大锅中。倒入醋和水，然后加入盐、胡椒和丁香。用中高火煮沸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将火调至小火，盖上锅盖，小火煮 1 ½ 至 2 小时，直至卷心菜变软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/139977/grandma-jeanettes-amazing-german-red-cabbage/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8f3fcb91dee2c9fb62ab93781d5d4efc",
+    "translated": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "e3b359a2b449b889b482bea596301e7d",
+  "title": "巧克力闪电泡芙蛋糕",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 735,
+  "cover_image": "images/f140ef00c05c47821a8e2cdadb2c7097.webp",
+  "nutrition_tip": "这个巧克力闪电泡芙蛋糕有多层全麦饼干和生布丁顶部......",
+  "ingredients": [
+    {
+      "name": "1 包（16 盎司）全麦饼干",
+      "amount": ""
+    },
+    {
+      "name": "4 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 包（3.5 盎司）即食香草布丁混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）冷冻搅打配料，解冻",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）准备好的巧克力糖霜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在 9x13 英寸烤盘的底部铺上一层全麦饼干。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将牛奶和香草布丁放入一个大碗中；快速搅拌 2 分钟。拌入搅打过的配料直至混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 1/2 的布丁混合物涂在平底锅中的全麦饼干上。上面放一层全麦饼干。盖上剩余的布丁混合物，然后在上面放上另一层全麦饼干。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将装有糖霜的未盖容器放入微波炉中，以半功率加热 1 分钟。倒在蛋糕上面；均匀地涂抹到边缘。食用前将蛋糕冷藏至少 12 小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-01-22",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/17395/chocolate-eclair-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4ce0c48417902f5544fcad7b45d1c599",
+    "translated": true
+  }
+}

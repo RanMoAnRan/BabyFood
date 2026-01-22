@@ -1,0 +1,77 @@
+{
+  "id": "bdc86449199a2700aad5170c2c800e95",
+  "title": "鲁本三明治",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/fc8cbce5aeea22d11399e1dbe83b3e75.webp",
+  "nutrition_tip": "鲁本三明治很容易用咸牛肉、瑞士奶酪、酸菜、…",
+  "ingredients": [
+    {
+      "name": "8 片黑麦面包",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯千岛酱",
+      "amount": ""
+    },
+    {
+      "name": "8 片瑞士奶酪",
+      "amount": ""
+    },
+    {
+      "name": "8 片熟食咸牛肉片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯酸菜，沥干",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油，软化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料并用中火预热大煎锅或煎锅。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在面包片的一侧均匀涂抹千岛酱。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在四片面包上，铺上一片瑞士奶酪、2 片咸牛肉、1/4 杯酸菜和第二片瑞士奶酪。上面放上剩余的面包片，调味面朝下。在每个三明治的顶部涂上黄油。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将三明治，黄油面朝下放在预热的煎锅上；在每个三明治的顶部涂上剩余的黄油。烤至两面金黄色，每面约5分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-05-16",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/47717/reuben-sandwich-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ed80630a1bd7d6dbcaaa29b4dec580ae",
+    "translated": true
+  }
+}

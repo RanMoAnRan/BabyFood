@@ -1,0 +1,79 @@
+{
+  "id": "ec7904996ad615fa2a10743bcdb7e6eb",
+  "title": "无皮南瓜派",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/e3ef1b7e7410cc7bddff096bc33c299e.webp",
+  "nutrition_tip": "这款奶油无皮南瓜派非常适合无麸质感恩节甜点……",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯脱脂牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯颗粒状三氯蔗糖甜味剂（例如 Splenda®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯鸡蛋替代品",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙姜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸的馅饼盘上涂上烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜泥、牛奶、甜味剂、鸡蛋替代品、香草、肉桂、生姜和肉豆蔻放入碗中搅拌至光滑；倒入准备好的馅饼盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至中心凝固。食用前从烤箱中取出并完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-01-16",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/231541/easy-crustless-pumpkin-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9f832747f23c7aa4dad9a012d5e85583",
+    "translated": true
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "4019e4fcc33eff195a33c879d77d9b01",
+  "title": "易烤牛腩",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 735,
+  "cover_image": "images/5c6c04ccc7956468e8ca2aaec4f19b94.webp",
+  "nutrition_tip": "这个万无一失的牛胸肉食谱在烤箱中烘烤，并用洋葱片窒息......",
+  "ingredients": [
+    {
+      "name": "3 磅初切牛胸肉（或平切），去除脂肪",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙现磨黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙辣椒",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个大黄洋葱，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "4 瓣大蒜，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙切碎的新鲜迷迭香",
+      "amount": ""
+    },
+    {
+      "name": "1 杯苹果汁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用盐、胡椒和辣椒在牛胸肉的两面充分调味。为了获得最佳效果，请将牛胸肉放在铝箔“架子”上。放在盘子上，不盖盖子冷藏 8 至 12 小时。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在平底锅中用中火融化黄油。加入洋葱和盐。煮并搅拌直至半透明，大约需要 5 分钟。加入大蒜、迷迭香和苹果汁。将火调高并煮沸，直至液体减少约一半，即约 3 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将一半苹果洋葱混合物放入烤盘中。将牛胸肉脂肪面朝上放在上面；盖上剩余的苹果洋葱混合物。用箔纸紧紧盖住烤盘。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤1小时30分钟。将烤箱温度降至 250 华氏度（121 摄氏度），烘烤约 2 小时 15 分钟，直至叉子变软。 2小时后检查是否熟了。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将牛胸肉转移到带有箔纸的盘子和帐篷上。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将洋葱和炖液倒入一个大量杯或碗中。从顶部撇去一些脂肪。用棒式搅拌机打成泥，制成肉汁。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将牛胸肉横切切片，与肉汁一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-23",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/273034/easy-baked-beef-brisket/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6dac293f986ee98272945cad25d2c94d",
+    "translated": true
+  }
+}

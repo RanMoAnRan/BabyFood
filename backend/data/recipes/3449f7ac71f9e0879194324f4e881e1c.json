@@ -1,0 +1,107 @@
+{
+  "id": "3449f7ac71f9e0879194324f4e881e1c",
+  "title": "卡皮罗塔达",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/1cd6230f274bd055858e77fb2b16bdfe.webp",
+  "nutrition_tip": "Capirotada，或墨西哥面包布丁，是由多层黄油面包、莱…",
+  "ingredients": [
+    {
+      "name": "3 杯水",
+      "amount": ""
+    },
+    {
+      "name": "3 杯红糖，分开",
+      "amount": ""
+    },
+    {
+      "name": "2 根肉桂棒",
+      "amount": ""
+    },
+    {
+      "name": "2 个切片白面包，烤的",
+      "amount": ""
+    },
+    {
+      "name": "2 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 磅切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "2 杯花生",
+      "amount": ""
+    },
+    {
+      "name": "2 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉桂粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙丁香粉，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将水、2 杯红糖和肉桂棒放入平底锅中混合；煮沸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将火调小，煮约 15 分钟，偶尔搅拌，直至糖溶解且液体变成糖浆。用有槽勺从糖浆中取出肉桂棒。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在每个烤面包片的一侧涂上一层薄薄的黄油，并撒上肉桂、肉豆蔻和丁香。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面包涂上木瓦，黄油面朝上，在 9x13 英寸的烤盘中制作两排。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在面包上撒上奶酪、葡萄干、花生、肉桂、肉豆蔻和丁香。将剩余的 1/4 杯红糖撒在奶酪上。将肉桂糖浆倒在整个盘子上；用铝箔盖住。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约30分钟至熟透。食用前冷却 15 至 20 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/236937/mexican-capirotada/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "17a305531921d4c741dd7ca764662603",
+    "translated": true
+  }
+}

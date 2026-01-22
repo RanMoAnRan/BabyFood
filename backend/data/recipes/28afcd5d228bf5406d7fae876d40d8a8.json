@@ -1,0 +1,85 @@
+{
+  "id": "28afcd5d228bf5406d7fae876d40d8a8",
+  "title": "青少年阿姨的奶油巧克力软糖",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 150,
+  "cover_image": "images/a909a3943e5150343f077921e29b719d.webp",
+  "nutrition_tip": "最好的软糖食谱是那些通过家族传承下来的食谱！…",
+  "ingredients": [
+    {
+      "name": "1.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（7 盎司）棉花糖奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯淡奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯碎坚果",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。 8寸方盘铺上铝箔；放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖、棉花糖奶油、淡奶、黄油和盐一起放入一个大平底锅中，用中火加热；煮沸并煮5分钟，不断搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "离火并加入牛奶巧克力片和半甜巧克力片；搅拌直至巧克力融化且混合物光滑。拌入坚果和香草。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒入准备好的平底锅中；在冰箱中冷藏 2 小时，或直至变硬。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-01-24",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/15821/aunt-teens-creamy-chocolate-fudge/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d048dbee561610c9ed7b9e9f4dad8f67",
+    "translated": true
+  }
+}

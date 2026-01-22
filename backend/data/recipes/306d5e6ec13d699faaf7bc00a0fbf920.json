@@ -1,0 +1,82 @@
+{
+  "id": "306d5e6ec13d699faaf7bc00a0fbf920",
+  "title": "苹果派果冻",
+  "min_age_month": 12,
+  "tags": [
+    "Jam / Jelly",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 760,
+  "cover_image": "images/a47c89f09c9e2ae1f2cbf6f6e7a65144.webp",
+  "nutrition_tip": "这个自制的苹果果冻配方是用肉桂和肉豆蔻调味的，味道......",
+  "ingredients": [
+    {
+      "name": "4 杯瓶装苹果汁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙纯枫糖浆",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1.75 盎司）干果胶",
+      "amount": ""
+    },
+    {
+      "name": "5 杯白糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "检查 6 个（半品脱）罐子是否有裂纹，环是否生锈，丢弃任何有缺陷的罐子。浸泡在沸水中，直到果冻准备好。用温肥皂水清洗新的、未使用的盖子和环。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将苹果汁、枫糖浆、肉桂和肉豆蔻放入一个重锅中；加入果胶，用大火煮沸直至果胶溶解。慢慢加入糖搅拌；返回沸腾状态并煮沸 1 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "关火，用金属勺撇去泡沫。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将果冻装入热的、消毒过的罐子中，填充至顶部 1/4 英寸以内。用干净的刀或薄抹刀在罐子内部划一圈，以除去任何气泡。用湿纸巾擦拭边缘以去除任何残留物。顶部盖上盖子并拧紧螺丝环。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将一个架子放在一个大汤锅的底部，并装满一半的水。煮沸并使用支架将罐子放入沸水中，间隔 2 英寸。倒入更多的沸水，盖住罐子至少 1 英寸。煮沸，盖上锅盖，煮 15 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "从汤锅中取出罐子；放置冷却12至24小时，间隔几英寸。用手指按压盖子的中心，确保盖子不会向上或向下移动。取下存放环并存放在阴凉、黑暗的地方。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/266336/apple-pie-jelly/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5e078bb53a8bf49bac1ebe67278a3fd5",
+    "translated": true
+  }
+}

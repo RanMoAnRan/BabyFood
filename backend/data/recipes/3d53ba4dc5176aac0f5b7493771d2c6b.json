@@ -1,0 +1,90 @@
+{
+  "id": "3d53ba4dc5176aac0f5b7493771d2c6b",
+  "title": "糖果",
+  "min_age_month": 8,
+  "tags": [
+    "Candy",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 140,
+  "cover_image": "images/77bf395a0860914c66287e2277395067.webp",
+  "nutrition_tip": "用椰子、核桃、糖和炼乳制成的自制糖果是蘸酱……",
+  "ingredients": [
+    {
+      "name": "1 杯人造黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 磅糖果糖，过筛",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14 盎司）甜炼乳",
+      "amount": ""
+    },
+    {
+      "name": "3 杯椰子",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的核桃",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙起酥油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "混合黄油、糖果&#39;将糖、炼乳、椰子、切碎的核桃和香草放入一个大碗中，直至充分混合。盖上盖子，放入冰箱冷藏约 2 小时，直至混合物变稠，可以滚成球状。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖果混合物滚成 1 英寸的球，并紧密地放在饼干片上，但不要接触。冷冻直至变硬。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "当糖果冷冻时，在饼干片或平面上铺上蜡纸。将巧克力片和起酥油放入双锅顶部，用小火煮沸；搅拌直至融化。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用牙签或叉子将每个糖果浸入融化的巧克力中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "放在蜡纸上晾干。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/18995/bonbons/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f4bce5fbadf20536065cf9a25999d89c",
+    "translated": true
+  }
+}

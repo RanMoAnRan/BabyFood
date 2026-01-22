@@ -1,0 +1,95 @@
+{
+  "id": "21c41281e483362219a151ffb397d9db",
+  "title": "火鸡土豆杂烩食谱",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/05d3c0490736b7e11f4f86934c4b5c60.webp",
+  "nutrition_tip": "火鸡土豆汤不一定很无聊！搭配混合蔬菜，丰富的…",
+  "ingredients": [
+    {
+      "name": "2 杯去皮切丁的土豆",
+      "amount": ""
+    },
+    {
+      "name": "2 杯冷冻混合蔬菜",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯洋葱丁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯芹菜丁",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "2 杯 Swanson® 鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯 剩下的熟火鸡丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙家禽调味料",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯脱脂半杯",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙是拉差酱",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "2 片煮熟的培根，捣碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将土豆、混合蔬菜、洋葱、芹菜、欧芹和鸡汤放入大平底锅中，用中火加热；煮沸。调小火，盖上锅盖，小火慢炖约 10 分钟，直至蔬菜变软。加入火鸡和家禽调味料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一半和一半面粉放在一个小碗中搅拌直至光滑；将混合物慢慢搅拌到热汤中。继续搅拌，直到汤稍微变稠并达到杂烩般的稠度，大约需要 5 分钟。拌入是拉差、盐和胡椒。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用勺子舀入汤碗中，并用碎培根装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-10-05",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/245091/turkey-potato-chowder-recipe/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a1312ba3e25222feeb56178891365cdb",
+    "translated": true
+  }
+}

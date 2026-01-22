@@ -1,0 +1,86 @@
+{
+  "id": "89fd30bcc1258d0646f10d5b62ce5ced",
+  "title": "面包布丁",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/247b88e30aa4e36113e4c1c482ea20eb.webp",
+  "nutrition_tip": "这个简单的面包布丁食谱是用一天的面包、光滑的蛋奶冻和甜甜的糖制成的……",
+  "ingredients": [
+    {
+      "name": "6 片一天的面包，撕成小块",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙无盐黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "4 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面包片放入 8 英寸方形烤盘中。将融化的黄油淋在面包上，然后在上面撒上葡萄干。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将牛奶、糖、鸡蛋、肉桂和香草放入一个中等大小的搅拌碗中，搅拌直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物倒在面包上，用叉子轻轻按压，直到面包被覆盖并浸透。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至呈金黄色，轻按顶部会弹回。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-20",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/7177/bread-pudding-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4c2e968a85784ff29d4613fc8ba985d0",
+    "translated": true
+  }
+}

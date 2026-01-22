@@ -1,0 +1,96 @@
+{
+  "id": "4d09509b407a0126d31aaea6f05325e3",
+  "title": "鱼杂烩",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "U.S.",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/39b47c354472784a27ede0639ef61990.webp",
+  "nutrition_tip": "这个鱼杂烩食谱用新鲜的鳕鱼、蛤蜊酱制作出浓郁而舒适的汤……",
+  "ingredients": [
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "4 个新鲜蘑菇，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "4 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "4 杯土豆丁",
+      "amount": ""
+    },
+    {
+      "name": "2 磅鳕鱼，切成 1/2 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蛤蜊汁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙 Old Bay Seasoning TM，或品尝",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（12 液量盎司）淡奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯煮熟的碎培根",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在大汤锅中用中火融化黄油。用黄油炒洋葱、蘑菇和芹菜，直至变软。加入鸡汤和土豆；煮10分钟。添加鱼；再煮10分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛤汁和面粉放入小碗中搅拌至光滑；拌入汤中，煮1分钟。用老海湾、盐和胡椒调味。从火上移开并加入淡奶搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "分份放入汤碗中，并在上面放上碎培根。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-06-26",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/12732/fish-chowder/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "418388a69aaa1e7baa148f7825238606",
+    "translated": true
+  }
+}

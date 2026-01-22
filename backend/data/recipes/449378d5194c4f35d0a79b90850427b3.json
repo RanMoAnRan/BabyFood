@@ -1,0 +1,79 @@
+{
+  "id": "449378d5194c4f35d0a79b90850427b3",
+  "title": "蛋酒法式吐司",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Brunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/e37ef4efc954b72d28848825de9eac4c.webp",
+  "nutrition_tip": "这款美味的蛋酒法式吐司用南瓜派香料和肉桂调味......",
+  "ingredients": [
+    {
+      "name": "1.5 杯蛋酒",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋，稍微打散",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙 肉桂粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "12 片法式面包",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋酒、鸡蛋、肉桂和南瓜派香料放入搅拌碗中搅拌直至充分混合；倒入浅盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将电煎锅预热至 300 华氏度（150 摄氏度）。给煎锅涂上少许油脂。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "一次将一片面包浸入蛋酒混合物中，确保面包的每一面都涂满。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将准备好的面包片放入预热的煎锅中，翻面一次，直至两面呈金黄色。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将煮熟的面包片放在盘子上，并用箔纸覆盖以保温，直到所有面包片都煮熟。立即上菜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/100490/eggnog-french-toast/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7bec2f3735343c9413450442dc377c02",
+    "translated": true
+  }
+}

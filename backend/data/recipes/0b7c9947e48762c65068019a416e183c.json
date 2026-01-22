@@ -1,0 +1,76 @@
+{
+  "id": "0b7c9947e48762c65068019a416e183c",
+  "title": "牛排干擦调味料",
+  "min_age_month": 12,
+  "tags": [
+    "Spice Mix",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/6a5649774a18247872cd405292cc8b22.webp",
+  "nutrition_tip": "这种牛排调味料是用烟熏辣椒粉、牛至和小茴香在几分钟内制成的。...",
+  "ingredients": [
+    {
+      "name": "3 汤匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 熏辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙粗磨黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙淡红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙孜然粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将犹太盐、烟熏辣椒粉、洋葱粉、大蒜粉、牛至、黑胡椒、红糖和小茴香放入可密封的容器中混合。密封容器并摇匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "给牛排调味。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/242012/steak-dry-rub/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1dfb2cb1e01861955ddbed0af0a59c61",
+    "translated": true
+  }
+}

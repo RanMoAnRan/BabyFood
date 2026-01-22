@@ -1,0 +1,92 @@
+{
+  "id": "10f8fe888f3ebc81d3635b13076a7407",
+  "title": "基本玉米松饼",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Bread",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/031abf45e5a44cfa1f9c4106acb14d97.webp",
+  "nutrition_tip": "这种超快的玉米松饼食谱可以通过添加切丝轻松装饰……",
+  "ingredients": [
+    {
+      "name": "1 杯玉米粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯菜籽油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在松饼盘上涂上油脂或铺上纸松饼衬垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将玉米粉、面粉、糖、发酵粉和盐放入一个大碗中，混合在一起"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入鸡蛋、油、牛奶；轻轻搅拌混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊舀入准备好的松饼杯中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 至 20 分钟，直至插入松饼的牙签拔出来时是干净的。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-13",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/16755/basic-corn-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ab6063dad96dd9af1077759addde4eeb",
+    "translated": true
+  }
+}

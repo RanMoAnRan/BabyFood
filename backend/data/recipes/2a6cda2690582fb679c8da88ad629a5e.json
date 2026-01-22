@@ -1,0 +1,66 @@
+{
+  "id": "2a6cda2690582fb679c8da88ad629a5e",
+  "title": "新鲜蔓越莓酱",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/516633269f9c06c5c9a656910fe6ce1a.webp",
+  "nutrition_tip": "新鲜蔓越莓酱是感恩节必备品——这个快速简单的食谱你...",
+  "ingredients": [
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）新鲜蔓越莓（例如 Ocean Spray®）",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将水放入平底锅中煮沸；加入糖，煮约 5 分钟，直至糖溶解。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将蔓越莓放入平底锅中搅拌并煮沸。将火调至小火，煮约 10 分钟或更长时间，直至蔓越莓爆裂且酱汁呈块状，以获得所需的稠度。煮的时间越长，它就越不厚实。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将酱汁倒入盘子或罐子中，盖上盖子直至可以使用；蔓越莓中的果胶在冷却时会使蔓越莓酱凝胶。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "食用前用叉子将蔓越莓酱混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/239960/fresh-cranberry-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "df816d9a4322d1d701e0a9c5606cb5bf",
+    "translated": true
+  }
+}

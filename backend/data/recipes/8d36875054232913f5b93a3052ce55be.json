@@ -1,0 +1,66 @@
+{
+  "id": "8d36875054232913f5b93a3052ce55be",
+  "title": "简易大蒜羽衣甘蓝",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/d1df5f337089a1dd296ac9c7ebe68b76.webp",
+  "nutrition_tip": "这个羽衣甘蓝食谱通过用切碎的羽衣甘蓝叶炒来快速制作美味......",
+  "ingredients": [
+    {
+      "name": "1 束羽衣甘蓝",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜末",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将羽衣甘蓝叶浸泡在一大碗水中，直到污垢和沙子开始落到底部，大约需要 2 分钟。将羽衣甘蓝从碗中取出，不要干燥叶子，并立即去除并丢弃茎。将羽衣甘蓝叶切成 1 英寸的碎片。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在大煎锅中用中火加热橄榄油；煮并搅拌大蒜，直至发出嘶嘶声，大约 1 分钟。将羽衣甘蓝放入煎锅中，然后在上面盖上盖子。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "煮 5 到 7 分钟，偶尔用钳子搅拌，直到羽衣甘蓝呈亮绿色且稍微变软。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-06-04",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/241074/easy-garlic-kale/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "137ce96d73e4c2250daa968e7c790ec5",
+    "translated": true
+  }
+}

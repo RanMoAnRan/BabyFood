@@ -1,0 +1,78 @@
+{
+  "id": "036239c3b6e4907761f00362b4098461",
+  "title": "三叶草奶昔",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/90aadafa5c83c72656494f4edd28af12.webp",
+  "nutrition_tip": "这个山寨三叶草奶昔配方是冰淇淋、牛奶、薄荷糖的奶油混合物……",
+  "ingredients": [
+    {
+      "name": "2 杯香草冰淇淋",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙薄荷提取物，或更多调味",
+      "amount": ""
+    },
+    {
+      "name": "9 滴绿色食用色素",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙巧克力糖浆，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙生奶油，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙绿色装饰糖，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在搅拌机中将冰淇淋、牛奶、薄荷提取物和食用色素混合直至光滑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在 2 个高脚玻璃杯的内侧淋上巧克力糖浆；将奶昔倒入玻璃杯中。上面撒上生奶油和绿糖。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-03-14",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/231602/shamrock-shakes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b27f3458c89326ff58613bf215905bda",
+    "translated": true
+  }
+}

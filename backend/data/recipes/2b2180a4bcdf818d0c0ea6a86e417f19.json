@@ -1,0 +1,90 @@
+{
+  "id": "2b2180a4bcdf818d0c0ea6a86e417f19",
+  "title": "烤鸡腌料",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 140,
+  "cover_image": "images/9160593657d1695d4e6a05568d1a4db4.webp",
+  "nutrition_tip": "这种烤鸡的鸡肉腌料非常美味，而且很容易准备……",
+  "ingredients": [
+    {
+      "name": "0.25 杯红酒醋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯低钠酱油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙干欧芹片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "5 个去皮去骨鸡胸肉，切成薄片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将醋、酱油、橄榄油、欧芹、罗勒、牛至、大蒜粉和黑胡椒一起放入碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "倒入可重新密封的塑料袋中。加入鸡肉，涂上腌料，挤出多余的空气，然后密封袋子。放入冰箱腌制2至4小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤架预热至中低火，并在烤架上涂上少许油。沥干并丢弃腌料。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤架上烤鸡肉，直到中心不再呈粉红色，每面烤 4 到 5 分钟。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-07-25",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/241890/grilled-chicken-marinade/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b870c1e4d151a936ee8bec62271338cb",
+    "translated": true
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "83aa48f1d0a953975fbea3fb7a5965eb",
+  "title": "墨西哥阿托尔",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/61e08c5763ac1d564864b1186da05e35.webp",
+  "nutrition_tip": "Atole 是一种流行的墨西哥热饮，用玛莎哈里娜 (masa harina)、香料调味......",
+  "ingredients": [
+    {
+      "name": "0.5 杯湿润粉糊（玉米粉）",
+      "amount": ""
+    },
+    {
+      "name": "5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "5 汤匙 piloncillo、红糖甜筒",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将湿润粉糊、水或牛奶、肉桂和 piloncillo 放入搅拌机中。搅拌至光滑，约 3 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将搅拌机中的内容物倒入平底锅中，用中火将混合物煮沸，不断搅拌。当混合物沸腾时，将火调小并继续搅拌 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将锅从火上移开，加入香草精搅拌。倒入杯子中，趁热享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/134083/mexican-atole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "89658e8e57528c66812d95485eac0af8",
+    "translated": true
+  }
+}

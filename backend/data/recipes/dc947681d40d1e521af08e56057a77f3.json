@@ -1,0 +1,89 @@
+{
+  "id": "dc947681d40d1e521af08e56057a77f3",
+  "title": "真正的朗姆酒跑者",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/902972d09bf89e6a871ebf4aba15558f.webp",
+  "nutrition_tip": "朗姆酒跑者鸡尾酒是用淡色和深色朗姆酒、果汁、香蕉制成的……",
+  "ingredients": [
+    {
+      "name": "2 杯冰，分开，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司菠萝汁",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司黑莓利口酒",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司香蕉利口酒",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司淡朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司黑朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "1 滴石榴糖浆，或更多品尝",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司高浓度朗姆酒（例如 Bacardi®151）",
+      "amount": ""
+    },
+    {
+      "name": "1 片橙子",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在鸡尾酒调酒器中混合 1 杯冰、菠萝汁、橙汁、黑莓利口酒、香蕉利口酒、淡朗姆酒、黑朗姆酒和石榴糖浆；摇匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将防风杯装满冰块。倒入混合物。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入高度朗姆酒作为漂浮物，并用橙片装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-11-01",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/276843/the-real-rum-runner/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7a4496f631d91153b942eecba92d661a",
+    "translated": true
+  }
+}

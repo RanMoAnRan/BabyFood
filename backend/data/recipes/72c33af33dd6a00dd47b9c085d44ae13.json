@@ -1,0 +1,118 @@
+{
+  "id": "72c33af33dd6a00dd47b9c085d44ae13",
+  "title": "最好的羽衣甘蓝沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Dinner",
+    "Salad",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/1bb73e3c7bd241b4379a83d587eacb33.webp",
+  "nutrition_tip": "这道羽衣甘蓝沙拉是按摩羽衣甘蓝叶、玉米和哈哈的美味组合……",
+  "ingredients": [
+    {
+      "name": "1束羽衣甘蓝，去掉排骨，叶子切成细条",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个柠檬，榨汁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙枫糖浆，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮大蒜粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒，或适量",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "2 根胡萝卜，磨碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯冷冻烤玉米（例如 Trader Joe's®），解冻",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯碎玉米片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯干烤杏仁，粗切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙磨碎的烟熏白奶酪（例如 Beecher's® 烟熏旗舰）",
+      "amount": ""
+    },
+    {
+      "name": "2 个煮鸡蛋，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将羽衣甘蓝放入一个大碗中；添加 1 茶匙橄榄油和 2 撮盐。轻轻地将油和盐按摩到羽衣甘蓝中。放置约 10 分钟，让羽衣甘蓝变软。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作调料：将 1/4 杯橄榄油、柠檬汁、第戎芥末、枫糖浆、孜然、大蒜粉、辣椒、盐和胡椒混合在带盖的塑料或玻璃容器中。盖上容器并剧烈摇动，直至调料呈浅黄色且混合均匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将胡萝卜、烤玉米、玉米片、杏仁和烟熏奶酪铺在羽衣甘蓝上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在沙拉上淋上油醋汁；用钳子混合直至均匀分布。将切碎的鸡蛋轻轻搅拌到沙拉中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-10",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/246384/the-best-kale-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dc0f2d5a4f33a025fa3a6b41930f54cd",
+    "translated": true
+  }
+}

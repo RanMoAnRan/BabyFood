@@ -1,0 +1,78 @@
+{
+  "id": "76c8e3474614cf472b9434906d043422",
+  "title": "最好的鸡肉沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Salad",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/6d99eff7fb3fd01c8614f5d22ffdd5a3.webp",
+  "nutrition_tip": "这个经典的鸡肉沙拉食谱很容易制作，非常适合使用剩菜......",
+  "ingredients": [
+    {
+      "name": "0.5 杯漂白杏仁片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切碎的熟鸡肉",
+      "amount": ""
+    },
+    {
+      "name": "1 茎芹菜，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将杏仁放入煎锅中，中低火加热。煮至金黄色并烘烤，经常摇晃并仔细观察，因为它们很容易燃烧。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将蛋黄酱、柠檬汁和胡椒粉放入一个中等大小的碗中，直至混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入鸡肉、烤杏仁和芹菜；搅拌直至完全混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-04-21",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/8499/basic-chicken-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "44db3c1d67bc241249367fee98973196",
+    "translated": true
+  }
+}

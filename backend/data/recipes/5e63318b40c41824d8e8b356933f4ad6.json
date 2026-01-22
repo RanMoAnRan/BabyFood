@@ -1,0 +1,101 @@
+{
+  "id": "5e63318b40c41824d8e8b356933f4ad6",
+  "title": "牧场培根鸡配通心粉",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 355,
+  "cover_image": "images/ed2c37cfab9cad809f011350de9559d3.webp",
+  "nutrition_tip": "当一切准备就绪时，准备鸡肉和培根牧场意大利面就变得非常容易......",
+  "ingredients": [
+    {
+      "name": "2.5 磅去皮去骨鸡胸肉半块",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙调味盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙红辣椒片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "5 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）干牧场调料混合物（例如 Hidden Valley Ranch®）",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）通心粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）培根",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝，或更多品尝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将鸡肉放入慢炖锅中。涂上粗盐、调味盐、黑胡椒、胡椒片和百里香。将鸡汤倒入鸡肉内部和周围。低火煮 5 至 6 小时。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡肉切碎并放回肉汤中。加入奶油干酪并充分搅拌至溶解。拌入牧场调料。加入意大利面和牛奶。搅拌，盖上盖子，高火煮 30 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "与此同时，将培根放入大煎锅中，用中高火煮，偶尔翻动，直至均匀变成棕色，大约需要 10 分钟。将培根片放在纸巾上沥干。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将切达干酪混合到意大利面中；将培根碎并搅拌混合。再煮约 10 分钟，直至奶酪融化、意大利面变软但咬起来又硬。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-02-12",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/278260/ranch-and-bacon-chicken-with-penne-pasta/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "72cbf1df8d978c905f110999fdee1bda",
+    "translated": true
+  }
+}

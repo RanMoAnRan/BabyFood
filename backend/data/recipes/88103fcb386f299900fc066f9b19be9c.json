@@ -1,0 +1,81 @@
+{
+  "id": "88103fcb386f299900fc066f9b19be9c",
+  "title": "真正的长岛冰茶",
+  "min_age_month": 12,
+  "tags": [
+    "Cocktail",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/8c13edf8f8b250bcff773d09d9ef0b89.webp",
+  "nutrition_tip": "使用此配方制作真正的长岛冰茶鸡尾酒。用一个装饰...",
+  "ingredients": [
+    {
+      "name": "0.5 液量盎司伏特加",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液体盎司朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液量盎司杜松子酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液量盎司龙舌兰酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液体盎司三秒（橙味利口酒）",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司糖醋混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司可乐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 片柠檬",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在鸡尾酒调酒器中加入冰块。将伏特加、朗姆酒、杜松子酒、龙舌兰酒、三秒酒和酸混合物倒入冰块中；盖上盖子并摇匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡尾酒倒入柯林斯杯或飓风杯中；上面撒上可乐来上色。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用一片柠檬和几片薄荷叶装饰。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-06-05",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/228491/the-real-long-island-iced-tea/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8d1bfbdf8ef30466f5fc6e7e4dc4a205",
+    "translated": true
+  }
+}

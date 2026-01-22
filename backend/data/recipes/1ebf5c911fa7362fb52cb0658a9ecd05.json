@@ -1,0 +1,111 @@
+{
+  "id": "1ebf5c911fa7362fb52cb0658a9ecd05",
+  "title": "南瓜坚果松饼",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "Lunch",
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/a9b73979a19b471f471e35739fee0075.webp",
+  "nutrition_tip": "这种快速简单的南瓜坚果松饼配方采用酪乳打造微妙的棕褐色……",
+  "ingredients": [
+    {
+      "name": "2 杯过筛的通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙姜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯罐装南瓜",
+      "amount": ""
+    },
+    {
+      "name": "0.33333298563957 杯酪乳",
+      "amount": ""
+    },
+    {
+      "name": "0.33333298563957 杯黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙糖蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的山核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 12 杯松饼罐上涂上油脂，或在杯子上铺上纸垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在蜡纸上将面粉、小苏打、泡打粉、肉桂、肉豆蔻和生姜一起搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖、南瓜泥、酪乳、融化的黄油、鸡蛋、糖蜜和香草精一起放入碗中搅拌；加入面粉混合物搅拌直至湿润。折叠山核桃。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊分装到准备好的松饼杯中，将每个杯几乎填满。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 至 25 分钟，直至轻压时顶部弹回。在罐中冷却 5 分钟，然后将松饼转移到金属架上冷却。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-08-07",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/6824/pumpkin-nut-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "05aa4c19ad959a3371d6ecc4eca6850a",
+    "translated": true
+  }
+}

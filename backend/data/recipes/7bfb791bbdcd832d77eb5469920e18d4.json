@@ -1,0 +1,124 @@
+{
+  "id": "7bfb791bbdcd832d77eb5469920e18d4",
+  "title": "扁豆汤",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/ffdaad213c0eaf477dc4ae08e99e2b13.webp",
+  "nutrition_tip": "这道用干扁豆制成的扁豆汤，由于浓郁的绿色，味道浓郁......",
+  "ingredients": [
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 根胡萝卜，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "2 杯干扁豆",
+      "amount": ""
+    },
+    {
+      "name": "8 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14.5 盎司）碎番茄",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯菠菜，冲洗并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙醋",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大汤锅中用中火加热油。加入洋葱、胡萝卜和芹菜；煮并搅拌 3 至 5 分钟，直至洋葱变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入大蒜、月桂叶、牛至和罗勒；煮2分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "拌入扁豆，加水和西红柿。煮沸。调小火，煮约 40 分钟，直至扁豆变软。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "准备食用时，拌入菠菜，煮至其枯萎。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "拌入醋，加盐和胡椒调味；品尝并根据需要进行调整。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-26",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/13978/lentil-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8cfc1113f1ea89d8c9f70093833b5f05",
+    "translated": true
+  }
+}

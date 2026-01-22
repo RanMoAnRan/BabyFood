@@ -1,0 +1,82 @@
+{
+  "id": "ec2c23a8923173b55ced8e385f2536d9",
+  "title": "最好的草莓代基里酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/0d71c870d217118399521119ab4298b6.webp",
+  "nutrition_tip": "这些草莓代基里酒非常适合炎热的夏日。用新鲜或…制成",
+  "ingredients": [
+    {
+      "name": "4 盎司冷冻草莓",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.125 杯酸橙汁",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯柠檬酸橙味碳酸饮料",
+      "amount": ""
+    },
+    {
+      "name": "6 杯冰，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将冷冻草莓放入搅拌机中；添加糖、柠檬汁和酸橙汁。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "倒入朗姆酒和柠檬酸橙饮料，然后加冰。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "搅拌直至光滑。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将草莓代基里混合物倒入飓风杯中。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/32352/best-strawberry-daiquiri/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1cb9d91ea0052e96017ce682985435a8",
+    "translated": true
+  }
+}

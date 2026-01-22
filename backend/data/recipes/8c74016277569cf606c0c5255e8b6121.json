@@ -1,0 +1,73 @@
+{
+  "id": "8c74016277569cf606c0c5255e8b6121",
+  "title": "巧克力蛋白球",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/628216438337fb0728fb5c3ed9e9c9bd.webp",
+  "nutrition_tip": "一个简单的蛋白球配方，使用巧克力蛋白粉、花生酱、燕麦……",
+  "ingredients": [
+    {
+      "name": "1 杯燕麦片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯天然花生酱",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的黑巧克力",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙亚麻籽",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙奇亚籽",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙巧克力味蛋白粉，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将燕麦、花生酱、蜂蜜、巧克力、亚麻籽、奇亚籽和蛋白粉放入碗中，直至混合均匀。用保鲜膜盖住碗；冷藏至少30分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将冷冻混合物舀成球。保持冷藏直至食用。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "尽情享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-06-04",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/233985/chocolate-protein-balls/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "609a13e94d4a708977164ceb53e74664",
+    "translated": true
+  }
+}

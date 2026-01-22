@@ -1,0 +1,81 @@
+{
+  "id": "3996df2a6eccc041e3fc462f809ab8f5",
+  "title": "装土豆泥",
+  "min_age_month": 6,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/8b06936c4dd71f095163b3205b894f35.webp",
+  "nutrition_tip": "土豆泥配上脆培根片、酸奶油和奶酪——最好的……",
+  "ingredients": [
+    {
+      "name": "4 片培根，或更多片以品尝",
+      "amount": ""
+    },
+    {
+      "name": "3 磅土豆，或更多适量，去皮并切成块",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，切成块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 切碎的新鲜韭菜",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将培根放入大煎锅中，用中高火煮，偶尔翻动，直至变脆并呈棕色，大约 10 分钟；用纸巾沥干。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，将土豆放入一大锅淡盐水中煮沸；将火调至中低，煮约 20 分钟直至变软。沥干水分，然后将土豆放回锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "使用土豆捣碎器或电动手动搅拌机将黄油捣碎到土豆中，直至充分混合。加入酸奶油，继续捣碎或搅拌直至混合。将培根捣碎成土豆混合物；拌入切达干酪和细香葱。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/240157/loaded-mashed-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "92082716e4a4cbc1db3bbbd49cacc994",
+    "translated": true
+  }
+}

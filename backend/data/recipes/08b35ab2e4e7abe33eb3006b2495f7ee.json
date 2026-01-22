@@ -1,0 +1,77 @@
+{
+  "id": "08b35ab2e4e7abe33eb3006b2495f7ee",
+  "title": "最简单的锅烤",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 250,
+  "cover_image": "images/1242bd85d25fc65cf1b72d2ad90d68c6.webp",
+  "nutrition_tip": "用这个简单的慢炖锅食谱做出最好的炖肉！烤肉煮到……",
+  "ingredients": [
+    {
+      "name": "6 个中等大小的土豆",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的黄洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯小胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "1 份（3 磅）烤牛肉",
+      "amount": ""
+    },
+    {
+      "name": "3 块牛肉汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将土豆、洋葱和芹菜切成相当大的块；与小胡萝卜一起放入慢炖锅的底部。将烤肉放在蔬菜上。将 3 个肉汤块随机放在烤肉上，然后倒入 1/2 杯水。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上锅盖，低火煮 6 至 8 小时，或高火煮 4 至 5 小时。插入烤肉最厚部分的即时读数温度计读数应为 145 华氏度（65 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤肉转移到盘子上。用有槽勺取出蔬菜，然后将它们排列在烤肉周围。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-08",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/14670/easiest-pot-roast-ever/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9dd965c660cbc0c4deb82efc2b83b0ad",
+    "translated": true
+  }
+}

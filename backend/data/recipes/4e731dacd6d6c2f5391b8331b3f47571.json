@@ -1,0 +1,89 @@
+{
+  "id": "4e731dacd6d6c2f5391b8331b3f47571",
+  "title": "牛仔鱼子酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "U.S.",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/577fc1f92c9d57b6c40774e51d2d9cbc.webp",
+  "nutrition_tip": "这款牛仔鱼子酱是一种广受欢迎的蘸酱，由黑眼豌豆、蚕豆、汤姆……制成。",
+  "ingredients": [
+    {
+      "name": "1 罐（15.5 盎司）黑豆，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15.5 盎司）黑眼豌豆，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1罐（14.5盎司）西红柿切丁，沥干",
+      "amount": ""
+    },
+    {
+      "name": "2 杯冷冻玉米粒，解冻",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个中等大小的洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 个中等大小的青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的腌墨西哥辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙蒜盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯意大利沙拉酱",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯切碎的香菜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黑豆、黑眼豌豆、西红柿丁、玉米、洋葱、甜椒和墨西哥辣椒一起放入一个大碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用蒜盐调味，然后倒入意大利沙拉酱并加入香菜。混合直至充分涂覆。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "食用前冷藏至少 20 分钟或最多 3 天，直至口味融合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-10",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/103674/cowboy-caviar/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c53994a4f0cf6e8433bf213acaf48832",
+    "translated": true
+  }
+}

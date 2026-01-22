@@ -1,0 +1,69 @@
+{
+  "id": "bf9cd73d6152b32cf972f3da82d3da73",
+  "title": "最好的烤奶酪",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 16,
+  "cover_image": "images/5cae5c8c1c63ecf85ead82c55e311944.webp",
+  "nutrition_tip": "这个简单的烤奶酪三明治配有酥脆的帕尔马干酪外壳和粘稠的切德......",
+  "ingredients": [
+    {
+      "name": "0.25 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯新鲜磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "8 片煮熟的培根",
+      "amount": ""
+    },
+    {
+      "name": "4 片切达干酪",
+      "amount": ""
+    },
+    {
+      "name": "8 片酵母面包",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将黄油和帕尔马干酪放入小碗中捣碎，直至混合均匀。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将两片培根和一片切达干酪放在一半面包片上制作三明治。上面放上剩下的面包片。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用中火加热一个大煎锅。在每个三明治的顶部涂上一些黄油混合物。将三明治黄油面朝下放入煎锅中。将剩余的黄油混合物涂在另一面。每面煎至金黄色，每面约 3 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "食用时，对角切成两半。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/125434/grilled-cheese-of-the-gods/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9e2efece6f2ea9c963b376f05673136a",
+    "translated": true
+  }
+}

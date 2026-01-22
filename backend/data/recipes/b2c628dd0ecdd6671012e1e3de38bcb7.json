@@ -1,0 +1,79 @@
+{
+  "id": "b2c628dd0ecdd6671012e1e3de38bcb7",
+  "title": "南方番茄三明治",
+  "min_age_month": 12,
+  "tags": [
+    "Sandwich",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/bf50bd5c13fa748a06411e99f9172f34.webp",
+  "nutrition_tip": "经典的番茄三明治，由多汁的成熟夏季番茄、蛋黄酱和……制成",
+  "ingredients": [
+    {
+      "name": "1 汤匙蛋黄酱，或更多品尝",
+      "amount": ""
+    },
+    {
+      "name": "2 片白面包",
+      "amount": ""
+    },
+    {
+      "name": "4 片熟番茄薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙现磨黑胡椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 1 到 2 汤匙蛋黄酱（取决于口味）均匀地涂抹在两片面包上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将两片番茄放在一片面包上，撒上一半的盐和胡椒。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "再加入两片番茄，撒上剩余的盐和胡椒粉"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将第二片面包放在上面，蛋黄酱面朝下。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "切片并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2022-07-08",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/8420112/southern-tomato-sandwich/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "911ceb06bbc58dae6a0daa20acbe8f04",
+    "translated": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "cb872a79fcc978444c4fc07978ae307f",
+  "title": "水门沙拉",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/1430debdc1e0ca9a2e7702755a271f5c.webp",
+  "nutrition_tip": "水门沙拉由开心果布丁、菠萝、棉花糖、核桃、......",
+  "ingredients": [
+    {
+      "name": "1 包（3.4 盎司）即食开心果布丁混合物",
+      "amount": ""
+    },
+    {
+      "name": "1罐（8盎司）菠萝碎，加果汁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯微型棉花糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "4 盎司冷冻搅打配料，解冻",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将碎菠萝、果汁、速溶布丁粉、迷你棉花糖和核桃放入一个大碗中。混合直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "拌入搅打好的配料，然后冷藏 1 至 2 小时，然后食用。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "准备上桌时，用压碎的开心果和黑樱桃装饰。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-05",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/13811/watergate-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "52b24a21d6f2ba34ed7acee862cf717f",
+    "translated": true
+  }
+}

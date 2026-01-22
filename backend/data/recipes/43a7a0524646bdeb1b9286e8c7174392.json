@@ -1,0 +1,110 @@
+{
+  "id": "43a7a0524646bdeb1b9286e8c7174392",
+  "title": "波士顿焗豆",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 260,
+  "cover_image": "images/d3d6f34b003f19949397666990bf54d7.webp",
+  "nutrition_tip": "这些烤豆是在烤箱中与培根、洋葱和甜食一起慢慢煮熟的……",
+  "ingredients": [
+    {
+      "name": "2 杯干海军豆，浸泡过夜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅生培根条",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙糖蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干芥末",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将浸泡好的海军豆和浸泡水转移到平底锅中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "煮沸。调小火，煮约 1 至 2 小时，直至变软。沥干并保留烹饪液。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将 1/2 的豆子放在 2 夸脱砂锅的底部。将 1/2 的培根条放在豆子上，并在上面撒上 1/2 的洋葱。再次重复图层。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将番茄酱、糖蜜、红糖、伍斯特沙司、盐、胡椒和干芥末放入大平底锅中，用中火加热；煮沸。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将酱汁倒在豆子上。倒入足够的保留烹饪液体以覆盖豆子。用盖子或铝箔盖住砂锅菜。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 1 1/2 小时。取下盖子并继续烹饪，大约每 1/2 小时检查一次，如有必要，添加更多烹饪液，以防止豆子变得太干，直到豆子变软，再煮 1 1/2 到 2 1/2 小时。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-07",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/18255/boston-baked-beans/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "70ebc496d10debe132478af86e9b34c6",
+    "translated": true
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "5a7b04929a9c11cea4616e3fae191ec2",
+  "title": "快速简便的煎饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Filipino",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/cfd8255546f94a6f2d31e5a4a318692e.webp",
+  "nutrition_tip": "这个pancit食谱很容易用炒鸡，切碎的卷心菜，和......",
+  "ingredients": [
+    {
+      "name": "1 包（12 盎司）干米粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 杯煮熟的鸡胸肉丁",
+      "amount": ""
+    },
+    {
+      "name": "1 颗小头卷心菜，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "4 根胡萝卜，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酱油",
+      "amount": ""
+    },
+    {
+      "name": "2 个柠檬 - 切成楔形，用于装饰",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将米粉放入大碗中；用温水覆盖并软化 8 至 10 分钟。沥干并放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，在炒锅或大煎锅中用中低火加热油。加入洋葱和大蒜；煮约 3 至 5 分钟，搅拌直至洋葱变软。加入鸡肉、卷心菜、胡萝卜和酱油。煮至卷心菜开始变软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入面条煮，不断搅拌，直至热透。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将煎饼转移到盘子中，并用柠檬角装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-21",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/47015/quick-and-easy-pancit/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0ac81dd2737a0a94758b9f287f4bf4a5",
+    "translated": true
+  }
+}

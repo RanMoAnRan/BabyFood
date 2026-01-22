@@ -1,0 +1,98 @@
+{
+  "id": "aaf2db5ee0b7b77af350a36b99cd19d0",
+  "title": "鳄梨金枪鱼沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Sandwich",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/250d4eea1bd69df3b23ef22d590ca5cc.webp",
+  "nutrition_tip": "这道美味的牛油果金枪鱼沙拉配上脆脆的苹果、烤核桃、红洋葱、…",
+  "ingredients": [
+    {
+      "name": "1 个熟牛油果",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（5 盎司）淡金枪鱼片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个红苹果，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的红洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的芹菜",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的烤核桃",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙泡菜汁",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干莳萝草",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将牛油果切成两半，将果肉舀入一个大碗中，然后用叉子或土豆捣碎器的背面捣碎牛油果。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入金枪鱼、苹果、洋葱、芹菜、烤核桃、蛋黄酱、泡菜汁、莳萝、第戎芥末、小茴香、盐和胡椒；搅拌均匀。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-15",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/272787/avocado-tuna-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7016389d1f3faeff0ceb6bf329609b01",
+    "translated": true
+  }
+}

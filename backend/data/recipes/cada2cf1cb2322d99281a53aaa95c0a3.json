@@ -1,0 +1,64 @@
+{
+  "id": "cada2cf1cb2322d99281a53aaa95c0a3",
+  "title": "罐装苹果派饮料",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 260,
+  "cover_image": "images/9d73a0654bf028879e78721af2ca30f3.webp",
+  "nutrition_tip": "这种成人罐装苹果派饮料配方是用苹果酒、苹果汁制成的……",
+  "ingredients": [
+    {
+      "name": "1 加仑苹果酒",
+      "amount": ""
+    },
+    {
+      "name": "1 加仑苹果汁",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯白糖，或适量",
+      "amount": ""
+    },
+    {
+      "name": "6 根（3 英寸）肉桂棒",
+      "amount": ""
+    },
+    {
+      "name": "1 瓶（1 升）190 度谷物酒精（例如 Everclear™）",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "检查 9 个（夸脱大小）罐子是否有裂纹，环是否生锈，丢弃任何有缺陷的罐子。浸入沸水中直至饮料混合物准备好。用温肥皂水清洗新的、未使用的盖子和环。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将苹果汁、苹果汁、糖和肉桂棒放入大锅中，用中火加热；煮沸，搅拌直至糖溶解。关火，丢弃肉桂棒。将混合物冷却至室温，约4小时；加入谷物酒精搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将饮料混合物倒入消毒过的罐头罐中。用湿纸巾擦拭边缘以去除任何残留物。顶部盖上盖子并拧紧螺丝环。在冰箱中可保存长达 6 个月。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/165814/apple-pie-in-a-jar-drink/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3e29195420036315308145fcfb5b2843",
+    "translated": true
+  }
+}

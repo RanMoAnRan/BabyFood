@@ -1,0 +1,107 @@
+{
+  "id": "189d579f661f702be29ada59435878c8",
+  "title": "酿茄子",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/e8fb137b192702447a55e8269fe4c0ea.webp",
+  "nutrition_tip": "这个酿茄子食谱可以制作出丰盛的香肠馅，并用蘑菇调味......",
+  "ingredients": [
+    {
+      "name": "1 个茄子，纵向切成两半",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯橄榄油，分开",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1/2 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 磅意大利甜香肠，去壳",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯新鲜蘑菇片",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 杯番茄罗勒意大利面酱",
+      "amount": ""
+    },
+    {
+      "name": "2 杯意大利调味面包屑",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪，分开",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。在有边的烤盘上铺上箔纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "使用锋利的削皮刀沿着每个茄子的果肉边缘切开，留下 1/2 英寸的边界。用勺子挖出果肉，留下1/2英寸厚的壳；保留肉并切成一口大小的块。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在贝壳上刷上2汤匙橄榄油，并用盐和胡椒调味；放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大的深煎锅中用中火加热剩余的 1 汤匙橄榄油。加入香肠、洋葱、蘑菇和大蒜；煮并搅拌直至香肠均匀变成棕色。加入保留的切碎的茄子和罗勒。加入意大利面酱；煮并搅拌5分钟。加入 1/2 杯面包粉和 1/4 杯帕尔马干酪。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将混合物填入茄子壳中。将剩余的panko和奶酪混合在一个小碗中；撒在馅料上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 至 50 分钟，直至茄子变软。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/38331/stuffed-eggplant/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2914b1f4d0756519245052439ef0d877",
+    "translated": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "b0299928c9db3cef2f12009021809210",
+  "title": "简易腌制猪里脊肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 110,
+  "cover_image": "images/b83c75bda89d5baad494be20e224e1cd.webp",
+  "nutrition_tip": "这种猪里脊肉腌料是用橄榄油、大豆、大蒜和蜂蜜芥末制成的……",
+  "ingredients": [
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙第戎蜂蜜芥末",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "2 磅猪里脊肉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将橄榄油、酱油、大蒜、芥末、盐和胡椒粉放入碗中搅拌。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将猪肉放入一个可重新密封的大塑料袋中，倒入腌料；挤出多余的空气，然后密封袋子。烹饪前在冰箱中腌制至少 1 小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将猪肉转移到烤盘中；将腌料倒在猪肉上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烹饪约 45 至 60 分钟，直至猪肉中心呈浅粉色。插入中心的即时读数温度计读数应至少为 145 华氏度（63 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/176359/easy-marinated-pork-tenderloin/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b90c340497b5eed3b83d3539c79355d2",
+    "translated": true
+  }
+}

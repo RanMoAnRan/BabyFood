@@ -1,0 +1,125 @@
+{
+  "id": "734042cd8dd21899049755ecc08f37a0",
+  "title": "南瓜松饼配糖粉奶油细末",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/ed614c7d521e018d198bf57b34aa3b0d.webp",
+  "nutrition_tip": "这款丰盛的南瓜松饼，配上糖粉奶油细末配料，配上易碎的燕麦和……",
+  "ingredients": [
+    {
+      "name": "2.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯燕麦片",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯苹果酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙燕麦片",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 18 个松饼杯或带纸衬垫的杯形杯上涂上油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 2 ½ 杯面粉、½ 杯燕麦、南瓜派香料、小苏打、泡打粉和盐放入碗中搅拌。将南瓜泥、1 杯红糖、白糖、植物油、鸡蛋、苹果酱和香草精放入另一个碗中，搅拌均匀；加入面粉混合物搅拌混合。拌入葡萄干。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 ¼ 杯红糖和黄油一起放入碗中，搅拌至光滑细腻；用叉子搅拌 2 汤匙燕麦和 2 汤匙面粉，直至糖粉奶油细末配料变得易碎。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊分装到准备好的松饼杯中，每个杯装满 ⅔ ；撒上糖粉奶油细末配料。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 25 到 35 分钟，直到插入中心的牙签取出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/228562/pumpkin-muffins-with-streusel-topping/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ce9811651dab8d871dd309aeed978f07",
+    "translated": true
+  }
+}

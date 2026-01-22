@@ -1,0 +1,106 @@
+{
+  "id": "601a332baa13cdabc5607d931feb931b",
+  "title": "鸡肉Arroz Caldo（鸡米粥）",
+  "min_age_month": 8,
+  "tags": [
+    "Breakfast",
+    "Filipino"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/eac0cdd0f72500df8cf67954fb68320a.webp",
+  "nutrition_tip": "这arroz caldo是一种令人心旷神怡的菲律宾汤，里面有鸡翅和米饭……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，压碎",
+      "amount": ""
+    },
+    {
+      "name": "1 片（2 英寸）新鲜生姜，去皮并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "2.25 磅鸡翅，切开并丢弃尖端",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙鱼露",
+      "amount": ""
+    },
+    {
+      "name": "5.25 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 杯糯米",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 个葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个柠檬，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙鱼露，用于撒上（如果需要）",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大锅中用中火加热油。在热油中将洋葱、大蒜和姜炒香，大约需要 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入鸡翅；煮并搅拌 1 分钟。拌入鱼露，盖上盖子，再煮2分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将鸡汤倒入锅中。拌入甜米并将混合物煮沸。盖上锅盖煮10分钟，期间不时搅拌以防止米饭粘在锅底。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用盐和胡椒调味。将汤分装到碗中，并用葱装饰。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "如果需要，可搭配柠檬片和额外的鱼露。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/212940/chicken-arroz-caldo-chicken-rice-porridge/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9b497b97919ef3ed7efaa30b5b3159b6",
+    "translated": true
+  }
+}

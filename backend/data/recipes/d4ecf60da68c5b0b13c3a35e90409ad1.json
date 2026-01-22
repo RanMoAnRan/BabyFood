@@ -1,0 +1,102 @@
+{
+  "id": "d4ecf60da68c5b0b13c3a35e90409ad1",
+  "title": "苹果蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/a7d8dfcc240765f8a3a4e8baa8c25f21.webp",
+  "nutrition_tip": "这个湿润的苹果蛋糕很容易制作，里面装满了大块的甜苹果和……",
+  "ingredients": [
+    {
+      "name": "1/2 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1/2 杯不加糖苹果酱",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "4 杯 去皮苹果丁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上少许油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄油、苹果酱和鸡蛋放入一个大碗中，用电动搅拌机搅拌直至形成泡沫。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入面粉、红糖、肉桂、香草精、泡打粉、小苏打和盐；混合直至充分混合。拌入苹果。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 25 到 30 分钟，直至用牙签插入蛋糕中心，拔出来时是干净的。在锅中冷却 10 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-05-14",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/7615/apple-cake-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "98d77e71c6111c43affd300f8f29a198",
+    "translated": true
+  }
+}

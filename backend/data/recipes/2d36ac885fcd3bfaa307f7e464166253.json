@@ -1,0 +1,92 @@
+{
+  "id": "2d36ac885fcd3bfaa307f7e464166253",
+  "title": "简易土豆香肠汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/4989f998e4c6710e8f0295e31bd875c7.webp",
+  "nutrition_tip": "这汤是一种非常简单、开胃的晚餐或午餐方式！洋葱、胡萝卜……",
+  "ingredients": [
+    {
+      "name": "2 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "4 杯土豆丁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（10 盎司）冷冻胡萝卜丁",
+      "amount": ""
+    },
+    {
+      "name": "1 磅波兰香肠，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "3 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯干土豆片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "使用一个大平底锅，将洋葱放入黄油中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "添加土豆、胡萝卜、青椒、香肠、水、盐和胡椒。小火煮约 45 分钟或直至土豆呈奶油状。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入牛奶煮至热透，然后加入速溶土豆片。如果您想要奶油土豆汤，请添加 1/2 杯土豆片，或者如果您想要汤像炖菜一样浓稠，请添加 1 杯土豆片。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "让汤静置约 5 分钟，使其变稠，然后上桌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-04-15",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/13289/easy-potato-sausage-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4666b149669e1198dfd59246197e43c2",
+    "translated": true
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "ef79a85fc992941cfe8434bcfa03a65a",
+  "title": "墨西哥披萨",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/98dbc4c0a906b69d3ab8d3c6fb3969b3.webp",
+  "nutrition_tip": "这个墨西哥披萨食谱的特点是层层酥脆的玉米饼和调味的地面......",
+  "ingredients": [
+    {
+      "name": "0.5 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）炸豆泥",
+      "amount": ""
+    },
+    {
+      "name": "4 个（10 英寸）玉米饼",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯莎莎酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蒙特利杰克奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "2 个葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个罗马（李子）西红柿，切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯墨西哥辣椒薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酸奶油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 2 个馅饼盘上涂上不粘烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将碎牛肉、洋葱和大蒜放入煎锅中，中火加热。煮 5 至 7 分钟，直至牛肉均匀变成棕色且易碎。排干并丢弃油脂。用辣椒粉、孜然、辣椒粉、盐和胡椒给牛肉调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在每个馅饼盘中放一个玉米饼，并盖上一层炸豆泥。将 1/2 的调味碎牛肉涂在每一个上，然后盖上第二个玉米饼。在预热的烤箱中烘烤约 10 分钟，直至玉米饼变脆。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将披萨从烤箱中取出，放在一边稍微冷却。然后将 1/2 的莎莎酱涂在每个顶部玉米饼上。在每个披萨上覆盖 1/2 的切达干酪和蒙特利杰克干酪。将 1/2 的西红柿、1/2 的葱和 1/2 的墨西哥辣椒片放在每一个上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将披萨放回烤箱烘烤，直至奶酪融化，大约需要 5 到 10 分钟。让披萨稍微冷却，然后将每个披萨切成 4 块。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-28",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/53075/jimmys-mexican-pizza/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fae7f87e26a88d22024636e019ebfdf4",
+    "translated": true
+  }
+}

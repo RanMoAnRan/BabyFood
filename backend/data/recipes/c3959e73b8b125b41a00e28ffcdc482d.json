@@ -1,0 +1,76 @@
+{
+  "id": "c3959e73b8b125b41a00e28ffcdc482d",
+  "title": "辣鳄梨鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/6d7986d745bc86b8eccfe9f7d776fba8.webp",
+  "nutrition_tip": "红洋葱、鳄梨和酸橙汁的简单酱汁搭配煎锅......",
+  "ingredients": [
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个红洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙酸橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 个鳄梨，切丁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将1茶匙盐、1/4茶匙黑胡椒和辣椒放入小碗中搅拌均匀；均匀地揉入鸡胸肉中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中火加热橄榄油；用热油将鸡肉煎至中心不再呈粉红色且汁液清澈，每面煎 5 至 7 分钟。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将洋葱、鳄梨和酸橙汁放入一个中等大小的碗中搅拌直至混合；用盐和胡椒调味。用勺子舀到鸡胸肉上即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/208360/spicy-avocado-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2f6c161eb2b8817ff8861cdfb3c30a06",
+    "translated": true
+  }
+}

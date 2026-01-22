@@ -1,0 +1,96 @@
+{
+  "id": "ad015a15ed63ead7eb4dae3aa4f3e33b",
+  "title": "无壳蔓越莓派",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/0c0c9c6dcafc28514b83c14a78284b6e.webp",
+  "nutrition_tip": "这种无皮蔓越莓派是甜味和酸味的完美融合。服务…",
+  "ingredients": [
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯蔓越莓",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙杏仁提取物",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸的馅饼盘上涂上油脂。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉、糖和盐放入碗中。加入蔓越莓和核桃，搅拌均匀。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入黄油、鸡蛋和杏仁提取物。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 40 分钟，直到插入中心附近的牙签拔出来时是干净的。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-09-07",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/12398/crustless-cranberry-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8dc0d547bdfe02d64e5ac6d258e05b69",
+    "translated": true
+  }
+}

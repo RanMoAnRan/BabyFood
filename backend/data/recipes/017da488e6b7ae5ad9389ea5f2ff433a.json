@@ -1,0 +1,87 @@
+{
+  "id": "017da488e6b7ae5ad9389ea5f2ff433a",
+  "title": "烤鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/985cf7f264fd6fcffe0e2907331a18dd.webp",
+  "nutrition_tip": "这种美味的烤箱炸鸡比油炸更容易制作，也更省事；的…",
+  "ingredients": [
+    {
+      "name": "12 块鸡大腿",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 杯意大利调味面包屑",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉放入浅盘或碗中，用盐和胡椒调味。将面包屑放入另一个浅盘或碗中，然后在另一个碗中打鸡蛋。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡肉一块一块地撒上面粉，然后是鸡蛋，然后是面包屑，直到所有的鸡肉都沾上面粉。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将油倒入一个大烤盘中；加入面包屑鸡腿，撒上辣椒粉调味。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 30 分钟，然后翻面再烘烤 30 分钟。从烤箱中取出并用纸巾吸干水分。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-04-23",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/8841/oven-fried-chicken-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a7d6314848ad0c960dd5392badb5d143",
+    "translated": true
+  }
+}

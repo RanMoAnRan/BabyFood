@@ -1,0 +1,88 @@
+{
+  "id": "df06d28f9a1e86a6fcd315da2d7b2bb2",
+  "title": "绿色智利炖菜",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/a93716c01172e82f662f530ef7654b69.webp",
+  "nutrition_tip": "这道青智利炖菜，配上嫩猪肉或牛肉块、青辣椒、p…",
+  "ingredients": [
+    {
+      "name": "1 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "2 磅炖牛肉块",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10 盎司）番茄丁和青椒",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯牛肉汤",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（4 盎司）切碎的青辣椒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "2 个大土豆，去皮切块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大锅中用中火加热油。加入肉和洋葱；煮约 5 分钟，搅拌直至洋葱半透明。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "倒入番茄丁、辣椒、牛肉汤和智利辣椒。加入蒜盐和孜然。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "煮沸，转小火，小火煮 1 小时。如果需要的话，在煨煮过程中再加一点牛肉汤或水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "拌入土豆块，小火煮至土豆变软，再煮约 30 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/23922/green-chili-stew/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c5d47ecd29429433631f2a42da1f0484",
+    "translated": true
+  }
+}

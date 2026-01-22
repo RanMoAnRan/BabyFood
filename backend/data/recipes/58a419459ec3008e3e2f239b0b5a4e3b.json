@@ -1,0 +1,114 @@
+{
+  "id": "58a419459ec3008e3e2f239b0b5a4e3b",
+  "title": "生苹果蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 100,
+  "cover_image": "images/99904a337b6a6614b63269baf6a7f6dc.webp",
+  "nutrition_tip": "这个生苹果蛋糕食谱是用切碎的青苹果制成的，具有丰富的……",
+  "ingredients": [
+    {
+      "name": "0.75 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "3 杯切碎的澳洲青苹果",
+      "amount": ""
+    },
+    {
+      "name": "2.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙牛奶，或根据需要更多",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "2.5 杯糖果糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在碗中将油和鸡蛋一起搅拌。将苹果放入另一个碗中：将油混合物倒在上面。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，将面粉、白糖、小苏打、1 茶匙盐、肉桂和肉豆蔻放入另一个碗中搅拌；拌入苹果混合物中，直至面糊变稠但混合均匀。倒入准备好的锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤，直到插入中心的牙签拔出时干净，大约需要 45 分钟。很酷，大约30分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将奶油奶酪、1汤匙牛奶、香草精和1撮盐放入碗中，搅拌均匀；逐渐击败糖果厂加糖直至光滑。如果需要的话，加入更多牛奶，一次一汤匙，直到达到所需的稠度。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将奶油芝士糖霜涂在冷却的蛋糕上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-03",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/8269/raw-apple-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7a8f98a055b4b22683f8c387f0281207",
+    "translated": true
+  }
+}

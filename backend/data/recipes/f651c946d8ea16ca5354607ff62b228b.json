@@ -1,0 +1,84 @@
+{
+  "id": "f651c946d8ea16ca5354607ff62b228b",
+  "title": "简单的葬礼土豆",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/602334723d6e7df9d73a93f4e35d937c.webp",
+  "nutrition_tip": "葬礼土豆是一种广受欢迎的芝士土豆煎锅，带有酥脆的…",
+  "ingredients": [
+    {
+      "name": "2 罐（10.5 盎司）奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 品脱酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯磨碎的切达干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯脱水洋葱片",
+      "amount": ""
+    },
+    {
+      "name": "1 包（30 盎司）冷冻碎薯饼，解冻",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎薯片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将浓缩汤、酸奶油、切达干酪和洋葱片放入一个大碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入薯饼直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒入 9x13 英寸的砂锅中。撒上薯片。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中不盖盖子烘烤约 45 分钟，直至奶酪融化且顶部变脆。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-02-01",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/270373/basic-funeral-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4d582d936950560d16be933b1d69641d",
+    "translated": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "28e92cecfc5be439d93f116ba58e7dc7",
+  "title": "最好的爱尔兰咖啡",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/d3bbc76d84166c67de7eeb39a8ab570c.webp",
+  "nutrition_tip": "爱尔兰咖啡是一种经典的鸡尾酒，很容易用爱尔兰威士忌制作，c…",
+  "ingredients": [
+    {
+      "name": "1 杯（1.5 液体盎司）吉尔格爱尔兰威士忌",
+      "amount": ""
+    },
+    {
+      "name": "1 杯（1.5 液量盎司）jigger 爱尔兰奶油利口酒",
+      "amount": ""
+    },
+    {
+      "name": "1 杯热煮咖啡",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙生奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 破折号肉豆蔻粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将爱尔兰威士忌和爱尔兰奶油利口酒放入玻璃杯中混合；倒入煮好的热咖啡。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "上面撒上生奶油和少许肉豆蔻。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2001-11-29",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/44045/irish-coffee/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2013cae6950897ca31932fd21b46e010",
+    "translated": true
+  }
+}

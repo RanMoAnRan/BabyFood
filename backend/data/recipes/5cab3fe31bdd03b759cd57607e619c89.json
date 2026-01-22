@@ -1,0 +1,90 @@
+{
+  "id": "5cab3fe31bdd03b759cd57607e619c89",
+  "title": "南瓜松饼",
+  "min_age_month": 6,
+  "tags": [
+    "Lunch",
+    "Snack",
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/f7b233849dc64257db468e9eeb0c8c63.webp",
+  "nutrition_tip": "这个南瓜拼写松饼配方是用枫糖浆和南瓜增甜的，而且……",
+  "ingredients": [
+    {
+      "name": "1.5 杯全麦斯佩尔特面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯枫糖浆",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯融化的黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯金色葡萄干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 12 杯松饼罐上涂上油脂，或在杯子上铺上纸垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、南瓜派香料、小苏打、盐和泡打粉放入碗中搅拌直至混合；加入枫糖浆、融化的黄油和鸡蛋，搅拌直至混合。加入南瓜泥搅拌直至面糊混合；拌入葡萄干。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面糊分装到准备好的松饼杯中，将每个杯填满。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 至 25 分钟，直至轻压时顶部弹回。在罐中冷却 5 分钟，然后将松饼转移到金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-01-27",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/278283/pumpkin-spelt-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7a646886d6559ffd59b1d039d0123135",
+    "translated": true
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "3d0ede6bc37ed3b63781ac4fe8042b15",
+  "title": "简单的沙拉酱牛肉",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/f8d65bf384131c02f49157b451befbe1.webp",
+  "nutrition_tip": "这个简单的牛肉斯特罗加诺夫食谱用碎牛肉制成浓郁的奶油味......",
+  "ingredients": [
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）鸡蛋面",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.5 盎司）脱脂浓缩奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中火炒碎牛肉，直至变成棕色且易碎； 5到10分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，在一个大锅中倒入淡盐水并快速煮沸。将鸡蛋面煮沸，煮 7 至 9 分钟，直到咬起来又软又硬。沥干并放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "沥干并丢弃煮熟的牛肉中的所有脂肪。将浓缩汤和蒜粉拌入牛肉中。煮10分钟，偶尔搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将牛肉从火上移开。加入鸡蛋面并搅拌混合。拌入酸奶油，用盐和胡椒调味。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-01-10",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/16311/simple-beef-stroganoff/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ecad82c4ca39ae183f24442177426bde",
+    "translated": true
+  }
+}

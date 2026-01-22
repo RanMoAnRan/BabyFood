@@ -1,0 +1,58 @@
+{
+  "id": "7a29c289b5aa1416f0d0c711b7519122",
+  "title": "苹果派苹果酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 130,
+  "cover_image": "images/5f41bcff9a30be7dfc1d8164cadb0fae.webp",
+  "nutrition_tip": "这个苹果派苹果酒配方是一种注入酒精的热苹果酒，由果汁、ci…制成。",
+  "ingredients": [
+    {
+      "name": "1 加仑苹果汁",
+      "amount": ""
+    },
+    {
+      "name": "1 加仑苹果酒",
+      "amount": ""
+    },
+    {
+      "name": "3 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "8 根肉桂棒",
+      "amount": ""
+    },
+    {
+      "name": "1 瓶（750 毫升）190 度谷物酒精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将苹果汁、苹果酒、糖和肉桂棒放入一个大锅中；煮沸，然后放在一边并完全冷却。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加入谷物酒精搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-09-23",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/21465/apple-pie-cider/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "db4169e3f191b217f6ae3ba763c5bfe9",
+    "translated": true
+  }
+}

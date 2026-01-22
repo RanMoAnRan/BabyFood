@@ -1,0 +1,100 @@
+{
+  "id": "8e3f451fd6b91ba8216ac17a8c2c32bc",
+  "title": "苹果香料咖啡蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/3ef213a85c591847089ebca9248daca7.webp",
+  "nutrition_tip": "用这个以秋季为特色的苹果咖啡蛋糕食谱来温暖你的秋季早晨……",
+  "ingredients": [
+    {
+      "name": "0.5 茶匙黄油，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙细盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙姜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯酪乳",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 个苹果 - 去皮、去核，切成 1/2 英寸的块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在 8 英寸玻璃烤盘上涂黄油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、红糖、油、白糖、2 茶匙肉桂、盐和姜放入碗中混合。将 ½ 杯面粉混合物转移到另一个碗中；加入剩余的 2 茶匙肉桂粉。将配料放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将泡打粉和小苏打搅拌到剩余的面粉混合物中。将酪乳和鸡蛋放入量杯中搅拌直至充分混合；倒入面粉混合物中。添加苹果；搅拌直至完全混合并且没有面粉残留。将面糊倒入准备好的平底锅中；撒上配料。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 40 到 50 分钟，直至苹果变软并且插入中心的牙签取出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/260757/apple-spice-coffee-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4eebeaf55ed408ac7fcbebef7ed98619",
+    "translated": true
+  }
+}

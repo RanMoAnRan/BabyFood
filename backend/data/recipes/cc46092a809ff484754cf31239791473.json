@@ -1,0 +1,55 @@
+{
+  "id": "cc46092a809ff484754cf31239791473",
+  "title": "波本蔓越莓酱",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/cadc560ded71ea1e139240327f571b8b.webp",
+  "nutrition_tip": "妈妈的蔓越莓酱配波本威士忌是一种甜美、浓郁、神奇的添加物……",
+  "ingredients": [
+    {
+      "name": "1 包（12 盎司）新鲜蔓越莓",
+      "amount": ""
+    },
+    {
+      "name": "4 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯波本威士忌",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蔓越莓、糖和波本威士忌放入烤盘中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤，偶尔搅拌，直至变稠，大约需要 1 小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/219609/cranberry-sauce-with-bourbon/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e7b5429e1b46d60783a9c3a60ef5adfe",
+    "translated": true
+  }
+}

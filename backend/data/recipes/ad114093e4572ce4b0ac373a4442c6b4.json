@@ -1,0 +1,98 @@
+{
+  "id": "ad114093e4572ce4b0ac373a4442c6b4",
+  "title": "简单牛小排",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 150,
+  "cover_image": "images/a980cf57fa126f35152ad9cd7def58f9.webp",
+  "nutrition_tip": "这个牛小排菜谱用烈性啤酒炖牛排骨，配上肉汤、洋葱、……",
+  "ingredients": [
+    {
+      "name": "1磅牛小排",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（12 液量盎司）或瓶黑啤酒",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛肉高汤",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用盐和胡椒调味排骨。撒上面粉直至裹上面粉；甩掉多余的东西。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在荷兰烤箱或大煎锅中用中高温加热橄榄油和黄油。将排骨煎至焦黄，每面约 5 分钟。取出排骨并放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将洋葱和大蒜加入锅中；煮约 5 分钟，搅拌直至洋葱变软。将排骨放回锅中；倒入啤酒，同时刮掉锅底的褐色食物残渣。倒入牛肉高汤。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "盖上盖子，小火煮至排骨变软，大约2小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/162690/simple-beef-short-ribs/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d1c54cb31b9486ebda7e77124ba6e9a8",
+    "translated": true
+  }
+}

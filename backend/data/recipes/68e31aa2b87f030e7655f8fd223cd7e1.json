@@ -1,0 +1,88 @@
+{
+  "id": "68e31aa2b87f030e7655f8fd223cd7e1",
+  "title": "苹果山核桃馅饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/5911df8837f89514a3890f1ac8c30da4.webp",
+  "nutrition_tip": "这个苹果山核桃馅饼食谱的特点是切成薄片的苹果、加糖的山核桃、……",
+  "ingredients": [
+    {
+      "name": "4 杯苹果薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的山核桃",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯淡奶",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋，打散",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在 2 夸脱的烤盘上涂上大量油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将苹果均匀地放在准备好的烤盘中。将 ½ 杯糖、½ 杯山核桃和肉桂放入碗中；撒在苹果上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将剩余的 1 杯糖、面粉、泡打粉和盐放入碗中，直至充分混合。将淡奶、融化的黄油和打好的鸡蛋放入另一个碗中搅拌直至混合；加入面粉混合物中搅拌直至光滑。将面糊倒在苹果上；撒上剩余的 1/4 杯山核桃。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤55分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-23",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/15138/apple-pecan-cobbler/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "de6d96ae23c4dba237f7b081adab22d3",
+    "translated": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ceb724574b06c4a89256e3e1b118e0c9",
+  "title": "汤姆柯林斯鸡尾酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/12e3c6e277bdf229e83bbf04ad36c9fe.webp",
+  "nutrition_tip": "汤姆·柯林斯的这个食谱制作了一款经典的杜松子酒鸡尾酒，由于我的帮助，它的酸味......",
+  "ingredients": [
+    {
+      "name": "2.5 杯冰，分开",
+      "amount": ""
+    },
+    {
+      "name": "2 液量盎司杜松子酒",
+      "amount": ""
+    },
+    {
+      "name": "0.75 液体盎司柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液体盎司简单糖浆",
+      "amount": ""
+    },
+    {
+      "name": "2 液量盎司苏打水",
+      "amount": ""
+    },
+    {
+      "name": "1 个柠檬片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在柯林斯玻璃杯中加入 1 1/2 杯冰；放在冰箱里备用。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将杜松子酒、柠檬汁和简单糖浆放入鸡尾酒调酒器中混合。添加 1 杯冰块，盖上盖子，摇匀直至冷却。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "滤入冰镇的柯林斯玻璃杯中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在上面加入苏打水，并用柠檬角装饰。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/222511/tom-collins-cocktail/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8d4ed1bf557aa1289225697f89f51afe",
+    "translated": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "22188b2935544e6dbfae6c2106833aff",
+  "title": "蔓越莓酱",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/cb32135891a5a0866c771455938d5496.webp",
+  "nutrition_tip": "这个蔓越莓酱配方结合了新鲜蔓越莓、糖和橙汁……",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯橙汁",
+      "amount": ""
+    },
+    {
+      "name": "12 盎司蔓越莓",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在中型平底锅中用中火加热糖和果汁，直至糖溶解。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "添加蔓越莓；煮8到10分钟，直到它们开始爆裂并且酱汁开始变稠。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "从火上移开并将酱汁转移到碗中；冷却时它会变稠。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/9111/cranberry-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8324ec45298eff02dce09c0cbf7ab995",
+    "translated": true
+  }
+}

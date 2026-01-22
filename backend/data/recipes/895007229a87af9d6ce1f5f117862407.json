@@ -1,0 +1,81 @@
+{
+  "id": "895007229a87af9d6ce1f5f117862407",
+  "title": "辣酱玉米饼馅",
+  "min_age_month": 12,
+  "tags": [
+    "Sauce",
+    "Ingredient",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 21,
+  "cover_image": "images/d51151264a6199b00874d2b34567e8c0.webp",
+  "nutrition_tip": "这个自制的enchilada酱需要煮10分钟左右，但是味道正宗……",
+  "ingredients": [
+    {
+      "name": "0.25 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯新墨西哥州或加利福尼亚州辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙自发面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙洋葱盐",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在平底锅中用中高温加热油。加入辣椒粉和面粉，调至中火，煮至香味变深，不断搅拌以防止面粉烧焦，约1分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "逐渐加入水、番茄酱、小茴香、大蒜粉和洋葱盐搅拌直至光滑。继续用中火煮约10分钟，直至稍微变稠。加盐调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "尽情享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/61727/ten-minute-enchilada-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b7523d3b6ebf4682ecc6bc210ed59363",
+    "translated": true
+  }
+}

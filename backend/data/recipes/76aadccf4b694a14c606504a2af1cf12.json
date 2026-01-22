@@ -1,0 +1,99 @@
+{
+  "id": "76aadccf4b694a14c606504a2af1cf12",
+  "title": "蛋酒饼干",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/d1d14b6ca80ec706cb50b52d322de5fd.webp",
+  "nutrition_tip": "这些蛋酒饼干柔软、嫩滑，并带有肉豆蔻和肉桂的香料。服务…",
+  "ingredients": [
+    {
+      "name": "2.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉豆蔻粉，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蛋酒",
+      "amount": ""
+    },
+    {
+      "name": "2 个蛋黄",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。将面粉、泡打粉、肉豆蔻和肉桂筛入碗中；放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖和黄油放入一个大碗中，用电动搅拌机搅拌直至松软。加入蛋酒、蛋黄和香草精；以中速搅拌直至光滑。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "低速逐渐搅拌面粉混合物直至完全混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将一勺面团放在未抹油的烤盘上，间隔 1 英寸；轻轻撒上肉豆蔻。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤饼干，直至边缘呈金黄色，大约需要 20 分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在烤盘上短暂冷却，然后移至金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/9438/eggnog-cookies-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6821c925ccf8c53023bfd55c1a0ff265",
+    "translated": true
+  }
+}

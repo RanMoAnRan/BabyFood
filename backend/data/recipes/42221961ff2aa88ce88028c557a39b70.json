@@ -1,0 +1,120 @@
+{
+  "id": "42221961ff2aa88ce88028c557a39b70",
+  "title": "肉末",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "English",
+    "British",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/e4d0889f4de46a04e21e4c4f58b4285e.webp",
+  "nutrition_tip": "这个肉末食谱为圣诞肉馅饼制作了经典的果味馅料......",
+  "ingredients": [
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙姜末",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙五香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "1 个大青苹果，去皮并切碎",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯 苏丹娜葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "1.125 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯 干醋栗",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯杏仁碎",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙 磨碎的橙皮碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白兰地",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "制作混合香料：将肉桂、丁香、生姜、肉豆蔻和五香粉放入碗中。预留 1 满茶匙用于肉末。将其余部分存放在小罐子中以供以后使用。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将两个干净的 12 盎司罐子浸入沸水中，直到肉末准备好。用温肥皂水清洗新的、未使用的盖子和环。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "制作肉末：将苹果、葡萄干、糖、醋栗、葡萄干和黄油放入平底锅中混合。用小火煮并轻轻搅拌直至黄油融化。加入切碎的杏仁、橙皮碎、1 茶匙混合香料和肉桂。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物煮沸，偶尔搅拌 5 到 10 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "从火上移开，将肉末放在一边冷却 30 分钟。拌入白兰地。用勺子舀进消毒过的罐子里。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "密封罐可冷藏最多 3 个月。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/260314/mincemeat/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "679966b09e88b2ba700e3f58be85b6cd",
+    "translated": true
+  }
+}

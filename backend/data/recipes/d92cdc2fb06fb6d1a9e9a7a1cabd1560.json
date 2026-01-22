@@ -1,0 +1,52 @@
+{
+  "id": "d92cdc2fb06fb6d1a9e9a7a1cabd1560",
+  "title": "正宗墨西哥热巧克力",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/a9ce74eb8fbea32493b82b1f3224ccb7.webp",
+  "nutrition_tip": "墨西哥热巧克力是通过融化含有糖和……的墨西哥巧克力制成的。",
+  "ingredients": [
+    {
+      "name": "1 杯全脂牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 片墨西哥热巧克力饮料片（例如 Nestle® Abuelita®）",
+      "amount": ""
+    },
+    {
+      "name": "1 颗干红辣椒，轻微烘烤",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将牛奶和巧克力放入小锅中，用中低火煮，搅拌，直到巧克力融化但不沸腾，大约 5 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将巧克力混合物倒入搅拌机中。用隔热垫盖住盖子；搅拌直至形成泡沫。倒入杯子中。将辣椒切成 2 或 3 块，去掉种子，然后放入热巧克力中。立即饮用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-12-06",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/260835/authentic-mexican-hot-chocolate-with-chile/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7957d65a94b3f7fe5b77991732eb0670",
+    "translated": true
+  }
+}

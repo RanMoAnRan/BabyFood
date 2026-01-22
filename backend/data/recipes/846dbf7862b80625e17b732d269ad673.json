@@ -1,0 +1,72 @@
+{
+  "id": "846dbf7862b80625e17b732d269ad673",
+  "title": "最好的奶酪酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 110,
+  "cover_image": "images/36fd1a37d5cd4a242eb43d4cdb8b4389.webp",
+  "nutrition_tip": "在你的下一次聚会上尝试一下这种美味的奶酪蘸酱，配上碎牛肉和香肠，或者你……",
+  "ingredients": [
+    {
+      "name": "0.5 磅散装辣猪肉香肠",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1（2 磅）条加工奶酪食品（例如 Velveeta®），切成方块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（28 盎司）番茄丁和青椒（例如 RO*TEL®）",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.5 盎司）浓缩奶油蘑菇汤",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。将香肠和碎牛肉捣碎放入煎锅中；添加洋葱。煮约10分钟，搅拌直至肉均匀变成棕色，不再呈粉红色；排干并丢弃多余的油脂。将肉混合物转移到慢炖锅中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶酪食物块放在肉混合物上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将番茄丁和青椒放入搅拌机中搅拌至光滑；倒在奶酪块和浓缩汤上。搅拌均匀并盖上盖子。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用高火煮，偶尔搅拌，直到奶酪完全融化，大约需要 90 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-10-07",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/228864/best-cheese-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ffeafbeb93c2336d703b6bce724503e1",
+    "translated": true
+  }
+}

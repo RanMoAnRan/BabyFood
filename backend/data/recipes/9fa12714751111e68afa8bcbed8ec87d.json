@@ -1,0 +1,88 @@
+{
+  "id": "9fa12714751111e68afa8bcbed8ec87d",
+  "title": "最简单的花生酱软糖",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/7fa34ec439bbcf246fa576d549d68ee5.webp",
+  "nutrition_tip": "花生酱软糖由奶油花生酱、红糖、黄油、牛奶、c…",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯花生酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "3.5 杯糖果糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在中型平底锅中用中火融化黄油；加入红糖和牛奶搅拌。煮沸并煮2分钟，经常搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将锅从火上移开；加入花生酱和香草精。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放置糖果商的位置将糖放入一个大搅拌碗中。倒入花生酱混合物，用电动搅拌机搅拌至光滑。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将花生酱混合物倒入 8x8 英寸的盘子中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "切片前冷却约 1 小时直至变硬。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-17",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/22724/easiest-peanut-butter-fudge/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0187e76b66630164f3a2db167646aa4a",
+    "translated": true
+  }
+}

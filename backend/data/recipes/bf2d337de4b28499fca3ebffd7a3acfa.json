@@ -1,0 +1,93 @@
+{
+  "id": "bf2d337de4b28499fca3ebffd7a3acfa",
+  "title": "富扬虾蛋",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Chinese",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/4486cf9cd65a53d223ea66846e1fa19e.webp",
+  "nutrition_tip": "这个鸡蛋福年轻食谱用虾、豆芽、…",
+  "ingredients": [
+    {
+      "name": "8 盎司新鲜豆芽",
+      "amount": ""
+    },
+    {
+      "name": "1 杯煮熟的小虾",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯 切成薄片的葱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "3 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙玉米淀粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙糖",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙料酒",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙酱油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将豆芽、虾、鸡蛋、葱和蒜粉放入一个大碗中，搅拌均匀。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中火加热油。将约 1/2 杯鸡蛋混合物放入煎锅中制成肉饼。重复此操作，向煎锅中添加更多鸡蛋饼。分批将肉饼煎至金黄色，每面约 4 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，制作酱汁：将鸡汤、玉米淀粉、糖、料酒和酱油放入平底锅中，用中低火搅拌；煮约5分钟，直至酱汁变稠。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用勺子将酱汁浇在鸡蛋饼上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/163370/shrimp-egg-foo-young/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "05f548323154153c137035edfe3e369e",
+    "translated": true
+  }
+}

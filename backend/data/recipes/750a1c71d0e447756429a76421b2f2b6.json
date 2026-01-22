@@ -1,0 +1,77 @@
+{
+  "id": "750a1c71d0e447756429a76421b2f2b6",
+  "title": "牡蛎炖菜",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/ecb18bc5bafc6c8fc8dc06519eaac5ee.webp",
+  "nutrition_tip": "这道牡蛎炖菜很容易用新鲜去壳的牡蛎、芹菜、青葱、......",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯芹菜末",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 葱末",
+      "amount": ""
+    },
+    {
+      "name": "1 夸脱半奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 个（12 盎司）容器新鲜去壳牡蛎，不沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒，或适量",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中火融化黄油。加入芹菜和青葱；煮并搅拌 3 至 5 分钟，直至青葱变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大锅中用中高温加热一半。加入芹菜和葱混合物，不断搅拌直至即将沸腾。加入牡蛎及其液体，用辣椒、盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "煮，不断搅拌，直到牡蛎末端卷曲。关掉火并立即食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-09-14",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/12862/oyster-stew/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1b9eb01b2a3b95e52fca168ac3e75126",
+    "translated": true
+  }
+}

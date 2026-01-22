@@ -1,0 +1,87 @@
+{
+  "id": "a1ca204f1caf39ae56628d186b59f406",
+  "title": "烤大蒜帕尔玛鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/72baa8e2bae8fda7f60adfc3f46379b4.webp",
+  "nutrition_tip": "这些烤面包鸡胸肉香脆可口，味道鲜美……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯干面包屑",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干罗勒叶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "6 块去皮去骨鸡胸肉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个碗中，混合橄榄油和大蒜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在另一个碗中，混合面包屑、帕尔马干酪、罗勒和胡椒。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将每个鸡胸肉浸入油混合物中，然后浸入面包屑混合物中。将涂有涂层的鸡胸肉放入准备好的烤盘中，并在上面放上剩余的面包屑混合物。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 30 分钟，或直至鸡肉不再呈粉红色且汁液清澈。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/55860/baked-garlic-parmesan-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bcb30b4c34b8a9264efecfa9e7be94b1",
+    "translated": true
+  }
+}

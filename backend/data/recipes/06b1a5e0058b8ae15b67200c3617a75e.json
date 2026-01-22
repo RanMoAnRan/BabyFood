@@ -1,0 +1,94 @@
+{
+  "id": "06b1a5e0058b8ae15b67200c3617a75e",
+  "title": "豪华咸牛肉哈希",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Brunch",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/fcb82d3fcaf4fc56edc688eb8b552645.webp",
+  "nutrition_tip": "这种咸牛肉哈希将煮熟的咸牛肉与脆土豆和洋葱结合在一起......",
+  "ingredients": [
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙特级初榨橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "5 个大育空黄金土豆，去皮并切成 1/4 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "1 个大胡萝卜，粗切丝",
+      "amount": ""
+    },
+    {
+      "name": "2 磅熟咸牛肉，切块",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干百里香叶",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中火将黄油和橄榄油融化。将洋葱煮至浅棕色，大约需要 8 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入土豆和胡萝卜搅拌；煮约 15 分钟，偶尔搅拌，直至变软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入咸牛肉、欧芹、胡椒、百里香和盐。煮 10 到 15 分钟，经常搅拌，直到哈希变脆并变成棕色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/216981/deluxe-corned-beef-hash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c2e0e9d6bff2d8b19baac98d13e36808",
+    "translated": true
+  }
+}

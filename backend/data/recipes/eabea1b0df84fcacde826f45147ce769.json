@@ -1,0 +1,67 @@
+{
+  "id": "eabea1b0df84fcacde826f45147ce769",
+  "title": "巧克力鹰嘴豆泥",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/d321f3cb86fcdb0e72786a945868af91.webp",
+  "nutrition_tip": "巧克力鹰嘴豆泥非常美味，巧克力味十足，而且只需 10 分钟即可轻松制作……",
+  "ingredients": [
+    {
+      "name": "0.25 杯牛奶巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "1罐（15盎司）鹰嘴豆（鹰嘴豆），沥干并冲洗",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯不加糖可可粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙枫糖浆，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙杏仁奶，或根据需要更多",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将巧克力片放入微波炉安全碗中，然后在微波炉中加热 1 到 3 分钟直至融化。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将融化的巧克力、鹰嘴豆、可可粉、枫糖浆、香草精和盐放入食品加工机的碗中混合。添加杏仁奶，一次一汤匙，同时搅拌至所需的光滑度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-15",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/270196/chocolate-hummus/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "374fe66c670da7800cb8a8bbf920c984",
+    "translated": true
+  }
+}

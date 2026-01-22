@@ -1,0 +1,66 @@
+{
+  "id": "52db8181a6674713396b8648645f08b8",
+  "title": "微波炉爆米花",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/73d99fe2cbadac640e59596a83f0566a.webp",
+  "nutrition_tip": "微波炉爆米花很容易使用标准爆米花和牛皮纸制作......",
+  "ingredients": [
+    {
+      "name": "0.5 杯未爆开的爆米花",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在杯子或小碗中将未爆米花和油混合在一起。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将裹好的玉米倒入牛皮纸午餐袋中，撒上盐。将袋子顶部折叠两次以密封成分。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在微波炉中以全功率烹调 2 1/2 至 3 分钟，或直至听到爆裂声之间约 2 秒的停顿声。小心打开袋子以避免蒸汽，然后倒入碗中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/87305/microwave-popcorn/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1657ded525f34a73a16206ecd1a8ca22",
+    "translated": true
+  }
+}

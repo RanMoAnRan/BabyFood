@@ -1,0 +1,97 @@
+{
+  "id": "864b4cebaf06a4385223c60290964df1",
+  "title": "山寨棒棒虾",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American",
+    "Copycat",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/12e9095a9419e68702a146a8b28a54e2.webp",
+  "nutrition_tip": "棒棒虾食谱，脆皮炸虾，奶油味，甜辣味......",
+  "ingredients": [
+    {
+      "name": "0.5 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯泰式甜辣酱",
+      "amount": ""
+    },
+    {
+      "name": "3 滴是拉差辣椒酱，或品尝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯玉米淀粉，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 磅中等大小的虾，去皮、去肠",
+      "amount": ""
+    },
+    {
+      "name": "煎炸用油",
+      "amount": ""
+    },
+    {
+      "name": "8 片生菜叶",
+      "amount": ""
+    },
+    {
+      "name": "1 束葱，切碎，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将蛋黄酱、甜智利酱和是拉差辣酱放入碗中搅拌。放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将玉米淀粉放入浅碗中。将虾轻轻压入玉米淀粉中，裹上淀粉；抖掉多余的东西。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将油炸锅或大平底锅中的油加热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "分批煮虾，直至虾的外部呈浅棕色且中心不再透明，大约需要 3 到 5 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将虾转移到纸巾上沥干。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将煮熟的虾放入碗中，将智利酱混合物倒在虾上；轻轻地搅拌以覆盖。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在一个碗里放上生菜叶。将虾倒入碗中，上面撒上葱花。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-11-01",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/235267/copycat-bang-bang-shrimp/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b48392eea58c795bef1743039551e1a2",
+    "translated": true
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "ee4cbd180b02dd1a5458f09d9c779b8e",
+  "title": "慢炖锅里的美味猪里脊肉",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 135,
+  "cover_image": "images/8203368530b3d599711d9946be3080ea.webp",
+  "nutrition_tip": "这个慢炖锅猪里脊肉用红酒、香脂和大蒜煮，直到……",
+  "ingredients": [
+    {
+      "name": "1 块（2 磅）猪里脊肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个（1 盎司）信封干洋葱汤混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯红酒",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 蒜末",
+      "amount": ""
+    },
+    {
+      "name": "现磨黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将猪里脊肉和汤料放入慢炖锅中。将水、酒和香醋倒在上面，将猪肉裹上。将大蒜均匀地撒在猪肉上，尽可能多地留在上面。用胡椒调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上锅盖，用低火烹饪 2 到 3 小时，直至内部温度达到 145 华氏度（63 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "从慢炖锅中取出猪肉；休息 10 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将猪里脊肉切片，配以烹调液作为原汁。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2004-09-08",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/75861/amazing-pork-tenderloin-in-the-slow-cooker/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b35ba82be29cd3de26d033b9eb554d80",
+    "translated": true
+  }
+}

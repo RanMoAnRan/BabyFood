@@ -1,0 +1,94 @@
+{
+  "id": "9530ebce41220ebb219c3da5ae1aefd6",
+  "title": "蔓越莓酸辣酱",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/43e5405c5202c69940dd2838636967ad.webp",
+  "nutrition_tip": "这种蔓越莓酸辣酱搭配苹果、葡萄干和香料，是一种美味的果味......",
+  "ingredients": [
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）新鲜蔓越莓",
+      "amount": ""
+    },
+    {
+      "name": "1 杯去皮苹果丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯苹果醋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙姜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙五香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙丁香粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在中型平底锅中用中火将水和糖煮沸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "添加蔓越莓、苹果、苹果醋、葡萄干、肉桂、生姜、五香粉和丁香。再次煮沸，然后将火调小，小火慢煮 10 分钟，期间经常搅拌。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物倒入搅拌碗中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将保鲜膜直接放在水果表面。食用前冷却至室温。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/13524/cranberry-chutney-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cd3bf9aefd018f4205e088f7a653cf13",
+    "translated": true
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "940b8ceeff920aca418cfcc41d4e4adf",
+  "title": "最好的汉堡酱",
+  "min_age_month": 8,
+  "tags": [
+    "Sauce",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/3fc0322bfd0fec099db1c1a3aebb05fe.webp",
+  "nutrition_tip": "这种奶油汉堡酱混合了蛋黄酱、番茄酱、芥末、大蒜和洋葱......",
+  "ingredients": [
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯准备好的黄芥末",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙干洋葱末",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干蒜末",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙白醋",
+      "amount": ""
+    },
+    {
+      "name": "辣酱调味",
+      "amount": ""
+    },
+    {
+      "name": "调味胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋黄酱、番茄酱、芥末、洋葱、大蒜和醋放入碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用辣酱和调味胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "盖上盖子并冷藏至少 1 小时，然后食用。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-07-01",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/155191/best-burger-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b99e4e34110f99a283ff24130df202ff",
+    "translated": true
+  }
+}

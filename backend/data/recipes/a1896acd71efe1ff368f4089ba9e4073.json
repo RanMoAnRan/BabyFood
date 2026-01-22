@@ -1,0 +1,56 @@
+{
+  "id": "a1896acd71efe1ff368f4089ba9e4073",
+  "title": "培根包枣",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/5b94a0b090c64ab8d9d44442a78e74ff.webp",
+  "nutrition_tip": "这些培根包裹的枣子里充满了浓郁的蓝纹奶酪，烤至酥脆……",
+  "ingredients": [
+    {
+      "name": "1 磅去核枣",
+      "amount": ""
+    },
+    {
+      "name": "4 盎司蓝纹奶酪",
+      "amount": ""
+    },
+    {
+      "name": "1 磅培根片，切成两半",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将日期切成两半并打开。捏下蓝纹奶酪片，放入枣子中央；将日期按在一起即可关闭。用半片培根包裹每个枣子，并用牙签固定。放在烤盘或带有侧面的烤盘上以吸收油脂。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 30 到 40 分钟，直至培根变脆。前 20 分钟后将枣翻面，以便受热均匀。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/75417/bacon-wrapped-dates-stuffed-with-blue-cheese/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d435ce0ef38cac205224a50ef6c2a92d",
+    "translated": true
+  }
+}

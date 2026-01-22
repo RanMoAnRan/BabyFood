@@ -1,0 +1,69 @@
+{
+  "id": "22739684a5e2256a99ad23e7e7d9dc36",
+  "title": "花生酱干草堆",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/ef1ee84fd2b181fc98d563ef32c2cc2d.webp",
+  "nutrition_tip": "这个干草堆食谱使用 4 种简单的成分来制作甜的、咸的、简单的、无…",
+  "ingredients": [
+    {
+      "name": "蜡纸",
+      "amount": ""
+    },
+    {
+      "name": "1 杯奶油糖果片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯花生酱",
+      "amount": ""
+    },
+    {
+      "name": "2 杯炒面",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯咸花生",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在烤盘上铺上蜡纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶油糖果片和花生酱放入双锅顶部，盖上沸水。经常搅拌，用橡皮刮刀刮擦侧面以避免烧焦，直至融化，大约需要 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面条和花生搅拌成融化的花生酱混合物。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用叉子将面团放到准备好的托盘上。在室温下冷却直至凝固。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-07-10",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/10985/peanut-butter-haystacks/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e1dcf3e57a8a7ccfe36d09724560a1e8",
+    "translated": true
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": "91cae7f223722e785f6ba58aefde2987",
+  "title": "南方风味巧克力肉汁",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Dessert",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/96df904cc7b6c9f53870c9cad6b44975.webp",
+  "nutrition_tip": "这种巧克力肉汁甘美顺滑，很容易用基本的食品储藏室制作……",
+  "ingredients": [
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯可可",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个中等大小的碗中搅拌糖、可可和面粉，直至没有结块。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "倒入牛奶并搅拌直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物转移到平底锅中；用中火煮并搅拌，直至其变稠至肉汁稠度，需要 7 至 10 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "远离火源；加入黄油和香草精搅拌。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/187298/southern-style-chocolate-gravy/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "07ce4fbf5eb815aa915a5ae2e751b1c1",
+    "translated": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "8ec00372f80a37a7f21838da05aafe0a",
+  "title": "通心粉和奶酪配碎牛肉、莎莎酱和青辣椒",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/29e36f007e766da44cc896f4175f042a.webp",
+  "nutrition_tip": "想要多一点热量，请按照奶油通心粉和奶油通心粉的食谱进行操作。奶酪替代品",
+  "ingredients": [
+    {
+      "name": "1 份食谱奶油通心粉和奶酪",
+      "amount": ""
+    },
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙 盐和黑胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯莎莎酱（您选择辣度）",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（4.5 盎司）切碎的青辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜香菜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "遵循奶油通心粉和奶酪的基本配方，但使用胡椒杰克奶酪，而不是切达干酪。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中高火加热 10 英寸煎锅。煮碎牛肉，用盐和胡椒轻轻调味，直到大部分液体蒸发，大约需要 5 分钟。加入辣椒粉、莎莎酱和辣椒搅拌；煮2至3分钟。加入香菜，然后将混合物搅拌到通心粉中。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-11-13",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/87868/macaroni-and-cheese-with-ground-beef-salsa-and-green-chiles/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "63df95df038f33322496e14270ea4521",
+    "translated": true
+  }
+}

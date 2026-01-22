@@ -1,0 +1,82 @@
+{
+  "id": "c5df5acf9a3b8fa8e846fe21cb00d1bc",
+  "title": "朗姆酒球",
+  "min_age_month": 12,
+  "tags": [
+    "Candy",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 2910,
+  "cover_image": "images/58795c54e8ab9062af13a831f11b2aa1.webp",
+  "nutrition_tip": "这些朗姆酒球很容易用威化饼干、可可、朗姆酒和坚果制成，可用于双…",
+  "ingredients": [
+    {
+      "name": "1 包（12 盎司）香草威化饼，压碎",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯坚果碎",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯可可",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯淡朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 淡玉米糖浆",
+      "amount": ""
+    },
+    {
+      "name": "0.125 杯糖果糖，或根据需要更多",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将香草威化饼、坚果、3/4 杯糖果混合在一起；糖和可可放入一个大碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入朗姆酒和玉米糖浆，直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团搓成1英寸的球状；滚进糖果店里糖衣。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将朗姆酒球存放在密封容器中 2 到 3 天以产生风味。将它们再次放入糖果机中滚动。食用前加糖。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-12-24",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/17238/cocoa-rum-balls/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5b083adf7125d163945fa4f256f2b1fb",
+    "translated": true
+  }
+}

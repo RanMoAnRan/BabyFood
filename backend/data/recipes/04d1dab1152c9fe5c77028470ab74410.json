@@ -1,0 +1,115 @@
+{
+  "id": "04d1dab1152c9fe5c77028470ab74410",
+  "title": "火鸡野米汤",
+  "min_age_month": 8,
+  "tags": [
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/b33bda1de239112be93f1e106192f383.webp",
+  "nutrition_tip": "这道火鸡野米汤是用剩下的嫩火鸡和奶油肉汤制成的……",
+  "ingredients": [
+    {
+      "name": "6 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯洋葱丁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯芹菜丁",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "4 杯火鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯 胡萝卜丝",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切碎的剩余烤火鸡",
+      "amount": ""
+    },
+    {
+      "name": "2 杯煮熟的菰米",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的杏仁片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙粗盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯半杯",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在汤锅中用中火融化黄油。加入洋葱和芹菜；煮约 5 分钟，搅拌直至半透明。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "拌入面粉，煮 3 至 5 分钟，直至变成浅黄棕色。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "逐渐加入火鸡高汤，直至光滑且没有面粉块残留。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "拌入胡萝卜并将混合物煮沸。煮约 2 分钟，不断搅拌，直到高汤浓稠光滑且胡萝卜变软。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "拌入火鸡、菰米、杏仁、盐和胡椒；煮约5分钟直至热透。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "加入柠檬汁和各半搅拌；加热至略低于沸腾。立即上菜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/212664/turkey-wild-rice-soup-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0317a0cb0bdf0c398865d7f040af11e3",
+    "translated": true
+  }
+}

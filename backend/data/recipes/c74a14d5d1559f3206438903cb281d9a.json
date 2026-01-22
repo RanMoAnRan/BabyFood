@@ -1,0 +1,93 @@
+{
+  "id": "c74a14d5d1559f3206438903cb281d9a",
+  "title": "苹果烤饼",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/cfd8da30b8d192dd1140b08ff880cb83.webp",
+  "nutrition_tip": "这个食谱在这些美味、易于制作、不...",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油，冷藏",
+      "amount": ""
+    },
+    {
+      "name": "1 个苹果 - 去皮、去核并切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。在烤盘上涂油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、1/4 杯糖、泡打粉、小苏打和盐放入碗中；加入黄油切至易碎。加入切碎的苹果和 ½ 杯牛奶，搅拌形成柔软的面团。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团翻到撒有少许面粉的表面上，轻轻揉捏 8 到 10 次。拍成两个6寸的圆圈；放在准备好的烤盘上。在顶部刷上2汤匙牛奶；撒上2汤匙糖和肉桂粉。将每个面团圈切成 6 个饼形楔形。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 分钟，直至变成棕色并膨胀。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-08-29",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/6905/apple-scones/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d2b2ea4ad263c9f8597ad007bf5b47a7",
+    "translated": true
+  }
+}

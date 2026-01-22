@@ -1,0 +1,88 @@
+{
+  "id": "a8566b8d42030d2bae68be2b813afaa3",
+  "title": "烤肉串",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 280,
+  "cover_image": "images/b38e8e6551bb710bc4e0877d34e7ae62.webp",
+  "nutrition_tip": "烤肉串由牛排、鸡肉、青椒、洋葱和糊状物制成。",
+  "ingredients": [
+    {
+      "name": "0.5 杯照烧酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 撮 姜末",
+      "amount": ""
+    },
+    {
+      "name": "1.5 磅去皮去骨鸡胸肉半块 - 切成方块",
+      "amount": ""
+    },
+    {
+      "name": "1 磅牛里脊肉，切成 1 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "2 个红甜椒，切成 2 英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "1 个大甜洋葱，去皮并切成楔形",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯新鲜蘑菇",
+      "amount": ""
+    },
+    {
+      "name": "烤肉串",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将照烧酱、蜂蜜、大蒜粉和生姜放入一个可重新密封的大塑料袋中混合。将鸡肉、牛肉、红甜椒、洋葱角和蘑菇放入袋子中；涂上腌料，挤出多余的空气，然后密封袋子。冷藏 4 小时至过夜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤架预热至中高温。在烤架上涂上少许油。将肉和蔬菜串在串上，每件物品之间留出一个小空间。丢弃所有剩余的腌料。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "烤串，根据需要转动，直到肉熟透、蔬菜变软，大约需要 10 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-15",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/17904/kabobs/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9a8b72404d31a27a5a6f55e99214d02a",
+    "translated": true
+  }
+}

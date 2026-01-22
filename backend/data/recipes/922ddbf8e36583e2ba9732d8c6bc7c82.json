@@ -1,0 +1,59 @@
+{
+  "id": "922ddbf8e36583e2ba9732d8c6bc7c82",
+  "title": "科罗纳日出",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/b477111521a783e784c5c139a03b2f97.webp",
+  "nutrition_tip": "这个科罗娜日出食谱直接添加了龙舌兰酒、橙汁、石榴糖浆和酸橙……",
+  "ingredients": [
+    {
+      "name": "1 瓶（12 盎司）啤酒（例如 Corona®）",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司龙舌兰酒",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司橙汁",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙石榴糖浆",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙酸橙汁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "打开啤酒瓶并饮用，直至啤酒与标签顶部齐平。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "倒入龙舌兰酒、橙汁、石榴糖浆和酸橙汁。将拇指放在瓶子顶部，翻转，然后返回以混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-04-06",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/283944/corona-sunrise/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "78f7b6f4c14e97b4e93835bf5ffabb61",
+    "translated": true
+  }
+}

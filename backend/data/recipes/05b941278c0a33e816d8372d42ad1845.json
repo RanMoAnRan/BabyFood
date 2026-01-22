@@ -1,0 +1,84 @@
+{
+  "id": "05b941278c0a33e816d8372d42ad1845",
+  "title": "简易鸡蛋面",
+  "min_age_month": 8,
+  "tags": [
+    "Side Dish",
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/b5a935b87a60cfa8c5f717d5abdc9128.webp",
+  "nutrition_tip": "这些自制鸡蛋面很容易制作，只需 5 种原料！他们是……",
+  "ingredients": [
+    {
+      "name": "2.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中将面粉和盐搅拌在一起。加入鸡蛋、牛奶和黄油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团揉至光滑，大约需要 5 分钟。在有盖的碗中静置 10 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在撒了面粉的表面上，将面团擀成 1/8 至 1/4 英寸的厚度。切成所需的长度和形状。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "烹饪前风干 10 到 15 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将面条放入一大锅加盐的沸水中煮至有嚼劲，大约需要 5 分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-02-28",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/11991/egg-noodles/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "64be775080783c5eede7ad25104fb9ed",
+    "translated": true
+  }
+}

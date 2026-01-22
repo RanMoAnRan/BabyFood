@@ -1,0 +1,102 @@
+{
+  "id": "7c033a71bfe58416e2d5905c62de0c7e",
+  "title": "奥利奥芝士蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 240,
+  "cover_image": "images/f99233f193594027d68fedbfa660a7fc.webp",
+  "nutrition_tip": "这个奥利奥芝士蛋糕结合了巧克力夹心饼干和奶油芝士......",
+  "ingredients": [
+    {
+      "name": "24 块奥利奥饼干，分开",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "3 包（250 克）费城砖奶油奶酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "3 个大鸡蛋",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 16 块饼干放入可重新密封的塑料袋中。将袋子压平，除去多余的空气，然后密封袋子。用擀面杖在袋子上滚动，将饼干精细压碎。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将碎饼干放入碗中。加入融化的黄油；搅拌均匀。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物牢固地压到 9 英寸弹簧盘的底部。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在一个大碗中用电动搅拌机中速搅拌奶油芝士、糖和香草精，直至充分混合。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "加入鸡蛋，一次 1 个，直至完全混合。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "切碎剩余的8块饼干；将 1/2 切碎的饼干轻轻搅拌到奶油芝士面糊中。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "倒在准备好的外壳上；将剩余的切碎的饼干撒在上面。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至中心刚刚定型。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "冷藏 3 小时至过夜。将芝士蛋糕切成12等份；将剩菜存放在冰箱中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-10-31",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/180603/easy-philly-oreo-cheesecake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f33ffd3d30eb0b95ecfea1e3fc661925",
+    "translated": true
+  }
+}

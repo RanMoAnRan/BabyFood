@@ -1,0 +1,50 @@
+{
+  "id": "4824cfc6db6e530682c2348b25ea7c11",
+  "title": "自发面粉",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/1022496489d4b44239070d6795d4b893.webp",
+  "nutrition_tip": "用这个 3 种成分的食谱，在家就能轻松制作自发面粉。混合起来…",
+  "ingredients": [
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、泡打粉和盐搅拌或过筛。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/149310/self-rising-flour/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7873b7da5328362d93ceff1cb7a3fb17",
+    "translated": true
+  }
+}

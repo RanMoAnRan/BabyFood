@@ -1,0 +1,87 @@
+{
+  "id": "8d2d3e59e924406ff91e531a89e68adf",
+  "title": "正宗的墨西哥辣酱",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "Sauce",
+    "Argentine",
+    "South American",
+    "Latin"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/17b513a879c8dd4a062d72540b1df164.webp",
+  "nutrition_tip": "这种正宗的 Chimichurri 食谱将新鲜欧芹、牛至和醋结合在一起......",
+  "ingredients": [
+    {
+      "name": "1 杯新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯特级初榨橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙新鲜牛至",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙红酒醋",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "1 个墨西哥辣椒，去籽",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将欧芹、橄榄油、牛至、红酒醋、水、墨西哥胡椒、大蒜、盐和胡椒放入食品加工机的碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "脉冲配料直至达到所需的稠度。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2011-07-10",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/278453/authentic-chimichurri/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e9ddcdcdbb5023c20c539c3aa66cb4a7",
+    "translated": true
+  }
+}

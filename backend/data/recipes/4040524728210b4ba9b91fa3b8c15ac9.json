@@ -1,0 +1,86 @@
+{
+  "id": "4040524728210b4ba9b91fa3b8c15ac9",
+  "title": "烤箱烤土豆片",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/25c5a94c76d38bcd035273854266aa1e.webp",
+  "nutrition_tip": "这些切片烤土豆用美味的香料混合物调味，淋上……",
+  "ingredients": [
+    {
+      "name": "4 个中等烘烤土豆，切成 1/8 英寸厚",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙芹菜籽",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒",
+      "amount": ""
+    },
+    {
+      "name": "1 少许盐",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙橄榄油，或根据需要更多",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将土豆、大蒜粉、黑胡椒、芹菜籽、辣椒粉、辣椒和盐放入拉链袋中。摇晃均匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将袋子中的全部内容物倒在一张大烤盘上并均匀铺开。淋上橄榄油。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 40 至 45 分钟，直至土豆达到所需的脆度，并经常均匀地变成棕色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "从烤箱中取出。稍微冷却并转移到盘子中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-05-13",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/273572/oven-baked-potato-slices/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "26ea15c7355272a9723fcb02aec1399e",
+    "translated": true
+  }
+}

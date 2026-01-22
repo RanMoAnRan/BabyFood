@@ -1,0 +1,76 @@
+{
+  "id": "78f67fe9a97f3b3a74e760270ea0cfbe",
+  "title": "大蒜黄油",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/d3642f50aad3aa38c3535b88a0716379.webp",
+  "nutrition_tip": "使用这个简单的大蒜黄油配方来制作自制大蒜面包 - 剩菜去......",
+  "ingredients": [
+    {
+      "name": "1 杯无盐黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙蒜末，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜盐，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙意大利调味料，或更多调味料",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒粉，或更多适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将软化的黄油、帕尔马干酪和蒜末放入碗中，直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入蒜盐、意大利调味料、胡椒粉和辣椒粉，搅拌至光滑且充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "品尝并调整调味料。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/36925/garlic-butter/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fdd87729c5e10a014f24ffbfe83a3c27",
+    "translated": true
+  }
+}

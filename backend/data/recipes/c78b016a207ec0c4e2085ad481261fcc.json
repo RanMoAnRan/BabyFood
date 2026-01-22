@@ -1,0 +1,121 @@
+{
+  "id": "c78b016a207ec0c4e2085ad481261fcc",
+  "title": "保罗南瓜棒",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/4a171faefbed079de06d12ceb4960943.webp",
+  "nutrition_tip": "保罗的南瓜棒食谱可以制作出湿润、美味的片状蛋糕，并具有良好的c…",
+  "ingredients": [
+    {
+      "name": "1 罐（15 盎司）南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1.6666667461395 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "4 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 包（3 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 杯过筛的糖粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜、糖、油和鸡蛋放入一个大碗中，用电动搅拌机搅拌均匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉、肉桂、泡打粉、小苏打和盐一起过筛到另一个大碗中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面粉混合物搅拌到南瓜混合物中，直至充分混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面糊均匀地铺在未抹油的 10x15 英寸果冻卷盘中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 25 到 30 分钟，直到插入中心的牙签拔出来时是干净的。将蛋糕从烤箱中取出；让其冷却。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将黄油和奶油干酪放入一个中等大小的碗中，搅拌至光滑；加入香草精搅拌。逐渐添加糖果糖，搅拌直至糖霜光滑。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将糖霜均匀地涂在蛋糕上。切成24个正方形。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-27",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/11646/pauls-pumpkin-bars/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "91e90199539ab314c85c0c243e1191ec",
+    "translated": true
+  }
+}

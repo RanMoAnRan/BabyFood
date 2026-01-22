@@ -1,0 +1,64 @@
+{
+  "id": "40db5ee15b3cf3dc4dd74f695a17f627",
+  "title": "蓝莓奇亚籽布丁",
+  "min_age_month": 8,
+  "tags": [
+    "Breakfast",
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 490,
+  "cover_image": "images/e6511d47510ab76510aa03c325687036.webp",
+  "nutrition_tip": "这个奇亚籽布丁配方结合了杏仁奶、奇亚籽、蓝莓和枫树……",
+  "ingredients": [
+    {
+      "name": "2 杯杏仁奶",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙奇亚籽，或更多调味",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯新鲜蓝莓",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙枫糖浆，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 撮肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将杏仁奶、奇亚籽、蓝莓、枫糖浆、香草精和肉桂放入搅拌机中混合；搅拌直至光滑。倒入 3 个小模子或玻璃杯中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "冷却 8 小时至过夜直至凝固。冷藏后食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-26",
+  "updated_at": "2026-01-22T19:27:17Z",
+  "source_url": "https://www.allrecipes.com/recipe/263457/blueberry-chia-pudding-with-almond-milk/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "90e8b15f6a0cd269311d7a51c4b4b1a6",
+    "translated": true
+  }
+}
