@@ -153,6 +153,19 @@
   font-weight: 600;
 }
 
+.btn-reset {
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  line-height: normal;
+}
+
+.btn-reset::after {
+  border: none;
+}
+
 .note {
   margin-top: 16rpx;
   font-size: 24rpx;

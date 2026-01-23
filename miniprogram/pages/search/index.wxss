@@ -118,6 +118,13 @@
   border: 2rpx solid rgba(15, 23, 42, 0.06);
 }
 
+.hot-item {
+  background: rgba(249, 115, 22, 0.08);
+  color: #C2410C;
+  border-color: rgba(249, 115, 22, 0.15);
+  font-weight: 600;
+}
+
 .empty-suggest {
   margin-top: 16rpx;
 }

@@ -65,7 +65,7 @@
         <view
           wx:for="{{hotKeywords}}"
           wx:key="*this"
-          class="history-item"
+          class="history-item hot-item"
           data-query="{{item}}"
           bindtap="onTapHistory"
         >

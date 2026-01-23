@@ -57,6 +57,14 @@
         <image class="quick-icon" src="/images/tabbar/recipe-active.svg"></image>
         <text class="quick-text">搜索菜谱</text>
       </view>
+      <button class="quick-item btn-reset" open-type="contact">
+        <image class="quick-icon" src="/images/tabbar/user-active.svg"></image>
+        <text class="quick-text">联系客服</text>
+      </button>
+      <button class="quick-item btn-reset" open-type="share">
+        <image class="quick-icon" src="/images/tabbar/home-active.svg"></image>
+        <text class="quick-text">分享应用</text>
+      </button>
     </view>
   </view>
 

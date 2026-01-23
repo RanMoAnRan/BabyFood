@@ -158,4 +158,11 @@ Page({
     }
     this.loadStats();
   },
+
+  onShareAppMessage() {
+    return {
+      title: "宝宝辅食 - 科学喂养每一餐",
+      path: "/pages/home/index",
+    };
+  },
 });
