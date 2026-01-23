@@ -1,0 +1,74 @@
+{
+  "id": "748a40fb89441a6448df358a3874590a",
+  "title": "自硬能源咬",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/0f151c1f945b1df5a8bae80172c7e778.webp",
+  "nutrition_tip": "这些能量小吃非常适合随身携带的零食。花生酱和巧克力……",
+  "ingredients": [
+    {
+      "name": "1 杯燕麦片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯微型半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的亚麻籽",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯松脆花生酱",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将燕麦、巧克力片、亚麻籽、花生酱、蜂蜜和香草精放入碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用手将面团搓成24个球。将球放在烤盘上，冷冻约 1 小时直至凝固。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/239969/no-bake-energy-bites/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e17217183187b939dd9fb46be582b80a",
+    "translated": true
+  }
+}

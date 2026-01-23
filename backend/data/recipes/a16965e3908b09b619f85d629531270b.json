@@ -1,0 +1,113 @@
+{
+  "id": "a16965e3908b09b619f85d629531270b",
+  "title": "咖啡布朗尼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/df4d59adec0282abe07dc4b055861d77.webp",
+  "nutrition_tip": "这些软糖和超湿润的巧克力布朗尼从卡鲁瓦咖啡中得到了咖啡的味道，并且......",
+  "ingredients": [
+    {
+      "name": "1.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "2 块（1 盎司）方形不加糖巧克力",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 磅深红糖，包装牢固",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙咖啡味利口酒（例如 Kahlua®）",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯速溶咖啡颗粒",
+      "amount": ""
+    },
+    {
+      "name": "6 盎司半甜巧克力块",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯切碎的山核桃",
+      "amount": ""
+    },
+    {
+      "name": "0.5（16 盎司）容器现成黑巧克力糖霜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、盐和小苏打一起筛入一个中等大小的碗中。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将巧克力方块放入双锅顶部，放在沸水中。经常搅拌，用橡皮抹刀刮擦两侧以避免烧焦，直到巧克力融化，大约需要 5 分钟。放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大碗中用电动搅拌机搅打黄油。加入糖、红糖、鸡蛋、咖啡味利口酒、香草精、融化的巧克力、咖啡颗粒和面粉混合物，一次一种，每次添加后搅拌均匀。加入巧克力块，然后加入核桃和山核桃，搅拌直至完全混合。将面糊倒入 9x12 英寸的烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 25 分钟，直至顶部干燥并且边缘开始脱离锅的两侧。让它冷却，大约20分钟。在冷却的布朗尼蛋糕上涂上糖霜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/274800/coffee-brownies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2f7269265e1e2503bb72055c416277f2",
+    "translated": true
+  }
+}

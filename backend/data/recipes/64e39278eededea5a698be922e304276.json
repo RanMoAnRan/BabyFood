@@ -1,0 +1,81 @@
+{
+  "id": "64e39278eededea5a698be922e304276",
+  "title": "密西西比锅烤",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 485,
+  "cover_image": "images/43f42f78b70be0e006308559d919fa8d.webp",
+  "nutrition_tip": "密西西比炖肉很容易用慢炖锅制作，配上烤肉、au ju…",
+  "ingredients": [
+    {
+      "name": "1 块（3 磅）卡盘烤肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5（12 盎司）罐意大利辣香肠",
+      "amount": ""
+    },
+    {
+      "name": "0.5（12 盎司）罐意大利辣香肠汁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯无盐黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）肉汁混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 包（0.4 盎司）酪乳牧场调料混合物",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤肉、意大利辣香肠、意大利辣香肠汁、黄油、原汁混合物、牧场沙拉酱混合物、盐和胡椒粉放入慢炖锅中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上锅盖，用低火烹调，直至烤肉变软，大约需要 8 小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "从慢炖锅中取出卡盘；用 2 个叉子切碎。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "配上肉汁即可享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-03-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/260697/mississippi-pot-roast/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "29908f07ab11b34b365c207e701e49d3",
+    "translated": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "253bba690cb296ab2d5b67913db05dea",
+  "title": "墨西哥辣椒蔓越莓酱",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/4954ebdaf119b82c4c2f462209549462.webp",
+  "nutrition_tip": "适度辣的墨西哥辣椒蔓越莓酱和雪利酒以增加风味很容易......",
+  "ingredients": [
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 袋（12 盎司）新鲜蔓越莓，冲洗并沥干",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等大小的墨西哥辣椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯雪利酒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中火将水和糖混合，直至糖溶解并且混合物沸腾，大约需要 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入蔓越莓、墨西哥辣椒和柠檬汁；返回沸腾。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将火调至小火慢炖，偶尔搅拌，直至蔓越莓分解且酱汁变稠，持续 10 至 25 分钟。加入雪利酒搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "从火上移开并冷却至室温。食用或转移到玻璃容器中，盖上盖子，冷藏直至可以食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-12-20",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/9372/jalapeno-cranberry-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e6e3b962d0c58d31c5165ba80314e7e3",
+    "translated": true
+  }
+}

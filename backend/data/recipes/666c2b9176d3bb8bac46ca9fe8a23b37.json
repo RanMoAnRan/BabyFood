@@ -1,0 +1,99 @@
+{
+  "id": "666c2b9176d3bb8bac46ca9fe8a23b37",
+  "title": "美味扇贝和天使面食",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/c7b20ea89bc6d5f0ef4882d70c245e53.webp",
+  "nutrition_tip": "这道扇贝意大利面是一道非常简单的餐点，其特点是简单但...",
+  "ingredients": [
+    {
+      "name": "1 包（16 盎司）天使面食",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 磅扇贝，冲洗并拍干",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙切碎的新鲜罗勒",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的新鲜平叶欧芹",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "盐和现磨黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙磨碎的帕尔玛干酪（适量）",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将一大锅淡盐水煮沸。加入天使发意大利面，不盖盖子，煮 4 到 5 分钟或直至有嚼劲；流走。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "煮意大利面时，在大煎锅中用中火融化黄油。加入大蒜，煮约 1 分钟，直至散发出香味并变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将厚度超过 3/4 英寸的扇贝切成两半，以便均匀烹饪。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将扇贝、罗勒和欧芹放入煎锅中搅拌。煮并轻轻搅拌，直到用手指按压扇贝时感觉稍微变硬，大约 2 至 3 分钟。如果扇贝煮得太熟，就会变得又硬又难嚼。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将热量降低至最低；加入柠檬汁，用盐和胡椒调味。如果您喜欢浓稠的酱汁，请倒入奶油，煮至酱汁开始沸腾。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将扇贝和酱汁舀到热意大利面上，然后在上面撒上帕尔马干酪。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/216757/savory-sea-scallops-and-angel-hair-pasta/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6afe0e5c5863fadfa8726780eb4531f5",
+    "translated": true
+  }
+}

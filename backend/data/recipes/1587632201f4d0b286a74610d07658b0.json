@@ -1,0 +1,80 @@
+{
+  "id": "1587632201f4d0b286a74610d07658b0",
+  "title": "黑莓派",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Pie",
+    "U.S.",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 140,
+  "cover_image": "images/f1ec3299283b3b6b93e0fe8c52006931.webp",
+  "nutrition_tip": "这个美味的黑莓派食谱很简单，用商店买的馅饼店做......",
+  "ingredients": [
+    {
+      "name": "4 杯新鲜黑莓",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 个（9 英寸）双层即用馅饼皮",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 3 ½ 杯黑莓、1/2 杯糖和面粉放入一个大碗中。将混合物倒入未烘烤的馅饼皮中。将剩余的 1/2 杯黑莓铺在加甜的浆果上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上顶部外壳。密封并卷曲边缘，并在顶部外壳上切出通风口，以便蒸汽逸出。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在面包皮上刷上牛奶，撒上剩余的 1/4 杯糖。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将馅饼放入预热的烤箱中烘烤 15 分钟。将烤箱温度降至 375 华氏度（190 摄氏度），然后烘烤 20 到 25 分钟，直至馅料起泡且外皮呈金黄色。放在金属架上冷却。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-07-11",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/12284/blackberry-pie-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "33ea100c72acd684cf13e60af7262ee5",
+    "translated": true
+  }
+}

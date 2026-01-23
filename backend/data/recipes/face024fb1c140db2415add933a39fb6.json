@@ -1,0 +1,93 @@
+{
+  "id": "face024fb1c140db2415add933a39fb6",
+  "title": "烤阿拉斯加",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 635,
+  "cover_image": "images/924173bd524c0d59cf290a2f056a1934.webp",
+  "nutrition_tip": "烤阿拉斯加是由一层蛋糕和一个覆盖着f的冰淇淋圆顶制成的……",
+  "ingredients": [
+    {
+      "name": "2 夸脱香草冰淇淋，软化，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "8 个大蛋白",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙塔塔粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个 8 英寸圆形准备好的白蛋糕层",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在 8 英寸圆形搅拌碗的底部和侧面铺上保鲜膜。将软化的冰淇淋装入准备好的碗中，然后压平顶部并盖上更多保鲜膜。冷冻 8 小时至过夜，直至变硬。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在搅拌碗中搅拌蛋白、糖、塔塔粉和盐，直至形成硬性发泡。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在烤盘上铺上羊皮纸，然后将蛋糕放在中间。从冰箱中取出冰淇淋，丢弃保鲜膜，然后将冰淇淋放在蛋糕上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将蛋白酥皮快速铺在冰淇淋和蛋糕上，如果需要，可以在装饰图案上旋转。冷冻2小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将蛋糕放在最低的烤箱架上烘烤 8 到 10 分钟，直至蛋白酥皮呈浅棕色。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "切片并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-03-14",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/18986/baked-alaska/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b5302398d618be7de8016d3f74477629",
+    "translated": true
+  }
+}

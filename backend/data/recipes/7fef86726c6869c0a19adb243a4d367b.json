@@ -1,0 +1,78 @@
+{
+  "id": "7fef86726c6869c0a19adb243a4d367b",
+  "title": "薄皮披萨面团",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/6d843f81111dccd230eeb08153bd5fea.webp",
+  "nutrition_tip": "这种薄皮披萨面团配方很容易制作，只需五种原料......",
+  "ingredients": [
+    {
+      "name": "1 茶匙活性干酵母",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯温水",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将酵母和糖溶解在小碗中 110 华氏度（44 摄氏度）的温水中。静置约 5 至 8 分钟，直至酵母软化并开始形成奶油状泡沫。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 1 3/4 杯面粉和盐放入一个大碗中。倒入酵母混合物；充分搅拌直至面团混合在一起。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团转移到撒有面粉的表面上，揉捏至光滑，大约需要 2 分钟。如果面团太粘，添加剩余的 1/4 杯面粉。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面团擀成12英寸的圆形。转移到涂有油脂的披萨盘中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "添加您最喜欢的配料，然后烘烤。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/257198/thin-crust-pizza-dough/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9e4b4565103fe087889e5bb336d242b1",
+    "translated": true
+  }
+}

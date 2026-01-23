@@ -1,0 +1,98 @@
+{
+  "id": "16e724cd8ebee3f8d53e1ab502923a1e",
+  "title": "南方凉拌卷心菜",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 140,
+  "cover_image": "images/8695ec782705f296ce12b02adbfd35dd.webp",
+  "nutrition_tip": "这个南方凉拌卷心菜食谱搭配卷心菜、胡萝卜和洋葱，具有完美的b…",
+  "ingredients": [
+    {
+      "name": "1 颗卷心菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 根胡萝卜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酪乳",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙蒸馏白醋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在另一个碗中搅拌蛋黄酱、糖、牛奶、酪乳、柠檬汁、醋、盐和黑胡椒，直至光滑且糖溶解。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将卷心菜、胡萝卜和洋葱放入一个大沙拉碗中混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将调料倒在卷心菜混合物上并充分混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "盖上碗并将沙拉冷藏至少 2 小时（时间越长越好）。食用前再次混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/222218/nanas-southern-coleslaw/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5f5534646135337a1134da921c4277e4",
+    "translated": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "a69f52a70da6fe81f9da0a70aee60399",
+  "title": "Velveeta 辣香肠酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/d583f270194a31e0fd80574ccb2d522a.webp",
+  "nutrition_tip": "这种 3 种成分的香肠酱在几分钟内与 Velveeta 混合在一起，罐装成……",
+  "ingredients": [
+    {
+      "name": "1 磅 VELVEETA®，切成 1/2 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10 盎司）RO*TEL 番茄丁和青辣椒，不沥干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅早餐猪肉香肠，煮熟，沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 Velveeta、西红柿和煮熟的猪肉香肠放入微波炉专用碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "微波炉高火加热 3 分钟。搅拌，然后用微波炉加热约 2 分钟，直至 Velveeta 完全融化。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-02-10",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/241318/velveeta-spicy-sausage-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6696fdf81aa515dc4392b363cb18302b",
+    "translated": true
+  }
+}

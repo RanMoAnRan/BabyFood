@@ -1,0 +1,61 @@
+{
+  "id": "f1dc16312d22ae044c3505cfe888b6a1",
+  "title": "黄油牛肉",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 245,
+  "cover_image": "images/0a5a06370d7dc61044c62025c5b6146f.webp",
+  "nutrition_tip": "这个 3 种成分的黄油牛肉食谱很容易在慢炖锅中用铜制作……",
+  "ingredients": [
+    {
+      "name": "3 磅炖牛肉块",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个（1 盎司）信封干洋葱汤混合物",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将牛肉和黄油放入慢炖锅中。将洋葱汤混合物撒在上面。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上盖子，煮至肉变软，低火煮 8 小时，或高火煮 4 至 5 小时。在烹饪过程中搅拌一到两次。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/73910/butter-beef/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a1599c4b7504a14f461a18ebda8c5e2f",
+    "translated": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cd8139170c18e100a88a34e4727ce678",
+  "title": "炸火鸡擦",
+  "min_age_month": 12,
+  "tags": [
+    "Spice Mix",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/8dfc6e9ed50865df2328d2cadb037a25.webp",
+  "nutrition_tip": "简单的油炸火鸡酱，几分钟内即可完成！月桂叶、克里奥尔调味料……",
+  "ingredients": [
+    {
+      "name": "25 片大月桂叶，压碎",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙克里奥尔调味料",
+      "amount": ""
+    },
+    {
+      "name": "3.5 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "3.5 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙现磨黑胡椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将碎月桂叶、克里奥尔调味料、百里香、牛至、大蒜粉和胡椒粉放入小碗中混合，直至充分混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-21",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/95992/deep-fried-turkey-rub/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "885400210b95edfe5cc5a517fab99d6e",
+    "translated": true
+  }
+}

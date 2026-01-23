@@ -1,0 +1,76 @@
+{
+  "id": "d34cabd21abe2b711b5dff2650c77f17",
+  "title": "爱尔兰博克斯蒂",
+  "min_age_month": 6,
+  "tags": [
+    "Side Dish",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/13d2d36e57eb8d5888a8b5985fa05fa9.webp",
+  "nutrition_tip": "Boxty 是一种传统的爱尔兰土豆煎饼，由磨碎的土豆泥制成......",
+  "ingredients": [
+    {
+      "name": "1.5 杯磨碎的生土豆",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯剩下的土豆泥",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙脱脂牛奶",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将磨碎的土豆和面粉放入一个大碗中。加入土豆泥搅拌直至混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在另一个碗中将鸡蛋和牛奶搅拌在一起；拌入土豆中。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在大煎锅中用中高温加热油。放入土豆混合物，形成直径约2英寸的肉饼。将两面煎至金黄色，每面煎 3 至 4 分钟。放在铺有纸巾的盘子上沥干水分。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/161679/irish-boxty/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "148022a23a34fcaea243026d7c54b50c",
+    "translated": true
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "6d4f1f3084505a0c75f3b618cb8b724e",
+  "title": "完美的玛格丽特",
+  "min_age_month": 12,
+  "tags": [
+    "Cocktail",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/8778ec8eddd00daea1a2f4b1862b79b2.webp",
+  "nutrition_tip": "这个玛格丽塔配方是新鲜酸橙汁、白龙舌兰酒、……的完美融合。",
+  "ingredients": [
+    {
+      "name": "1 块青柠",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙粗海盐，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 个大冰块",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冰块，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "2 液量盎司白龙舌兰酒",
+      "amount": ""
+    },
+    {
+      "name": "1.5 液量盎司 三秒",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司鲜榨酸橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 片酸橙",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用石灰楔润湿玻璃杯的边缘。在盘子上撒盐。将湿润的边缘轻轻浸入盐中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将一个大冰块放入玻璃杯中，并将准备好的玻璃杯冷冻直至可以食用。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在鸡尾酒调酒器中加入新鲜冰块。加入龙舌兰酒、橙皮酒和酸橙汁。盖上盖子并剧烈摇晃，直到摇酒器的外部结霜。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将玛格丽塔滤入镶有盐的冰镇玻璃杯中，并用一片酸橙装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-05-12",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/264606/the-perfect-margarita/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "58fee439f0273ccb60fd3ea9e213fe1a",
+    "translated": true
+  }
+}

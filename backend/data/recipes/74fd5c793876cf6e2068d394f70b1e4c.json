@@ -1,0 +1,65 @@
+{
+  "id": "74fd5c793876cf6e2068d394f70b1e4c",
+  "title": "咸牛肉和卷心菜",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Irish",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 150,
+  "cover_image": "images/4be6a63888bc00d4de8a5bea6e6e5499.webp",
+  "nutrition_tip": "咸牛肉和卷心菜与土豆和胡萝卜一起炖，这是一道传统的爱尔兰菜……",
+  "ingredients": [
+    {
+      "name": "1 块（3 磅）咸牛胸肉，带香料包",
+      "amount": ""
+    },
+    {
+      "name": "10 个小红土豆",
+      "amount": ""
+    },
+    {
+      "name": "5 个中等大小的胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "1 颗大头卷心菜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将咸牛肉放入荷兰烤箱中，并用水覆盖。添加香料包，盖上盖子，煮沸。关小火，煮约 2 小时，直至咸牛肉变得软烂。煮咸牛肉时，将土豆切成两半。将胡萝卜去皮，切成3英寸的块。将卷心菜切成小楔形。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "咸牛肉煮2小时后，加入土豆和胡萝卜；煮约 10 分钟，直至蔬菜几乎变软。加入卷心菜，继续煮约 15 分钟，直至土豆变软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "取出肉并静置 15 分钟。将肉汤和蔬菜留在荷兰烤箱中。将肉横切在谷物上。与蔬菜和肉汤一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-15",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/16310/corned-beef-and-cabbage-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bc7be98e03b22087f9313a9cdd4c73b4",
+    "translated": true
+  }
+}

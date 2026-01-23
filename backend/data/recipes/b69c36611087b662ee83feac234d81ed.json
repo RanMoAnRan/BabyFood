@@ -1,0 +1,76 @@
+{
+  "id": "b69c36611087b662ee83feac234d81ed",
+  "title": "绝对是有史以来最好的浓郁奶油蓝纹奶酪酱！",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/3b95827027a6d38789d368fdf60b1958.webp",
+  "nutrition_tip": "这个自制的蓝纹奶酪酱配方可以制作出美味的奶油沙拉酱......",
+  "ingredients": [
+    {
+      "name": "2.5 盎司蓝纹奶酪",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙酪乳",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙白葡萄酒醋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙糖",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和现磨黑胡椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将蓝纹奶酪和酪乳放入小碗中，用叉子捣碎，直至混合物类似于大凝乳干酪。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加入酸奶油、蛋黄酱、醋、糖和大蒜粉，直至充分混合。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/58745/absolutely-the-best-rich-and-creamy-blue-cheese-dressing-ever/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "04c9e78aaa2ba9eb0046f51f0593934e",
+    "translated": true
+  }
+}

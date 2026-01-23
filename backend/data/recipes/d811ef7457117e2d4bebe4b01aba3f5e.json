@@ -1,0 +1,90 @@
+{
+  "id": "d811ef7457117e2d4bebe4b01aba3f5e",
+  "title": "快速炒牛肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Chinese",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/f3ab3b1ae56d7d82a0f43edacbdb9a65.webp",
+  "nutrition_tip": "这个牛肉炒菜食谱对于忙碌的工作日晚上来说又快又简单。薄片…",
+  "ingredients": [
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 磅牛里脊肉，切成 2 英寸的条",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯新鲜西兰花小花",
+      "amount": ""
+    },
+    {
+      "name": "1 个红甜椒，切成火柴棍",
+      "amount": ""
+    },
+    {
+      "name": "2 根胡萝卜，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 个葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙芝麻，烤的",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大锅或平底锅中用中高火加热植物油；加入牛肉，炒至棕色，持续 3 至 4 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将牛肉移至锅边，加入西兰花、甜椒、胡萝卜、葱和大蒜至锅中央；炒蔬菜2分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将牛肉拌入蔬菜中，用酱油和芝麻调味。继续煮约 2 分钟，搅拌直至蔬菜变软。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/228823/quick-beef-stir-fry/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "647aa8fa0daaedbd29049c07c475bd0b",
+    "translated": true
+  }
+}

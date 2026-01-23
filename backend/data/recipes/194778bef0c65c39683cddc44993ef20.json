@@ -1,0 +1,55 @@
+{
+  "id": "194778bef0c65c39683cddc44993ef20",
+  "title": "啤酒浸",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 180,
+  "cover_image": "images/f97742f35dfe965fa4bc2098c4078ca3.webp",
+  "nutrition_tip": "一杯美味的淡色啤酒 - 或者一些烈性啤酒！ -提供这种以香草、奶油奶酪为基础的蘸酱……",
+  "ingredients": [
+    {
+      "name": "2 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）牧场调料混合物",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.33331999182701 杯啤酒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个中等大小的碗中，将奶油干酪和调味料混合。拌入切达干酪，然后加入啤酒。混合物会显得糊状。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "盖上碗，冷藏至少 3 小时，如果可能的话过夜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-27",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/14817/beer-dip-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "606a2ef9e3ffc3e5d5208b500479a7a1",
+    "translated": true
+  }
+}

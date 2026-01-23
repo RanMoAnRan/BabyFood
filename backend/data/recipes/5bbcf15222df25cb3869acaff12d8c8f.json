@@ -1,0 +1,74 @@
+{
+  "id": "5bbcf15222df25cb3869acaff12d8c8f",
+  "title": "速溶鸡汤面",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/0c19000d2f39f67c641795cac19f1beb.webp",
+  "nutrition_tip": "这道即食鸡汤面很容易用鸡胸肉、鸡蛋和…",
+  "ingredients": [
+    {
+      "name": "2块去骨鸡胸肉，切成2英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "6 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "2 杯鸡蛋面",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将鸡肉、洋葱、胡萝卜、芹菜、盐、蒜粉和胡椒粉放入多功能高压锅（如速溶锅）中。将鸡汤倒入锅中；搅拌均匀。关闭并锁上盖子。根据制造商的说明选择高压；将计时器设置为 10 分钟。等待 10 到 15 分钟以建立压力。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "根据制造商的说明，使用快速释放方法小心释放压力，大约需要 5 分钟。解锁并取下盖子。选择炒功能。加入鸡蛋面，煮约6分钟至变软。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/264431/quick-and-easy-instant-pot-chicken-noodle-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f627ab9d374b5083d688388b5183dbe4",
+    "translated": true
+  }
+}

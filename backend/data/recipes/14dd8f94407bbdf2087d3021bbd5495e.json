@@ -1,0 +1,53 @@
+{
+  "id": "14dd8f94407bbdf2087d3021bbd5495e",
+  "title": "全蛋蛋黄酱",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/b5aa034bfae0888606ae31ba4f62339a.webp",
+  "nutrition_tip": "这个全蛋蛋黄酱食谱使用全蛋而不仅仅是蛋黄。该…",
+  "ingredients": [
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙白醋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干芥末粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯植物油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将鸡蛋、醋、芥末粉和盐放入食品加工机的碗中；脉冲直至混合。在处理器运行的情况下，非常缓慢地倒入油，直到蛋黄酱变得光滑。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/159507/whole-egg-mayonnaise/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "196fbea8ce1063306bf454df01f84730",
+    "translated": true
+  }
+}

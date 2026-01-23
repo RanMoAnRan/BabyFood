@@ -1,0 +1,72 @@
+{
+  "id": "0c8e561b7181469b38582d9bf21dfd3e",
+  "title": "桃馅饼转储蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/a6b6c5bd3a61240384c56faf6e8a1dec.webp",
+  "nutrition_tip": "这个桃子馅饼是用甜罐装桃子、黄油和i…",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯自发面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉，再加一些用于撒上",
+      "amount": ""
+    },
+    {
+      "name": "1罐（20盎司）桃片罐头，不沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。将黄油放入 1.5 夸脱的烤盘中，放入烤箱预热时融化。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "从烤箱中取出融化的黄油，放在一边冷却约 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉、糖、牛奶和 1 茶匙肉桂放入碗中混合，直至充分混合。将面糊轻轻倒入融化、冷却的黄油中间；不要搅拌。将桃子和果汁倒入面糊中央；再次强调，不要搅拌，这一点很重要。在上面撒上肉桂粉，一次一点。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入预热好的烤箱中烘烤至棕色并起泡，30至60分钟；烹饪时间会根据食材的湿度而有所不同。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2007-11-11",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/284634/peach-cobbler-dump-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7045444201e307a667ebfd9b7c9120ed",
+    "translated": true
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "version": "21261805717",
-  "updated_at": "2026-01-22T19:29:46Z",
+  "version": "21298320614",
+  "updated_at": "2026-01-23T19:29:41Z",
   "recipe_count": 342,
   "latest_ids": [
     "e64358bbba6d95695846e65fc8cdba11",
@@ -31,5 +31,5 @@
     "base_url": "",
     "note": "聚合多个站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。"
   },
-  "data_ref": "data-21261805717-1"
+  "data_ref": "data-21298320614-1"
 }

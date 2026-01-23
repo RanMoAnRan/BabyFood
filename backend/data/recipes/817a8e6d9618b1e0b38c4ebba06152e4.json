@@ -1,0 +1,128 @@
+{
+  "id": "817a8e6d9618b1e0b38c4ebba06152e4",
+  "title": "鸡肉辣酱玉米饼馅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/ba73958a437f304b8e1ccbcd927ba520.webp",
+  "nutrition_tip": "这个鸡肉辣酱玉米饼馅食谱，里面有嫩鸡肉、奶油番茄酱、玉米饼……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯切达干酪丝，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 品脱酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯切碎的青椒",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "8 个（10 英寸）玉米饼",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（12 盎司）炸玉米饼酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在不粘锅中用中火加热油。加入鸡肉，煮至不再呈粉红色且汁液清澈，每面煮 5 至 7 分钟。将鸡肉转移到切菜板上，切成方块。将鸡肉放回煎锅中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "添加洋葱、1 杯切达干酪、酸奶油、欧芹、牛至和黑胡椒。用小火煮并搅拌直至奶酪融化。加入番茄酱、青椒、大蒜、辣椒粉和盐。如果需要的话加水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将鸡肉混合物舀入玉米饼中，然后卷入玉米卷饼中。将玉米卷饼接缝面朝下放入 9x13 英寸的烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上面放上炸玉米饼酱和剩余的 3/4 杯切达干酪。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 20 分钟，不盖盖子，直至奶酪融化。食用前先稍微冷却一下。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-06-07",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/8691/chicken-enchiladas-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3f7ddeb218d9abd0c8057f5ea492a785",
+    "translated": true
+  }
+}

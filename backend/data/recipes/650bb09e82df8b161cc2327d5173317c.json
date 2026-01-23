@@ -1,0 +1,89 @@
+{
+  "id": "650bb09e82df8b161cc2327d5173317c",
+  "title": "健康鸡肉沙拉",
+  "min_age_month": 8,
+  "tags": [
+    "Lunch",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/0ed98b27baafa1c83c796ca3950e8293.webp",
+  "nutrition_tip": "这个健康的鸡肉沙拉食谱是用希腊酸奶和干酪制成的……",
+  "ingredients": [
+    {
+      "name": "1 罐（6 盎司）脱脂希腊酸奶（例如 Fage®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯低脂干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的芹菜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯苹果丁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯甜蔓越莓干（例如 Craisins®）",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的山核桃",
+      "amount": ""
+    },
+    {
+      "name": "0.5 汤匙 第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯煮熟的鸡肉块",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将希腊酸奶、干酪、芹菜、苹果、蔓越莓、洋葱、山核桃和第戎芥末放入碗中搅拌直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入鸡肉。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-08-09",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/272849/healthy-chicken-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c9104748dfecf01d643402e0aeb0dac1",
+    "translated": true
+  }
+}

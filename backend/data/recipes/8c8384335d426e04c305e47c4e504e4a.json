@@ -1,0 +1,77 @@
+{
+  "id": "8c8384335d426e04c305e47c4e504e4a",
+  "title": "鳄梨沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Salad",
+    "Mexican Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/72038c4876e406b274206fa22354da86.webp",
+  "nutrition_tip": "这个牛油果沙拉配甜番茄、洋葱、香菜和浓郁的奶油牛油果……",
+  "ingredients": [
+    {
+      "name": "2 个牛油果 - 去皮、去核、切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 个甜洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个大熟番茄，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜香菜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个酸橙，榨汁",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鳄梨、洋葱、甜椒、番茄、香菜和酸橙汁放入一个大碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "轻轻搅拌直至均匀涂抹。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-07-03",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/19960/avocado-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "526979064e719be8bcfde8914c00f389",
+    "translated": true
+  }
+}

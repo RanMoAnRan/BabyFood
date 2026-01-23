@@ -1,0 +1,104 @@
+{
+  "id": "8e298395823c0189ce78387c6719c19f",
+  "title": "马沙拉鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/f82b0cac8909caddc76f8e412a583046.webp",
+  "nutrition_tip": "玛莎拉鸡是一道意大利风味菜肴，将嫩煎鸡胸肉放入......",
+  "ingredients": [
+    {
+      "name": "0.25 杯 涂层用中筋面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "4 个中等去皮去骨鸡胸肉半块 - 捣碎 1/4 英寸厚",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蘑菇片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 cup Marsala wine",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯烹饪雪利酒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个浅盘或碗中，将面粉、盐、胡椒和牛至混合在一起。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡块裹上面粉混合物。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大煎锅中，用中火将黄油和橄榄油融化。将鸡肉放入锅中，煎成浅棕色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡块翻面，加入蘑菇。倒入葡萄酒和雪利酒。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "盖上煎锅；将鸡肉煮 10 分钟，翻转一次，直至鸡肉不再呈粉红色且汁液清澈。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-27",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/8887/chicken-marsala/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e10da0cfa1c343284edfc98c91c812a0",
+    "translated": true
+  }
+}

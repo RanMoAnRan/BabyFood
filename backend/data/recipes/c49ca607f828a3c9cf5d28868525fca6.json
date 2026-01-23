@@ -1,0 +1,67 @@
+{
+  "id": "c49ca607f828a3c9cf5d28868525fca6",
+  "title": "微波炉花生糖",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/03732846a702176dcfe02ce2c2fc405f.webp",
+  "nutrition_tip": "这种微波炉花生糖是一种简单、省事的方法来制作美味的食物......",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯淡玉米糖浆",
+      "amount": ""
+    },
+    {
+      "name": "1 杯咸花生",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在饼干片上涂油脂；放在一边。将糖和玉米糖浆放入 2 夸脱的微波炉安全碗中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "微波炉高火加热 4 分钟，在烹饪过程中搅拌。加入花生并用微波炉高火再加热 3.5 分钟。加入黄油和香草精搅拌：微波炉加热 1.5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入小苏打，搅拌直至呈浅泡沫状；立即倒在准备好的饼干片上并摊薄。完全冷却。分成小块，存放在密封容器中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-06-19",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/19888/microwave-peanut-brittle/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dc8849ce5f78d1fcab653818dabe7952",
+    "translated": true
+  }
+}

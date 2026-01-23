@@ -1,0 +1,98 @@
+{
+  "id": "a9af5106629c20abce8dd3dbbb176fe2",
+  "title": "美味的火腿土豆汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/5d0f3fa6370518bf5602b1549ef5bb84.webp",
+  "nutrition_tip": "奶油火腿土豆汤，丰盛又健康，配上嫩蔬菜……",
+  "ingredients": [
+    {
+      "name": "3.5 杯 去皮切丁的土豆",
+      "amount": ""
+    },
+    {
+      "name": "3.25 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯 熟火腿丁",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯芹菜丁",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙鸡精颗粒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙白胡椒粉或黑胡椒粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "5 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "5 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将土豆、水、火腿、芹菜和洋葱放入汤锅中。煮沸；用中火煮 10 至 15 分钟，直至土豆变软。加入鸡汤、胡椒粉和盐。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在另一个平底锅中用中低火融化黄油。添加面粉；煮约 1 分钟，搅拌至浓稠。加入牛奶搅拌；煮 4 至 5 分钟，搅拌至浓稠。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将牛奶混合物倒入汤锅中；煮并搅拌直至热透。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2002-12-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/56927/delicious-ham-and-potato-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "74b472bad3ec5d85d2a767ab75e69a34",
+    "translated": true
+  }
+}

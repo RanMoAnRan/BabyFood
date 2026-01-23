@@ -1,0 +1,86 @@
+{
+  "id": "c54e1efc0e46832fc4ca2a1080d7fa9a",
+  "title": "自制鸡汤",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/11a6e61c00a40cfb6a41bc4755042308.webp",
+  "nutrition_tip": "这个令人安慰的鸡汤食谱很容易用整只鸡、胡萝卜......",
+  "ingredients": [
+    {
+      "name": "1 只（3 磅）整只鸡",
+      "amount": ""
+    },
+    {
+      "name": "4 根胡萝卜，减半",
+      "amount": ""
+    },
+    {
+      "name": "4 茎芹菜，减半",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切半",
+      "amount": ""
+    },
+    {
+      "name": "水覆盖",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙鸡精颗粒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡肉、胡萝卜、芹菜和洋葱放入大汤锅中；添加足够的冷水以覆盖。用中火煮沸；将火调至小火，不盖锅盖，小火煮约 90 分钟，直至肉从骨头上脱落。根据需要经常撇去泡沫。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡肉从锅中取出，静置直至冷却到可以处理；将肉切成块，去掉皮和骨头。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "滤出蔬菜，保留汤料；冲洗汤锅并将高汤放回锅中。将蔬菜切成小块；将切碎的鸡肉和蔬菜放回锅中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将汤加热至热透；用盐、胡椒和鸡汤调味。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-07",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/8814/homemade-chicken-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2b177c148f6eb97bdd072290830266ed",
+    "translated": true
+  }
+}

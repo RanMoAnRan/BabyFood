@@ -1,0 +1,108 @@
+{
+  "id": "661c979b23b43577d9b8240953ca6769",
+  "title": "龙虾热月",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "New England",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/07535153ad9fdb284969923b0aa131d3.webp",
+  "nutrition_tip": "Lobster Thermidor 是一道用煮熟的龙虾配上奶油酱的颓废菜肴，...",
+  "ingredients": [
+    {
+      "name": "1 只中等（1 1/2 磅）煮熟的龙虾",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1.375 杯新鲜鱼汤",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白葡萄酒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙热英国芥末",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "盐和现磨黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯新鲜磨碎的帕尔马干酪",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将龙虾纵向切成两半，去掉爪子、尾部和头部的肉。把肉切成块，放回壳里。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在大煎锅中用中火融化黄油。加入葱；煮并搅拌直至变软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入鱼汤、白葡萄酒和奶油。煮沸，煮至体积减半。加入欧芹、柠檬汁、芥末、盐和胡椒。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "预热烤箱的烤鸡。将填馅龙虾半块放在烤盘或烤盘上。将酱汁浇在肉上，撒上帕尔马干酪。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烤 3 到 4 分钟，直至呈金黄色。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "立即上桌并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/87386/lobster-thermidor/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7a311c8d149b406bceaf616fea558d7f",
+    "translated": true
+  }
+}

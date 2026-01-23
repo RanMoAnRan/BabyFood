@@ -1,0 +1,96 @@
+{
+  "id": "2972a0ef7e0c43dfbae2ff80550e2ac7",
+  "title": "烤法式吐司",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Brunch",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 540,
+  "cover_image": "images/47dc5bf9737eab4f2d2430498146f2e3.webp",
+  "nutrition_tip": "这个烤法式吐司是前一天晚上准备的。美味可口，配上啤酒…",
+  "ingredients": [
+    {
+      "name": "1 条（1 磅）法式面包，斜切成 1 英寸的片",
+      "amount": ""
+    },
+    {
+      "name": "8 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯半奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1.3333333730698 杯 红糖",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 淡玉米糖浆",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在 9x13 英寸的烤盘上涂黄油；将面包片放在底部。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡蛋、牛奶、奶油、香草和肉桂放入一个大碗中搅拌。倒在面包片上，盖上盖子，冷藏过夜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "第二天早上，将烤箱预热至 350 华氏度（175 摄氏度）。同时，将黄油、红糖和玉米糖浆放入小锅中混合；加热直至冒泡。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒在面包和鸡蛋混合物上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中，不盖盖子，烘烤 40 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "与浆果和糖浆一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-05-23",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/20934/baked-french-toast/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "aa35a20c2dadc35dbf40d117a141686b",
+    "translated": true
+  }
+}

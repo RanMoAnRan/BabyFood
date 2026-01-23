@@ -1,0 +1,81 @@
+{
+  "id": "5745f641e67140f5ee1d82932767d6c5",
+  "title": "华尔道夫沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Salad",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/1eadb703c6ad9ff5be87d359dfdeb3af.webp",
+  "nutrition_tip": "华尔道夫沙拉的制作方法超级简单，用大块脆苹果、切碎的芹菜……",
+  "ingredients": [
+    {
+      "name": "0.5 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "3 个苹果 -- 去皮、去核并切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯芹菜薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋黄酱、糖、柠檬汁和盐放入碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入苹果、芹菜、核桃和葡萄干。盖上盖子并放入冰箱冷藏直至可以食用。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/16800/waldorf-salad-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3becb969f66da7d495042c8e28f5afcd",
+    "translated": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "a428bbbaca6e1a2c34c49cea4de13eea",
+  "title": "蔓越莓橙烤饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 27,
+  "cover_image": "images/b2185fccf489f9d34f19aa18ab10f5c2.webp",
+  "nutrition_tip": "甜橙和酸蔓越莓在这些金色的面包中形成了完美的风味组合……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 个橙子，去皮",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙无盐黄油，冷藏",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯 原味不加糖杏仁微风杏仁奶",
+      "amount": ""
+    },
+    {
+      "name": "1 个橙子，榨汁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯新鲜或冷冻蔓越莓",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个碗中，将面粉、糖、泡打粉、盐和橙皮碎搅拌在一起。将黄油切成小块，然后切成混合物，直至变得粗糙易碎。加入杏仁微风杏仁奶和橙汁，然后拌入蔓越莓。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在撒了面粉的表面上，揉捏面团直至其完全混合在一起。拍成 1 英寸的圆形，切成 8 块，放在烤盘上。在顶部刷上杏仁微风杏仁奶，撒上糖，烘烤 12-15 分钟直至金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-10-05",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/255667/cranberry-orange-scones/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bbe23ab13f813c98f22acc3629ef835c",
+    "translated": true
+  }
+}

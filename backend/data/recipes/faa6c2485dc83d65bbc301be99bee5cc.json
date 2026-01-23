@@ -1,0 +1,84 @@
+{
+  "id": "faa6c2485dc83d65bbc301be99bee5cc",
+  "title": "柠檬蒜虾",
+  "min_age_month": 6,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/e051ff89e5e08b7701088518d01c700a.webp",
+  "nutrition_tip": "柠檬蒜虾是一道美味的开胃菜，非常适合搭配在一起……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "16 只大虾 - 去皮、去肠、带尾，或更多品尝",
+      "amount": ""
+    },
+    {
+      "name": "3 大瓣大蒜，捣碎，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙碎红辣椒片，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙海鲜调味料（例如 Old Bay®），或适量",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙柠檬皮屑",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中低火加热油，直至温热，持续 2 到 3 分钟。一次加入虾、大蒜和胡椒片，搅拌在一起。加入海鲜调味料、盐和黑胡椒，搅拌直至混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "煮并搅拌 3 到 5 分钟，直至虾外部呈亮粉色且肉不透明。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "把火调小，拌入欧芹、柠檬汁和柠檬皮。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/270244/lemon-garlic-shrimp/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "da02f4859f936c2fd16548d16fcea8bd",
+    "translated": true
+  }
+}

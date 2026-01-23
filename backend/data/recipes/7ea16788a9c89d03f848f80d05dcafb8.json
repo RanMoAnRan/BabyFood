@@ -1,0 +1,63 @@
+{
+  "id": "7ea16788a9c89d03f848f80d05dcafb8",
+  "title": "自制南瓜泥",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/cabced8ab399f39fa3403639285ffa41.webp",
+  "nutrition_tip": "学习如何用嫩烤糖南瓜制作南瓜泥。非常适合…",
+  "ingredients": [
+    {
+      "name": "1 个糖南瓜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 325 华氏度（165 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜切成两半，从茎到基部。去除种子和果肉。用箔纸盖住每一半。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤，铝箔面朝上，直至变软，大约需要 1 小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将南瓜肉从半壳上刮下来，放入搅拌机中打成泥。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "拉紧以除去任何剩余的细丝碎片。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "使用或存放在冷冻安全袋中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-16",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/22935/pumpkin-puree/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cc1ec4193e1408efb84fcaa39b426af8",
+    "translated": true
+  }
+}

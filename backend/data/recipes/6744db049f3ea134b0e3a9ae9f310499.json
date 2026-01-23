@@ -1,0 +1,74 @@
+{
+  "id": "6744db049f3ea134b0e3a9ae9f310499",
+  "title": "搅拌机荷兰酱",
+  "min_age_month": 12,
+  "tags": [
+    "Sauce",
+    "French Inspired",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/94a9b183ee319f6d56e8f1266c038dcd.webp",
+  "nutrition_tip": "这款搅拌机荷兰酱味道浓郁、柠檬味十足、美味可口。它拥有所有成分……",
+  "ingredients": [
+    {
+      "name": "3 个蛋黄",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "1 滴辣椒酱（例如 Tabasco™）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋黄、柠檬汁、芥末和辣椒酱放入搅拌机的容器中混合；盖上盖子并搅拌约 5 秒钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将黄油放入玻璃量杯中。将黄油在微波炉中加热约 1 分钟，或直至变热并完全融化。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "打开搅拌机；缓慢、稳定地倒入融化的黄油，直到酱汁浓稠光滑，大约需要 15 到 30 秒。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/84214/blender-hollandaise-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "28741729489fb0110a005bb38a140e79",
+    "translated": true
+  }
+}

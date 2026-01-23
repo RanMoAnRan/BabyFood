@@ -1,0 +1,65 @@
+{
+  "id": "99983e064c51af2697813e6b023da3f9",
+  "title": "大蒜蒜泥蛋黄酱",
+  "min_age_month": 8,
+  "tags": [
+    "Condiment",
+    "Sauce",
+    "French",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/dbabe4a7b4e8ac95a034f3ea942b04f6.webp",
+  "nutrition_tip": "这种奶油蒜泥蛋黄酱用蛋黄酱、一些蒜瓣和……制作起来又快又容易。",
+  "ingredients": [
+    {
+      "name": "0.75 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2.5 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集你的原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在碗中混合蛋黄酱、大蒜、柠檬汁、盐和胡椒。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "食用前盖上盖子并冷藏至少 30 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2010-02-15",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/213608/garlic-aioli/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "85d096d53a826f9e61db10099133c615",
+    "translated": true
+  }
+}

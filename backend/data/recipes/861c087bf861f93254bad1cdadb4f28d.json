@@ -1,0 +1,96 @@
+{
+  "id": "861c087bf861f93254bad1cdadb4f28d",
+  "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/ebc4b0b6069134fc853b9c37b4730877.webp",
+  "nutrition_tip": "这羽衣甘蓝汤是一顿丰盛而舒适的素食餐，里面有新鲜的羽衣甘蓝……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个黄洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的大蒜",
+      "amount": ""
+    },
+    {
+      "name": "1 束羽衣甘蓝，去掉茎，切碎叶子",
+      "amount": ""
+    },
+    {
+      "name": "8 杯水",
+      "amount": ""
+    },
+    {
+      "name": "6 个白土豆，去皮切块",
+      "amount": ""
+    },
+    {
+      "name": "2罐（15盎司）cannellini豆（如果需要的话可以沥干）",
+      "amount": ""
+    },
+    {
+      "name": "1罐（15盎司）番茄丁",
+      "amount": ""
+    },
+    {
+      "name": "6 块蔬菜汤（例如家乐）",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大汤锅中用中高火加热橄榄油；将洋葱和大蒜煮 2 至 3 分钟，直至变软。加入羽衣甘蓝，煮约 2 分钟直至枯萎。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入水、土豆、豆类、西红柿、蔬菜汤、欧芹和意大利调味料。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "煮沸，然后转小火，煮约 25 分钟，直至土豆煮熟。用盐和胡椒调味。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/132785/vegetarian-kale-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f6c683b22dabf50b15b42984b93e92a7",
+    "translated": true
+  }
+}

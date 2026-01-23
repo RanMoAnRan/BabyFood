@@ -1,0 +1,86 @@
+{
+  "id": "f6665b449d4253484f0e56c419584cec",
+  "title": "很棒的西兰花奶酪砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/ea2a17c9dd2038dc2e5a529cdb4602f0.webp",
+  "nutrition_tip": "这个美味的西兰花奶酪砂锅菜即使是最挑剔的食客也会变成……",
+  "ingredients": [
+    {
+      "name": "1 罐（10.5 盎司）浓缩奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "3 包（10 盎司）冷冻切碎西兰花",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 少许辣椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂黄油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将浓缩汤、蛋黄酱、鸡蛋和洋葱放入一个中等大小的搅拌碗中，搅拌直至混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将冷冻西兰花小花放入一个非常大的搅拌碗中，必要时将其打碎；加入汤混合物并搅拌均匀以涂上一层。撒上奶酪，搅拌均匀；将混合物倒入准备好的烤盘中。用盐、胡椒粉和辣椒粉调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 分钟到 1 小时，直至奶酪融化且砂锅顶部呈金黄色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-11-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/13606/awesome-broccoli-cheese-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f744a2fbcf0bb48956131061d84f8261",
+    "translated": true
+  }
+}
