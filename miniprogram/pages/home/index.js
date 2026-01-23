@@ -36,8 +36,13 @@ Page({
 
   refreshProfile() {
     const profile = storage.get(STORAGE_KEYS.profile, {});
-    const birthday = profile && profile.birthday ? String(profile.birthday) : "";
-    const hasBirthday = Boolean(birthday);
+    // 设置默认生日为 2024-06-24
+    if (!profile.birthday) {
+      profile.birthday = "2024-06-24";
+      storage.set(STORAGE_KEYS.profile, profile);
+    }
+    const birthday = profile.birthday;
+    const hasBirthday = true; // 既然有了默认值，就默认为已设置
     let ageMonths = 0;
     let ageText = "未设置";
     let activeBucket = "";

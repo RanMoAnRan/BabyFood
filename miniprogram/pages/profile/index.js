@@ -66,7 +66,12 @@ Page({
 
   loadProfile() {
     const profile = storage.get(STORAGE_KEYS.profile, {});
-    const birthday = profile && profile.birthday ? String(profile.birthday) : "";
+    // 设置默认生日为 2024-06-24
+    if (!profile.birthday) {
+      profile.birthday = "2024-06-24";
+      storage.set(STORAGE_KEYS.profile, profile);
+    }
+    const birthday = profile.birthday;
     const rawAllergens = profile && profile.allergens ? String(profile.allergens) : "";
     const allergenList = rawAllergens.split(/[,，、\s]+/).filter(Boolean);
     const { ageText, ageStageText } = this.getAgeInfo(birthday);
