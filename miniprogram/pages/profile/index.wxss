@@ -34,6 +34,85 @@
   border-bottom: none;
 }
 
+.value-text {
+  font-size: 28rpx;
+  color: #0F172A;
+  font-weight: 700;
+}
+
+.input-text {
+  flex: 1;
+  text-align: right;
+  font-size: 28rpx;
+  color: #0F172A;
+  font-weight: 700;
+  margin-left: 20rpx;
+}
+
+.input-placeholder {
+  color: #94A3B8;
+  font-weight: 400;
+}
+
+.allergen-row {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16rpx;
+  margin-left: 20rpx;
+}
+
+.input-text-simple {
+  flex: 1;
+  text-align: right;
+  font-size: 28rpx;
+  color: #0F172A;
+}
+
+.btn-mini {
+  padding: 8rpx 24rpx;
+  background: #F1F5F9;
+  color: #64748B;
+  font-size: 24rpx;
+  font-weight: 700;
+  border-radius: 999rpx;
+}
+
+.allergen-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+  margin-top: 24rpx;
+  padding-top: 24rpx;
+  border-top: 2rpx dashed rgba(15, 23, 42, 0.08);
+}
+
+.allergen-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 8rpx;
+  padding: 8rpx 20rpx;
+  background: #FFF7ED;
+  color: #C2410C;
+  font-size: 26rpx;
+  font-weight: 600;
+  border-radius: 999rpx;
+  border: 2rpx solid rgba(249, 115, 22, 0.1);
+}
+
+.tag-close {
+  width: 28rpx;
+  height: 28rpx;
+  line-height: 26rpx;
+  text-align: center;
+  border-radius: 50%;
+  background: rgba(249, 115, 22, 0.2);
+  color: #C2410C;
+  font-size: 22rpx;
+  font-weight: 800;
+}
+
 .picker {
   padding: 12rpx 24rpx;
   border-radius: 999rpx;
@@ -47,6 +126,31 @@
   display: flex;
   gap: 20rpx;
   margin-bottom: 16rpx;
+}
+
+.quick-grid {
+  display: flex;
+  padding: 10rpx 0;
+}
+
+.quick-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 12rpx;
+}
+
+.quick-icon {
+  width: 56rpx;
+  height: 56rpx;
+}
+
+.quick-text {
+  font-size: 26rpx;
+  color: #334155;
+  font-weight: 600;
 }
 
 .note {

@@ -1,19 +1,28 @@
 const api = require("../../utils/api");
 const storage = require("../../utils/storage");
-const { STORAGE_KEYS } = require("../../config");
+const { STORAGE_KEYS, DEFAULT_COVER } = require("../../config");
 const age = require("../../utils/age");
+
+const app = getApp();
 
 Page({
   data: {
+    navHeight: app.globalData.navHeight,
+    navCapsuleTop: app.globalData.navCapsuleTop,
+    navCapsuleHeight: app.globalData.navCapsuleHeight,
     query: "",
     hasBirthday: false,
     ageText: "未设置",
     ageMonths: 0,
     activeBucket: "",
     reco: [],
+    indexItems: [],
+    defaultCover: DEFAULT_COVER,
+    loading: true,
   },
 
   async onLoad() {
+    this.setData({ navMarginBottom: app.globalData.navMarginBottom });
     this.refreshProfile();
     await this.loadData();
   },
@@ -54,16 +63,18 @@ Page({
   },
 
   async loadData() {
-    wx.showLoading({ title: "加载中" });
+    // wx.showLoading({ title: "加载中" });
+    this.setData({ loading: true });
     try {
       const index = await api.fetchIndex();
       const items = (index && index.items) || [];
 
       // Randomly shuffle items to pick recommendations
       const reco = this.shuffle(items).slice(0, 10);
-      this.setData({ reco });
+      this.setData({ reco, indexItems: items });
     } finally {
-      wx.hideLoading();
+      // wx.hideLoading();
+      this.setData({ loading: false });
       wx.stopPullDownRefresh();
     }
   },
@@ -86,6 +97,26 @@ Page({
     const q = (this.data.query || "").trim();
     const url = q ? `/pages/search/index?q=${encodeURIComponent(q)}` : "/pages/search/index";
     wx.navigateTo({ url });
+  },
+
+  onRefreshReco() {
+    const items = this.data.indexItems || [];
+    if (items.length === 0) {
+      this.loadData();
+      return;
+    }
+    const reco = this.shuffle(items).slice(0, 10);
+    this.setData({ reco });
+  },
+
+  onCoverError(e) {
+    const id = e.currentTarget.dataset.id;
+    if (!id) return;
+    const fallback = this.data.defaultCover;
+    const reco = (this.data.reco || []).map((item) =>
+      item && item.id === id ? { ...item, cover_image: fallback } : item,
+    );
+    this.setData({ reco });
   },
 
   onNavBucket(e) {

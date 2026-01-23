@@ -1,5 +1,12 @@
+<view class="custom-nav" style="height: {{navHeight}}px;">
+  <view class="custom-nav-box" style="top: {{navCapsuleTop}}px; height: {{navCapsuleHeight}}px;">
+    <view class="custom-nav-title">全部菜谱</view>
+  </view>
+</view>
+<view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
+
 <view class="container safe-tabbar">
-  <view class="filters card">
+  <view class="filters card" style="top: {{navHeight}}px;">
     <view class="filters-row">
       <view class="filters-search" bindtap="onGoSearch">
         <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
@@ -7,6 +14,10 @@
           {{query || '搜索菜名/食材'}}
         </view>
         <view class="search-btn" catchtap="onGoSearch">搜索</view>
+      </view>
+      <view class="filters-sort" bindtap="onShowSortMenu">
+        <text>{{sortLabel || '排序'}}</text>
+        <view class="sort-triangle"></view>
       </view>
     </view>
 
@@ -44,7 +55,14 @@
         data-id="{{item.id}}"
         bindtap="onOpenDetail"
       >
-        <image class="img" mode="aspectFill" src="{{item.cover_image}}"></image>
+        <image
+          class="img"
+          mode="aspectFill"
+          src="{{item.cover_image || defaultCover}}"
+          lazy-load="true"
+          binderror="onCoverError"
+          data-id="{{item.id}}"
+        ></image>
         <view class="body">
           <view class="title">{{item.title}}</view>
           <view class="row">
@@ -64,7 +82,14 @@
         data-id="{{item.id}}"
         bindtap="onOpenDetail"
       >
-        <image class="img" mode="aspectFill" src="{{item.cover_image}}"></image>
+        <image
+          class="img"
+          mode="aspectFill"
+          src="{{item.cover_image || defaultCover}}"
+          lazy-load="true"
+          binderror="onCoverError"
+          data-id="{{item.id}}"
+        ></image>
         <view class="body">
           <view class="title">{{item.title}}</view>
           <view class="row">
@@ -80,4 +105,8 @@
 
   <view wx:if="{{filtered.length > 0 && hasMore}}" class="load muted">下拉加载更多…</view>
   <view wx:if="{{filtered.length > 0 && !hasMore}}" class="load muted">没有更多了</view>
+
+  <view class="back-top {{showBackTop ? 'back-top-show' : ''}}" bindtap="onBackTop">
+    <view class="arrow-up"></view>
+  </view>
 </view>

@@ -1,6 +1,12 @@
+<view class="custom-nav" style="height: {{navHeight}}px;">
+  <view class="custom-nav-box" style="top: {{navCapsuleTop}}px; height: {{navCapsuleHeight}}px;">
+    <view class="custom-nav-title">我的收藏</view>
+  </view>
+</view>
+<view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
+
 <view class="container safe-tabbar">
   <view class="fav-header">
-    <view class="block-title">我的收藏</view>
     <view wx:if="{{favItems.length}}" class="fav-actions">
       <view class="select-all" bindtap="onToggleAll">
         <view class="check {{allSelected ? 'check-active' : ''}}"></view>
@@ -13,7 +19,10 @@
       >删除</button>
     </view>
   </view>
-  <view wx:if="{{favItems.length === 0}}" class="muted">还没有收藏</view>
+  <view wx:if="{{favItems.length === 0}}">
+    <view class="muted">还没有收藏</view>
+    <button class="btn-ghost" bindtap="onGoSearch">去搜索</button>
+  </view>
   <view
     wx:for="{{favItems}}"
     wx:key="id"
@@ -23,7 +32,14 @@
       <view class="check {{item.selected ? 'check-active' : ''}}"></view>
     </view>
     <view class="reco-main" bindtap="onOpenDetail" data-id="{{item.id}}">
-      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
+      <image
+        class="reco-img"
+        mode="aspectFill"
+        src="{{item.cover_image || defaultCover}}"
+        lazy-load="true"
+        binderror="onCoverError"
+        data-id="{{item.id}}"
+      ></image>
       <view class="reco-body">
         <view class="title reco-title">{{item.title}}</view>
         <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">

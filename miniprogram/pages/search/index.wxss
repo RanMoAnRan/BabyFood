@@ -118,6 +118,75 @@
   border: 2rpx solid rgba(15, 23, 42, 0.06);
 }
 
+.empty-suggest {
+  margin-top: 16rpx;
+}
+
+.empty-title {
+  margin-bottom: 12rpx;
+}
+
+.recommend-section {
+  margin-top: 24rpx;
+}
+
+.recommend-title {
+  margin-bottom: 12rpx;
+}
+
+.recommend-refresh {
+  padding: 6rpx 16rpx;
+  font-size: 24rpx;
+  color: #F97316;
+  font-weight: 700;
+  border-radius: 999rpx;
+  border: 2rpx solid rgba(249, 115, 22, 0.3);
+  background: rgba(249, 115, 22, 0.08);
+}
+
+.waterfall {
+  display: flex;
+  gap: 16rpx;
+}
+
+.waterfall-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16rpx;
+}
+
+.waterfall-card {
+  overflow: hidden;
+}
+
+.waterfall-img {
+  width: 100%;
+  display: block;
+  background: #f0f0f0;
+}
+
+.waterfall-body {
+  padding: 16rpx;
+}
+
+.waterfall-title {
+  font-size: 28rpx;
+  line-height: 1.3;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.waterfall-meta {
+  margin-top: 12rpx;
+  display: flex;
+  gap: 12rpx;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 .reco-card {
   margin-bottom: 24rpx;
   display: flex;

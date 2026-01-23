@@ -11,6 +11,7 @@
     "navigationBarTitleText": "宝宝辅食",
     "navigationBarBackgroundColor": "#FDFBF7",
     "navigationBarTextStyle": "black",
+    "navigationStyle": "custom",
     "backgroundColor": "#FDFBF7",
     "backgroundTextStyle": "light"
   },

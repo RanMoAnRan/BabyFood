@@ -1,3 +1,13 @@
+<view class="custom-nav" style="height: {{navHeight}}px;">
+  <view class="custom-nav-box" style="top: {{navCapsuleTop}}px; height: {{navCapsuleHeight}}px;">
+    <view class="custom-nav-back" bindtap="onBack">
+      <view class="back-arrow"></view>
+    </view>
+    <view class="custom-nav-title-center">搜索</view>
+  </view>
+</view>
+<view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
+
 <view class="container safe-bottom">
   <view class="searchbar card">
     <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
@@ -49,6 +59,85 @@
       <text class="muted">已显示 {{results.length}} / {{totalCount}}</text>
     </view>
     <view wx:if="{{results.length === 0}}" class="muted">没有匹配的菜谱</view>
+    <view wx:if="{{results.length === 0 && hotKeywords.length}}" class="empty-suggest">
+      <view class="muted empty-title">试试这些热门关键词</view>
+      <view class="history">
+        <view
+          wx:for="{{hotKeywords}}"
+          wx:key="*this"
+          class="history-item"
+          data-query="{{item}}"
+          bindtap="onTapHistory"
+        >
+          {{item}}
+        </view>
+      </view>
+    </view>
+    <view wx:if="{{results.length === 0 && (recommendLeft.length || recommendRight.length)}}" class="recommend-section">
+      <view class="section-title recommend-title">
+        <view class="section-title-left">
+          <view class="section-accent"></view>
+          <text class="section-title-text">为你推荐</text>
+        </view>
+        <view class="recommend-refresh" bindtap="onRefreshRecommend">换一批</view>
+      </view>
+      <view class="waterfall">
+        <view class="waterfall-col">
+          <view
+            wx:for="{{recommendLeft}}"
+            wx:key="id"
+            class="waterfall-card card"
+            hover-class="card-hover"
+            data-id="{{item.id}}"
+            bindtap="onOpenDetail"
+          >
+            <image
+              class="waterfall-img"
+              mode="widthFix"
+              src="{{item.cover_image || defaultCover}}"
+              lazy-load="true"
+              binderror="onCoverError"
+              data-id="{{item.id}}"
+              data-section="recommend"
+            ></image>
+            <view class="waterfall-body">
+              <view class="title waterfall-title">{{item.title}}</view>
+              <view class="waterfall-meta">
+                <text class="tag">{{item.min_age_month}}m+</text>
+                <text class="muted">{{item.time_cost}}分钟</text>
+              </view>
+            </view>
+          </view>
+        </view>
+        <view class="waterfall-col">
+          <view
+            wx:for="{{recommendRight}}"
+            wx:key="id"
+            class="waterfall-card card"
+            hover-class="card-hover"
+            data-id="{{item.id}}"
+            bindtap="onOpenDetail"
+          >
+            <image
+              class="waterfall-img"
+              mode="widthFix"
+              src="{{item.cover_image || defaultCover}}"
+              lazy-load="true"
+              binderror="onCoverError"
+              data-id="{{item.id}}"
+              data-section="recommend"
+            ></image>
+            <view class="waterfall-body">
+              <view class="title waterfall-title">{{item.title}}</view>
+              <view class="waterfall-meta">
+                <text class="tag">{{item.min_age_month}}m+</text>
+                <text class="muted">{{item.time_cost}}分钟</text>
+              </view>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
     <view
       wx:for="{{results}}"
       wx:key="id"
@@ -57,12 +146,20 @@
       data-id="{{item.id}}"
       bindtap="onOpenDetail"
     >
-      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
+      <image
+        class="reco-img"
+        mode="aspectFill"
+        src="{{item.cover_image || defaultCover}}"
+        lazy-load="true"
+        binderror="onCoverError"
+        data-id="{{item.id}}"
+        data-section="results"
+      ></image>
       <view class="reco-body">
-        <view class="title reco-title">{{item.title}}</view>
+        <rich-text class="title reco-title" nodes="{{item.titleNodes}}"></rich-text>
         <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
-          <block wx:for="{{item.tags}}" wx:key="*this">
-            <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
+          <block wx:for="{{item.tagNodes}}" wx:key="index">
+            <rich-text wx:if="{{index < 3}}" class="reco-chip" nodes="{{item}}"></rich-text>
           </block>
         </view>
         <view class="reco-meta">

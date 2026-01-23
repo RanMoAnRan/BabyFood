@@ -1,3 +1,10 @@
+<view class="custom-nav" style="height: {{navHeight}}px;">
+  <view class="custom-nav-box" style="top: {{navCapsuleTop}}px; height: {{navCapsuleHeight}}px;">
+    <view class="custom-nav-title">宝宝辅食</view>
+  </view>
+</view>
+<view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
+
 <view class="container safe-tabbar">
   <view class="searchbar card" bindtap="onGoSearch">
     <icon class="search-icon" type="search" size="18" color="#94A3B8"></icon>
@@ -9,12 +16,15 @@
 
   <view class="profile card">
     <view class="profile-row">
-      <view>
-        <view class="title">你好，宝宝今天 {{ageText}} 了</view>
-        <view class="muted">将根据月龄优先推荐适龄辅食</view>
+      <view class="profile-left">
+        <view class="profile-title">
+          你好，ππ今天 <text class="profile-age">{{ageText}}</text> 了
+        </view>
+        <view class="profile-sub">将根据月龄优先推荐适龄辅食</view>
       </view>
-      <button class="btn-ghost small-btn" bindtap="onEditBirthday">
-        {{hasBirthday ? '修改生日' : '设置生日'}}
+      <button class="small-btn" bindtap="onEditBirthday" hover-class="none">
+        <image class="small-btn-icon" src="/images/icons/edit.svg"></image>
+        <text>{{hasBirthday ? '修改生日' : '设置生日'}}</text>
       </button>
     </view>
   </view>
@@ -68,29 +78,70 @@
         <view class="section-accent"></view>
         <text class="section-title-text">每日推荐</text>
       </view>
+      <view class="section-action" bindtap="onRefreshReco">
+        <image class="section-action-icon" src="/images/icons/refresh.svg"></image>
+        <text>换一批</text>
+      </view>
     </view>
-    <view wx:if="{{reco.length === 0}}" class="muted">暂无数据</view>
-    <view
-      wx:for="{{reco}}"
-      wx:key="id"
-      class="reco-card card"
-      hover-class="card-hover"
-      data-id="{{item.id}}"
-      bindtap="onOpenDetail"
-    >
-      <image class="reco-img" mode="aspectFill" src="{{item.cover_image}}"></image>
-      <view class="reco-body">
-        <view class="title reco-title">{{item.title}}</view>
-        <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
-          <block wx:for="{{item.tags}}" wx:key="*this">
-            <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
-          </block>
+
+    <view wx:if="{{loading}}">
+      <view class="reco-card card">
+        <view class="skeleton" style="width: 200rpx; height: 200rpx;"></view>
+        <view class="reco-body">
+          <view class="skeleton sk-text" style="width: 80%;"></view>
+          <view class="skeleton sk-text" style="width: 50%; margin-top: 20rpx;"></view>
+          <view class="skeleton sk-text" style="width: 30%; margin-top: auto;"></view>
         </view>
-        <view class="reco-meta">
-          <text class="tag">{{item.min_age_month}}m+</text>
-          <text class="muted">{{item.time_cost}}分钟 · 难度{{item.difficulty}}</text>
+      </view>
+      <view class="reco-card card">
+        <view class="skeleton" style="width: 200rpx; height: 200rpx;"></view>
+        <view class="reco-body">
+          <view class="skeleton sk-text" style="width: 70%;"></view>
+          <view class="skeleton sk-text" style="width: 40%; margin-top: 20rpx;"></view>
+          <view class="skeleton sk-text" style="width: 30%; margin-top: auto;"></view>
+        </view>
+      </view>
+      <view class="reco-card card">
+        <view class="skeleton" style="width: 200rpx; height: 200rpx;"></view>
+        <view class="reco-body">
+          <view class="skeleton sk-text" style="width: 90%;"></view>
+          <view class="skeleton sk-text" style="width: 50%; margin-top: 20rpx;"></view>
+          <view class="skeleton sk-text" style="width: 30%; margin-top: auto;"></view>
         </view>
       </view>
     </view>
+
+    <block wx:else>
+      <view wx:if="{{reco.length === 0}}" class="muted">暂无数据</view>
+      <view
+        wx:for="{{reco}}"
+        wx:key="id"
+        class="reco-card card"
+        hover-class="card-hover"
+        data-id="{{item.id}}"
+        bindtap="onOpenDetail"
+      >
+        <image
+          class="reco-img"
+          mode="aspectFill"
+          src="{{item.cover_image || defaultCover}}"
+          lazy-load="true"
+          binderror="onCoverError"
+          data-id="{{item.id}}"
+        ></image>
+        <view class="reco-body">
+          <view class="title reco-title">{{item.title}}</view>
+          <view wx:if="{{item.tags && item.tags.length}}" class="reco-chips">
+            <block wx:for="{{item.tags}}" wx:key="*this">
+              <text wx:if="{{index < 3}}" class="reco-chip">{{item}}</text>
+            </block>
+          </view>
+          <view class="reco-meta">
+            <text class="tag">{{item.min_age_month}}m+</text>
+            <text class="muted">{{item.time_cost}}分钟 · 难度{{item.difficulty}}</text>
+          </view>
+        </view>
+      </view>
+    </block>
   </view>
 </view>

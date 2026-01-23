@@ -1,6 +1,6 @@
 const api = require("../../utils/api");
 const storage = require("../../utils/storage");
-const { STORAGE_KEYS } = require("../../config");
+const { STORAGE_KEYS, DEFAULT_COVER } = require("../../config");
 
 function splitColumns(items) {
   const left = [];
@@ -67,6 +67,12 @@ function paginate(items, page, pageSize) {
   return items.slice(start, end);
 }
 
+function replaceCover(list, id, fallback) {
+  return (list || []).map((item) =>
+    item && item.id === id ? { ...item, cover_image: fallback } : item,
+  );
+}
+
 function parseListContext(options) {
   const query = options && options.q ? decodeURIComponent(options.q) : "";
   const bucket = options && options.bucket ? decodeURIComponent(options.bucket) : "";
@@ -80,8 +86,13 @@ function consumeListContext() {
   return ctx;
 }
 
+const app = getApp();
+
 Page({
   data: {
+    navHeight: app.globalData.navHeight,
+    navCapsuleTop: app.globalData.navCapsuleTop,
+    navCapsuleHeight: app.globalData.navCapsuleHeight,
     query: "",
     bucket: "",
     activeTag: "",
@@ -96,9 +107,27 @@ Page({
     pageSize: 10,
     hasMore: false,
     loadingMore: false,
+    defaultCover: DEFAULT_COVER,
+    sortMode: 'default',
+    sortLabel: '综合',
+    showBackTop: false,
+  },
+
+  onPageScroll(e) {
+    if (e.scrollTop > 300 && !this.data.showBackTop) {
+      this.setData({ showBackTop: true });
+    } else if (e.scrollTop <= 300 && this.data.showBackTop) {
+      this.setData({ showBackTop: false });
+    }
+  },
+
+  onBackTop() {
+    wx.pageScrollTo({ scrollTop: 0, duration: 300 });
   },
 
   async onLoad(options) {
+    this.setData({ navMarginBottom: app.globalData.navMarginBottom });
+
     const ctx = parseListContext(options) || {};
     const query = ctx.query || "";
     const bucket = ctx.bucket || "";
@@ -127,9 +156,35 @@ Page({
     const query = ctx.query ? String(ctx.query) : "";
     const bucket = ctx.bucket ? String(ctx.bucket) : "";
     const shuffled = this.shuffle(this.data.indexItems || []);
-    this.setData({ query, bucket, activeTag: "", indexItems: shuffled }, () => {
+    this.setData({
+      query,
+      bucket,
+      activeTag: "",
+      indexItems: shuffled,
+      sortMode: 'default',
+      sortLabel: '综合'
+    }, () => {
       this.setNavTitle(query, bucket);
       this.applyFilters();
+    });
+  },
+
+  onShowSortMenu() {
+    const options = ['综合排序', '耗时最短', '月龄最小'];
+    const keys = ['default', 'time_asc', 'month_asc'];
+    wx.showActionSheet({
+      itemList: options,
+      success: (res) => {
+        const idx = res.tapIndex;
+        if (this.data.sortMode !== keys[idx]) {
+          this.setData({
+            sortMode: keys[idx],
+            sortLabel: options[idx].replace('排序', '') // Simplify label
+          }, () => {
+            this.applyFilters();
+          });
+        }
+      }
     });
   },
 
@@ -151,6 +206,10 @@ Page({
   onTagTap(e) {
     const tag = e.currentTarget.dataset.tag;
     const shuffled = this.shuffle(this.data.indexItems || []);
+    // Reset sort when changing tag for fresh discovery, or keep it?
+    // Let's keep sort if it's set, but re-shuffle base if default.
+    // Actually, if sorting is active, shuffling base doesn't matter much if we sort again.
+    // But if sort is 'default', we want shuffle.
     this.setData({ activeTag: tag || "", indexItems: shuffled }, () => this.applyFilters());
   },
 
@@ -173,6 +232,7 @@ Page({
     const q = (this.data.query || "").trim().toLowerCase();
     const tag = this.data.activeTag || "";
     const bucket = this.data.bucket || "";
+    const sortMode = this.data.sortMode || 'default';
 
     let items = this.data.indexItems.slice();
 
@@ -207,6 +267,15 @@ Page({
       });
     }
 
+    // Apply Sorting
+    if (sortMode === 'time_asc') {
+      items.sort((a, b) => (Number(a.time_cost) || 999) - (Number(b.time_cost) || 999));
+    } else if (sortMode === 'month_asc') {
+      items.sort((a, b) => (Number(a.min_age_month) || 0) - (Number(b.min_age_month) || 0));
+    }
+    // 'default' uses the initial shuffled order (which is preserved in indexItems but re-sliced here).
+    // Note: indexItems is shuffled on load/show/tagTap.
+
     this.setData({ filteredAll: items, page: 1 });
     this.updateDisplayed();
   },
@@ -214,6 +283,19 @@ Page({
   onOpenDetail(e) {
     const id = e.currentTarget.dataset.id;
     wx.navigateTo({ url: `/pages/detail/index?id=${encodeURIComponent(id)}` });
+  },
+
+  onCoverError(e) {
+    const id = e.currentTarget.dataset.id;
+    if (!id) return;
+    const fallback = this.data.defaultCover;
+    this.setData({
+      indexItems: replaceCover(this.data.indexItems, id, fallback),
+      filteredAll: replaceCover(this.data.filteredAll, id, fallback),
+      filtered: replaceCover(this.data.filtered, id, fallback),
+      left: replaceCover(this.data.left, id, fallback),
+      right: replaceCover(this.data.right, id, fallback),
+    });
   },
 
   setNavTitle(query, bucket) {

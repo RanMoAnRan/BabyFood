@@ -25,6 +25,7 @@ module.exports = {
   LOCAL_CDN_BASE,
   REMOTE_CDN_BASE,
   getCdnBase,
+  DEFAULT_COVER: "/images/placeholder-cover.svg",
 
   PATHS: {
     manifest: "manifest.json",

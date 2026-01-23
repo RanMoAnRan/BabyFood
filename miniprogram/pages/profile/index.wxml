@@ -1,3 +1,10 @@
+<view class="custom-nav" style="height: {{navHeight}}px;">
+  <view class="custom-nav-box" style="top: {{navCapsuleTop}}px; height: {{navCapsuleHeight}}px;">
+    <view class="custom-nav-title">个人中心</view>
+  </view>
+</view>
+<view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
+
 <view class="container safe-tabbar">
   <view class="card block">
     <view class="block-title">宝宝管理</view>
@@ -6,6 +13,62 @@
       <picker mode="date" value="{{birthday}}" start="2018-01-01" end="2035-12-31" bindchange="onBirthdayChange">
         <view class="picker">{{birthday || '请选择'}}</view>
       </picker>
+    </view>
+    <view class="row">
+      <view class="muted">宝宝月龄</view>
+      <view class="value-text">{{ageText || '--'}}</view>
+    </view>
+    <view class="row">
+      <view class="muted">喂养阶段</view>
+      <view class="value-text">{{ageStageText || '--'}}</view>
+    </view>
+    <view class="row">
+      <view class="muted">过敏食材</view>
+      <view class="allergen-row">
+        <input
+          class="input-text-simple"
+          placeholder="输入食材名称"
+          placeholder-class="input-placeholder"
+          value="{{allergenInput}}"
+          bindinput="onAllergenInput"
+          confirm-type="done"
+          bindconfirm="onAddAllergen"
+        />
+        <view class="btn-mini" bindtap="onAddAllergen">添加</view>
+      </view>
+    </view>
+    
+    <view wx:if="{{allergenList.length}}" class="allergen-tags">
+      <view wx:for="{{allergenList}}" wx:key="*this" class="allergen-tag" bindtap="onRemoveAllergen" data-index="{{index}}">
+        <text>{{item}}</text>
+        <view class="tag-close">×</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="card block">
+    <view class="block-title">快捷入口</view>
+    <view class="quick-grid">
+      <view class="quick-item" bindtap="onGoFavorites">
+        <image class="quick-icon" src="/images/tabbar/favorite-active.svg"></image>
+        <text class="quick-text">我的收藏</text>
+      </view>
+      <view class="quick-item" bindtap="onGoSearch">
+        <image class="quick-icon" src="/images/tabbar/recipe-active.svg"></image>
+        <text class="quick-text">搜索菜谱</text>
+      </view>
+    </view>
+  </view>
+
+  <view class="card block">
+    <view class="block-title">数据概览</view>
+    <view class="row">
+      <view class="muted">收藏数量</view>
+      <view class="value-text">{{favCount}}</view>
+    </view>
+    <view class="row">
+      <view class="muted">菜谱数量</view>
+      <view class="value-text">{{recipeCount || '--'}}</view>
     </view>
   </view>
 

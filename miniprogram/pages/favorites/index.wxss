@@ -33,30 +33,35 @@
 .fav-actions {
   display: flex;
   align-items: center;
-  gap: 6rpx;
+  gap: 24rpx;
   justify-content: flex-end;
+  flex: 0 0 auto;
 }
 
 .select-all {
   display: flex;
   align-items: center;
-  gap: 8rpx;
+  gap: 12rpx;
 }
 
 .select-text {
-  font-size: 26rpx;
+  font-size: 30rpx;
   color: #64748B;
+  white-space: nowrap;
 }
 
 .del-selected {
-  flex: 0 0 130rpx;
-  font-size: 24rpx;
-  width: 130rpx;
-  padding: 8rpx 0;
+  width: auto !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  padding: 10rpx 28rpx !important;
+  font-size: 28rpx;
+  font-weight: 700;
   line-height: 1.2;
   border-radius: 999rpx;
   text-align: center;
-  margin-left: 100rpx;
+  margin: 0 !important;
+  flex: 0 0 auto;
 }
 
 .del-selected[disabled] {
@@ -121,7 +126,7 @@
   background: rgba(0, 0, 0, 0.04);
   flex-shrink: 0;
   border-radius: 16rpx;
-  margin-left: 15rpx;
+  margin-left: 30rpx;
 }
 
 .reco-body {

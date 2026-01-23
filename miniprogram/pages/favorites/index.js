@@ -1,15 +1,23 @@
 const api = require("../../utils/api");
 const favorites = require("../../utils/favorites");
+const { DEFAULT_COVER } = require("../../config");
+
+const app = getApp();
 
 Page({
   data: {
+    navHeight: app.globalData.navHeight,
+    navCapsuleTop: app.globalData.navCapsuleTop,
+    navCapsuleHeight: app.globalData.navCapsuleHeight,
     favItems: [],
-    selectedCount: 0,
     allSelected: false,
+    selectedCount: 0,
+    defaultCover: DEFAULT_COVER,
   },
 
-  async onLoad() {
-    await this.loadFavorites();
+  onLoad() {
+    this.setData({ navMarginBottom: app.globalData.navMarginBottom });
+    this.loadFavorites();
   },
 
   onShow() {
@@ -54,6 +62,16 @@ Page({
     this.loadFavorites();
   },
 
+  onCoverError(e) {
+    const id = e.currentTarget.dataset.id;
+    if (!id) return;
+    const fallback = this.data.defaultCover;
+    const favItems = (this.data.favItems || []).map((item) =>
+      item && item.id === id ? { ...item, cover_image: fallback } : item,
+    );
+    this.setData({ favItems });
+  },
+
   onToggleSelect(e) {
     const id = e.currentTarget.dataset.id;
     const favItems = (this.data.favItems || []).map((item) => {
@@ -69,6 +87,10 @@ Page({
       item ? { ...item, selected: target } : item,
     );
     this.setData({ favItems }, () => this.updateSelectionState());
+  },
+
+  onGoSearch() {
+    wx.navigateTo({ url: "/pages/search/index" });
   },
 
   onDeleteSelected() {

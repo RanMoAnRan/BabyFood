@@ -102,3 +102,115 @@ button {
   color: #EF4444;
   font-weight: 800;
 }
+
+.page-title {
+  font-size: 44rpx;
+  font-weight: 800;
+  color: #0F172A;
+  margin-bottom: 24rpx;
+  padding-left: 8rpx;
+  line-height: 1.2;
+}
+
+/* Custom Nav Bar */
+.custom-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: #FDFBF7;
+}
+
+.custom-nav-box {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.custom-nav-title {
+  padding-left: 24rpx;
+  font-size: 32rpx;
+  font-weight: 700;
+  color: #0F172A;
+  letter-spacing: 2rpx;
+}
+
+.custom-nav-title-center {
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 700;
+  color: #0F172A;
+  position: absolute;
+  left: 0;
+  right: 0;
+  pointer-events: none;
+}
+
+.custom-nav-back {
+  height: 100%;
+  padding-left: 24rpx;
+  padding-right: 30rpx;
+  display: flex;
+  align-items: center;
+  position: relative;
+  z-index: 10;
+}
+
+.back-arrow {
+  width: 22rpx;
+  height: 22rpx;
+  border-left: 4rpx solid #0F172A;
+  border-bottom: 4rpx solid #0F172A;
+  transform: rotate(45deg);
+}
+
+.nav-placeholder {
+  width: 100%;
+}
+
+/* Skeleton Loader */
+.skeleton {
+  background: #f0f0f0;
+  border-radius: 8rpx;
+  position: relative;
+  overflow: hidden;
+}
+
+.skeleton::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.5), transparent);
+  transform: translateX(-100%);
+  animation: skeleton-shimmer 1.5s infinite;
+}
+
+@keyframes skeleton-shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.sk-text {
+  height: 32rpx;
+  margin-bottom: 12rpx;
+}
+
+.sk-text-sm {
+  height: 24rpx;
+}
+
+.sk-rect {
+  width: 100%;
+  height: 100%;
+}
+
+.sk-circle {
+  border-radius: 50%;
+}

@@ -1,7 +1,34 @@
-<view>
+<view class="custom-nav" style="height: {{navHeight}}px;">
+  <view class="custom-nav-box" style="top: {{navCapsuleTop}}px; height: {{navCapsuleHeight}}px;">
+    <view class="custom-nav-back" bindtap="onBack">
+      <view class="back-arrow"></view>
+    </view>
+    <view class="custom-nav-title-center">食谱详情</view>
+  </view>
+</view>
+
+<view wx:if="{{loading}}">
+  <view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
+  <view class="skeleton" style="width: 100%; height: 520rpx; border-radius: 0 0 44rpx 44rpx;"></view>
+  <view class="container safe-toolbar" style="margin-top: 24rpx;">
+    <view class="skeleton sk-text" style="width: 60%; height: 48rpx;"></view>
+    <view class="skeleton sk-text" style="width: 40%; height: 32rpx; margin-top: 16rpx;"></view>
+    <view class="skeleton card" style="margin-top: 40rpx; height: 300rpx;"></view>
+    <view class="skeleton card" style="margin-top: 40rpx; height: 400rpx;"></view>
+  </view>
+</view>
+
+<view wx:else>
+  <view class="nav-placeholder" style="height: {{navHeight}}px;"></view>
   <swiper class="hero" indicator-dots="true" autoplay="false" circular="true">
     <swiper-item>
-      <image class="hero-img" mode="aspectFill" src="{{recipe.cover_image}}"></image>
+      <image
+        class="hero-img"
+        mode="aspectFill"
+        src="{{recipe.cover_image || defaultCover}}"
+        lazy-load="true"
+        binderror="onHeroError"
+      ></image>
       <view class="hero-shade"></view>
     </swiper-item>
   </swiper>
@@ -11,6 +38,13 @@
     <view class="meta">
       <text class="tag">{{recipe.min_age_month}}m+</text>
       <text class="muted">{{recipe.time_cost}}分钟 · 难度{{recipe.difficulty}}</text>
+    </view>
+
+    <view wx:if="{{matchedAllergens.length}}" class="warn card">
+      <view class="danger">⚠️ 过敏原预警</view>
+      <view class="warn-item">
+        包含风险食材：<text style="font-weight: 700;">{{matchedAllergens}}</text>
+      </view>
     </view>
 
     <view wx:if="{{recipe.warnings && recipe.warnings.length}}" class="warn card">
@@ -38,7 +72,15 @@
           <view class="step-badge">{{item.step_index}}</view>
           <view class="step-head-text">步骤 {{item.step_index}}</view>
         </view>
-        <image wx:if="{{item.img}}" class="step-img" mode="widthFix" src="{{item.img}}"></image>
+        <image
+          wx:if="{{item.img}}"
+          class="step-img"
+          mode="widthFix"
+          src="{{item.img || defaultCover}}"
+          lazy-load="true"
+          binderror="onStepImageError"
+          data-index="{{index}}"
+        ></image>
         <view class="step-text">{{item.text}}</view>
       </view>
     </view>
