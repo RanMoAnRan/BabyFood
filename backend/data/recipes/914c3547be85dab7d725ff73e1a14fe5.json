@@ -1,0 +1,91 @@
+{
+  "id": "914c3547be85dab7d725ff73e1a14fe5",
+  "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/d7576935df938ffbb1dafb364592cfe4.webp",
+  "nutrition_tip": "这些美味的披萨浸在番茄和羊肉配料中，然后切成楔形......",
+  "ingredients": [
+    {
+      "name": "1 磅瘦羊肉碎",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的青椒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1罐（14.5盎司）西红柿去皮切块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的新鲜意大利欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙切碎的新鲜薄荷叶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒",
+      "amount": ""
+    },
+    {
+      "name": "4 个皮塔面包或松软的玉米饼",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将磨碎的羊肉放入大煎锅中，用中火加热。煮熟并切成小块，直到大部分变成棕色。排出多余的油脂。加入洋葱、青椒和大蒜。煮至洋葱呈半透明状。拌入番茄丁和番茄酱，然后用欧芹、罗勒、薄荷、孜然和辣椒调味（如果使用）。煮约5分钟。从火上移开，盖上盖子并冷藏过夜以混合味道。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 450 华氏度（230 摄氏度）。将羊肉混合物均匀地分布在玉米饼上，并铺展到边缘。将玉米饼放在烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约20分钟。从烤箱中取出，将拉马琼放在一大块铝箔上，使其中两个肉面朝肉面，然后将它们叠在一起，并将铝箔放在顶部以保暖。这些可以热食或冷食。切成小楔子。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-25T19:15:40Z",
+  "source_url": "https://www.allrecipes.com/recipe/54538/lahmahjoon-armenian-pizza/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1d2638168b268d51d688041d501c6fb2",
+    "translated": true
+  }
+}

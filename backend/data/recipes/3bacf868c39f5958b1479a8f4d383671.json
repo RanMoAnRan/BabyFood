@@ -1,0 +1,74 @@
+{
+  "id": "3bacf868c39f5958b1479a8f4d383671",
+  "title": "阿卡普尔科鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/a25d9d8b44c302983090fdb51d8cbc67.webp",
+  "nutrition_tip": "鸡胸肉、番茄、洋葱、甜椒、墨西哥辣椒和辣椒的辣炒......",
+  "ingredients": [
+    {
+      "name": "2 个大的去皮去骨鸡胸肉 - 切成一口大小的块",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙辣椒粉，分开",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的青椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 个墨西哥辣椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个大番茄，切成块",
+      "amount": ""
+    },
+    {
+      "name": "10 滴辣椒酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用 1/2 汤匙辣椒粉、盐和胡椒调味鸡肉。在大煎锅中用中火加热油，将调味鸡肉炒 3 至 4 分钟，或直至不再呈粉红色。用有槽勺从煎锅中取出并保温。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在同一个煎锅中，将甜椒和洋葱炒软。加入墨西哥辣椒、西红柿、剩余的 1/2 汤匙辣椒粉和辣椒酱。边煮边搅拌，再煮 3 至 5 分钟；加入鸡肉，再炒2分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-24",
+  "updated_at": "2026-01-25T19:15:40Z",
+  "source_url": "https://www.allrecipes.com/recipe/19123/acapulco-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fd53069a0fa2881c9c4c2756979829d0",
+    "translated": true
+  }
+}

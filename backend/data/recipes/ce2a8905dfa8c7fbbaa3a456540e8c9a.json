@@ -1,0 +1,100 @@
+{
+  "id": "ce2a8905dfa8c7fbbaa3a456540e8c9a",
+  "title": "爱尔兰土豆蛋糕",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 110,
+  "cover_image": "images/f9305966256d6ae853ded044ed252d83.webp",
+  "nutrition_tip": "这是我祖母用土豆泥做的古老爱尔兰土豆蛋糕食谱......",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 罩杯缩短",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯煮熟的土豆泥",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    },
+    {
+      "name": "1 杯葡萄干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在 10 英寸的平底锅上涂上油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、泡打粉、肉桂、丁香、肉豆蔻和盐一起过筛到碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖和起酥油放入一个大碗中，用电动搅拌机搅打至松软。加入鸡蛋，一次一个，每次加入后搅拌均匀。将面粉混合物与土豆泥和牛奶交替混合。拌入核桃和葡萄干。将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 1 1/2 至 2 小时，直至插入中心的牙签拔出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-29",
+  "updated_at": "2026-01-25T19:15:40Z",
+  "source_url": "https://www.allrecipes.com/recipe/17427/irish-potato-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b4fbe54592204d2d7892c862af23db3d",
+    "translated": true
+  }
+}
