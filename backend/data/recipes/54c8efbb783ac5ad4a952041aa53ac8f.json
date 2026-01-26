@@ -1,0 +1,108 @@
+{
+  "id": "54c8efbb783ac5ad4a952041aa53ac8f",
+  "title": "模仿鸡布莱恩",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Copycat"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/5705f214de550991426c14e2119f15e3.webp",
+  "nutrition_tip": "通过这种简单而美味的方式在家中品尝 Carrabba 的意大利烧烤......",
+  "ingredients": [
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 切碎的黄洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯干白葡萄酒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯冷黄油，切片",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切碎的晒干西红柿",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜罗勒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙白胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "6 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙特级初榨橄榄油，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）卡普里诺（羊奶）奶酪",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在大煎锅中用中火加热 2 汤匙黄油。在热油中煮并搅拌大蒜和洋葱，直至变软，持续 3 至 4 分钟。加入葡萄酒和柠檬汁，将火调至中火，小火煮至水份减少1/2，大约10分钟。把火调小，拌入冷黄油，一次一片。拌入西红柿、罗勒、粗盐和白胡椒；从火上移开并放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在鸡胸肉上刷上橄榄油，撒上盐和黑胡椒。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将户外烤架预热至中高温，并在烤架上涂上少许油。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤架上煮鸡肉，直到中心不再呈粉红色，需要 15 到 20 分钟。在烹饪的最后几分钟，将等量的山羊奶酪放在每个鸡胸肉上。将晒干的番茄酱舀到鸡肉上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-08-08",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/274948/copycat-chicken-bryan/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7da2e40a164cb3896be74b5a4ad80a0c",
+    "translated": true
+  }
+}

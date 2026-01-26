@@ -1,0 +1,62 @@
+{
+  "id": "dce7f921fb01087bd4da63347506b295",
+  "title": "脆皮中国面条",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "Asian Inspired",
+    "Chinese"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/e3b9b5423eea438891fe65848fe40c02.webp",
+  "nutrition_tip": "这些脆皮面条很容易在家制作，只需要两种原料，而且味道......",
+  "ingredients": [
+    {
+      "name": "1 包（10 盎司）蛋卷包装纸",
+      "amount": ""
+    },
+    {
+      "name": "2 杯植物油，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋卷皮切成 1 英寸的条状。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用中火将炒锅加热至非常热。将油倒入热锅中，加热至闪烁。为了测试热量，将木筷子的尖端放入油中；如果冒出剧烈的气泡，说明油已经准备好了。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "轻轻地将2至3条放入热油中；煮 30 秒到 1 分钟，直至一侧开始变成棕色。轻轻翻面，再煮 30 秒到 1 分钟，直至全身酥脆并呈金黄色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "使用有槽勺将炸条转移到铺有纸巾的盘子上。重复煎剩余的条。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-09-02",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/222814/crispy-chinese-noodles-restaurant-style/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "693d0c3625a84052124a90918370aa96",
+    "translated": true
+  }
+}

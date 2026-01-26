@@ -1,0 +1,69 @@
+{
+  "id": "2de62dfee6690b8b4e6f3a6d5b037e0c",
+  "title": "西葫芦薯条",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/5738e1ef10a31c622fd160844541efca.webp",
+  "nutrition_tip": "这些金色的西葫芦薯条有一层酥脆的奶酪涂层。它们是烘烤的……",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯面包屑",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "3 个西葫芦 - 修剪两端，对半切，切成 1/2 英寸的条",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 425 华氏度（220 摄氏度）。在烤盘上铺上铝箔，然后喷上烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面包屑和帕尔马干酪放入浅碗中搅拌。在另一个浅碗中搅拌鸡蛋。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "分批工作，将西葫芦条浸入鸡蛋混合物中，摇匀以除去多余的部分，然后将西葫芦条卷入面包屑混合物中以涂上一层。将涂有涂层的西葫芦条转移到准备好的烤盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤西葫芦薯条，翻转一次，直至金黄酥脆，需要 20 至 25 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/236302/baked-zucchini-fries/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e6c92e34e87f90c6a1021b898c5cbfc5",
+    "translated": true
+  }
+}

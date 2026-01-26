@@ -1,0 +1,66 @@
+{
+  "id": "f807bbf16e30c132bfe57a240f810766",
+  "title": "奶油大蒜黄油酱",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/ce67859a23960a107537eb9b989ca1ea.webp",
+  "nutrition_tip": "这种黄油奶油酱以简单的肉酱开始，用大量大蒜调味......",
+  "ingredients": [
+    {
+      "name": "0.33333334326744 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯全脂牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 撮干牛至",
+      "amount": ""
+    },
+    {
+      "name": "1 撮干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 撮干欧芹",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在小平底锅中用中火融化黄油。加入大蒜；煮约 45 秒，搅拌直至散发出香味。加入面粉搅拌；煮并搅拌，直到面粉失去其原始气味，大约需要 45 秒。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "逐渐加入牛奶、牛至、罗勒和欧芹搅拌，然后小火慢炖。继续煮，不断搅拌，直到浓稠，大约需要 5 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-04",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/272444/creamy-garlic-butter-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2c0f16065e39afe399ce2073464f2680",
+    "translated": true
+  }
+}

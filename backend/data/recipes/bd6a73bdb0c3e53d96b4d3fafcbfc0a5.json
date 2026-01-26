@@ -1,0 +1,69 @@
+{
+  "id": "bd6a73bdb0c3e53d96b4d3fafcbfc0a5",
+  "title": "空气炸锅三文鱼一份",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/905a075cc55bf79390f320934e87eb1c.webp",
+  "nutrition_tip": "通过这个简单的食谱，使用简单的调味料，了解空气炸三文鱼需要多长时间......",
+  "ingredients": [
+    {
+      "name": "1 块（6 盎司）三文鱼片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙希腊调味料（例如 Cavender's®）",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮干莳萝草",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将空气炸锅预热至 370 华氏度（190 摄氏度）5 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，用盐、希腊调味料、胡椒和莳萝调味三文鱼片。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在空气炸锅篮子上铺上圆形穿孔羊皮纸。将三文鱼放在羊皮纸上，带皮的一面朝下。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的空气炸锅中煮三文鱼，直至鱼用叉子轻松剥落，大约需要 15 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-14",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/280227/air-fryer-salmon-for-one/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ffebcb832df0bf6ab25f1d10749c769d",
+    "translated": true
+  }
+}

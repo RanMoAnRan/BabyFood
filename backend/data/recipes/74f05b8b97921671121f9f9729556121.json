@@ -1,0 +1,51 @@
+{
+  "id": "74f05b8b97921671121f9f9729556121",
+  "title": "罗勒简易糖浆",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/55c3ac8587755a6bec95cac1f3094008.webp",
+  "nutrition_tip": "这种罗勒简单糖浆是用新鲜罗勒叶浸泡在糖水中制成的……",
+  "ingredients": [
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯新鲜罗勒叶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将水、糖和罗勒叶放入小锅中混合。煮沸，搅拌直至糖溶解。减少热量并煮 1 分钟。从火上移开，让糖浆浸泡 30 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "通过网状过滤器将糖浆排入消毒的玻璃罐中；丢弃罗勒叶。让它冷却，然后盖上盖子并在冰箱中保存最多 1 个月。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/247474/basil-simple-syrup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "83d72425b99ef206be2ee170b73f6073",
+    "translated": true
+  }
+}

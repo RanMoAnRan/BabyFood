@@ -1,0 +1,46 @@
+{
+  "id": "5319fb695e95687ae7c93ece81ccbaba",
+  "title": "B-52 鸡尾酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/af15fdfe607bd318c957d60202048120.webp",
+  "nutrition_tip": "这款 B-52 鸡尾酒配方是三种利口酒的美味组合：咖啡……",
+  "ingredients": [
+    {
+      "name": "1 汤匙 Kahlua 或其他咖啡味利口酒",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙白兰地橙利口酒（例如 Grand Marnier®）",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙爱尔兰奶油利口酒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将咖啡利口酒倒入小玻璃杯中；将橙子利口酒倒在茶匙背面，使其漂浮。将爱尔兰奶油利口酒漂浮在橙色利口酒层上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-02",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/51819/b-52-bomber/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "aed20002b634f6505aa21a1d79db5583",
+    "translated": true
+  }
+}

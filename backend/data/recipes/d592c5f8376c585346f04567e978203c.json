@@ -1,0 +1,93 @@
+{
+  "id": "d592c5f8376c585346f04567e978203c",
+  "title": "快速简单的班尼迪克蛋",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/e45fd0e5996a81a4cf823186663c0872.webp",
+  "nutrition_tip": "这个简单的班尼迪克蛋采用搅拌酱，制作起来很简单。服务…",
+  "ingredients": [
+    {
+      "name": "4 片加拿大培根",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙白醋",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "3 个蛋黄",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 少许辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "4 个英式松饼，分割并烘烤",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将加拿大培根放入平底锅中，用中火将其两面煎至均匀呈棕色。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大平底锅中倒入大约 3 英寸的水；煮沸。倒入醋。小心地将 4 个鸡蛋打入水中，煮约 2 至 3 分钟，直至蛋白凝固但蛋黄仍然柔软。用漏勺取出鸡蛋。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，在小平底锅或微波炉中将黄油融化直至起泡。在黄油变褐色之前将其从火上移开。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在搅拌机或食品加工机中将蛋黄、浓奶油、辣椒和盐一起搅拌直至光滑。将一半的热黄油以细细稳定的方式加入，速度要足够慢，以便至少与倒入的速度一样快。使用相同的方法混合柠檬汁，然后加入剩余的黄油。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将打开的英式松饼放在盘子上。上面放上 1 片加拿大培根和 1 个荷包蛋。淋上奶油酱，即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/70628/quick-and-easy-eggs-benedict/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "304bcc550aef480fc5113ff45ddeb2d4",
+    "translated": true
+  }
+}

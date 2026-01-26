@@ -1,0 +1,106 @@
+{
+  "id": "1c45f3677b85b047637bd0f273c03aaa",
+  "title": "约翰厨师的鸡肉和蘑菇",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/6b73539d0881e39d4b121d88c7e13b6f.webp",
+  "nutrition_tip": "多汁的鸡胸肉配上炒得恰到好处的蘑菇，真是一道美味……",
+  "ingredients": [
+    {
+      "name": "2 块鸡胸肉，去骨，带皮",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司新鲜蘑菇，切成 1/4 英寸厚的片",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用盐和黑胡椒粉给鸡肉各面调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在耐热煎锅中用中高温加热橄榄油。将鸡皮面朝下放入煎锅中，煮至棕色，大约 5 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "把鸡肉翻过来；将蘑菇加少许盐放入煎锅中搅拌。将热量调高；煮时，偶尔搅拌蘑菇，直到蘑菇稍微收缩，大约需要 5 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将煎锅转移到预热的烤箱中，煮 15 到 20 分钟，直至鸡肉中心不再呈粉红色且汁液清澈。插入中心的即时读数温度计读数应为 165 华氏度（74 摄氏度）。将鸡胸肉转移到盘子上，并用箔纸松散地盖住；放在一边。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将煎锅放在炉灶上，用中高火加热；煮并搅拌蘑菇，直到锅底开始形成棕色碎片，大约需要 5 分钟。将水倒入煎锅中，煮沸，同时刮掉锅底的褐色碎片。煮大约 2 分钟，直到水减少一半。从火上移开。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将鸡肉中积累的汁液倒入煎锅中搅拌。将黄油加入蘑菇混合物中，不断搅拌直至黄油完全融化并混合。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "用盐和胡椒调味。将蘑菇酱浇在鸡肉上即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2012-04-20",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/221887/chef-johns-chicken-and-mushrooms/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "36662c61bd9f3c858b963dcc785980a5",
+    "translated": true
+  }
+}

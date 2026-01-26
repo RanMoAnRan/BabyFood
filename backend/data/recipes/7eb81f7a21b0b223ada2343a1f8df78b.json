@@ -1,0 +1,102 @@
+{
+  "id": "7eb81f7a21b0b223ada2343a1f8df78b",
+  "title": "鸡肉土豆汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Soup",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/9fe0a41daccbf5474618d7c068b06d68.webp",
+  "nutrition_tip": "这种丰盛的鸡肉土豆汤是鸡肉面条汤的绝佳替代品。瓦…",
+  "ingredients": [
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "2 个去皮去骨鸡胸肉，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 撮调味盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "4 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "2 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 个大赤褐色土豆，切成四等份并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "2 根胡萝卜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大汤锅中用中火加热油。用调味盐和胡椒调味鸡肉，加入锅中，煮约 5 分钟，偶尔搅拌，直至中心不再呈粉红色。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入洋葱，煮至几乎半透明，约 5 分钟。加入大蒜，煮约 2 分钟，直至略呈褐色。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入肉汤、水、土豆、胡萝卜和芹菜；煮 15 至 20 分钟，直至土豆和胡萝卜变软。品尝并用盐、胡椒和辣椒调整调味。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-04",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/272232/chicken-potato-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cc1579dca7e0df991f3184e98613a0ea",
+    "translated": true
+  }
+}

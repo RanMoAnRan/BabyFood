@@ -1,0 +1,82 @@
+{
+  "id": "ab247c68b009ee4bdbc3d098d9b2e461",
+  "title": "馄饨皮开胃菜",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/0e09be125e18d80638ed5f975542e2e1.webp",
+  "nutrition_tip": "这些香肠馄饨是完美的开胃菜！脆皮馄饨杯装满了…",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "48 个馄饨皮",
+      "amount": ""
+    },
+    {
+      "name": "1 磅散装猪肉香肠",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蒙特利杰克奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牧场沙拉酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的黑橄榄，沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 24 杯迷你松饼罐上喷洒烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将馄饨皮放入准备好的松饼杯中；轻轻地按入底部并向上按压两侧。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤5分钟。从烤箱中取出并在锅中冷却。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，将香肠、蒙特利杰克奶酪、切达干酪、牧场沙拉酱和橄榄放入一个中等大小的碗中混合。将混合物均匀地分装在冷却的馄饨杯中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "返回烤箱烘烤，仔细观察以确保馄饨不会烧焦，直到馅料起泡并呈浅棕色，持续 10 到 15 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-30",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/20883/won-ton-wrapper-appetizers/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "000a8692af11d9157e13aabf4b3b1e84",
+    "translated": true
+  }
+}

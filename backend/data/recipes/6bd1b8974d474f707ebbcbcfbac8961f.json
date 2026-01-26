@@ -1,0 +1,83 @@
+{
+  "id": "6bd1b8974d474f707ebbcbcfbac8961f",
+  "title": "日期饼干",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/404acc37b016f84e7f59164e12c2ef71.webp",
+  "nutrition_tip": "这些美味的枣子饼干巧妙地加入了肉桂和丁香的香料。该数据…",
+  "ingredients": [
+    {
+      "name": "1 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1.3333333730698 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "3 杯过筛的通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙水",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯 切碎的去核枣",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的山核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将黄油和糖放入一个大碗中，搅拌至松软。一次加入一个鸡蛋，每次加入时都要搅拌均匀。将面粉、小苏打、肉桂和丁香混合；逐渐搅拌成奶油状混合物。将水和枣混合；与切碎的山核桃一起搅拌成面团。盖上盖子，冷藏 1 小时。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。给饼干片涂上油脂。将圆形勺子滴到准备好的饼干片上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 8 至 10 分钟。让饼干在烤盘上冷却 5 分钟，然后移至金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-06",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/17087/date-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d2de99f6118b06ac95179a7f022923c8",
+    "translated": true
+  }
+}

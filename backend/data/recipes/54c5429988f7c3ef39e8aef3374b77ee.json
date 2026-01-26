@@ -1,0 +1,83 @@
+{
+  "id": "54c5429988f7c3ef39e8aef3374b77ee",
+  "title": "简单的红薯饼",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/57b94514ebcf3954b7479668378cbcf9.webp",
+  "nutrition_tip": "这个红薯派有丰富的奶油馅料，由淡奶、鸡蛋制成……",
+  "ingredients": [
+    {
+      "name": "2 杯煮熟并捣碎的红薯",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯淡奶",
+      "amount": ""
+    },
+    {
+      "name": "0.375 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙融化的黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个（9 英寸）未烘烤的馅饼皮",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将红薯、淡奶、糖、盐、肉桂、肉豆蔻、朗姆酒、鸡蛋和黄油放入食品加工机的碗中混合；搅拌直至光滑。倒入准备好的馅饼壳中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤10分钟。将热量降至 300 华氏度（150 摄氏度）并继续烘烤，直至馅料变硬，再烘烤约 50 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-05-28",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/12190/easy-sweet-potato-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5eb3f06ed58188607b0bebf6fef7fb5b",
+    "translated": true
+  }
+}

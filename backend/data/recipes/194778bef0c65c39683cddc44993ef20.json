@@ -10,7 +10,7 @@
   "difficulty": 1,
   "time_cost": 180,
   "cover_image": "images/f97742f35dfe965fa4bc2098c4078ca3.webp",
-  "nutrition_tip": "一杯美味的淡色啤酒 - 或者一些烈性啤酒！ -提供这种以香草、奶油奶酪为基础的蘸酱……",
+  "nutrition_tip": "这种奶油啤酒酱可以用淡色艾尔啤酒或烈性黑啤酒制成，以赋予香草、c…",
   "ingredients": [
     {
       "name": "2 包（8 盎司）奶油干酪，软化",
@@ -33,7 +33,7 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "在一个中等大小的碗中，将奶油干酪和调味料混合。拌入切达干酪，然后加入啤酒。混合物会显得糊状。"
+      "text": "将奶油干酪和调味料混合在一个中等大小的碗中。拌入切达干酪，然后加入啤酒。混合物会显得糊状。"
     },
     {
       "step_index": 2,
@@ -43,13 +43,13 @@
   ],
   "warnings": [],
   "publish_date": "1999-10-27",
-  "updated_at": "2026-01-23T19:27:12Z",
+  "updated_at": "2026-01-26T19:22:39Z",
   "source_url": "https://www.allrecipes.com/recipe/14817/beer-dip-i/",
   "origin_url": "",
   "source_name": "Allrecipes",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "606a2ef9e3ffc3e5d5208b500479a7a1",
+    "source_hash": "0fad54f07a84f627581cff7042551ac3",
     "translated": true
   }
 }

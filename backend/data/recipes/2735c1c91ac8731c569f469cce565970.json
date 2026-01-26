@@ -1,0 +1,118 @@
+{
+  "id": "2735c1c91ac8731c569f469cce565970",
+  "title": "蔬菜馅饼",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/c9b2338f041bd8c8ac61c1451ed9a52c.webp",
+  "nutrition_tip": "这个馅饼是素食的。土豆、蘑菇、花椰菜、青豆和……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司蘑菇，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个大胡萝卜，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 个土豆，去皮切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜，切成 1/4 英寸宽",
+      "amount": ""
+    },
+    {
+      "name": "2 杯花椰菜小花",
+      "amount": ""
+    },
+    {
+      "name": "1 杯新鲜青豆，修剪并折成 1/2 英寸的碎片",
+      "amount": ""
+    },
+    {
+      "name": "3 杯蔬菜汤",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙玉米淀粉",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（14.1 盎司）双皮馅饼，解冻",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅或平底锅中加热油。加入蘑菇、洋葱和大蒜；煮3到5分钟，经常搅拌。加入胡萝卜、土豆和芹菜。加入花椰菜和青豆搅拌；加入蔬菜汤并煮沸。调小火，煮约 5 分钟，直至蔬菜变软。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将水、玉米淀粉和酱油放入小碗中混合，直至玉米淀粉完全溶解；拌入蔬菜，煮约 3 分钟，直至酱汁变稠。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将 1/2 的面团擀平，铺在 11x7 英寸的烤盘上。将蔬菜馅料倒入铺有糕点的盘中。将剩余的面团擀开；安排填充，然后密封边缘并开槽。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至馅饼顶部呈金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-06-22",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/16765/veggie-pot-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bbb2244c370e8686df4e2694f4f8de56",
+    "translated": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "9ba2c3cfbc79b4fdb7d2b3ae7c095e40",
+  "title": "黄瓜三明治 III",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/5658daa5ab5996fe95957aa4dc686e97.webp",
+  "nutrition_tip": "很棒的开胃菜。每次我吃完这些，每个人都想要食谱……而且……",
+  "ingredients": [
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 包（0.7 盎司）干意大利沙拉酱混合物",
+      "amount": ""
+    },
+    {
+      "name": "2 条法式面包，切成 1 英寸的片",
+      "amount": ""
+    },
+    {
+      "name": "2 根中等大小的黄瓜，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 撮干莳萝草",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个中等大小的碗中，将奶油奶酪、蛋黄酱和意大利调味料混合在一起。冷藏至少 6 小时，或最好过夜。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶油干酪混合物涂在法式面包片上。上面放一片黄瓜片，撒上莳萝。您可以根据需要制作任意数量或数量。奶油奶酪混合物在冰箱中可保存大约一周，这样您就可以一遍又一遍地制作它们！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-21",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/52112/cucumber-sandwiches-iii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f4392c0d757127980e2d71f90990a031",
+    "translated": true
+  }
+}

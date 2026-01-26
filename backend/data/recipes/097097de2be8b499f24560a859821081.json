@@ -1,0 +1,70 @@
+{
+  "id": "097097de2be8b499f24560a859821081",
+  "title": "最佳无培根菠菜沙拉酱",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/446537b32e6de73571f48b047e13233d.webp",
+  "nutrition_tip": "如果您想吃热培根酱，但餐桌上有素食主义者，那么……",
+  "ingredients": [
+    {
+      "name": "0.5 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙白葡萄酒醋",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙蜂蜜第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙磨碎的红洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙海盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯白糖，或更多适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将橄榄油、白葡萄酒醋、第戎芥末、红洋葱、海盐、黑胡椒和柠檬汁放入微波炉安全碗中搅拌。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在微波炉中将油混合物煮至热且几乎沸腾，持续 1 1/2 至 2 分钟。逐渐将糖加入热混合物中，直至调料变得浓稠且呈奶油状。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/241756/best-baconless-spinach-salad-dressing/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4178ba548355635c9732dd966a3e0405",
+    "translated": true
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "8f7e7b27fad69830e6ad4a748654ba84",
+  "title": "南瓜葡萄干饼干",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/754993b95954b8be6bfcdb77177ee772.webp",
+  "nutrition_tip": "这个快速南瓜葡萄干饼干食谱用完了剩下的南瓜，还有莱……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2.5 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯起酥油",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 杯固体包装南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙温水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。给烤盘涂上油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、南瓜派香料、1 茶匙肉桂、小苏打和盐放入碗中。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将红糖和起酥油放入另一个碗中，用电动搅拌机搅拌至光滑；加入鸡蛋和香草精搅拌至蓬松。加入南瓜泥搅拌；加入面粉混合物搅拌。拌入葡萄干和核桃。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将一勺面团放在准备好的烤盘上，间隔 2 英寸。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 10 至 12 分钟，直至边缘呈金黄色"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "同时，将糖果混合在一起。加糖和温水直至光滑；加入剩余的 1/2 茶匙肉桂粉。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在饼干上刷上肉桂釉。放在金属架上冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-26",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/11622/pumpkin-raisin-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5ea04a636c41f599586173c20796d9e4",
+    "translated": true
+  }
+}
