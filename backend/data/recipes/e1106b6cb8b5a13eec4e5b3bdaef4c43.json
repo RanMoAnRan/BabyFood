@@ -1,0 +1,84 @@
+{
+  "id": "e1106b6cb8b5a13eec4e5b3bdaef4c43",
+  "title": "自制法式马卡龙",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 95,
+  "cover_image": "images/85142928d09d9bee2f4071c8ed2c332e.webp",
+  "nutrition_tip": "这些精致的马卡龙饼干由杏仁粉、糖和蛋白制成，...",
+  "ingredients": [
+    {
+      "name": "3 个蛋白",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙超细（细）糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯杏仁粉",
+      "amount": ""
+    },
+    {
+      "name": "1.3333333730698 杯糖果糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 320 华氏度（160 摄氏度）。在烤盘上铺上羊皮纸或硅胶烤垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在干净的金属搅拌碗中将蛋白搅拌至浓稠，大约需要 5 分钟。将超细糖加入蛋清中，再搅拌 5 至 8 分钟，直至形成浓稠、有光泽且坚硬的峰。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "筛选杏仁粉和糖果打发的蛋白上加糖；轻轻折叠，保留尽可能多的空气。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "如果需要，将蛋白酥皮分成单独的碗来调味和着色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将蛋白酥皮舀入装有 3/8 英寸尖头的裱花袋中。将 1 英寸的蛋白酥皮片挤到准备好的烤盘上，饼干之间留出约 2 英寸的距离。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "让饼干在室温下静置约15分钟，形成薄皮。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "提起烤盘；让饼干从工作表面上方几英寸处掉落，将饼干粘在烤盘上。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "放入预热好的烤箱中烘烤约15分钟，直至表面干燥；让其在烤盘上完全冷却，然后撕掉羊皮纸，大约需要 45 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/223233/french-macaroons/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "29135bf57bdc06cb9a8c1f3367bca1fe",
+    "translated": true
+  }
+}

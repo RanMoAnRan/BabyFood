@@ -1,0 +1,60 @@
+{
+  "id": "f938368fa7b1ef06b68e4bf5621dd6c9",
+  "title": "基本梨酱",
+  "min_age_month": 6,
+  "tags": [
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/8e5ebab65accf16f01095e76faa0ab6c.webp",
+  "nutrition_tip": "一个简单的基本梨黄油食谱，其中包括用糖和辣椒烹制的梨泥……",
+  "ingredients": [
+    {
+      "name": "3 个切碎去皮的大梨",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将梨放入食品加工机的碗中；脉冲直至变成泥。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 3 杯梨泥放入平底锅中。加糖；煮约 15 分钟，偶尔搅拌，直至冒泡。加入肉桂粉搅拌；煮时经常搅拌，直至变稠，再煮约 15 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，检查一个 1 品脱罐子是否有裂纹，环是否生锈，丢弃有缺陷的。浸入沸水中至少 5 分钟，直到梨黄油准备好。用温肥皂水清洗新的、未使用的盖子和环。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将梨黄油装入热的、消毒过的罐子中，填充至顶部 1/4 英寸以内。用干净的刀或薄抹刀在罐子内部擦拭以除去任何气泡。用湿纸巾擦拭边缘以去除任何残留物。顶部盖上盖子并拧紧螺丝环。存放在冰箱中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/259927/basic-pear-butter/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "12ed2551e1e8fb2faa4715ed7624e4da",
+    "translated": true
+  }
+}

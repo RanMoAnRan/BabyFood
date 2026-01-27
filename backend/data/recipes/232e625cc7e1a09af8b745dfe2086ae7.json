@@ -1,0 +1,91 @@
+{
+  "id": "232e625cc7e1a09af8b745dfe2086ae7",
+  "title": "草莓芝士蛋糕咬",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/a0d466b832617d7dc2733e80611d5c6d.webp",
+  "nutrition_tip": "迷你草莓芝士蛋糕蘸上融化的半甜巧克力很容易……",
+  "ingredients": [
+    {
+      "name": "2 汤匙全麦饼干屑",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "12 个大的新鲜草莓，去壳",
+      "amount": ""
+    },
+    {
+      "name": "2 块（1 盎司）半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙菜籽油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在烤盘上铺上蜡纸。将全麦饼干屑放入浅碗中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "击败奶油奶酪，糖果&#39;糖和香草精放入碗中直至光滑。将混合物倒入装有大圆尖的裱花袋中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用锋利的削皮刀，从每个草莓的顶部切出一个圆锥形，留下一个小洞。将约一汤匙奶油干酪馅料倒入每个草莓中，确保馅料稍微溢出草莓顶部。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将每个草莓倒置，将馅料浸入面包屑中，直至涂上一层。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在微波炉安全的玻璃或陶瓷碗中每隔 30 秒融化巧克力和菜籽油，每次间隔后搅拌 1 到 3 分钟，直至温暖且光滑。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将草莓尖浸入融化的巧克力中，然后放在准备好的烤盘上并冷藏直至凝固。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/220104/strawberry-cheesecake-bites/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f225e659c3e6dcdd463870c5f48fb771",
+    "translated": true
+  }
+}

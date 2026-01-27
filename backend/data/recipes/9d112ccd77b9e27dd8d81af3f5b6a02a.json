@@ -1,0 +1,91 @@
+{
+  "id": "9d112ccd77b9e27dd8d81af3f5b6a02a",
+  "title": "哈克贝利松饼",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Snack",
+    "Breakfast",
+    "U.S.",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/6772dda671e1253f10148e4c88cd9ea9.webp",
+  "nutrition_tip": "这个越橘松饼食谱以新鲜越橘为特色，但也可以......",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯过筛的通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯越橘",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙通用面粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在 15 个松饼杯或带纸衬垫的杯形杯上涂上油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和黄油放入碗中，用电动搅拌机搅拌至光滑；加入牛奶、鸡蛋和香草精，搅拌均匀。将 1 3/4 杯面粉、泡打粉和盐放入另一个碗中；拌入面糊直至刚好湿润。将越橘和 1 汤匙面粉放入碗中，裹上一层：拌入面糊中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面糊分装到准备好的松饼杯中，每个杯装满⅔。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 分钟，直至轻压时顶部弹回。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/88869/huckleberry-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "99bc10c2ebaaccb66096a47faa5399e9",
+    "translated": true
+  }
+}

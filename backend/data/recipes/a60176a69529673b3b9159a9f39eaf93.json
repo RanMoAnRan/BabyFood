@@ -1,0 +1,75 @@
+{
+  "id": "a60176a69529673b3b9159a9f39eaf93",
+  "title": "最好的西葫芦开胃菜",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/126322e64a0246f3bf84d09345362a7c.webp",
+  "nutrition_tip": "这是用Bisquick和切达干酪制成的最好的西葫芦开胃菜食谱......",
+  "ingredients": [
+    {
+      "name": "3 杯西葫芦片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用烘焙粉",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将西葫芦、通用烘焙粉、鸡蛋、洋葱、切达干酪、油、大蒜和盐放入碗中；转移到准备好的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 25 分钟，直至起泡并呈浅棕色。切成36块即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/27193/best-zucchini-appetizer/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e47816681bed1c36ac552e675e78229b",
+    "translated": true
+  }
+}

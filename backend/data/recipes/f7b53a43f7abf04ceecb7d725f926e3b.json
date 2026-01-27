@@ -1,0 +1,98 @@
+{
+  "id": "f7b53a43f7abf04ceecb7d725f926e3b",
+  "title": "南瓜脆饼",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 100,
+  "cover_image": "images/b34d1f43cf94d67a92a16f55868296be.webp",
+  "nutrition_tip": "这个辣南瓜酥饼食谱是用南瓜泥制成的，使...",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯无盐黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯糖粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将面粉、南瓜派香料、盐和小苏打放入碗中搅拌直至混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄油放入一个大碗中，用电动搅拌机搅拌至光滑；加入 ½ 杯加 2 汤匙糖粉，搅拌至光滑。加入南瓜泥和香草精，中高速搅拌直至完全混合。加入 1/2 面粉混合物，搅拌直至完全混合；加入剩余的 1/2 面粉混合物，搅拌直至完全混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用保鲜膜盖住碗；放入冰箱冷藏，约1小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 2 个烤盘上铺上羊皮纸。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在撒了少许面粉的表面上将面团擀成 1/4 英寸厚；使用披萨刀或糕点轮切成 1x2 英寸的矩形。用竹签的背面在每个饼干上戳 3 个孔。将饼干放在准备好的烤盘上，间隔 ½ 英寸：撒上白糖。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 10 到 15 分钟，直至边缘呈金黄色。在烤盘上短暂冷却，然后转移到金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-12-14",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/282675/pumpkin-shortbread-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8e5df33ec06c60cbea429cfae874eab7",
+    "translated": true
+  }
+}

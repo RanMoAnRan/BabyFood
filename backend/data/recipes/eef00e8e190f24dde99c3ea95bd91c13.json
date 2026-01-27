@@ -1,0 +1,82 @@
+{
+  "id": "eef00e8e190f24dde99c3ea95bd91c13",
+  "title": "布法罗鸡肉酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/484cbe7054901d1937cbf3c5094c9209.webp",
+  "nutrition_tip": "水牛鸡肉酱由 5 种简单原料在慢炖锅中制成。这个创意…",
+  "ingredients": [
+    {
+      "name": "2 罐（10 盎司）鸡肉块，沥干",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯辣椒酱（例如 Frank's RedHot®）",
+      "amount": ""
+    },
+    {
+      "name": "2 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牧场调料",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1 束芹菜，切成 4 英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "1 盒（8 盎司）鸡肉味饼干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡肉和辣椒酱放入煎锅中，用中火加热 3 至 5 分钟，直至热透。加入奶油干酪和牧场沙拉酱。煮并搅拌 3 至 5 分钟，直至充分混合并加热。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入 1/2 的切达干酪，然后将混合物转移到慢炖锅中。将剩余的奶酪撒在上面。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "盖上锅盖，用低火煮约 35 分钟，直至酱汁变热并起泡。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热与芹菜条和饼干一起蘸食。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-01-02",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/68461/buffalo-chicken-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "581e544321759ee7ef09d800b013a713",
+    "translated": true
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "9e6a187bc28c18ce177b4fae7ab4817c",
+  "title": "热肉桂苹果白兰地苹果酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/6183fcb40a53ac7055f247d507747783.webp",
+  "nutrition_tip": "这种甜热的苹果白兰地苹果酒配方与丁香、坚果完美调味......",
+  "ingredients": [
+    {
+      "name": "0.5 加仑新鲜苹果酒",
+      "amount": ""
+    },
+    {
+      "name": "1 杯苹果白兰地",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙姜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "10 条细条橙皮碎",
+      "amount": ""
+    },
+    {
+      "name": "10 根小肉桂棒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将苹果酒、苹果白兰地、¼ 杯加 1 汤匙红糖、蜂蜜、肉桂、生姜、肉豆蔻、丁香、黑胡椒和盐放入平底锅中，中火加热；煮约 10 分钟，直至味道混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将苹果汁混合物倒入耐热杯中。用手指扭动橙皮条，释放精油；将 1 滴放入每个杯子中​​。在每个杯子中​​添加 1 根肉桂棒。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/261475/hot-cinnamon-apple-brandy-cider/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9e204f37728ccec00c76f3145ab98765",
+    "translated": true
+  }
+}

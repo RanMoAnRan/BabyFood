@@ -1,0 +1,113 @@
+{
+  "id": "3abde40685a28a995059edd427b5ac77",
+  "title": "辣苹果蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/ddd48902f875dbbf3615c8ed6a27d06d.webp",
+  "nutrition_tip": "这个美味的辣苹果蛋糕食谱是用新鲜苹果、香料和糖制成的……",
+  "ingredients": [
+    {
+      "name": "1.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯起酥油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 杯苹果 - 去皮、去核并切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 杯过筛的糖粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯淡奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸的方形平底锅上涂上油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、1茶匙肉桂、发酵粉、1/4茶匙肉豆蔻、小苏打和盐筛入碗中；放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将红糖、½ 杯起酥油和白糖一起放入一个大碗中，搅拌至松软；打入鸡蛋，一次一个，然后加入香草精搅拌。加入面粉混合物，与普通牛奶交替搅拌，直至完全混合。拌入苹果。将面糊转移到准备好的平底锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 35 到 40 分钟，直至插入中心的牙签拔出时是干净的。凉爽的。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "击败糖果商的将糖、1/4 杯起酥油、1/4 茶匙肉桂和 1 个肉豆蔻粉一起放入一个中等大小的碗中，用电动搅拌机搅拌至糖霜呈淡奶油状；加入淡奶，一次一汤匙，直至达到所需的涂抹稠度。铺在冷却的蛋糕上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-06-23",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/19117/spicy-apple-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "877aad9e88a9c51943a999b86b8f9cf2",
+    "translated": true
+  }
+}

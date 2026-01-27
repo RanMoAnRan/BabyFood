@@ -1,0 +1,75 @@
+{
+  "id": "b85152a9c09bec7e2a1f5aa03aa6c993",
+  "title": "慢炖锅碎牛肉辣椒",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 255,
+  "cover_image": "images/0795f284f59155cb34c3862d5866778a.webp",
+  "nutrition_tip": "这个慢炖锅碎牛肉辣椒食谱，配上芸豆、西红柿、温辣……",
+  "ingredients": [
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（19 盎司）芸豆，冲洗并沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（28 盎司）碎番茄",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙脱水洋葱片",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙孜然粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。加入碎牛肉；煮5到7分钟，搅拌直至变成棕色且易碎。排干并丢弃油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将牛肉转移到慢炖锅中；加入豆子、碎番茄、番茄酱、甜椒、洋葱片、辣椒粉和小茴香，搅拌混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上慢炖锅。低火煮 4 至 8 小时，直至味道融合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2012-10-23",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/282879/slow-cooker-ground-beef-chili/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8d8e4ab65a9ec92867d006821f8510f8",
+    "translated": true
+  }
+}

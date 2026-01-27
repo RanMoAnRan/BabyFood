@@ -1,0 +1,55 @@
+{
+  "id": "14b2e4d255cea72d5c489c5df54212fc",
+  "title": "香肠奶酪酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Mexican Inspired",
+    "Tex-Mex"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/f30b2169bea01ab1463d92e057b32371.webp",
+  "nutrition_tip": "这种香肠奎索酱是用辛辣的散装香肠、西红柿和辣椒制成的，还有米……",
+  "ingredients": [
+    {
+      "name": "10 盎司散装香肠",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10 盎司）西红柿切块，配青椒（例如 RO*TEL®），沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，切块",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）加工奶酪（例如 Velveeta®），切成方块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮并搅拌香肠，直至变成褐色且易碎，持续 5 至 7 分钟；沥干并转移到慢炖锅中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将番茄丁、辣椒、奶油奶酪和加工奶酪加入慢炖锅中；搅拌均匀。盖上锅盖，低火煮约 1.5 至 2 小时，直至奶酪融化，偶尔搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/221371/chorizo-queso-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "58005b6dedacfcbe066fb108bf45e935",
+    "translated": true
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "4ded17567b88e219ddafeb98be48fb3d",
+  "title": "南方猪里脊肉",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/01de2c395f3a618b2fb7ad24fbdea66a.webp",
+  "nutrition_tip": "将这些脆皮面包屑猪里脊肉片与大蒜土豆泥一起食用......",
+  "ingredients": [
+    {
+      "name": "2 杯 panko 面包屑",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙欧芹片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 块（1 磅）猪里脊肉，横向切成 1/2 英寸厚的片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将panko面包屑、欧芹片、大蒜粉、洋葱粉和黑胡椒一起放入碗中搅拌。将里脊肉片浸入面包屑混合物中，使两面都沾上面包屑。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在煎锅中用中高火加热橄榄油，然后将猪肉煎至面包屑涂层呈棕色且猪肉内部不再呈粉红色，每面煎 2 至 3 分钟。插入猪肉中心的即时肉类温度计读数应至少为 145 华氏度（65 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/229427/southern-pork-tenderloin/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c6613e420fc194a164fde3216873a7a0",
+    "translated": true
+  }
+}

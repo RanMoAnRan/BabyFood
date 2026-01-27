@@ -1,0 +1,45 @@
+{
+  "id": "a258a03892e39fa0077461e648a66853",
+  "title": "简易巧克力慕斯",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/31d60327cdbe38409897a7fdb5a474a9.webp",
+  "nutrition_tip": "这种简单的巧克力慕斯是用速溶布丁和凉爽的鞭子制成的......",
+  "ingredients": [
+    {
+      "name": "1.5 杯冷牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 包（3.9 盎司）速溶巧克力布丁粉",
+      "amount": ""
+    },
+    {
+      "name": "1 个（16 盎司）容器冷冻搅打配料，解冻",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将牛奶和布丁混合物放入一个大碗中搅拌 2 分钟。拌入搅打过的配料直至混合。食用前先放入冰箱冷藏。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/9531/easy-chocolate-mousse/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "aa5fef4dc0485b005a4435625c705646",
+    "translated": true
+  }
+}

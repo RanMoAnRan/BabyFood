@@ -1,0 +1,92 @@
+{
+  "id": "8959d853fb1e3318eee2aa3731f68d7b",
+  "title": "酸奶油西葫芦面包",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 95,
+  "cover_image": "images/3ce2b6112520388fefd0ea23a851fe31.webp",
+  "nutrition_tip": "这个酸奶油西葫芦面包食谱烘烤了两个新鲜的面包，味道丰富......",
+  "ingredients": [
+    {
+      "name": "2 杯糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 杯西葫芦丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 9x5 英寸的面包盘上涂抹少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和油放入碗中，用电动搅拌机搅拌；一次打一个鸡蛋，每次添加后打匀。加入香草精搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉、小苏打、盐和发酵粉筛入另一个碗中；加入糖混合物，与酸奶油交替搅拌，每次添加后搅拌直至完全混合。拌入西葫芦和核桃，直至完全混合。将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤，直至用牙签插入中心，拔出来时是干净的，大约需要 1 小时 20 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/24013/zucchini-bread-vii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1baf601c04db3a11038be5dc2e0a470a",
+    "translated": true
+  }
+}

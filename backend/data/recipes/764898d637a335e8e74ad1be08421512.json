@@ -1,0 +1,55 @@
+{
+  "id": "764898d637a335e8e74ad1be08421512",
+  "title": "虾酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/534eca57a7b9e154d7d3952cbbeecff6.webp",
+  "nutrition_tip": "奶油热虾沾有虾和葱。与饼干一起食用。",
+  "ingredients": [
+    {
+      "name": "1 罐（10.75 盎司）浓缩奶油虾汤",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1罐（4盎司）小虾，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 葱花",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将软化的奶油奶酪和未稀释的虾汤奶油一起用中弓搅拌直至蓬松。拌入虾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "微波炉加热约 2 分钟，或直至温热。在上面撒上切碎的葱。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-06-20",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/12711/shrimp-dip-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e64f53ea9e9f1df6df27231b11c54306",
+    "translated": true
+  }
+}

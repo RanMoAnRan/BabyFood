@@ -1,0 +1,66 @@
+{
+  "id": "68a8fde2ed732b6fa78744e1133f8f0b",
+  "title": "慢炖锅烤苹果",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 250,
+  "cover_image": "images/f954facf7741c8b91b29a304d823e9c3.webp",
+  "nutrition_tip": "这个慢炖锅烤苹果食谱可以制作出美味的秋季甜点 - 带有......",
+  "ingredients": [
+    {
+      "name": "4 个大苹果 - 去皮、去核、切片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙丁香粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将苹果、葡萄干、红糖、水、肉桂、肉豆蔻和丁香放入慢炖锅中混合；搅拌均匀。盖上慢炖锅。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用低火煮约 8 小时，或用高火煮约 4 小时，直到苹果和葡萄干变软。在苹果上浇上烹饪液即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/276008/slow-cooker-baked-apples/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "265890377a4ee14313f0f4342f14b636",
+    "translated": true
+  }
+}
