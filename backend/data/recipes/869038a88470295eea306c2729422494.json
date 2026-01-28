@@ -1,0 +1,58 @@
+{
+  "id": "869038a88470295eea306c2729422494",
+  "title": "桃子冰沙",
+  "min_age_month": 8,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/dcd6c41ad231a9ce5e1c66c5000871d1.webp",
+  "nutrition_tip": "这个简单的桃子冰沙配方结合了罐装桃子、原味酸奶、香蕉……",
+  "ingredients": [
+    {
+      "name": "1 罐（15.25 盎司）桃子",
+      "amount": ""
+    },
+    {
+      "name": "2 根香蕉，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯原味酸奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橙汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2 块冰",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将桃子、香蕉、酸奶、橙汁、糖和冰放入搅拌机中混合；高速搅拌直至冰被压碎并且冰沙达到所需的稠度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/232903/peach-banana-smoothie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a3b873884f87094c3430156959378a8d",
+    "translated": true
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "1ffe106e1777e4e47c18eb4a0eff7a47",
+  "title": "南瓜饼面包",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "Bread",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/6d07c0489d7275f3aeedca3d8824a08c.webp",
+  "nutrition_tip": "这个湿润的南瓜派面包配方是用南瓜泥、糖和调味料制成的……",
+  "ingredients": [
+    {
+      "name": "3.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "3 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 9x5 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、南瓜派香料、小苏打、泡打粉和盐放入碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖、南瓜、油和鸡蛋放入一个大碗中，用电动搅拌机搅拌至光滑细腻。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入面粉混合物，与水交替搅拌，每次添加后短暂搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面糊分装在准备好的平底锅之间。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 60 到 70 分钟，直至插入中心的牙签取出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-08-19",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/7243/pumpkin-pie-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4728333e886de59e7075dc9cbd2b6037",
+    "translated": true
+  }
+}

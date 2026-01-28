@@ -1,0 +1,79 @@
+{
+  "id": "910c742b1d06843890b0d3665156e933",
+  "title": "慢炖锅番茄酱",
+  "min_age_month": 12,
+  "tags": [
+    "Sauce",
+    "Italian Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 615,
+  "cover_image": "images/97c26122cd1c9b58289ecc26ae5e34e1.webp",
+  "nutrition_tip": "这个慢炖锅番茄酱配方是用新鲜的罗马番茄、大蒜、…",
+  "ingredients": [
+    {
+      "name": "10 个罗马（李子）番茄 - 去皮、去籽并压碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个小洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮肉桂",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将西红柿、洋葱、橄榄油和大蒜放入慢炖锅中；用牛至、罗勒、辣椒、盐、黑胡椒和肉桂调味。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "盖上慢炖锅。低火煮 10 至 15 小时，直至达到所需的稠度和风味。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/58854/slow-cooker-tomato-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8147a48fd75d6060389a04c7e91cf838",
+    "translated": true
+  }
+}

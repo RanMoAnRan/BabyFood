@@ -1,0 +1,49 @@
+{
+  "id": "a3edf40e70952dca799ec0cdce0fe9ca",
+  "title": "花生酱苹果酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/8ab07a785a6b0ce40fece0395af7a6f1.webp",
+  "nutrition_tip": "这个简单的 4 种成分的花生酱苹果酱配方是用花生制成的，但是……",
+  "ingredients": [
+    {
+      "name": "1 杯花生酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将花生酱、红糖、奶油干酪和牛奶放入碗中，搅拌至光滑。放入冰箱冷藏。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/228667/peanut-butter-apple-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c98805605b37c7fbe7005e5ca87ef1eb",
+    "translated": true
+  }
+}

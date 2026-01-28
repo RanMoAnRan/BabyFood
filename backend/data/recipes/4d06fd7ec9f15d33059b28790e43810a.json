@@ -1,0 +1,107 @@
+{
+  "id": "4d06fd7ec9f15d33059b28790e43810a",
+  "title": "烟熏四辣椒莎莎酱",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/501d9e2ef3f083e5581a8a09199b3a17.webp",
+  "nutrition_tip": "这个快速简单的烟熏四辣椒萨尔萨食谱使用四种辣椒，......",
+  "ingredients": [
+    {
+      "name": "8 个成熟的李子番茄",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "4 个波布拉诺辣椒",
+      "amount": ""
+    },
+    {
+      "name": "1 个大青椒",
+      "amount": ""
+    },
+    {
+      "name": "4 个阿纳海姆智利辣椒",
+      "amount": ""
+    },
+    {
+      "name": "1 个墨西哥辣椒，或更多调味",
+      "amount": ""
+    },
+    {
+      "name": "0.25 洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的香菜叶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙白醋",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙豆科灌木风味烟熏浓缩液",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将户外烤架预热至中火，并在烤架上涂上少许油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用油擦西红柿。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤架上煮10分钟；翻动。将波布拉诺辣椒、甜椒、阿纳海姆辣椒和墨西哥辣椒放在烤架上；每面煮 5 至 7 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将西红柿转移到碗中。将甜椒、波布拉诺辣椒、阿纳海姆辣椒和墨西哥辣椒放入密封容器中。很酷，大约15分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "西红柿去皮。流走。辣椒去皮、去籽。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将西红柿、辣椒、洋葱、香菜、醋、盐和大蒜放入食品加工机的碗中；脉冲直至混合。添加烟液；脉冲直至莎莎酱达到所需的稠度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/140294/smoky-four-pepper-salsa/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "857428c2911410fbfb43bcebc1500fbf",
+    "translated": true
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "1bbdb5b15eff34d0986f6aa2f2c65acd",
+  "title": "苹果馅烤橡子南瓜",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/d29dfdff79dd99511753707f3dc71d21.webp",
+  "nutrition_tip": "这个烤橡子南瓜配苹果馅食谱的特点是苹果、芹菜和……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个橡子南瓜，切半并去籽",
+      "amount": ""
+    },
+    {
+      "name": "1 个苹果，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 芹菜丁",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙黄油，切块",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙枫糖浆",
+      "amount": ""
+    },
+    {
+      "name": "1 撮肉桂粉，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在烤盘上涂上少许橄榄油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜切面朝下放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将苹果、芹菜、水、洋葱和黄油放入一个小烤盘中；覆盖。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤南瓜和苹果混合物，直至南瓜和苹果混合物变软，大约需要 45 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将苹果混合物填入南瓜两半；淋上枫糖浆，撒上肉桂粉。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/235677/baked-acorn-squash-with-apple-stuffing/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3e3151a2b3fdeea0e0a5f8d544b3eba3",
+    "translated": true
+  }
+}

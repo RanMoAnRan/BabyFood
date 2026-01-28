@@ -1,0 +1,98 @@
+{
+  "id": "c198638bef340a238d19213d7f8cd301",
+  "title": "烟熏香肠、羽衣甘蓝和红薯汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/9179000016114dd407834b5a440f2b40.webp",
+  "nutrition_tip": "这个烟熏香肠、羽衣甘蓝和红薯汤的配方充满了羽衣甘蓝、酱……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "3 杯 Hillshire Farm® 烟熏香肠，切成 1 英寸的圆形",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（19 盎司）鹰嘴豆",
+      "amount": ""
+    },
+    {
+      "name": "1 个大红薯，切丁",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉，甜辣椒粉或烟熏辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙墨西哥辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙香菜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "6 杯低钠鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "4 杯羽衣甘蓝（或菠菜）",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙碎羊奶酪或山羊奶酪",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙现磨黑胡椒，用于装饰",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大锅中用中火加热橄榄油。加入洋葱；煮约 5 分钟，直至洋葱释放出一些水分。拌入香肠、鹰嘴豆、红薯和大蒜；用辣椒粉、辣椒粉、香菜、小茴香和盐调味。煮 5 分钟，偶尔搅拌。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将汤料加入锅中；煮沸。煮10到15分钟，直到红薯变软。拌入羽衣甘蓝；煮约1分钟，直至枯萎。顶部配有奶酪和现磨黑胡椒。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-03-02",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/241533/smokey-sausage-kale-sweet-potato-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9d8d3b3828ffee915db0cafb470031e2",
+    "translated": true
+  }
+}

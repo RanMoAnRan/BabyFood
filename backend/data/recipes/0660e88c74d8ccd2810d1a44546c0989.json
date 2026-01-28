@@ -1,0 +1,86 @@
+{
+  "id": "0660e88c74d8ccd2810d1a44546c0989",
+  "title": "姜毛茛南瓜汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/004f97e790000e4396087610aed99e67.webp",
+  "nutrition_tip": "甜甜的素食毛茛南瓜汤，配姜配方，加入洋葱……",
+  "ingredients": [
+    {
+      "name": "2 汤匙特级初榨橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个大黄洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙海盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙现磨黑胡椒，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2.5 磅毛茛南瓜 - 去籽、去皮、切块",
+      "amount": ""
+    },
+    {
+      "name": "1 大瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙切碎的新鲜鼠尾草",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙切碎的新鲜迷迭香",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜姜根",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "3 块蔬菜汤",
+      "amount": ""
+    },
+    {
+      "name": "3 杯热水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大锅中用中火加热橄榄油。加入洋葱、盐和黑胡椒；煮约 5 分钟，直至洋葱变软且半透明。加入南瓜、大蒜、鼠尾草、迷迭香、生姜和糖，搅拌均匀。将肉汤溶解在带倾倒嘴的大玻璃量杯中的热水中；放入锅中搅拌混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将汤煮沸。关小火，盖上锅盖，小火煮 15 至 20 分钟，直至南瓜变软。关火，用浸入式搅拌机将汤打成泥，直至变得光滑。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-10-15",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/285860/buttercup-squash-soup-with-ginger/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "87e71bdc6743ef483d7cb6c6f05a1631",
+    "translated": true
+  }
+}

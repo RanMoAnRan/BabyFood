@@ -1,0 +1,108 @@
+{
+  "id": "83e04454e7142f960b6c47e31e8c5bba",
+  "title": "西葫芦派",
+  "min_age_month": 12,
+  "tags": [
+    "Brunch",
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/356cf6bdb29bddac4c37b6bfee30663a.webp",
+  "nutrition_tip": "这个西葫芦派就像一个无壳的乳蛋饼。用切碎机制作很容易……",
+  "ingredients": [
+    {
+      "name": "3 杯西葫芦，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1/2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 杯酪乳烘焙混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "1/2 杯切达白切达奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干马郁兰",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的欧芹，或适量",
+      "amount": ""
+    },
+    {
+      "name": "黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将西葫芦丝放入碗中，加入 1/2 茶匙盐；静置 15 分钟。转移到干净的厨房毛巾上，然后将多余的液体拧入水槽中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸馅饼盘上涂抹油脂。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将西葫芦、鸡蛋、烘焙混合物、洋葱、融化的黄油、切达奶酪、帕尔马干酪、迷迭香、欧芹和胡椒放入一个大碗中；搅拌均匀。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将混合物倒入准备好的馅饼盘或烤盘中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至呈金黄色，用刀插入中间，取出来时是干净的。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-14",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/14877/zucchini-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f9849c025781d3fb14ad4b76909c566a",
+    "translated": true
+  }
+}

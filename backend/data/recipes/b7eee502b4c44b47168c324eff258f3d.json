@@ -1,0 +1,99 @@
+{
+  "id": "b7eee502b4c44b47168c324eff258f3d",
+  "title": "菠萝西葫芦面包",
+  "min_age_month": 12,
+  "tags": [
+    "Bread",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/295e7e271ea5ebb4fc2e45c4d55421d2.webp",
+  "nutrition_tip": "这个简单的菠萝西葫芦面包食谱可以制作出两种湿润、甜美的快速面包......",
+  "ingredients": [
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 杯磨碎的西葫芦",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎菠萝",
+      "amount": ""
+    },
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 9x5 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖、油、鸡蛋和香草精放入碗中，用电动搅拌机搅拌至浓稠；拌入西葫芦和菠萝。加入面粉、小苏打、肉桂、盐、肉豆蔻和发酵粉，直至混合；拌入葡萄干和核桃。将面糊分装到准备好的平底锅中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至插入中心的牙签取出时是干净的。在平底锅中冷却 10 分钟，然后从平底锅中取出并转移到金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-08-17",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/16507/pineapple-zucchini-loaf/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e8444d5c5e94f48b5a87f5983e757d76",
+    "translated": true
+  }
+}
