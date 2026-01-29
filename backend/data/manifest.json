@@ -1,17 +1,17 @@
 {
-  "version": "21452370335",
-  "updated_at": "2026-01-28T19:26:26Z",
+  "version": "21491815085",
+  "updated_at": "2026-01-29T19:28:19Z",
   "recipe_count": 200,
   "latest_ids": [
+    "c393e3db22cb61f357b8306627a922cf",
     "24bd54b1b02d815532996e7101c88a82",
     "0660e88c74d8ccd2810d1a44546c0989",
     "c692585ca8b9a553b79e7fadc6289a07",
     "9a30c682643cf1e7c6559df67a000a5e",
     "f7b53a43f7abf04ceecb7d725f926e3b",
-    "5cec7b2c1994e4ada9a84ed5d2788f29",
+    "0e7fb8df5d163c0d97006662eede708d",
     "187795e5a836fc70b86decefedb852b2",
     "173504a39719babbd960ac7c8d47b44b",
-    "e4e1364d9ef3075fd497c28427d96a91",
     "6704cf605ec5ddf913497afa9e1a183f"
   ],
   "sources": [
@@ -31,5 +31,5 @@
     "base_url": "",
     "note": "聚合多个站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。"
   },
-  "data_ref": "data-21452370335-1"
+  "data_ref": "data-21491815085-1"
 }

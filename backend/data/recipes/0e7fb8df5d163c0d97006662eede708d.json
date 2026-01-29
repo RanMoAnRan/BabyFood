@@ -1,0 +1,91 @@
+{
+  "id": "0e7fb8df5d163c0d97006662eede708d",
+  "title": "菠菜辣酱玉米饼馅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Lunch",
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/c0bcc5e88fea82d8a88c8c7bd94381ed.webp",
+  "nutrition_tip": "这些菠菜辣酱玉米饼馅又快又简单。用常见的食品储藏室原料制成……",
+  "ingredients": [
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葱片",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（10 盎司）冷冻切碎菠菜，解冻、沥干并挤干",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切碎的蒙特利杰克奶酪，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 杯意大利乳清干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "10 个（6 英寸）玉米饼",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（19 盎司）墨西哥卷饼酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中火融化黄油。加入葱和大蒜；煮并搅拌2至3分钟直至散发出香味。拌入菠菜，煮5分钟。从火上移开，加入 1 杯蒙特利杰克、乳清干酪和酸奶油混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在平底锅中用中火加热一个玉米饼，直至变软，大约需要 15 秒。重复此操作以加热剩余的玉米饼。将约 1/4 杯菠菜混合物舀到每个玉米饼的中心，将玉米饼卷在馅料周围，然后将接缝朝下放入 9x13 英寸的烤盘中。将辣酱玉米饼馅倒在上面，撒上剩余的 1 杯蒙特利杰克。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 15 到 20 分钟，直至酱汁冒泡且奶酪边缘呈浅棕色。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-23",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/59661/spinach-enchiladas/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dec9c25ca2b7c77aab5968a1a81e6c50",
+    "translated": true
+  }
+}

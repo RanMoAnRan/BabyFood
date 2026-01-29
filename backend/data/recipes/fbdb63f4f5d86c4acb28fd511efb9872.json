@@ -1,0 +1,125 @@
+{
+  "id": "fbdb63f4f5d86c4acb28fd511efb9872",
+  "title": "牛肉、豆类和啤酒辣椒",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/876e7e78bce8b7b4d0675c777677a6c6.webp",
+  "nutrition_tip": "主厨约翰使用辣椒啤酒为这道丰盛的美食增添令人难以置信的风味和深度……",
+  "ingredients": [
+    {
+      "name": "1 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "2 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 凤尾鱼智利粉",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 瓶（12 盎司）啤酒",
+      "amount": ""
+    },
+    {
+      "name": "2 杯水，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 杯番茄泥",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙不加糖可可粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙 辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2罐（12盎司）斑豆，沥干并冲洗干净",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯 波布拉诺辣椒丁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将一个大锅放在大火上；淋上油。在热油中烹煮并搅拌碎牛肉、洋葱和盐，直至牛肉易碎并变成褐色，并且释放的液体蒸发，大约需要 4 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将热量降低至中高。加入智利粉、大蒜、小茴香、辣椒粉、黑胡椒和肉桂。煮并搅拌 3 至 4 分钟，直至混合物开始变黑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "倒入啤酒。加入水、番茄泥、可可粉、牛至和辣椒；搅拌均匀。煮沸；将火调至中低，煮 30 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "拌入豆子和波布拉诺胡椒。煮约30分钟，直至辣椒变软且味道混合；如果辣椒变得太稠，请加更多的水。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-07-20",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/244558/beef-bean-and-beer-chili/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e2ca1c45ddf98f0fdf7eba03c12022fa",
+    "translated": true
+  }
+}

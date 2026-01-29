@@ -1,0 +1,69 @@
+{
+  "id": "6c6184dc2ac6c5a958d8bf31cec21145",
+  "title": "简易三文鱼酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/95f7d04d67345f73df434e23bc38205b.webp",
+  "nutrition_tip": "这种简单的三文鱼酱，用罐装三文鱼、奶油奶酪、酸奶油在几分钟内制成......",
+  "ingredients": [
+    {
+      "name": "1 罐（14.75 盎司）三文鱼，沥干并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干莳萝",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将三文鱼、奶油奶酪、酸奶油、柠檬汁、大蒜、欧芹、莳萝、盐和黑胡椒放入碗中搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/242230/easy-salmon-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "67e0a32dda9c90436a4ee8488b4cbf17",
+    "translated": true
+  }
+}

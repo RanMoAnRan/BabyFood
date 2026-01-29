@@ -1,0 +1,94 @@
+{
+  "id": "fc804a5c0d34637a4fc07d4fb7809b08",
+  "title": "奶油番茄玉米卷汤配碎牛肉",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/1186cf23b3965fe13a8fd7b49af532f2.webp",
+  "nutrition_tip": "这个酮玉米卷汤配碎牛肉、西红柿、洋葱、小茴香、大蒜和辣椒……",
+  "ingredients": [
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14.5 盎司）牛肉汤",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10 盎司）番茄丁和青辣椒（例如 RO*TEL®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将碎牛肉、洋葱和大蒜放入大汤锅中，用中火加热。煮并搅拌 5 至 7 分钟，直至牛肉变成棕色且易碎。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "排出并丢弃油脂。加入孜然和辣椒粉；再煮2分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将奶油芝士一点点滴入锅中，用大勺将其捣碎到牛肉中，直至没有白点，3至5分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "加入肉汤、西红柿丁和青辣椒、浓奶油和盐。煮至热透，再煮约 10 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/264017/creamy-keto-taco-soup-with-ground-beef/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a90c41be00861eb6888c8db5695de7b4",
+    "translated": true
+  }
+}
