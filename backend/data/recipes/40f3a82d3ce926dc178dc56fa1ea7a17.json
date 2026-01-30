@@ -1,0 +1,95 @@
+{
+  "id": "40f3a82d3ce926dc178dc56fa1ea7a17",
+  "title": "农舍馅饼",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "Uk And Ireland",
+    "British"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/95ea90f28f9d3cc326be0eaa60722e62.webp",
+  "nutrition_tip": "这个小屋馅饼食谱用调味碎牛肉制成了经典的舒适食品，......",
+  "ingredients": [
+    {
+      "name": "4 个大育空黄金土豆，切成四等分",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙黄油，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 普罗旺斯香草",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯冷冻豌豆",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸深盘馅饼盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将土豆放入锅中；盖上盐水，然后用大火煮沸。将火调至中低，盖上锅盖，小火煮约 20 分钟，直至土豆变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "排水；与2汤匙黄油和大蒜一起捣碎。用盐和胡椒调味；放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，在煎锅中用中火加热橄榄油。加入碎牛肉、普罗旺斯香草和肉豆蔻；煮约 10 分钟，搅拌直至牛肉呈浅棕色且易碎。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将牛肉均匀地铺在准备好的馅饼盘上。均匀地盖上豌豆；将土豆泥铺在豌豆上。在馅饼的顶部涂上剩余的黄油。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "不盖盖子，在预热的烤箱中烘烤约 20 分钟，直至顶部呈金黄色并加热。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-10-08",
+  "updated_at": "2026-01-30T19:29:51Z",
+  "source_url": "https://www.allrecipes.com/recipe/169136/cottage-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "572e5744b0aa7cabecf09095e81bf9e3",
+    "translated": true
+  }
+}
