@@ -1,0 +1,59 @@
+{
+  "id": "6e4cea1a70f1b3a73712d409b82e3c06",
+  "title": "快速简单的花生糖",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/803044dfc8d0c9e352aa80bf938d51ad.webp",
+  "nutrition_tip": "将花生与黄油、糖和盐的混合物搅拌，即可快速轻松地制作自制食品......",
+  "ingredients": [
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯带壳花生",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在果冻卷盘上铺上羊皮纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中火融化黄油。将糖和盐与融化的黄油搅拌至完全溶解。将锅从火上移开，加入花生，搅拌至完全裹上花生；立即倒在准备好的平底锅上并铺成均匀的层。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "冷藏至少 30 分钟直至变脆。与羊皮纸分离并分成碎片。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/240165/quick-and-easy-peanut-brittle/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "36fb509daba083ac4f97d9f289cbdb13",
+    "translated": true
+  }
+}

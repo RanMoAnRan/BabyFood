@@ -1,0 +1,137 @@
+{
+  "id": "a8fdd72c61d476481750c20bb4998f37",
+  "title": "传统陀螺仪",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Lunch",
+    "Greek Inspired",
+    "Greek"
+  ],
+  "difficulty": 1,
+  "time_cost": 195,
+  "cover_image": "images/a5cf0ae8f03d2b94523eaa5037444a45.webp",
+  "nutrition_tip": "在家制作希腊陀螺三明治，将美味的自制陀螺肉分层，嗯……",
+  "ingredients": [
+    {
+      "name": "1 个小洋葱，切成块",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎羊肉",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干马郁兰",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干迷迭香",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙现磨黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙海盐",
+      "amount": ""
+    },
+    {
+      "name": "12 汤匙鹰嘴豆泥",
+      "amount": ""
+    },
+    {
+      "name": "12 个皮塔面包",
+      "amount": ""
+    },
+    {
+      "name": "1 颗小头生菜，切丝",
+      "amount": ""
+    },
+    {
+      "name": "1 个大番茄，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个大红洋葱，切片",
+      "amount": ""
+    },
+    {
+      "name": "6 盎司碎羊奶酪",
+      "amount": ""
+    },
+    {
+      "name": "24 汤匙酸奶黄瓜酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将洋葱放入食品加工机中并切碎。将洋葱转移到一块粗棉布上，然后挤出液体。将洋葱放入一个大碗中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将羊肉、牛肉、大蒜、牛至、孜然、马郁兰、百里香、迷迭香、黑胡椒和盐与洋葱用手混合直至充分混合。用保鲜膜盖住碗并冷藏直至味道混合，大约需要 2 小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将肉类混合物放入食品加工机中，搅拌约 1 分钟，直至切碎且发粘。将肉混合物装入 7x4 英寸的面包盘中，确保没有气泡。将面包盘放入烤盘中，在面包盘周围倒入足够的沸水，水位达到面包盘两侧的一半，进行水浴。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 至 60 分钟，直至中心不再呈粉红色。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。倒掉积聚的脂肪并稍微冷却。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将煮熟的陀螺肉饼切成薄片。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将 1 汤匙鹰嘴豆泥涂在每个皮塔面包上。然后在每个三明治上放上一些陀螺肉片、生菜丝、番茄片、红洋葱片、羊奶酪碎和 2 汤匙酸奶黄瓜酱，以完成每个三明治。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/240559/traditional-gyros/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "feab536690e2e77af9e0ec14e5b45b79",
+    "translated": true
+  }
+}

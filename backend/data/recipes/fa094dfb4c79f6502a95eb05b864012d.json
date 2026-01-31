@@ -1,0 +1,74 @@
+{
+  "id": "fa094dfb4c79f6502a95eb05b864012d",
+  "title": "大蒜托斯卡纳鸡",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/0743019f4ff9ab55b198d13caff8b871.webp",
+  "nutrition_tip": "这个托斯卡纳鸡肉食谱将鸡胸肉放入浓郁的奶油帕尔玛干酪中慢炖......",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1.5 磅去皮去骨鸡胸肉，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "1 杯菠菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的晒干西红柿",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在大煎锅中用中高温加热橄榄油。将鸡肉煮至棕色且中心不再呈粉红色，每面煮 3 至 5 分钟。将鸡肉取出放在盘子上。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将浓奶油、鸡汤、帕尔马干酪、大蒜粉和意大利调味料加入煎锅中。用中高火搅拌酱汁，直至开始变稠，大约需要 5 分钟。加入菠菜和晒干的西红柿；煮约1分钟，直至菠菜开始枯萎。将鸡肉放回煎锅中，煮 2 至 3 分钟直至热透。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-08-06",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/269767/garlic-tuscan-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2366b60ec6cb80f2398f0d2f850c1630",
+    "translated": true
+  }
+}
