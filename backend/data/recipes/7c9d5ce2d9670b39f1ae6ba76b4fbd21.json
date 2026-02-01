@@ -1,0 +1,59 @@
+{
+  "id": "7c9d5ce2d9670b39f1ae6ba76b4fbd21",
+  "title": "BLT 卷",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/41519031a409b8c00bf7190d75ddd3d8.webp",
+  "nutrition_tip": "我喜欢保鲜膜，但对蛋黄酱过敏，所以我设计了这个保鲜膜来粘......",
+  "ingredients": [
+    {
+      "name": "1磅厚切片培根，切成1英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "4 个（12 英寸）玉米饼",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 颗卷心生菜，切丝",
+      "amount": ""
+    },
+    {
+      "name": "1 个番茄，切丁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将培根放入一个又大又深的煎锅中。用中高火煮至均匀棕色。沥干，放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 1 个玉米饼放在微波炉安全盘上。在玉米饼上撒上 1/4 杯奶酪。在微波炉中煮 1 至 2 分钟，或直至奶酪融化。立即在上面放上 1/4 的培根、生菜和番茄。将玉米饼的两侧折叠起来，然后卷起来。对剩余成分重复上述步骤。食用前将每个包装切成两半。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-01T19:22:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/31845/blt-wraps/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "47a1509d48c76e270c2bc52c48a71af4",
+    "translated": true
+  }
+}

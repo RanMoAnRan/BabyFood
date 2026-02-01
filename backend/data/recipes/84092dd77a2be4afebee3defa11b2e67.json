@@ -1,0 +1,86 @@
+{
+  "id": "84092dd77a2be4afebee3defa11b2e67",
+  "title": "简易炼乳蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/6dea9916910376ddaf886e62566d765a.webp",
+  "nutrition_tip": "这个简单的炼乳蛋糕食谱使用面粉、鸡蛋和黄油来制作美味......",
+  "ingredients": [
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14 盎司）甜炼乳",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙无盐黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙糖粉，用于撒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。 1将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸弹簧盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 1 杯加 3 汤匙面粉和泡打粉放入一个大碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将甜炼乳、鸡蛋和融化的黄油放入一个中等大小的碗中；加入面粉混合物中，用电动搅拌机搅拌至光滑。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蛋糕糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "放入已预热的烤箱中烘烤，直至牙签插入中心，拔出时干净，约45分钟；放在金属架上冷却 5 分钟。用刀在边缘周围划一圈以松开；小心地将蛋糕翻转到盘子上以完全冷却。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "用糖果店除尘？食用前加糖。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-09-18",
+  "updated_at": "2026-02-01T19:22:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/268117/easy-condensed-milk-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5e346b8c1359aff67f48769afc7ef0cf",
+    "translated": true
+  }
+}

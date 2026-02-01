@@ -1,0 +1,80 @@
+{
+  "id": "5097d1e5316192f1df754e339e5485c9",
+  "title": "简易鸡肉和黄米饭",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/c6a049d5d6d7ca5839cd9076eb4ce4d8.webp",
+  "nutrition_tip": "调味鸡肉配上包装好的黄米和青椒，是一道……",
+  "ingredients": [
+    {
+      "name": "5.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙鸡精颗粒",
+      "amount": ""
+    },
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）黄米",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 撮黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮家禽调味料，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将水和鸡汤放入大煎锅中煮沸。加入鸡胸肉和灯笼椒；用中火煮约20分钟，直到鸡肉中心不再呈粉红色。取出鸡肉，将剩余的肉汤倒入 9x13 英寸的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将米饭、随附的调味包和橄榄油搅拌成肉汤。将鸡胸肉铺在米饭上；用黑胡椒和家禽调味料调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至液体被吸收并且米饭变软。食用前用叉子将米饭弄松。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-02-01T19:22:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/236108/easy-chicken-and-yellow-rice/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b1be2c7806936fdd22a7e047a75cb5db",
+    "translated": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "338d7c0d0aaa5dc82be282b614135174",
+  "title": "正宗恩潘纳达糕点面团",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Appetizer",
+    "Argentine"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/65d79e3cc9c1f93d4ba681e0756a2a83.webp",
+  "nutrition_tip": "从头开始制作自己的肉馅卷饼糕点非常容易。制作一个完整的电子…",
+  "ingredients": [
+    {
+      "name": "2 杯 通用面粉，过筛",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯无盐黄油，冷藏并切块",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙温水",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将过筛的面粉和黄油放入食品加工机的碗中混合；脉冲直至易碎。加入鸡蛋和豆类直至完全混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将盐溶解在温水中。逐渐加入食品加工机中，搅拌直至形成软面团。将面团放入碗中，并用保鲜膜紧紧包裹。冷藏至少 30 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在工作表面撒上面粉，然后揉面团 1 分钟。擀成薄片，切成圆形；立即用于您最喜欢的甜味或咸味肉馅卷饼，或冷冻以供稍后使用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-04",
+  "updated_at": "2026-02-01T19:22:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/266134/authentic-empanada-pastry-dough/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9f43b711515a1f19b9e7428482b5eec1",
+    "translated": true
+  }
+}

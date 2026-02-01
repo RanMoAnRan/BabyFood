@@ -1,0 +1,72 @@
+{
+  "id": "23812f75580022ee082a2fd899b938ae",
+  "title": "黑米",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/c37e066764f44f2f2a65075e7076d0c0.webp",
+  "nutrition_tip": "这道黑米抓饭配洋葱和杏仁是一道独特、美味的配菜……",
+  "ingredients": [
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯黑米",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯洋葱丁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯杏仁片",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 块鸡汤",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中火融化黄油。加入黑米、洋葱和杏仁；煮5到10分钟，搅拌直至稍微烤熟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加水和肉汤；煮沸。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将火调至小火，盖上锅盖，小火煮 25 至 30 分钟，直至米饭变软且液体被吸收。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-04",
+  "updated_at": "2026-02-01T19:22:06Z",
+  "source_url": "https://www.allrecipes.com/recipe/246000/black-rice/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "24f299235c072bf388f55020e3a5d23a",
+    "translated": true
+  }
+}
