@@ -10,7 +10,7 @@ Component({
       },
       {
         pagePath: "/pages/list/index",
-        text: "菜谱",
+        text: "辅食",
         iconPath: "/images/tabbar/recipe.svg",
         selectedIconPath: "/images/tabbar/recipe-active.svg"
       },

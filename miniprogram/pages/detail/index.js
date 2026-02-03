@@ -63,7 +63,7 @@ Page({
         this.checkAllergens(recipe);
         this.setData({ recipe });
       } else {
-        wx.showToast({ title: "未找到食谱", icon: "error" });
+        wx.showToast({ title: "未找到辅食", icon: "error" });
       }
     } finally {
       // wx.hideLoading();

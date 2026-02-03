@@ -3,7 +3,7 @@
     <view class="custom-nav-back" bindtap="onBack">
       <view class="back-arrow"></view>
     </view>
-    <view class="custom-nav-title-center">食谱详情</view>
+    <view class="custom-nav-title-center">辅食详情</view>
   </view>
 </view>
 
