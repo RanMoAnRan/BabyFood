@@ -887,6 +887,11 @@ def main():
     parser.add_argument("--verbose", action="store_true", help="打印抓取进度")
     parser.add_argument("--dry-run", action="store_true", help="只抓取与解析，不落盘写文件")
     parser.add_argument("--allow-partial", action="store_true", help="中断时写入已抓取的部分数据")
+    parser.add_argument(
+        "--rebuild-index",
+        action="store_true",
+        help="不联网：从 backend/data/recipes/*.json 重建 manifest.json + recipes_index.json",
+    )
     args = parser.parse_args()
 
     print(
@@ -903,6 +908,98 @@ def main():
 
     old_manifest = read_json(manifest_path, {})
     old_index = read_json(index_path, {})
+
+    def source_meta(name: str) -> dict:
+        if name == "Nutrition.gov (USDA)":
+            return {
+                "name": "Nutrition.gov (USDA)",
+                "base_url": "https://www.nutrition.gov/recipes/search",
+                "note": "USDA/NAL 站点内容一般为 public domain，但仍建议保留 source_url/origin_url 以便溯源。",
+            }
+        if name == "Allrecipes":
+            return {
+                "name": "Allrecipes",
+                "base_url": "https://www.allrecipes.com/recipes/",
+                "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。",
+            }
+        return {"name": name, "base_url": "", "note": ""}
+
+    if args.rebuild_index:
+        print("[rebuild-index] 从本地 recipes 目录重建索引…", flush=True)
+        items: list[dict] = []
+        present_sources: list[str] = []
+        seen_sources = set()
+
+        if os.path.exists(RECIPES_DIR):
+            for fn in sorted(os.listdir(RECIPES_DIR)):
+                if not fn.endswith(".json"):
+                    continue
+                path = os.path.join(RECIPES_DIR, fn)
+                detail = read_json(path, None)
+                if not isinstance(detail, dict):
+                    continue
+                rid = detail.get("id")
+                src_name = detail.get("source_name")
+                if not rid or not src_name:
+                    # 跳过 demo 或不完整数据，避免污染线上索引
+                    continue
+                src_name = str(src_name)
+                if src_name not in seen_sources:
+                    seen_sources.add(src_name)
+                    present_sources.append(src_name)
+
+                items.append(
+                    {
+                        "id": str(rid),
+                        "title": str(detail.get("title") or ""),
+                        "min_age_month": int(detail.get("min_age_month") or 0),
+                        "tags": detail.get("tags") if isinstance(detail.get("tags"), list) else [],
+                        "difficulty": int(detail.get("difficulty") or 1),
+                        "time_cost": int(detail.get("time_cost") or 0),
+                        "cover_image": str(detail.get("cover_image") or ""),
+                        "publish_date": str(detail.get("publish_date") or "1970-01-01"),
+                        "source_name": src_name,
+                    }
+                )
+
+        items.sort(key=lambda x: (x.get("publish_date", ""), x.get("title", "")), reverse=True)
+        latest_ids = [it.get("id") for it in items[:10] if it and it.get("id")]
+
+        sources = [source_meta(n) for n in present_sources]
+        manifest = {
+            "version": "",
+            "updated_at": "",
+            "recipe_count": len(items),
+            "latest_ids": latest_ids,
+            "sources": sources,
+            "source": (
+                sources[0]
+                if len(sources) == 1
+                else {
+                    "name": "Multi-source recipes",
+                    "base_url": "",
+                    "note": "本地重建的聚合索引；建议保留 source_url/origin_url 以便溯源与合规核对。",
+                }
+            ),
+        }
+        index = {"version": "", "items": items}
+
+        if args.dry_run:
+            print(f"[rebuild-index] dry-run: items={len(items)} sources={present_sources}", flush=True)
+            return
+
+        version = os.environ.get("DATA_VERSION") or utc_now_iso()
+        data_ref = os.environ.get("DATA_REF") or ""
+        manifest["version"] = version
+        index["version"] = version
+        manifest["updated_at"] = utc_now_iso()
+        if data_ref:
+            manifest["data_ref"] = data_ref
+
+        print(f"[rebuild-index] 写入 manifest/index：items={len(items)} version={version}", flush=True)
+        write_json(manifest_path, manifest)
+        write_json(index_path, index)
+        return
 
     limit = args.limit or None
     allrecipes_limit = args.allrecipes_limit or None

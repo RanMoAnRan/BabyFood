@@ -1,9 +1,9 @@
 name: Daily Update
 
 on:
-  schedule:
-    # 北京时间 03:00 ≈ UTC 19:00
-    - cron: "0 19 * * *"
+  # schedule:
+  #   # 北京时间 03:00 ≈ UTC 19:00
+  #   - cron: "0 19 * * *"
   workflow_dispatch:
     inputs:
       site:
@@ -18,7 +18,7 @@ on:
       allrecipes_limit:
         description: "Allrecipes 最多抓取条数（0 表示不限制）"
         required: false
-        default: "200"
+        default: "1000"
       nutrition_max_pages:
         description: "Nutrition.gov 最多翻页数（0 表示不限制）"
         required: false

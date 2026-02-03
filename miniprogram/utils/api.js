@@ -201,9 +201,16 @@ async function fetchIndex({ force = false } = {}) {
     return normalized;
   }
 
+  // If manifest has no data_ref, prefer the default CDN_BASE (@main) even if a previous
+  // run pinned bf_cdn_base to an old tag. This avoids manifest/index version mismatch.
+  const base =
+    manifest && manifest.data_ref
+      ? resolveCdnBase()
+      : CDN_BASE;
+
   const shouldBust = force || (hasCachedItems && bust && cached.version !== bust);
   const url = withQuery(
-    joinUrl(resolveCdnBase(), PATHS.index),
+    joinUrl(base, PATHS.index),
     shouldBust ? { v: bust, t: Date.now() } : { v: bust },
   );
   try {
@@ -239,8 +246,12 @@ async function fetchRecipe(id, { force = false, version = null } = {}) {
   let manifest = storage.get(STORAGE_KEYS.manifest, null);
   if (!manifest || !manifest.version) manifest = await fetchManifest();
   const bust = manifest && manifest.version ? manifest.version : "";
+  const base =
+    manifest && manifest.data_ref
+      ? resolveCdnBase()
+      : CDN_BASE;
   const url = withQuery(
-    joinUrl(resolveCdnBase(), `${PATHS.recipeDir}/${id}.json`),
+    joinUrl(base, `${PATHS.recipeDir}/${id}.json`),
     force ? { v: bust, t: Date.now() } : { v: bust },
   );
   try {
