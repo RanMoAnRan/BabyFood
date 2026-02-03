@@ -1,0 +1,74 @@
+{
+  "id": "8aa209cfca99f0096f458ddf46f121b8",
+  "title": "韩国卤水煮鸡蛋",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Korean"
+  ],
+  "difficulty": 1,
+  "time_cost": 490,
+  "cover_image": "images/d18d40721f93d4318d2a54674fe87644.webp",
+  "nutrition_tip": "辣、咸，还有一丝韩国卤蛋的甜。这些使得一个伟大的…",
+  "ingredients": [
+    {
+      "name": "1 杯酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯糖",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等大小的葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的墨西哥辣椒，去籽并切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 蒜末",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙烤芝麻",
+      "amount": ""
+    },
+    {
+      "name": "12 个大煮鸡蛋，去皮",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙芝麻油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将酱油、水、糖、葱、墨西哥辣椒、大蒜和芝麻混合在一个大碗中。将鸡蛋放入碗中，盖上盖子，冷藏 8 小时至过夜。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "从冰箱中取出鸡蛋。切成两半，放在盘子上。用勺子舀一些腌料在上面，淋上芝麻油即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-05-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/284468/korean-marinated-hard-boiled-eggs/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f962edefcd670c3aebaf9e43461cbbf1",
+    "translated": true
+  }
+}

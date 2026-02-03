@@ -1,0 +1,103 @@
+{
+  "id": "dd79181b4f43486dd5b94b682a2e26e3",
+  "title": "一锅脆皮鸡饭",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/90ef28d6ad78e2b53a717aac5e72a249.webp",
+  "nutrition_tip": "这个脆皮鸡肉和米饭的一锅食谱提供了经济实惠、舒适的…",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "6 个（4 盎司）带骨带皮鸡大腿",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙粗盐，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙无盐黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯切碎的黄洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯生长粒米",
+      "amount": ""
+    },
+    {
+      "name": "3 杯鸡汤，分份或更多品尝",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙切碎的平叶欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的柠檬，切成楔形",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大型荷兰烤箱中用中高温加热油。在鸡腿上均匀撒上 1 茶匙盐和 1/2 茶匙胡椒粉。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡皮面朝下放入荷兰烤箱中；不受干扰地煮约 5 分钟，直至金黄酥脆并轻松从底部脱离。翻转鸡肉，再煮 3 分钟。转移到盘子上并放在一边。此时鸡肉还不会煮熟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在滴下的黄油中加入黄油并融化。加入洋葱，煮约 3 分钟，经常搅拌，直至半透明。加入大蒜；煮1分钟。添加米饭；煮约 1 分钟，搅拌使谷物沾上水滴，然后轻轻烘烤。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "加入 3 杯高汤和剩余的盐和胡椒粉，搅拌。煮沸。用木勺刮掉荷兰烤箱底部的任何褐色碎片。将鸡腿放在米饭上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 到 55 分钟，不盖盖子，直到所有液体都被吸收，鸡肉的骨头不再呈粉红色，汁液清澈。如果在米饭和鸡肉变软之前液体被吸收，请添加更多汤料，一次 1/4 杯。撒上欧芹，将柠檬汁挤在上面。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-12-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/282524/one-pot-crispy-chicken-and-rice/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1cb967230d354189401a57484a733447",
+    "translated": true
+  }
+}

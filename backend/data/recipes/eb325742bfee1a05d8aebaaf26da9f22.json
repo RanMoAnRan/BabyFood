@@ -1,0 +1,81 @@
+{
+  "id": "eb325742bfee1a05d8aebaaf26da9f22",
+  "title": "熏背培根",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 4480,
+  "cover_image": "images/aa69deeea4585aab92954218612e5582.webp",
+  "nutrition_tip": "这种自制的培根在甜咸混合中腌制，然后才成型……",
+  "ingredients": [
+    {
+      "name": "6 杯水",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙枫糖浆",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙粉红盐#1（腌制盐）",
+      "amount": ""
+    },
+    {
+      "name": "1 块（1 磅）猪里脊肉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将水、粗盐、糖、枫糖浆、大蒜粉和腌制盐混合直至溶解。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将猪腰肉放入足够大的大袋子或食品安全容器中，以将其完全浸入腌制盐水中。添加盐水并冷藏至少 3 天。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将猪肉从盐水中取出，用纸巾拍干；丢弃盐水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "根据制造商的说明将吸烟者预热至 180 华氏度（82 摄氏度）。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将猪肉放在金属架上。将架子放入吸烟器中。根据制造商的说明添加木片。熏约 2 1/2 小时，直至猪肉中心呈淡粉色。插入中心的即时读数温度计读数应至少为 145 华氏度（63 摄氏度）。切片前先冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-07-04",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/285051/smoked-back-bacon/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a8904f09bd2e283620a0ecfab680e60b",
+    "translated": true
+  }
+}

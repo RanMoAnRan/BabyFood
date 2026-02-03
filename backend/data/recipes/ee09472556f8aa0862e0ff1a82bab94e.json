@@ -1,0 +1,139 @@
+{
+  "id": "ee09472556f8aa0862e0ff1a82bab94e",
+  "title": "卷心菜烤宽面条",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 150,
+  "cover_image": "images/3fa191bd4a2e9541d31a7109b839b1ad.webp",
+  "nutrition_tip": "这个非常饱足的低碳水化合物烤宽面条配方使用卷心菜叶代替烤宽面条......",
+  "ingredients": [
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "4 盎司蘑菇片",
+      "amount": ""
+    },
+    {
+      "name": "1 磅罐装番茄",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙百里香",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻",
+      "amount": ""
+    },
+    {
+      "name": "1 颗卷心菜",
+      "amount": ""
+    },
+    {
+      "name": "24 盎司低脂干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙牛至",
+      "amount": ""
+    },
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "2 杯磨碎的部分脱脂马苏里拉奶酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉、洋葱和大蒜，并搅拌 5 到 7 分钟，直至肉变成棕色且易碎。排干并丢弃油脂。加入胡萝卜和蘑菇。加入西红柿，用叉子将其打碎。添加罗勒、糖、1 茶匙盐、百里香和肉豆蔻。关小火，将肉酱煮30分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，将一大锅水烧开。将卷心菜浸入沸水中，小心地折断叶子。煮约 3 分钟，直至叶子变软。流走。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将干酪、1/2 杯帕尔马干酪、欧芹、1 1/2 茶匙盐和牛至放入碗中，放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上烹饪喷雾，然后将一层煮熟的卷心菜叶平放在底部。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "保留1/4杯肉酱。将 1/2 剩余的酱汁涂在烤盘中的卷心菜叶上。铺上 1/2 干酪混合物，然后铺上 1/2 马苏里拉干酪。添加第二层卷心菜叶，然后添加剩余的 1/2 肉酱、剩余的干酪混合物和马苏里拉奶酪。在上面撒上保留的 1/4 杯肉酱，最后撒上 1/2 杯帕尔马干酪。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤45分钟。从烤箱中取出，放置 15 分钟后再切片。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/269558/cabbage-lasagna/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4eb9777e8b39000de14194a4caf0be96",
+    "translated": true
+  }
+}

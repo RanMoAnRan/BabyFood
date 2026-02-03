@@ -1,0 +1,91 @@
+{
+  "id": "0e81a9bac6be372e91cdaa669b498fec",
+  "title": "意大利香肠和面疙瘩汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/6f10f0979945f83b2881da1459de5116.webp",
+  "nutrition_tip": "这道土豆面疙瘩汤，配以意大利香肠、菠菜和西红柿，味道浓郁，…",
+  "ingredients": [
+    {
+      "name": "0.5 磅散装意大利香肠",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的黄洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3.5 杯 Swanson® 无盐鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）土豆面疙瘩",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的菠菜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯罐装番茄丁",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯磨碎的帕尔马干酪（或更多适量），用于装饰",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高火加热煎锅。加入磨碎的香肠，将其切成小块，煮约 7 分钟，直至变成棕色。转移到碗里。排干并丢弃油脂；用纸巾擦拭煎锅。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄油加入煎锅中，用中火融化。加入洋葱，炒至半透明，持续 2 至 3 分钟。加入大蒜，煮约 1 分钟，直至散发出香味。加入面粉搅拌约 1 分钟，直至与融化的黄油均匀混合。慢慢倒入鸡汤和奶油；搅拌直至混合物沸腾，然后立即将热量降至最低。煮约 10 分钟，直至混合物变稠，偶尔搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将香肠放回煎锅；加入面疙瘩、菠菜和西红柿。将火调至中火，煮 2 至 3 分钟，直至汤团完全加热。用盐和胡椒调味。用帕尔马干酪装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-10-05",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/245092/italian-sausage-and-gnocchi-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "361da0dfd7030cddce1be8d0982b342f",
+    "translated": true
+  }
+}

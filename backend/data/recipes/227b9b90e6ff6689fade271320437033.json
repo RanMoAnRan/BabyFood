@@ -1,0 +1,84 @@
+{
+  "id": "227b9b90e6ff6689fade271320437033",
+  "title": "烤金枪鱼牛排",
+  "min_age_month": 12,
+  "tags": [
+    "Entree",
+    "Dinner",
+    "Japanese",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 7,
+  "cover_image": "images/283266cdf8a25af5dfc5e827230484d9.webp",
+  "nutrition_tip": "尝试这个简单的金枪鱼牛排食谱，制作优雅的烤金枪鱼片……",
+  "ingredients": [
+    {
+      "name": "2 块（5 盎司）金枪鱼牛排",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙整粒花椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将金枪鱼排拍干，两面用盐和辣椒调味。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中高温融化黄油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入橄榄油和花椒；煮约 5 分钟，直至花椒软化并爆裂。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将调味好的金枪鱼轻轻放入煎锅中，煮至所需的熟度，每面煮 30 秒到 1 1/2 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将金枪鱼切成 1/4 英寸厚的片即可食用。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-12-09",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/160099/seared-ahi-tuna-steaks/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "119d5d89eb702d5005ba73abd1a5892f",
+    "translated": true
+  }
+}

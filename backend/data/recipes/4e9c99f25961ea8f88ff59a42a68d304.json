@@ -1,0 +1,100 @@
+{
+  "id": "4e9c99f25961ea8f88ff59a42a68d304",
+  "title": "美味的蜂蜜鸡肉串",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Middle Eastern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 150,
+  "cover_image": "images/61a6e7282390be9f7b5189a9338381c7.webp",
+  "nutrition_tip": "用蜂蜜和酱油腌制的鸡肉串，串在串上，沾上颜色…",
+  "ingredients": [
+    {
+      "name": "0.33333334326744 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯 酱油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "8 个去皮、去骨鸡胸肉半块 - 切成 1 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "5 个小洋葱，切成 2 英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的红甜椒，切成 2 英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜",
+      "amount": ""
+    },
+    {
+      "name": "12根竹串，或根据需要，在水中浸泡30分钟",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "制作腌料：在一个大玻璃碗中将蜂蜜、酱油、油和黑胡椒一起搅拌。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 1/4 杯腌料放入小罐子中；密封并放在一边以供烹饪时使用。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡肉、洋葱、青椒和大蒜加入大碗的腌料中。盖上盖子并在冰箱中腌制2小时或过夜。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "准备做饭时，将户外烤架预热至高温，并在烤架上涂上少许油。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "沥干鸡肉和蔬菜的腌料；丢弃腌料。将鸡肉和蔬菜交替穿在串上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将烤肉串放在预热的烤架上。煮约 12 至 15 分钟，时常翻动并刷上保留的腌料，直到鸡肉各面都变成漂亮的棕色，并且鸡肉中心不再呈粉红色。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-04-23",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/8626/yummy-honey-chicken-kabobs/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ac09eef120dc6c53f2ac19d5a1f4a6a3",
+    "translated": true
+  }
+}

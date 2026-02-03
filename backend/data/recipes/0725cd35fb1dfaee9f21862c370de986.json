@@ -1,0 +1,75 @@
+{
+  "id": "0725cd35fb1dfaee9f21862c370de986",
+  "title": "有史以来最好的馅饼皮",
+  "min_age_month": 12,
+  "tags": [
+    "Pie",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/a67a220e489be44367fe1df678ef7c88.webp",
+  "nutrition_tip": "这种带有起酥油的馅饼皮配方仅使用四种成分，而且很简单......",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯起酥油，切成小块，冷冻 30 分钟",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯冰水，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大碗中将面粉和盐一起搅拌。用糕点搅拌机切入冷冻起酥油，直到混合物看起来像豌豆大小的粗面包屑。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加入1/4杯冰水；用叉子从底部搅拌面粉，直到混合均匀。按下任何块，继续将面团绕在碗周围。继续加入冰水，每次一汤匙，搅拌直至面团湿润到足以在成型时粘在一起；您不需要超过 4 汤匙，事实上，可能需要更少。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "轻轻地将面团聚集成球。分成两半，将每一半压平成 1 英寸厚的圆盘。用保鲜膜包裹每个光盘并在冰箱中冷藏至少 30 分钟。为获得最佳效果，请冷藏 4 小时或最多 2 天。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "准备使用时，将面团在撒有少许面粉的表面上滚动，小心不要过度劳累。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面团放入馅饼盘中。如果在加工过程中它碎裂或撕裂，只需捏压它即可恢复原状。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "按照馅饼食谱中的指示使用馅饼皮。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-03-29",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/12111/best-ever-pie-crust/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a9fb00eca977a3fdac0f8699d267a490",
+    "translated": true
+  }
+}

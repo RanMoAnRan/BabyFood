@@ -1,0 +1,104 @@
+{
+  "id": "5f4b6c8d006b664e8e25b5765d323cdf",
+  "title": "最好的自制馅料",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 1525,
+  "cover_image": "images/87d65e0729bb6dc4ea59d91cc36c8249.webp",
+  "nutrition_tip": "这个最好的自制馅料配方是经典，用烤面包、芹菜制成......",
+  "ingredients": [
+    {
+      "name": "30 片白面包，轻烤",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋，轻轻打散",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙水，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙鼠尾草",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将吐司铺在烤盘上；在室温下静置约 24 小时直至变硬。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在 9x13 英寸的烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用擀面杖将吐司压成碎屑；转移到一个大碗里。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在中型平底锅中用中火融化黄油。加入洋葱和芹菜；煮5至7分钟直至变软。远离热源；流走。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将肉汤和鸡蛋搅拌到面包屑中直至湿润，但不要湿透。如果需要，加水。拌入洋葱、芹菜、鼠尾草和大蒜粉；用盐和胡椒调味。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将混合物压入准备好的烤盘中。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至顶部呈棕色且酥脆。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-30",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/23412/old-fashioned-stuffing/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4c831754e7b5ac59b143c9c487b34fbf",
+    "translated": true
+  }
+}

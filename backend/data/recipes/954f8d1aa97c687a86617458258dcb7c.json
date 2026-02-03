@@ -1,0 +1,72 @@
+{
+  "id": "954f8d1aa97c687a86617458258dcb7c",
+  "title": "烤箱烧烤牛胸肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 250,
+  "cover_image": "images/a89802d6d939b5750a3ffed177c6f377.webp",
+  "nutrition_tip": "这个烧烤牛胸肉在烤箱里慢慢煮熟，切片，然后涂上烧烤…",
+  "ingredients": [
+    {
+      "name": "4 磅牛胸肉",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙现磨黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯烧烤酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（160 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在牛胸肉两面撒上盐、胡椒粉和蒜粉。放入荷兰烤箱或带盖的大烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中，盖上盖子，不加水，煮 3 小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将牛胸肉从锅中取出并切片。将切片放回锅中。将烧烤酱与水混合；倒在切好的牛胸肉上。盖上锅盖再煮1小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-06",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/14647/oven-barbecued-beef-brisket-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "488f54632c6f93e8abf401e8d2265e90",
+    "translated": true
+  }
+}

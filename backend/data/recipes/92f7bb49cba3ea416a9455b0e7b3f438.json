@@ -4,7 +4,8 @@
   "min_age_month": 12,
   "tags": [
     "Dessert",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 270,
@@ -92,7 +93,7 @@
   ],
   "warnings": [],
   "publish_date": "1998-11-25",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12481/old-fashioned-coconut-cream-pie/",
   "origin_url": "",
   "source_name": "Allrecipes",

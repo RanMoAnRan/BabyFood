@@ -1,0 +1,111 @@
+{
+  "id": "8cb6666111489497369c7b5b7c9f4af0",
+  "title": "南瓜煎饼",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "Brunch",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/43494982dbe74758bf7a44428042a684.webp",
+  "nutrition_tip": "这个南瓜煎饼食谱，用生姜、肉桂和五香粉调味，疯狂……",
+  "ingredients": [
+    {
+      "name": "1.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙醋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙红糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙五香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙姜末",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大碗中搅拌牛奶、南瓜、鸡蛋、油和醋，直至充分混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、糖、泡打粉、小苏打、五香粉、肉桂、生姜和盐放入一个中等大小的碗中搅拌。加入南瓜混合物中搅拌，直至不再有干条纹。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用烹饪喷雾喷洒煎锅或煎锅；用中高温加热。将每个煎饼3至4汤匙面糊倒入煎锅上；稍微压平。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "煮 2 到 3 分钟，直至表面形成小气泡，且边缘看起来凝固。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "翻转并煮至金黄色，再煮约 2 分钟。对剩余的面糊重复上述步骤。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-10",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/17036/pumpkin-pancakes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6e7d45fe37d0ce9477c084f0eed89bfb",
+    "translated": true
+  }
+}

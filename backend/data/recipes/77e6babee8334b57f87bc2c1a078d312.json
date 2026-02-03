@@ -1,0 +1,109 @@
+{
+  "id": "77e6babee8334b57f87bc2c1a078d312",
+  "title": "库格尔",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "World",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 90,
+  "cover_image": "images/e74d02905f9295a6647f3019c537c723.webp",
+  "nutrition_tip": "Kugel 是一道丰富而蓬松的砂锅菜，配有嫩面条、酸奶油、鸡蛋和……",
+  "ingredients": [
+    {
+      "name": "1包（8盎司）大鸡蛋面",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙黄油，切片",
+      "amount": ""
+    },
+    {
+      "name": "6 个鸡蛋，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75（8 盎司）包奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）奶油干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯全麦饼干屑",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的玻璃烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅淡盐水煮沸。加入意大利面，煮 8 至 10 分钟或直至有嚼劲；沥干并拌入 6 汤匙切片黄油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个中等大小的碗中搅拌蛋黄、糖和奶油干酪；搅拌成面条。加入酸奶油、干酪和盐。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蛋白打至硬性发泡，然后拌入混合物中。将混合物转移到准备好的烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将融化的黄油、1/4 杯糖和全麦饼干屑放入一个小碗中；撒在面条混合物上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至砂锅凝固并在顶部形成漂亮的金棕色外壳。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/25228/kugel/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "51b736093fcff58acc7edd613dfe48e2",
+    "translated": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "c959b411a23e991414f70b7dad3d1bc1",
+  "title": "黑糖烟熏酒",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/abbd45bb69c7746a39a1cb63882e88fe.webp",
+  "nutrition_tip": "这个红糖烟熏食谱可以制作出可爱的培根包裹的小烟熏......",
+  "ingredients": [
+    {
+      "name": "1 磅培根",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）小烟熏香肠",
+      "amount": ""
+    },
+    {
+      "name": "1 杯红糖，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将培根片切成三份。将每条带子包裹在香肠上。在每个木串上固定几根香肠。将串肉串放在烤盘上；撒上大量红糖。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 至 25 分钟，直至培根酥脆且糖液化，中途翻转以使其均匀褐变。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "转移到盘子上。食用前静置 5 分钟；冷却时釉会变稠。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-06",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/14939/brown-sugar-smokies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0b894de7ba569a2cda43ba37235844ce",
+    "translated": true
+  }
+}

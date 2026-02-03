@@ -1,0 +1,74 @@
+{
+  "id": "05cc6519fba57e54c09a1bbf84ac98a2",
+  "title": "简单的南瓜派",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/5005daafa8bb62af57b6ac27968a17e5.webp",
+  "nutrition_tip": "这个简单的南瓜派食谱需要很少的原料，但却能创造出完美的、f…",
+  "ingredients": [
+    {
+      "name": "1 个（9 英寸）未烘烤的馅饼皮",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14 盎司）甜炼乳",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙南瓜派香料",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将馅饼皮放入 9 英寸馅饼盘中，然后将其放在烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将南瓜泥、炼乳、鸡蛋和南瓜派香料一起放入一个大碗中；混合直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物倒入馅饼皮中。在预热的烤箱中烘烤 15 分钟。将热量降低至 350 华氏度（175 摄氏度）；继续烘烤 35 至 40 分钟，直至馅料凝固。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "从烤箱中取出，在食用前放在金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/229932/simple-pumpkin-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "016bf99c2f92bad3fd48da1690ba30b6",
+    "translated": true
+  }
+}

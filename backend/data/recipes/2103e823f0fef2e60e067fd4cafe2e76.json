@@ -1,0 +1,85 @@
+{
+  "id": "2103e823f0fef2e60e067fd4cafe2e76",
+  "title": "南方风格羽衣甘蓝",
+  "min_age_month": 8,
+  "tags": [
+    "Side Dish",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 195,
+  "cover_image": "images/8b6bf854b942b1dd2c27696684fb023a.webp",
+  "nutrition_tip": "羽衣甘蓝与熏火腿、大蒜和洋葱一起在肉汤中炖……",
+  "ingredients": [
+    {
+      "name": "2 个中等甜洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 根熏火腿",
+      "amount": ""
+    },
+    {
+      "name": "4 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 个（32 盎司）容器鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "3 包（1 磅）羽衣甘蓝，修剪过",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯苹果醋",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙黑胡椒粉，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将洋葱、火腿和大蒜放入汤锅中混合；加入鸡汤，用中火煮1至2小时，直至肉从骨头上脱落。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将羽衣甘蓝、醋、糖、盐和胡椒粉加入肉汤混合物中；煮约 2 小时，直至蔬菜达到所需的嫩度。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "上菜并享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/235931/southern-style-collard-greens/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "eacf55edd9556df050669e71677efd8a",
+    "translated": true
+  }
+}

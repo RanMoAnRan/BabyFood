@@ -1,0 +1,89 @@
+{
+  "id": "412d3bb59925b4482f01e2db7b51d584",
+  "title": "意大利香肠、辣椒和洋葱",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/b3b56604b3ca321ab205aaf7f888b0fa.webp",
+  "nutrition_tip": "这个香肠和辣椒配洋葱、大蒜和香草的食谱很简单，很美味……",
+  "ingredients": [
+    {
+      "name": "6 根（4 盎司）链接甜意大利香肠",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的黄洋葱，切片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个中等大小的红洋葱，切片",
+      "amount": ""
+    },
+    {
+      "name": "4 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个大红甜椒，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的青椒，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白葡萄酒，或更多品尝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将香肠放入大煎锅中，用中火煮 5 到 7 分钟，直至各面变成棕色。从煎锅中取出，切片。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在同一个煎锅中融化黄油。加入洋葱和大蒜，煮2至3分钟。加入青椒，用罗勒和牛至调味，然后加入 1/4 杯葡萄酒搅拌。继续煮5到7分钟，直到辣椒和洋葱变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将香肠片放回煎锅中。将火调至小火，盖上锅盖，小火煮 15 分钟，或直至香肠完全加热，如果需要，可添加更多葡萄酒。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2004-10-07",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/76808/italian-sausage-peppers-and-onions/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3081050b3085916f4539d6155b94e311",
+    "translated": true
+  }
+}

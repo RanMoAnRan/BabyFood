@@ -1,0 +1,114 @@
+{
+  "id": "69a3d56d9bce1d1247b87dd1d27115c9",
+  "title": "猪肉野米砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/7e8d2767d2017c54e682d08c10c7aa46.webp",
+  "nutrition_tip": "这个奶油野米和猪肉香肠砂锅配培根，芹菜，蘑菇，......",
+  "ingredients": [
+    {
+      "name": "2 杯生菰米",
+      "amount": ""
+    },
+    {
+      "name": "6 杯水",
+      "amount": ""
+    },
+    {
+      "name": "6 片培根",
+      "amount": ""
+    },
+    {
+      "name": "4 磅碎猪肉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯面粉",
+      "amount": ""
+    },
+    {
+      "name": "3.5 杯半杯",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（18 盎司）即食奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "1罐（8盎司）蘑菇切片，沥干，保留液体",
+      "amount": ""
+    },
+    {
+      "name": "1 杯杏仁片",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（2 盎司）多椒切块",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将米和水放入锅中煮沸。将火调小，盖上锅盖，煮 45 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将培根放入大煎锅中，用中高火煮至均匀呈棕色。沥干水分，压碎，放在一边。将猪肉放入煎锅中，煮至均匀呈棕色。沥干并放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将煎锅温度降至中火并融化黄油。加入洋葱和芹菜，煮至变软；放在一边。将面粉与剩余的黄油混合直至光滑。在碗中，将保留的蘑菇液和一半混合；放入煎锅中搅拌，煮至浓稠。拌入汤。加入 6 杯煮熟的米饭、煮熟的培根、煮熟的猪肉、蘑菇、杏仁、多椒、欧芹、盐和胡椒。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "转移到 9x13 英寸的砂锅中。在预热好的烤箱中烘烤40分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-11-20",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/80051/pork-and-wild-rice-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "770da3fbd80390220704f52c1142e431",
+    "translated": true
+  }
+}

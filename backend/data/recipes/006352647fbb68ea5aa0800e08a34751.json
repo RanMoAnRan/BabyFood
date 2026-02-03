@@ -1,0 +1,105 @@
+{
+  "id": "006352647fbb68ea5aa0800e08a34751",
+  "title": "香蕉桃子面包",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/d44746eb4870b699c19ce482ba1b282d.webp",
+  "nutrition_tip": "这个嫩香蕉桃子面包配方是用水果泥和秘密材料制成的……",
+  "ingredients": [
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙速溶热巧克力混合物",
+      "amount": ""
+    },
+    {
+      "name": "3 根香蕉，去皮",
+      "amount": ""
+    },
+    {
+      "name": "1 个大的新鲜桃子 - 去皮、去核、切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x5 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将白糖和黄油放入一个大碗中，用电动搅拌机搅拌直至松软。加入红糖和热巧克力混合物。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将香蕉、桃子、鸡蛋、牛奶和香草精放入搅拌机中；搅拌直至光滑。将糊状混合物搅拌到黄油混合物中，直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面粉、核桃、小苏打和盐放入另一个碗中搅拌均匀；搅拌至香蕉黄油混合物中，直至刚好湿润。将面糊倒入准备好的面包盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 50 到 60 分钟，直至插入中心的牙签拔出时是干净的。在锅中冷却 5 分钟，然后将面包转移到金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/229003/banana-peach-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5f15dd4babd30b559453c47ff3a92664",
+    "translated": true
+  }
+}

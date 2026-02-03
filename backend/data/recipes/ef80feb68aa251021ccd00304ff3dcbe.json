@@ -1,0 +1,59 @@
+{
+  "id": "ef80feb68aa251021ccd00304ff3dcbe",
+  "title": "哈密​​瓜冷汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/354475378cbcfdef6a95a289c8b28d37.webp",
+  "nutrition_tip": "哈密瓜与橙汁、酸橙汁和肉桂一起制成泥，制成这个……",
+  "ingredients": [
+    {
+      "name": "1 个哈密瓜 - 去皮、去籽、切块",
+      "amount": ""
+    },
+    {
+      "name": "2 杯橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙新鲜酸橙汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将哈密瓜和 ½ 杯橙汁放入搅拌机或食品加工机的碗中；搅拌直至光滑。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将哈密瓜混合物转移到一个大碗中；加入剩余的 1 ½ 杯橙汁、酸橙汁和肉桂，搅拌均匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "食用前盖上汤并冷藏至少 1 小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-01-21",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/12912/chilled-cantaloupe-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3ed9a692cdcb8422605875c64d5d83d9",
+    "translated": true
+  }
+}

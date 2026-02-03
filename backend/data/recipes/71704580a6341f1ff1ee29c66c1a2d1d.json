@@ -1,0 +1,104 @@
+{
+  "id": "71704580a6341f1ff1ee29c66c1a2d1d",
+  "title": "焦糖布丁",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "French",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 110,
+  "cover_image": "images/4df86e8516eab17b70f3ea88619878a3.webp",
+  "nutrition_tip": "焦糖布丁是一种光滑、奶油状的冷冻蛋奶冻，上面有一层硬质…",
+  "ingredients": [
+    {
+      "name": "6 个蛋黄",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙白糖，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2.5 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙红糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋黄、4汤匙白糖和香草精放入搅拌碗中，搅拌至浓稠呈奶油状；放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将奶油倒入平底锅中，小火搅拌直至几乎沸腾。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将奶油搅入蛋黄混合物中；搅拌直至合并。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将混合物倒入双锅的顶锅中。在沸腾的水中搅拌，直到混合物轻轻地覆盖在勺子背面，大约需要 3 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "倒入浅耐热盘或单独的小模子中。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至蛋奶冻凝固，但仍略有摇晃。冷却至室温，然后冷藏至少 1 小时或过夜。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将烤箱转至烘烤状态。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "将剩余的 2 汤匙白糖和红糖放入一个小碗中。将混合物均匀地撒在蛋奶冻上。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "将盘子放在烤炉下，直到糖融化并焦糖化，大约 2 分钟。仔细观察以免烧焦。"
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "稍微冷却，然后冷藏直至蛋奶冻再次凝固，大约需要 10 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-24",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/19165/creme-brulee/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "370d5c411bdf6d554491bb63f064f485",
+    "translated": true
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "715f1fab2738b4fe8f0ffe141640dfaa",
+  "title": "原装雀巢收费屋巧克力曲奇饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/aae0e21f0332134f76076288c55862e6.webp",
+  "nutrition_tip": "最初的 Toll House 饼干配方已经使用了几代人。这些甜蜜的…",
+  "ingredients": [
+    {
+      "name": "2.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯半甜巧克力片（例如 Nestlé Toll House）",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎坚果",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料并将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、小苏打和盐放入小碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大搅拌碗中将黄油、白糖、红糖和香草精搅拌至呈奶油状。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "添加鸡蛋，一次一个，每次添加后搅拌均匀。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "逐渐加入面粉混合物。加入巧克力块和坚果搅拌。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "用圆形汤匙滴到未抹油的烤盘上。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 9 至 11 分钟，直至金黄色，中途更换架子。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "在烤盘上冷却 2 分钟，然后转移到金属架上完全冷却。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-08-27",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/174864/original-nestle-toll-house-chocolate-chip-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cc345f084be0f9e7ac48d87cccb9cd98",
+    "translated": true
+  }
+}

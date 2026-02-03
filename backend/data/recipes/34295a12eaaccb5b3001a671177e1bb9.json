@@ -1,0 +1,83 @@
+{
+  "id": "34295a12eaaccb5b3001a671177e1bb9",
+  "title": "著名的黄油鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/b046339ed21d74e13ee6f47c776a5c0f.webp",
+  "nutrition_tip": "这些黄油鸡胸肉涂有调味饼干屑，然后烘烤......",
+  "ingredients": [
+    {
+      "name": "1 杯碎黄油圆形饼干屑",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙蒜盐",
+      "amount": ""
+    },
+    {
+      "name": "黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，切成块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将饼干屑和鸡蛋放入 2 个单独的浅碗中。将饼干屑与大蒜盐和胡椒粉混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡肉浸入鸡蛋中，然后裹上面包屑混合物。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将涂有涂层的鸡肉放入 9x13 英寸的烤盘中。在鸡肉上和周围撒上黄油。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 40 分钟，直至鸡肉中心不再呈粉红色且汁液清澈。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/24002/famous-butter-chicken/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "869e7a6650141b35fb489603a2cb04c7",
+    "translated": true
+  }
+}

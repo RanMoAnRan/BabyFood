@@ -1,0 +1,99 @@
+{
+  "id": "7ce6fc6d23c2240ef2e8f8731d890c0c",
+  "title": "七层炸玉米饼蘸酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "Mexican Inspired",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/2431195dd536f094fe80a1b018bf76b6.webp",
+  "nutrition_tip": "这个炸玉米饼蘸酱食谱分层炸豆泥，莎莎酱，生菜，蔬菜，切达干酪......",
+  "ingredients": [
+    {
+      "name": "1罐（16盎司）炸豆泥",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）炸玉米饼调味料混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）莎莎酱",
+      "amount": ""
+    },
+    {
+      "name": "1 个大番茄，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 束切碎的葱",
+      "amount": ""
+    },
+    {
+      "name": "1 颗小头卷心生菜，切丝",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1罐（6盎司）黑橄榄片，沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将炸豆泥和炸玉米饼调味料放入一个中等大小的碗中混合；将混合物铺在一个大盘子上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个中等大小的碗中混合酸奶油和奶油干酪；铺在豆泥上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "上面撒上莎莎酱。将番茄、甜椒、葱和生菜铺在上面。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "撒在切达干酪上，并用黑橄榄装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-20",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/19673/seven-layer-taco-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9a7db0f49fa2d5947874b82eb42798fd",
+    "translated": true
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "f42d73613e27ab55baaf99d6419f31da",
+  "title": "爸爸剩下的火鸡馅饼",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Pie",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/79aa236948fb2570733763986cbaa285.webp",
+  "nutrition_tip": "爸爸的剩余火鸡馅饼食谱，用剩余的火鸡和冷冻蔬菜制成......",
+  "ingredients": [
+    {
+      "name": "2 杯冷冻豌豆和胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "2 杯冷冻青豆",
+      "amount": ""
+    },
+    {
+      "name": "1 杯芹菜片",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯 洋葱丁",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙芹菜籽",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1.3333333730698 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "4 杯剩下的熟火鸡块",
+      "amount": ""
+    },
+    {
+      "name": "2 包（14.1 盎司）糕点，适合 9 英寸双皮馅饼",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将豌豆、胡萝卜、豆类和芹菜放入中型平底锅中。加入足够的水覆盖；煮沸。将热量降至中低；煮约8分钟，直至蔬菜变软。沥干并放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在大平底锅中用中火融化黄油。加入洋葱，煮约 5 分钟直至半透明。加入面粉、盐、胡椒粉、芹菜籽、洋葱粉和意大利调味料；搅拌约 1 分钟，直至形成糊状。慢慢加入肉汤和牛奶，直至充分混合。用文火煮 3 至 5 分钟，不断搅拌，直至酱汁变稠。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "远离火源；拌入保留的蔬菜和火鸡，直至裹好。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将一个馅饼糕点放入两个 9 英寸馅饼盘的每个底部。将馅料分装在菜肴之间；在每个上面放上剩余的馅饼糕点；密封边缘。在每个糕点顶部切几个小缝，让蒸汽逸出；转移到烤盘上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤15分钟。如果外皮很快变褐色，请用铝箔覆盖。继续烘烤 15 至 20 分钟，直至呈金黄色，馅料起泡。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "食用前冷却 10 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2007-11-25",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/215447/dads-leftover-turkey-pot-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5cbeefb34c179fed4d2726a2f8d3d139",
+    "translated": true
+  }
+}

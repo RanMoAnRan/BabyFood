@@ -1,0 +1,52 @@
+{
+  "id": "5052a34e1b081ee86cd623e3abb95956",
+  "title": "烤南瓜子",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/2a0db8bf6894c6c99e966b09d9bac45e.webp",
+  "nutrition_tip": "这个烤南瓜籽食谱将一把南瓜籽变成脆脆的美味......",
+  "ingredients": [
+    {
+      "name": "1.5 杯生南瓜子",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将种子与黄油和盐一起放入一个大碗中。在烤盘上单层铺开；烘烤约 45 分钟，直至呈金黄色，偶尔搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-27",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/13768/roasted-pumpkin-seeds/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fb971966c0fa11d48f136541c4066dd4",
+    "translated": true
+  }
+}

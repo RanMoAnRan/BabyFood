@@ -1,0 +1,126 @@
+{
+  "id": "abc052ebb41d2bbde591895e5b00af76",
+  "title": "自制番茄酱",
+  "min_age_month": 12,
+  "tags": [
+    "Sauce",
+    "Italian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 280,
+  "cover_image": "images/e63afbe69e8ede43b94a90856b1cd095.webp",
+  "nutrition_tip": "这种自制番茄酱是用蔓生番茄、焦糖洋葱和铃铛制成的……",
+  "ingredients": [
+    {
+      "name": "10 个熟番茄",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 根胡萝卜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "4 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯勃艮第葡萄酒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜罗勒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜",
+      "amount": ""
+    },
+    {
+      "name": "1 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙番茄酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅水烧开。准备一大碗冰水。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将整个西红柿放入沸水中，直到皮开始剥落，大约需要 1 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用漏勺取出并放入冰浴中。让它休息，直到冷却到可以处理为止。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "去掉果皮，挤出种子，切碎 8 个西红柿。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在搅拌机或食品加工机中将西红柿打成泥，直至变得光滑。将剩下的 2 个西红柿切碎并放在一边。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在大锅或荷兰烤箱中用中火加热黄油和油。加入胡萝卜、洋葱、甜椒和大蒜；煮约 5 分钟，搅拌直至洋葱变软。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "倒入番茄泥，然后加入切碎的番茄、葡萄酒、罗勒和意大利调味料搅拌。将芹菜茎和月桂叶放入锅中煮沸。将火调至小火，盖上锅盖，煮 2 小时。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "拌入番茄酱；再煮2小时。丢弃芹菜和月桂叶即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2024-04-24",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/21126/homemade-tomato-sauce-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7ee734f78a1930bb7d0fcfbaeee814ae",
+    "translated": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "fc371572145f476e86cb222d21de916d",
+  "title": "鸡肉和西葫芦",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/6e058ac8f687c925f1bc51951e02dcf0.webp",
+  "nutrition_tip": "这个鸡肉和西葫芦食谱直接来自夏季蔬菜…",
+  "ingredients": [
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.75 磅黄南瓜，切片",
+      "amount": ""
+    },
+    {
+      "name": "0.75 磅西葫芦，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的番茄 - 去皮、去籽并切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用 ¼ 茶匙盐和 ⅛ 茶匙黑胡椒给鸡肉调味。在一个大的不粘锅中用中高火将黄油和油融化。添加鸡肉；煮至浅棕色，每面约 2 分钟。转移到一个大盘子里；用铝箔覆盖以保暖。丢弃煎锅中的水滴。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄南瓜、西葫芦和番茄放入同一个煎锅中，用中高火加热；用剩余的 1/4 茶匙盐和剩余的 ⅛ 茶匙黑胡椒调味。煮约 3 分钟，搅拌直至南瓜稍微变软。减少热量，将鸡肉放回煎锅中，并部分覆盖。再煮约 5 分钟，直至南瓜变软，鸡肉中心不再呈粉红色，汁液清澈，但仍然多汁。插入鸡胸肉中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。将鸡肉转移到盘子上；用铝箔覆盖以保暖。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将热量调高；继续煮蔬菜混合物，经常搅拌，直到大部分液体蒸发，大约需要 2 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蔬菜放在鸡肉周围。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-04-23",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/8523/chicken-and-summer-squash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "97675a6e3a3fb35b1bbe5367b3322cdc",
+    "translated": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "deb3ad7dea859387af077f79f7bb560f",
+  "title": "奶酪土豆玉米浓汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/eb32e08c5c8e235b778539692f23f5d8.webp",
+  "nutrition_tip": "这种奶酪土豆和玉米杂烩食谱用文火炖乡村风格的牛奶肉汁混合物，……",
+  "ingredients": [
+    {
+      "name": "2 汤匙人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的芹菜",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14.5 盎司）鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "3 杯去皮切丁的土豆",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）整粒玉米",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（4 盎司）青辣椒丁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（2.5 盎司）乡村风格肉汁混合物",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯墨西哥风味加工奶酪丝食品",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在煎锅中用中高温融化人造黄油。加入芹菜和洋葱；煮约 5 分钟，搅拌直至变软。加入鸡汤；煮沸。加入土豆，将火调至小火；煮 20 至 25 分钟，偶尔搅拌，直至土豆变软。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "拌入玉米和辣椒；将热量调至中高并再次沸腾。将肉汁混合在碗中的牛奶中溶解；搅拌成沸腾的杂烩汤。拌入奶酪并把火调小；煮并搅拌直至奶酪融化。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-01-21",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/12922/cheesy-potato-and-corn-chowder/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "299e00b6c2eb568f2760705edeb8e967",
+    "translated": true
+  }
+}

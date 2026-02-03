@@ -1,0 +1,73 @@
+{
+  "id": "ababaa1bc62e9453ccf2d96434a60605",
+  "title": "慢炖锅鸡肉和饺子",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 310,
+  "cover_image": "images/66345bf09f84058c014d45144c298260.webp",
+  "nutrition_tip": "一个简单的慢炖锅鸡肉和饺子食谱，里面装满了奶油鸡肉和……",
+  "ingredients": [
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10.5 盎司）浓缩奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（10 盎司）冷藏饼干面团",
+      "amount": ""
+    },
+    {
+      "name": "2 杯水，或根据需要覆盖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡肉、浓缩汤、洋葱和黄油放入慢炖锅中。加入足够的水覆盖；搅拌均匀。盖上锅盖，高火煮 5 至 6 小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "食用前约 30 分钟，将饼干面团撕成碎片。将面团放入慢炖锅中。煮至面团中心不再生。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-06-11",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/8941/slow-cooker-chicken-and-dumplings/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "01820ea0964089c9b1475d92615cab11",
+    "translated": true
+  }
+}

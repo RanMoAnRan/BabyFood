@@ -1,0 +1,124 @@
+{
+  "id": "055a7f306e1a3c9aba8d1efcf0bd8c80",
+  "title": "正宗路易斯安那红豆和大米",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Southern",
+    "Cajun",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 690,
+  "cover_image": "images/7b88e0b83498bab4e45eb3202ad1cefe.webp",
+  "nutrition_tip": "这个简单正宗的路易斯安那红豆和大米食谱采用卡真调味料......",
+  "ingredients": [
+    {
+      "name": "1 磅干芸豆",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 蒜末",
+      "amount": ""
+    },
+    {
+      "name": "6 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙卡津调味料",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干鼠尾草",
+      "amount": ""
+    },
+    {
+      "name": "1 磅安多维尔香肠，切片",
+      "amount": ""
+    },
+    {
+      "name": "4 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 杯长粒白米",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "冲洗豆子，然后在一大锅水中浸泡过夜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在煎锅中用中火加热油。将洋葱、甜椒、芹菜和大蒜在橄榄油中煮 3 至 4 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "冲洗豆子，然后放入装有 6 杯水的大锅中。将煮熟的蔬菜拌入豆子中。用月桂叶、欧芹、百里香、卡真调味料、辣椒和鼠尾草调味。煮沸，然后将热量降至中低。煮 2.5 小时。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将香肠拌入豆子中，继续煮30分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "同时，准备米饭。将水和米放入锅中煮沸。减少热量，盖上锅盖，煮 20 分钟。将豆子放在蒸白米饭上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/58211/authentic-louisiana-red-beans-and-rice/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b93a04938ae6819aab1359062d51f85d",
+    "translated": true
+  }
+}

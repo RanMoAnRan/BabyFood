@@ -5,7 +5,8 @@
   "tags": [
     "Dessert",
     "Pie",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 90,
@@ -62,7 +63,7 @@
   ],
   "warnings": [],
   "publish_date": "1998-07-04",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12316/fresh-rhubarb-pie/",
   "origin_url": "",
   "source_name": "Allrecipes",

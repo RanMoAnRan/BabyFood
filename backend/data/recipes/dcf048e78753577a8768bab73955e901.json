@@ -1,0 +1,83 @@
+{
+  "id": "dcf048e78753577a8768bab73955e901",
+  "title": "最好的猴面包",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Brunch",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/714c4a3c51d31034dcc173025bc6fe8f.webp",
+  "nutrition_tip": "这个猴面包是最好的，这要归功于这个使用罐装饼干的简单食谱......",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "3 包（12 盎司）冷藏饼干面团",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯包装红糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸或 10 英寸管或外圆盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将白糖和肉桂放入塑料袋中混合。将饼干切成四等分。将 6 至 8 块饼干放入糖肉桂混合物中摇匀。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将碎片放在准备好的平底锅底部。继续，直到所有饼干都涂上涂层并放入锅中。如果使用核桃和葡萄干，请边吃边将它们排列在饼干片中和饼干片之间。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在小平底锅中用中火融化黄油和红糖。煮沸1分钟；倒在饼干上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面包放入预热好的烤箱中烤35分钟；放在锅里冷却10分钟，然后盛到盘子里，让大家把它拆开。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-08-01",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/6815/monkey-bread-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2f2b7894e54fae37d16eaa0469867ba9",
+    "translated": true
+  }
+}

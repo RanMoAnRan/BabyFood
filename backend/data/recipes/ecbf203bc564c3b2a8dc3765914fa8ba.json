@@ -1,0 +1,106 @@
+{
+  "id": "ecbf203bc564c3b2a8dc3765914fa8ba",
+  "title": "奶油烤土豆",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/fe60b7b51d64c4c8a914ef4d74d90e46.webp",
+  "nutrition_tip": "烤土豆是用切成薄片的土豆和洋葱经过十年的烘烤制成的……",
+  "ingredients": [
+    {
+      "name": "4 个中等大小的赤褐色土豆，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切成圈",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切达干酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 400 华氏度（200 摄氏度）。在 2 夸脱的砂锅盘上涂上黄油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将土豆的 1/2 层放入准备好的砂锅菜底部；用盐和胡椒调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将洋葱片铺在上面，然后在上面放上剩余的土豆。再次用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在中型平底锅中用中火融化黄油。加入面粉和盐，搅拌；煮，不断搅拌，直到生面粉的味道煮掉，大约1分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "逐渐加入牛奶，一次约 1/4 杯，每次添加后搅拌均匀；逐渐添加和搅拌牛奶将有助于避免酱汁中结块。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "煮 3 到 5 分钟，不断搅拌，直到混合物变稠。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "一次性加入奶酪；煮30至60秒，不断搅拌直至融化。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将奶酪酱倒在土豆上，然后用铝箔盖住盘子。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 ½ 小时，直至土豆变软且酱汁起泡。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-06",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/15925/creamy-au-gratin-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "51e559f06f227ca94a8bd3a198faeb1c",
+    "translated": true
+  }
+}

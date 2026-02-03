@@ -1,0 +1,92 @@
+{
+  "id": "f1519473d857cae9a40e3c086ca757fd",
+  "title": "茄子帕尔马干酪",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/54b7cd815021ac685bd4aa7b13a92e02.webp",
+  "nutrition_tip": "这个简单的帕尔马干酪茄子有多层脆皮茄子片，已经……",
+  "ingredients": [
+    {
+      "name": "3 个大茄子，去皮并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "4 杯意大利调味面包屑",
+      "amount": ""
+    },
+    {
+      "name": "6 杯意大利面酱，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）马苏里拉奶酪，切碎并分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干罗勒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将茄子片浸入打散的鸡蛋中，然后浸入面包屑中。单层放在烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤5分钟。翻转并再烘烤 5 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在9x13英寸烤盘的底部涂上一层薄薄的番茄酱；上面放一层茄子片。撒上马苏里拉奶酪和帕尔马干酪。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用剩余的酱汁、茄子和奶酪重复各层，最后涂上一层奶酪。在上面撒上罗勒。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "放入预热好的烤箱中烘烤至金黄色，约35分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/25321/eggplant-parmesan-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e64e65c9fd5c20e3261b764b9fd9fddb",
+    "translated": true
+  }
+}

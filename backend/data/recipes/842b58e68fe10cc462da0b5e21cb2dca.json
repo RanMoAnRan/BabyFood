@@ -1,0 +1,104 @@
+{
+  "id": "842b58e68fe10cc462da0b5e21cb2dca",
+  "title": "老式土豆沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Salad",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/e70a229bb8d24db0737f462cd6d7a24c.webp",
+  "nutrition_tip": "这个经典的土豆沙拉食谱用煮熟的例如……制作奶油土豆沙拉。",
+  "ingredients": [
+    {
+      "name": "5 个土豆",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的芹菜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯甜泡菜调味品",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙准备好的芥末",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙蒜盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙芹菜盐",
+      "amount": ""
+    },
+    {
+      "name": "黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅盐水煮沸。加入土豆，煮约 15 分钟，直至变软但仍然坚硬。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将土豆沥干、冷却、去皮并切碎。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "煮土豆时，将鸡蛋放入平底锅中，盖上冷水。把水烧开；盖上盖子，离火，让鸡蛋在热水中静置 10 到 12 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡蛋从热水中取出；冷却，去皮，切成块。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将土豆、鸡蛋、芹菜、洋葱、调料、蛋黄酱、芥末、大蒜盐、芹菜盐和胡椒粉放入一个大碗中。混合在一起直至充分混合。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "食用前先将土豆沙拉放入冰箱冷藏，以获得最佳风味。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-21",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/16729/old-fashioned-potato-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cc159782c10c12848601ea1ef0dac483",
+    "translated": true
+  }
+}

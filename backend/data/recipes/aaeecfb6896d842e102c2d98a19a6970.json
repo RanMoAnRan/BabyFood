@@ -1,0 +1,111 @@
+{
+  "id": "aaeecfb6896d842e102c2d98a19a6970",
+  "title": "更健康的火鸡辣酱玉米饼馅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/baf1bcd729c522e278089d1dea80e216.webp",
+  "nutrition_tip": "火鸡粉和新鲜食材使这些烤玉米卷饼成为更健康的选择......",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎火鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙墨西哥辣椒粉，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯中等大小的萝卜，修剪过",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10 盎司）墨西哥卷饼酱（例如 Old El Paso®）",
+      "amount": ""
+    },
+    {
+      "name": "16 个（6 英寸）玉米饼，加热",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 pepitas（南瓜籽）",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯粗切碎的香菜",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 葱片",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙磨碎的酸橙皮",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上轻轻涂上烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大的不粘锅中用中高温加热油。加入火鸡碎和洋葱；煮约 5 分钟，直至火鸡不再呈粉红色且洋葱变软。加入孜然和辣椒搅拌。从火上移开并稍微冷却。拌入 1 杯瓦哈卡奶酪。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在准备好的烤盘中涂抹 1/4 杯辣酱玉米饼馅。将火鸡混合物均匀地分在玉米饼中。将玉米饼和雀巢紧紧地卷在烤盘中，接缝面朝下。上面放上剩余的酱汁和剩余的 1/2 杯奶酪。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 20 分钟，直至酱汁起泡且奶酪融化。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "同时，粗略切碎1汤匙pepitas；将香菜、葱、大蒜和酸橙皮放入小碗中混合。将配料撒在玉米卷饼上；食用前加入剩余的意大利辣椒。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-09-15",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/281596/healthier-turkey-enchiladas/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d96f8634f34c46f242118a70e3d80b36",
+    "translated": true
+  }
+}

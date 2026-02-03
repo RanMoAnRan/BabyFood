@@ -1,0 +1,99 @@
+{
+  "id": "3e585e6ec30ce4c6cafae30a877668f7",
+  "title": "烤鲈鱼",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/520b1194a04b3e41652a91dd6dfbfca5.webp",
+  "nutrition_tip": "这个烤鲈鱼食谱包括美味的大蒜欧芹黄油，适合......",
+  "ingredients": [
+    {
+      "name": "0.25 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "柠檬胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "海盐适量",
+      "amount": ""
+    },
+    {
+      "name": "2 磅鲈鱼",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 大瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙切碎的意大利平叶欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙 特级初榨橄榄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤架预热至高温。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个小碗中，将大蒜粉、洋葱粉、辣椒粉、柠檬胡椒和海盐搅拌在一起。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将调味料撒在鱼上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在小平底锅中，用中火将黄油、大蒜和欧芹融化。黄油融化后从火上移开，放在一边。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在烤架上涂抹少许油。将鱼烤 7 分钟，然后翻转并淋上黄油。继续烹饪 7 分钟，或直至用叉子轻松剥落。食用前淋上橄榄油。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/45782/grilled-sea-bass/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "97c231c46619d0bb0076b23bb5545b41",
+    "translated": true
+  }
+}

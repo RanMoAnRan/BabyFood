@@ -1,0 +1,110 @@
+{
+  "id": "a836d014fa94246cf507d80279d391cc",
+  "title": "希腊蜂蜜蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Greek"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/24d2d90aa4e0bc78cdef91a86267b442.webp",
+  "nutrition_tip": "这个希腊蜂蜜蛋糕配方可以制作出非常湿润的蛋糕，里面充满了橙子和……",
+  "ingredients": [
+    {
+      "name": "1 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙橙皮碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将蜂蜜、1 杯糖和水放入平底锅中混合；煮5分钟。加入柠檬汁搅拌；煮沸并煮2分钟。准备蛋糕时，将其从火上移开并冷却。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸方形烤盘上涂上油脂并撒上面粉。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉、泡打粉、橙皮碎、肉桂和盐放入碗中；放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将剩余的 3/4 杯糖和黄油放入一个大碗中，搅拌至松软。打入鸡蛋，一次一个。加入面粉混合物，与牛奶交替搅拌，直至混合；拌入核桃。将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 40 分钟，直至插入中心的牙签拔出时是干净的。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将蛋糕从烤箱中取出，用牙签在表面戳洞。慢慢地将冷却的蜂蜜糖浆舀到蛋糕上。为了获得最佳效果，请将蛋糕放置 4 至 6 小时，以冷却并吸收糖浆，然后再切片和食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-04",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/22262/greek-honey-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ab00776dacf1ad11a0f665418d321baa",
+    "translated": true
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "c25936b1b7d516fda3832b6fd0868fd3",
+  "title": "蜜饯红薯",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/0feb5afb0e92ff64c6af3c1bf1bd426f.webp",
+  "nutrition_tip": "这些蜜饯红薯加了红糖和棉花糖，甜甜的，…",
+  "ingredients": [
+    {
+      "name": "4 磅红薯，切成四等份",
+      "amount": ""
+    },
+    {
+      "name": "3 杯微型棉花糖，分开",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "肉桂粉适量",
+      "amount": ""
+    },
+    {
+      "name": "肉豆蔻粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅水烧开。将土豆煮至几乎变软，大约需要 15 分钟。当冷却到可以处理时沥干并剥皮。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 2 杯棉花糖、黄油、糖、肉桂和肉豆蔻放入大平底锅中，用中火加热；煮，偶尔搅拌，直到棉花糖融化。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将土豆搅拌成棉花糖混合物，将一些土豆捣碎，将其他土豆切成一口大小的块。转移到准备好的烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤15分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将剩余的1杯棉花糖均匀地撒在土豆上；继续烘烤，直到棉花糖变成金黄色，大约需要 5 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-04",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/24330/candied-sweet-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1bdb63c17e5e05a0e4cfa8f9b1d62b80",
+    "translated": true
+  }
+}

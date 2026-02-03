@@ -4,7 +4,8 @@
   "min_age_month": 8,
   "tags": [
     "Dinner",
-    "Southern"
+    "Southern",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 35,
@@ -100,7 +101,7 @@
   ],
   "warnings": [],
   "publish_date": "1999-07-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/12776/louisiana-shrimp-creole-ii/",
   "origin_url": "",
   "source_name": "Allrecipes",

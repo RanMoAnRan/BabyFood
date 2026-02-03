@@ -1,0 +1,101 @@
+{
+  "id": "70b970cceec1bb29b523a03d8447f1c8",
+  "title": "腌南瓜",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "Condiment",
+    "U.S.",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 295,
+  "cover_image": "images/2af175b0997bdda185c44650754ae43c.webp",
+  "nutrition_tip": "这个腌南瓜食谱，以洋葱和青椒为特色，腌制在……",
+  "ingredients": [
+    {
+      "name": "2.5 磅嫩黄南瓜和西葫芦，切成圆形",
+      "amount": ""
+    },
+    {
+      "name": "2 个小洋葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，去籽并切成条",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯盐",
+      "amount": ""
+    },
+    {
+      "name": "2.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 杯蒸馏白醋",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙芥菜籽",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙姜黄粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙芹菜籽",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将南瓜、洋葱和甜椒放入一个大的无铝锅中；加盐。放置一旁以释放液体，偶尔搅拌 2 小时。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖、醋、芥末籽、姜黄和芹菜籽放入中型平底锅中煮沸。从盐水中过滤并丢弃固体；将液体倒在锅中的咸蔬菜上。再放置2小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，检查四个（1 品脱）罐子是否有裂纹，环是否生锈，丢弃任何有缺陷的罐子。浸泡在沸水中，直到腌制的南瓜准备好。用温肥皂水清洗新的、未使用的盖子和环。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蔬菜混合物煮沸。减少热量；煮约5分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将蔬菜混合物装入热的消毒罐中，填充至顶部 1/4 英寸以内。用干净的刀或薄抹刀在罐子内部划一圈，以除去任何气泡。用湿纸巾擦拭边缘以去除任何残留物。顶部盖上盖子并拧紧螺丝环。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将一个架子放在一个大汤锅的底部，并装满一半的水。煮沸并使用支架将罐子放入沸水中，间隔 2 英寸。倒入更多的沸水，盖住罐子至少 1 英寸。煮沸，盖上锅盖，煮 10 分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "从汤锅中取出罐子；放在一边，间隔几英寸，然后冷却。冷却后，用手指按压盖子的中心，以确保盖子不会上下移动。取下存放环并存放在阴凉、黑暗的地方。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/93027/pickled-squash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e2c0b0b3f0fe7aa2b2a22a63892e913e",
+    "translated": true
+  }
+}

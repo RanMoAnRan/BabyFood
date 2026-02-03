@@ -1,0 +1,108 @@
+{
+  "id": "7874435ea80dd978f26b1be3d9855e02",
+  "title": "经典晚餐卷",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Bread",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/5428168dce5fafff636ae650fa47c5e5.webp",
+  "nutrition_tip": "这些柔软、蓬松的晚餐卷从头开始制作起来很简单，而且令人难以抗拒……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉，分开，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个（0.25 盎司）信封 Fleischmann's® RapidRise 酵母",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 3/4 杯面粉、糖、未溶解的酵母和盐放入一个大碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在平底锅中加热牛奶、水和 2 汤匙黄油，直至非常热（120 华氏度至 130 华氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将温牛奶混合物添加到面粉混合物中。用电动搅拌机中速搅拌 2 分钟，偶尔刮擦碗。添加 1/4 杯面粉；高速搅打2分钟。加入足够的剩余面粉，搅拌成柔软的面团。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在撒有少许面粉的表面上揉捏面团，直至光滑且有弹性，大约需要 8 到 10 分钟。覆盖;休息 10 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将面团分成12等份。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将碎片塑造成球状并放入涂有油脂的 8 英寸圆盘中。盖上盖子，放在温暖、无风的地方发酵约 30 分钟，直至体积翻倍。将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将面包卷放入预热好的烤箱中烘烤，直至顶部呈金黄色，大约需要 20 分钟。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "如果愿意的话，刷上融化的黄油。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2010-07-30",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/215378/classic-dinner-rolls/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b16cf8e704b47240080adbbdd8ed61c2",
+    "translated": true
+  }
+}

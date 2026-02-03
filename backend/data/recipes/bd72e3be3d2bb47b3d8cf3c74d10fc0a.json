@@ -1,0 +1,85 @@
+{
+  "id": "bd72e3be3d2bb47b3d8cf3c74d10fc0a",
+  "title": "无馅卷心菜卷",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Eastern European",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/4c1c3163668ceb50d10e1369aeef6763.webp",
+  "nutrition_tip": "无馅卷心菜卷配上碎牛肉、卷心菜、大蒜和西红柿，可以做成美味的卷心菜卷。",
+  "ingredients": [
+    {
+      "name": "2 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个小头卷心菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14.5 盎司）番茄丁",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中高温加热荷兰烤箱或大煎锅。在热荷兰烤箱中煮牛肉和洋葱并搅拌 5 至 7 分钟，直至变成棕色且易碎；排干并丢弃油脂。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入卷心菜、西红柿、番茄酱、水、大蒜、盐和胡椒，煮沸。盖上荷兰烤箱，小火煮约 30 分钟，直至卷心菜变软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/235997/unstuffed-cabbage-roll/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4ec2fe0bf47b82c9f4ea30f9fa0e6a0e",
+    "translated": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "9d37577afe455ef6b3e423b73f1ff4c1",
+  "title": "鸡肉苹果汤",
+  "min_age_month": 8,
+  "tags": [
+    "Soup",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/2c5a3269007e4f8b72ce0d9ce40e6232.webp",
+  "nutrition_tip": "鸡肉面汤配方得到了改造，添加了米粒面食和d…",
+  "ingredients": [
+    {
+      "name": "2 盒（32 盎司）鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 只煮熟的烤鸡，去骨切碎肉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯胡萝卜片",
+      "amount": ""
+    },
+    {
+      "name": "1 个 Macintosh 苹果，去核并切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯芹菜片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "2 杯米粒意大利面",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将鸡汤、鸡肉、胡萝卜、苹果、洋葱、芹菜、帕尔马干酪和月桂叶放入一个大锅中；煮沸。将热量降至中低；煮约30分钟，直至蔬菜变软。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将米粒搅拌入汤中；煮约 11 分钟，偶尔搅拌，直到米粒变软但咬起来很硬。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/235541/chicken-apple-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ef48124bd23f96621dc62d2cb0bdb49a",
+    "translated": true
+  }
+}

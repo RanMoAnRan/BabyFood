@@ -1,0 +1,116 @@
+{
+  "id": "1edc6bf773a7ab0ffa1f316ded707c87",
+  "title": "馕",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Bread",
+    "Indian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 150,
+  "cover_image": "images/81d8a2d5091150cc5776c3e7cf593b91.webp",
+  "nutrition_tip": "一份美味的馕食谱，您可以在家制作柔软、耐嚼的馕饼，并带有浓郁的味道……",
+  "ingredients": [
+    {
+      "name": "1 包（0.25 盎司）活性干酵母",
+      "amount": ""
+    },
+    {
+      "name": "1 杯温水",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "4.5 杯面包粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油，融化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将酵母溶解在大碗中的温水中。静置约 10 分钟，直至起泡。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，在一个大碗里涂上大量的油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖、牛奶、鸡蛋和盐搅拌到酵母混合物中。加入足够的面粉，揉成柔软的面团。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团放在撒有少许面粉的表面上，揉捏 6 到 8 分钟直至光滑。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面团放入准备好的油中，盖上湿布，发酵至两倍大，约1小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将面团放在撒有少许面粉的表面上，然后揉入大蒜。捏出一小把高尔夫球大小的面团；你应该有大约 14 个。将每块卷成一个球并放在托盘上。盖上毛巾，醒发至两倍大，大约需要 30 分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "同时，用高火预热大烤盘。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将每块面团擀成薄圆形。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "在预热的烤盘上刷一些融化的黄油。将几块面团放入锅中（尽可能多地放入），煮 2 至 3 分钟，直至面团蓬松并呈浅棕色。在未煮过的面刷上黄油，翻面，再煮 2 到 4 分钟，直至变成棕色。从烤架上取下并重复烹饪剩余的馕饼。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-09-13",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/14565/naan/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f91f6bda22d216ac4788662f91666bdc",
+    "translated": true
+  }
+}

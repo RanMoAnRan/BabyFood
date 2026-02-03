@@ -4,7 +4,8 @@
   "min_age_month": 6,
   "tags": [
     "Dessert",
-    "Southern"
+    "Southern",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 75,
@@ -81,7 +82,7 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/163497/persimmon-cake/",
   "origin_url": "",
   "source_name": "Allrecipes",

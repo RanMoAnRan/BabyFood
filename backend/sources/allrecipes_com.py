@@ -289,8 +289,18 @@ def _fetch_sitemap_slugs(session: requests.Session, *, cap: int, verbose: bool =
     return out
 
 
-def list_recipe_slugs(session: requests.Session, max_pages: int = 20, *, verbose: bool = False) -> list[str]:
-    cap = max(1, int(max_pages or 0)) * 50
+def list_recipe_slugs(
+    session: requests.Session,
+    max_pages: int = 20,
+    *,
+    verbose: bool = False,
+    cap: int | None = None,
+) -> list[str]:
+    # Allrecipes 通过 sitemap 获取入口，不是真正的分页抓取。
+    # 历史参数 max_pages 仅用来推导一个 cap（最多收集多少个 recipe slug）。
+    if cap is None:
+        cap = max(1, int(max_pages or 0)) * 50
+    cap = max(1, int(cap or 0))
     slugs = _fetch_sitemap_slugs(session, cap=cap, verbose=verbose)
     if verbose:
         print(f"[allrecipes_com] sitemap slugs={len(slugs)}")

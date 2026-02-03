@@ -1,0 +1,99 @@
+{
+  "id": "86c16dceffd968ff775cf7706bf57aca",
+  "title": "餐厅式水牛鸡翅",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/64e2935d3f1e8edc6b7d92c7be1d2675.webp",
+  "nutrition_tip": "试试这个水牛城鸡翅的热翅食谱，味道就像那些……",
+  "ingredients": [
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "10 个鸡翅",
+      "amount": ""
+    },
+    {
+      "name": "2 杯植物油，用于煎炸，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯辣酱",
+      "amount": ""
+    },
+    {
+      "name": "1 撮黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮大蒜粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将面粉、辣椒粉、辣椒粉和盐放入一个大碗中搅拌。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡翅放入装有面粉混合物的碗中，搅拌直至均匀涂上面粉。将鸡翅转移到 9x13 英寸的玻璃烤盘中并单层排列。盖上盖子并冷藏 1 至 1 1/2 小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在深而重的煎锅中加入约 1 英寸的油；加热至 375 华氏度（190 摄氏度）。 （油应该足以完全覆盖翅膀。）"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，将黄油、辣酱、胡椒粉和大蒜粉放入一个单独的小平底锅中，用小火加热。煮并搅拌直至黄油融化且混合物彻底混合。从火上移开并保留备用。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将涂有涂层的鸡翅在热油中煎炸 10 到 15 分钟，或直至鸡翅开始变脆并变成棕色。炒菜时保持油温。将煮熟的翅膀从热油中取出，放在纸巾或金属架上沥干。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将鸡翅放入盘中，在上面淋上辣酱；或者将鸡翅和辣酱放入碗中混合直至涂上酱汁。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-29",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/24087/restaurant-style-buffalo-chicken-wings/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5e62c37b9b8a2de8052753b8289cbf1b",
+    "translated": true
+  }
+}

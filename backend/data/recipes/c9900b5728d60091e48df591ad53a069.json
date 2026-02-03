@@ -4,7 +4,8 @@
   "min_age_month": 8,
   "tags": [
     "Dinner",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 45,
@@ -61,7 +62,7 @@
   ],
   "warnings": [],
   "publish_date": "2019-04-02",
-  "updated_at": "2026-01-21T19:26:06Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/222037/tater-tots-r-casserole/",
   "origin_url": "",
   "source_name": "Allrecipes",

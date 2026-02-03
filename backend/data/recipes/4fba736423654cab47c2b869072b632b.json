@@ -1,0 +1,90 @@
+{
+  "id": "4fba736423654cab47c2b869072b632b",
+  "title": "踢球&#39;羽衣甘蓝",
+  "min_age_month": 8,
+  "tags": [
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/04103e9fa1e12b87a972de7b706dd27e.webp",
+  "nutrition_tip": "这些嫩羽衣甘蓝在肉汤中与培根、洋葱一起炖，然后……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "3 片培根",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 磅新鲜羽衣甘蓝，切成 2 英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "3 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙胡椒",
+      "amount": ""
+    },
+    {
+      "name": "1 撮红辣椒片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大锅中用中高温加热油。加入培根，煮 5 至 7 分钟直至变脆。用漏勺将培根从锅中取出，弄碎，然后放回锅中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将洋葱放入锅中，煮至变软，大约需要 5 分钟。加入大蒜，煮至香味四溢。加入羽衣甘蓝，炒至它们开始枯萎。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒入鸡汤，加盐、胡椒粉和红辣椒片调味。将火调小，盖上锅盖，小火煮约 45 分钟，直至蔬菜变软。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "品尝并根据需要添加额外的胡椒片以增加热量。趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/51803/kickin-collard-greens/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "aab88c124f0daae39e58e72bd9fcac95",
+    "translated": true
+  }
+}

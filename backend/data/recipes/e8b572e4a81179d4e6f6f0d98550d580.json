@@ -1,0 +1,60 @@
+{
+  "id": "e8b572e4a81179d4e6f6f0d98550d580",
+  "title": "简单的蔓越莓橙酱",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 130,
+  "cover_image": "images/aee48424af36f254de92cb159ed3d3cc.webp",
+  "nutrition_tip": "这个简单的蔓越莓橙调味食谱混合了新鲜的蔓越莓，整个橙子......",
+  "ingredients": [
+    {
+      "name": "1 个中号脐橙",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）新鲜蔓越莓",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙肉桂粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "磨碎 2 茶匙橙皮碎；放在一边。橙子去皮，切成小块。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将切片、果皮、蔓越莓、糖和肉桂放入食品加工机中；脉冲直至切碎。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "转移到碗中。盖上盖子并冷藏，直至味道混合，至少 2 小时，最多 3 天。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/229740/easy-cranberry-orange-relish/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "02ad39669e844006951eadfd30db1b87",
+    "translated": true
+  }
+}

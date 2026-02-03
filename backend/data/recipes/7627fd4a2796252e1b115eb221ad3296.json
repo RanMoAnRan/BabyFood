@@ -4,7 +4,8 @@
   "min_age_month": 6,
   "tags": [
     "Dessert",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 50,
@@ -77,7 +78,7 @@
   ],
   "warnings": [],
   "publish_date": "1999-11-17",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/13858/pumpkin-custard-pie/",
   "origin_url": "",
   "source_name": "Allrecipes",

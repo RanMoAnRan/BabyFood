@@ -1,0 +1,99 @@
+{
+  "id": "bf790abdc3b73af195149b647c0ab9a0",
+  "title": "番茄派",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/a8dc3f5cbb29bd370fed7fd3561e40f7.webp",
+  "nutrition_tip": "这个南方番茄派配罗勒、葱、培根和奶酪是最好的……",
+  "ingredients": [
+    {
+      "name": "1 个（9 英寸）深盘馅饼皮",
+      "amount": ""
+    },
+    {
+      "name": "4 个大西红柿，去皮切片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅培根 - 煮熟、沥干并切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 个葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的新鲜罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙碎红辣椒",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯蛋黄酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在馅饼皮中交替填入西红柿、培根、葱、罗勒、牛至、大蒜粉和红辣椒。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个小碗中将奶酪和蛋黄酱搅拌在一起。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "铺在馅饼的顶部。用铝箔松散地覆盖。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤30分钟。取下箔纸并继续烘烤 30 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将馅饼热食或冷食。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-01-29",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/15807/tomato-pie-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4fcc21fd7051a6b2fef4163439745077",
+    "translated": true
+  }
+}

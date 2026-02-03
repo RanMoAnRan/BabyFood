@@ -1,0 +1,82 @@
+{
+  "id": "1cecb14a2330803b63920efc4b8d1403",
+  "title": "有史以来最好的爆米花球",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/8e55fd9c27bc7344469997b3a71713a8.webp",
+  "nutrition_tip": "这个有史以来最好的爆米花球配方可以制作出香甜、松脆、令人难以抗拒的美食……",
+  "ingredients": [
+    {
+      "name": "5 夸脱原味爆米花",
+      "amount": ""
+    },
+    {
+      "name": "2.625 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯棉花糖",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯淡玉米糖浆",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙冷水",
+      "amount": ""
+    },
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将爆米花放入一个耐热的大碗中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "联合糖果厂的将糖、棉花糖、玉米糖浆、黄油和水放入中型平底锅中，中火加热。煮，经常搅拌，直到棉花糖融化并且混合物开始沸腾。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将棉花糖混合物倒在爆米花上。用抹了黄油的抹刀搅拌，直到爆米花均匀地涂上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在手上涂抹烹饪喷雾；在混合物冷却并变硬之前，将爆米花快速成型为球状。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用保鲜膜或玻璃纸包裹爆米花球；室温下可保存长达 1 周。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-14",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/20519/best-ever-popcorn-balls/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "225404c7a906384b637118ef29d89f29",
+    "translated": true
+  }
+}

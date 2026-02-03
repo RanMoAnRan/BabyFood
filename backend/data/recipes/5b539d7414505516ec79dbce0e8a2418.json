@@ -1,0 +1,80 @@
+{
+  "id": "5b539d7414505516ec79dbce0e8a2418",
+  "title": "香蕉梅子面包",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/14282503406f40cc305fbc75810b0786.webp",
+  "nutrition_tip": "这个李子香蕉面包的食谱与大家最喜欢的相似，但是添加了……",
+  "ingredients": [
+    {
+      "name": "2.75 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯人造黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯熟香蕉泥",
+      "amount": ""
+    },
+    {
+      "name": "1 杯李子，去核并切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、泡打粉和小苏打筛入一个中等大小的碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在另一个碗中将糖和人造黄油一起捣碎，直至呈奶油状；加入鸡蛋搅拌直至合并。分 3 批加入面粉混合物，与香蕉泥交替搅拌，每次添加后短暂搅拌，直至光滑且充分混合。折叠李子。转移到准备好的烤盘中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入预热好的烤箱中烘烤至金黄色，约1小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/215139/banana-plum-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0682c4ffb0b80250ec1e5169ee013290",
+    "translated": true
+  }
+}

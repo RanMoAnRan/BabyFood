@@ -1,0 +1,170 @@
+{
+  "id": "373a6673bae31a505789cba25edfbe71",
+  "title": "美味的新奥尔良克里奥尔浓汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Creole",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 220,
+  "cover_image": "images/d28edadc4803877334919be04b6785cd.webp",
+  "nutrition_tip": "传统的克里奥尔浓汤由肉酱、虾、香肠和蟹肉制成。美味…",
+  "ingredients": [
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯培根汁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯粗切芹菜",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，粗切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个大青椒，粗切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 磅安多维尔香肠，切片",
+      "amount": ""
+    },
+    {
+      "name": "3 夸脱水",
+      "amount": ""
+    },
+    {
+      "name": "6 块牛肉汤",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙辣椒酱（例如 Tabasco®），或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙 Cajun 调味料混合物（例如 Tony Chachere's®），或按口味",
+      "amount": ""
+    },
+    {
+      "name": "4 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干百里香叶",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14.5 盎司）炖西红柿",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙锉粉，分开",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙培根汁",
+      "amount": ""
+    },
+    {
+      "name": "2 包（10 盎司）冷冻切秋葵，解冻",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙蒸馏白醋",
+      "amount": ""
+    },
+    {
+      "name": "1 磅蟹肉块",
+      "amount": ""
+    },
+    {
+      "name": "3 磅生中号虾，去皮、去肠",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙伍斯特酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作面糊：将面粉和 3/4 杯培根滴在一个大的重平底锅中，用中低火搅拌直至光滑。煮面糊，不断搅拌，直到变成浓郁的桃花心木棕色。这可能需要 20 到 30 分钟；仔细观察火候并不断搅拌，否则面糊会烧焦。远离热源；继续搅拌直至混合物停止烹饪。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "制作浓汤：将芹菜、洋葱、青椒和大蒜放入食品加工机的工作碗中，搅拌直至所有蔬菜都切碎。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蔬菜拌入面糊中，然后加入切片香肠。用中低火煮 10 至 15 分钟，不断搅拌，直至蔬菜变软。从火上移开并放在一边。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将水和牛肉汤块放入大型荷兰烤箱或汤锅中，用中高温煮沸。搅拌直至肉汤块溶解，然后将面糊混合物搅拌到沸水中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将火调至小火，加入糖、盐、辣椒酱、卡真调味料、月桂叶、百里香、炖番茄和番茄酱。小火煮汤1小时；在 45 分钟时加入 2 茶匙锉浓汤粉。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "同时，将 2 汤匙培根滴入煎锅中，用中火融化。加入秋葵和醋，煮15分钟；用漏勺取出秋葵，拌入正在煮的浓汤中。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "加入蟹肉、虾和伍斯特酱，再煮 45 分钟，直至味道混合。食用前再加入 2 茶匙浓汤粉搅拌。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/216888/good-new-orleans-creole-gumbo/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c5a9356245040aacb3c5eee4052308ca",
+    "translated": true
+  }
+}

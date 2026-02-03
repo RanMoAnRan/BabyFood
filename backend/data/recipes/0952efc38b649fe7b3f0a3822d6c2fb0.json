@@ -1,0 +1,123 @@
+{
+  "id": "0952efc38b649fe7b3f0a3822d6c2fb0",
+  "title": "最好的罐头莎莎酱",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 815,
+  "cover_image": "images/26aa251269ac84c088fe13d745497d30.webp",
+  "nutrition_tip": "这个罐装莎莎酱的配方充分利用了新鲜的花园西红柿和铃铛......",
+  "ingredients": [
+    {
+      "name": "30 个中等大小的西红柿，去皮并切碎",
+      "amount": ""
+    },
+    {
+      "name": "10 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 杯醋",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（8 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的红甜椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "4 个香蕉辣椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "10 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "8 茶匙腌制盐",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 束新鲜香菜，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将西红柿、洋葱、醋、番茄酱、糖、青椒、香蕉辣椒、大蒜、腌盐和黑胡椒放入一个大汤锅中，用中火加热。煮沸，然后将火调至中低，煮 30 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，检查 17 个品脱大小的罐子是否有裂纹，环是否生锈，丢弃任何有缺陷的罐子。浸入沸水中，直到莎莎酱准备好。用温肥皂水清洗新的、未使用的盖子和环。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "离火并加入香菜搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将莎莎酱装入热的、消毒过的罐子中，填充至顶部 1/4 英寸以内。用干净的刀或薄抹刀在罐子内部擦拭以除去任何气泡。用湿纸巾擦拭边缘以去除任何残留物。顶部盖上盖子并拧紧螺丝环。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将一个架子放在一个大汤锅的底部，并装满一半的水。煮沸。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "使用支架将罐子放入沸水中；每个罐子之间留出 2 英寸的空间。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "倒入更多沸水，盖住罐子至少 1 英寸。煮沸，盖上锅盖，煮 35 分钟。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "从汤锅中取出罐子，放在布覆盖的或木质表面上，每个罐子之间留有几英寸的空间。休息 12 至 24 小时。用手指按压每个盖子的中心，确保盖子不会向上或向下移动。存放在阴凉、黑暗的地方。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/244149/the-best-canning-salsa/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c65cc07bb2259db73f5ffdd3e11b0b3c",
+    "translated": true
+  }
+}

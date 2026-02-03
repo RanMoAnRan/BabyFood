@@ -1,0 +1,84 @@
+{
+  "id": "bc41aa1e099b56cbe5f6f3dfb3c1203e",
+  "title": "蓝带鸡肉砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "French Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/cc8d46a03eec84e7054302454c8a8ec7.webp",
+  "nutrition_tip": "我喜欢做砂锅菜，这个很简单。鸡胸肉、瑞士…",
+  "ingredients": [
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 磅去皮去骨鸡胸肉半块 - 切成块",
+      "amount": ""
+    },
+    {
+      "name": "1 杯原味干面包屑",
+      "amount": ""
+    },
+    {
+      "name": "1 杯煎炸油",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司瑞士奶酪，切块",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司火腿块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.75 盎司）浓缩奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡蛋和 1/2 杯牛奶一起搅拌直至混合。拌入鸡肉块，裹上鸡肉块，然后沥干，裹上面包屑。将大煎锅中的油加热至 375 华氏度（190 摄氏度）。将裹有面包屑的鸡块放入热油中煎至各面呈金黄色，然后取出，用纸巾吸干水分。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡肉块、瑞士奶酪和火腿放入玻璃烤盘中。将汤与 1 杯牛奶搅拌在一起，倒入砂锅中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 30 分钟，直至呈金黄色并起泡。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/132959/chicken-cordon-bleu-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b569902d8d7e40f1551cf343460a9f29",
+    "translated": true
+  }
+}

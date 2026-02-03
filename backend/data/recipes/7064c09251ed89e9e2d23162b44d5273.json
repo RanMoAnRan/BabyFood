@@ -1,0 +1,51 @@
+{
+  "id": "7064c09251ed89e9e2d23162b44d5273",
+  "title": "蔓越莓酱和橙汁",
+  "min_age_month": 12,
+  "tags": [
+    "Sauce",
+    "New England",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/a3a9b9d8fdc74e96b2ee9c45dd60ee12.webp",
+  "nutrition_tip": "这种蔓越莓酱和橙汁配方是一种简单的自制调味品......",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）新鲜蔓越莓",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将糖和橙汁放入中型平底锅中，用中火加热；搅拌直至糖溶解。添加蔓越莓；煮大约 10 分钟，偶尔搅拌，直到它们开始爆裂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "转移到碗中；蔓越莓酱冷却后会变稠。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-10-14",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/13459/cranberry-sauce-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e4360c13ce45c30e48d8a353ab0c7f4b",
+    "translated": true
+  }
+}

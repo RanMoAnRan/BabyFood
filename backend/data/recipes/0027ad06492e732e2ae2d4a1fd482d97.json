@@ -1,0 +1,189 @@
+{
+  "id": "0027ad06492e732e2ae2d4a1fd482d97",
+  "title": "咸焦糖苹果派",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 290,
+  "cover_image": "images/a30835ede91449a17da83bf692b60a83.webp",
+  "nutrition_tip": "配上黄油状的片状外壳、五香苹果馅和咸焦糖酱，……",
+  "ingredients": [
+    {
+      "name": "2.3333332538605 杯 通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2.25 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯冷无盐黄油，切成 1/2 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯冰水，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙咸黄油，切成 1/2 英寸的块，室温",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯浓奶油，室温",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙细海盐",
+      "amount": ""
+    },
+    {
+      "name": "10 个中等青苹果 - 去皮、去核并切片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙玉米淀粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 turbinado 糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作馅饼皮：在一个大碗中将面粉和盐一起搅拌。加入黄油并搅拌直至碎片完全分离并涂上面粉混合物。用手将黄油加入面粉混合物中，直至充分混合，黄油块不大于豌豆。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用抹刀轻轻搅拌 1/4 杯冷水，直至完全吸收。添加剩余的 1/4 杯水，一次 1 汤匙，每次添加之间轻轻搅拌，直到面团开始形成球状。根据厨房的湿度或面粉的含水量，您可能不需要使用所有的水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团转移到干净的工作表面上，轻轻揉捏，小心不要过度揉捏，直至光滑且略微发粘。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面团均匀地分成2块。将每一块形成一个扁平的圆盘，并单独用保鲜膜包裹。将面团放入冰箱冷藏至少 1 小时或最多 3 天。 （如果冷藏时间超过 1 小时，请让面团在室温下静置至少 15 分钟，然后再进行第 9 步的擀制。）"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "当面团冷却时，制作焦糖酱：在小平底锅中用中火加热糖，偶尔搅拌，直至完全融化并呈琥珀色，持续 10 至 15 分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将黄油加入融化的糖中，不断搅拌，直至黄油融化并完全混合，大约需要 1 分钟。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "小心地将浓奶油加入糖混合物中，不断搅拌，直至起泡，持续 15 至 30 秒。将锅从火上移开，加入海盐搅拌。将焦糖酱放在一边，在室温下稍微冷却直至可以使用。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "制作馅料：将苹果、糖、面粉、柠檬汁、玉米淀粉、肉桂、盐、丁香和肉豆蔻放入一个大碗中，搅拌均匀。将苹果混合物在室温下放置 30 分钟，不盖盖子。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "将苹果混合物通过过滤器倒入一个大碗中。将苹果混合物放在一边，然后将过滤后的液体转移到小平底锅中。用中火将液体煮沸，偶尔搅拌，直至变稠。将锅从火上移开，放在室温下。"
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。将烤箱架放置在烤箱底部三分之一处。在撒有少许面粉的表面上一次处理一个面团盘，将每个面团盘卷成 1/8 英寸厚、直径 12 英寸的圆形。将一个面团圈放入 9 英寸的馅饼盘中，然后将面团轻轻压入馅饼盘的角落和侧面。"
+    },
+    {
+      "step_index": 12,
+      "img": "",
+      "text": "将苹果和浓缩苹果汁放入大碗中搅拌；将苹果混合物放入馅饼皮中，淋上 1/2 杯焦糖酱。"
+    },
+    {
+      "step_index": 13,
+      "img": "",
+      "text": "将剩余的面团圈放在上面，压入苹果混合物和平底锅边缘。用手指将边缘折叠并卷曲以密封。"
+    },
+    {
+      "step_index": 14,
+      "img": "",
+      "text": "刷面团的顶部和边缘"
+    },
+    {
+      "step_index": 15,
+      "img": "",
+      "text": "Bake pie in the preheated oven until the top is light golden in color, about 20 minutes. Without removing the pie, reduce the oven temperature to 375 degrees F (190 degrees C), and continue baking until dough is deep golden brown and filling is starting to bubble, about 25 minutes. Gently cover pie with aluminum foil, and continue baking until a knife inserted in the center comes out mostly clean, about 25 minutes."
+    },
+    {
+      "step_index": 16,
+      "img": "",
+      "text": "Remove pie from the oven and transfer to a wire rack to cool completely, about 2 hours."
+    },
+    {
+      "step_index": 17,
+      "img": "",
+      "text": "Serve pie with remaining caramel sauce, if desired."
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2021-01-29",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/283215/salted-caramel-apple-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "302398d8b414202df6aa35bec7ed0d5f",
+    "translated": true
+  }
+}

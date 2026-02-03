@@ -1,0 +1,61 @@
+{
+  "id": "5515a63ed5176cba0770364aae418b65",
+  "title": "南瓜绒毛浸",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/4d180b0a882f126a196ced83ba53094e.webp",
+  "nutrition_tip": "这个南瓜绒毛酱配方可以制作出奶油般的梦幻般的美食，尝起来像泵……",
+  "ingredients": [
+    {
+      "name": "1 罐（15 盎司）固体包装南瓜",
+      "amount": ""
+    },
+    {
+      "name": "1 包（5 盎司）即食香草布丁粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "1 个（16 盎司）容器冷冻搅打配料，解冻",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将南瓜、布丁粉和南瓜派香料放入一个大碗中混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "拌入搅打过的配料。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上盖子冷藏直至可以食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-21",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/24740/pumpkin-fluff-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "12233fb9a2f0d0c72b720557e357cd11",
+    "translated": true
+  }
+}

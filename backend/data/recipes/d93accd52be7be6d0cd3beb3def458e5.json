@@ -1,0 +1,50 @@
+{
+  "id": "d93accd52be7be6d0cd3beb3def458e5",
+  "title": "蓝莓蜜饯",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/dd45543a1918a28b74e88de2ae987dc7.webp",
+  "nutrition_tip": "这种美丽的蓝莓蜜饯很容易用冷冻蓝莓制作......",
+  "ingredients": [
+    {
+      "name": "1 包（16 盎司）冷冻蓝莓，未解冻，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将 1/2 的蓝莓放入一个小而重的平底锅中，加入糖和水；煮沸。将火调小，煮约 10 分钟，经常搅拌，直至蓝莓爆裂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将剩余的蓝莓放入锅中搅拌；继续煮约 8 分钟，直至蜜饯变稠并覆盖在勺子背面。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/273441/blueberry-compote/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ca95038d1a10201c4a9b05be9fa6403c",
+    "translated": true
+  }
+}

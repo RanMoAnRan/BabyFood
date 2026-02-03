@@ -5,7 +5,8 @@
   "tags": [
     "Dinner",
     "Side Dish",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 60,
@@ -92,7 +93,7 @@
   ],
   "warnings": [],
   "publish_date": "2015-03-17",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/241797/cheesy-potato-casserole-from-ore-ida/",
   "origin_url": "",
   "source_name": "Allrecipes",

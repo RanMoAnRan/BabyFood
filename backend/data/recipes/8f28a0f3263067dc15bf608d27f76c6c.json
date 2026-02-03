@@ -1,0 +1,115 @@
+{
+  "id": "8f28a0f3263067dc15bf608d27f76c6c",
+  "title": "老式两皮桃派的做法",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Pie",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/57cee78de6637f220b605fe21ae79147.webp",
+  "nutrition_tip": "老式桃子馅饼，由两块面包皮和切成薄片的夏季桃子制成，烘烤后……",
+  "ingredients": [
+    {
+      "name": "1 包（14.1 盎司）糕点，用于双层 9 英寸馅饼",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "5 杯去皮切片桃子",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 450 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在 9 英寸馅饼盘的底部和侧面铺上一块馅饼皮。在饼皮上轻轻刷上鸡蛋，以防止面团稍后变得湿透。将第二块皮放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将桃子放入一个大碗中，撒上柠檬汁，轻轻搅拌。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在另一个碗中将糖、面粉、肉桂、肉豆蔻和盐混合在一起。倒在桃子上，搅拌直至混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "倒入馅饼皮中，涂上黄油。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "用剩余的馅饼皮覆盖馅料。将边缘刻成凹槽以密封或使用浸有鸡蛋的叉子将其压下。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将剩余的鸡蛋刷在上面，然后在顶部外壳上切几条缝，让蒸汽逸出。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将馅饼放入预热的烤箱中烘烤 10 分钟。将热量降低至 350 华氏度（175 摄氏度），然后烘烤 30 到 35 分钟，直到外皮变成棕色并且果汁开始从通风口冒泡。如果边缘变褐色太快，请在烘烤过程中用铝箔条覆盖它们。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "将馅饼冷却 15 分钟，然后切片。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/87979/peach-pie-the-old-fashioned-two-crust-way/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2874013bfe41a072b4366fa20555b83f",
+    "translated": true
+  }
+}

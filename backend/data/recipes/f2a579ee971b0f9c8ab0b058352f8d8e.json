@@ -4,7 +4,8 @@
   "min_age_month": 12,
   "tags": [
     "Dinner",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 645,
@@ -93,7 +94,7 @@
   ],
   "warnings": [],
   "publish_date": "2020-03-05",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/229941/ultimate-turkey-brine/",
   "origin_url": "",
   "source_name": "Allrecipes",

@@ -1,0 +1,63 @@
+{
+  "id": "d265e614eb4528774ac143748b038460",
+  "title": "烤桃片",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/cd9ba5c5de55b6f6c8cf4269da9a191d.webp",
+  "nutrition_tip": "这个烤桃片食谱可以在任何时候做一个快速简单的甜点......",
+  "ingredients": [
+    {
+      "name": "1 包（16 盎司）冷冻桃片",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯红糖替代品",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯山核桃",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将桃片单层放入烤盘中。将红糖替代品、山核桃、面粉和香草精放入碗中，直至混合均匀；铺在桃片上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 至 30 分钟，直至桃子完全加热。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-04-03",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/241987/baked-peaches/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "585851f46ae82ac473a3d114ae59ffb2",
+    "translated": true
+  }
+}

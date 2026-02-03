@@ -1,0 +1,92 @@
+{
+  "id": "14bdec07fb97dd344da20f6c60d93e1e",
+  "title": "纯素南瓜浓汤",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/18b86dd450c697b6e40a1674755eee3b.webp",
+  "nutrition_tip": "这款南瓜浓汤使用杏仁奶代替浓奶油，制成纯素、乳制品……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "2 杯蔬菜汤",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 杯杏仁微风原味或不加糖原味杏仁奶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙香醋",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙切片烤杏仁",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙切碎的新鲜欧芹",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用中高温加热橄榄油。加入洋葱，搅拌约 3 分钟直至变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入蔬菜汤和南瓜泥，搅拌并离火。用浸入式搅拌机搅拌直至光滑。用中火将锅放回炉灶。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入杏仁微风杏仁奶、盐、胡椒和肉桂。煮约 3 分钟，偶尔搅拌直至汤热透。将汤舀入4个碗中。淋上香醋，然后在上面撒上杏仁和欧芹。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-10-10",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/268608/vegan-pumpkin-bisque/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1ef0e5f2af07cb04e3266d353f98b753",
+    "translated": true
+  }
+}

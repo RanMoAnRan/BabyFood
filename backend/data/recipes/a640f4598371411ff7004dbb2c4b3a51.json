@@ -1,0 +1,129 @@
+{
+  "id": "a640f4598371411ff7004dbb2c4b3a51",
+  "title": "提拉米苏",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Italian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 335,
+  "cover_image": "images/3c8947143654fb98376c06560df39dc5.webp",
+  "nutrition_tip": "这个提拉米苏是用层层咖啡和朗姆酒浸泡的手指饼干制成的，自制的……",
+  "ingredients": [
+    {
+      "name": "6 个大蛋黄",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 磅马斯卡彭奶酪，室温",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯浓煮咖啡，室温",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "2 包（3 盎司）手指饼干",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙不加糖可可粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋黄和糖放入中型平底锅中搅拌直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入牛奶，用中火煮，不断搅拌，直到混合物沸腾。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "轻轻煮沸 1 分钟，然后离火并稍微冷却。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "盖紧并放入冰箱冷藏 1 小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在一个中等大小的碗中用电动搅拌机搅拌奶油和香草精，直至形成硬峰。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "从冰箱中取出蛋黄混合物；加入马斯卡彭奶酪，搅拌至光滑。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "将咖啡和朗姆酒放入一个小碗中。将手指饼干纵向切成两半，淋上咖啡混合物。将 1/2 浸泡过的手指饼干放在 7x11 英寸盘子的底部。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "将 1/2 的马斯卡彭混合物涂在手指饼干上，然后将 1/2 的生奶油涂在上面。再次重复图层。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "在上面撒上可可粉。"
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "盖上盖子并冷藏 4 到 6 小时直至凝固。"
+    },
+    {
+      "step_index": 12,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-06-11",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/21412/tiramisu-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dbda4d827f8fc9c7eec211b979116265",
+    "translated": true
+  }
+}

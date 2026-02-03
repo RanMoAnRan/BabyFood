@@ -1,0 +1,79 @@
+{
+  "id": "b6f773a05901d65602d14a3ec60a190c",
+  "title": "匈牙利猪排",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Hungarian",
+    "Eastern European"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/00e17151d49d4cc7ade4ceb63ccb02aa.webp",
+  "nutrition_tip": "将调味猪排快速炒熟，然后在浓郁的汤汁中慢火慢炖……",
+  "ingredients": [
+    {
+      "name": "4 块猪排",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯干雪利酒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 片月桂叶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用盐和胡椒调味猪排。将调味好的排骨撒上面粉。在大煎锅中加热油，将调味排骨放入油中加热（如果需要，可以盖上煎锅盖）。倒掉脂肪。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个中等大小的碗中搅拌酸奶油、雪利酒、番茄酱、伍斯特沙司、辣椒粉和月桂叶直至混合；将混合物倒在煎锅中的排骨上。盖上锅盖，小火慢炖约 1 小时，或直至排骨变软并煮熟。插入排骨中心的即时读数温度计应读数为 145 华氏度（63 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-11",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/14747/hungarian-pork-chops/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "798fec665ae5bb5f2274076d1db2024b",
+    "translated": true
+  }
+}

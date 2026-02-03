@@ -1,0 +1,96 @@
+{
+  "id": "9c51205d4bd607d287a86167c3b51a58",
+  "title": "最好的炸青西红柿",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/44900501ae442bd8a9a6da4d9c3c50b1.webp",
+  "nutrition_tip": "这些炸青西红柿外皮酥脆，里面多汁，而且很…",
+  "ingredients": [
+    {
+      "name": "4 个大绿色西红柿",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯玉米粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯面包屑",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 夸脱煎炸用植物油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将西红柿切成 1/2 英寸厚。丢弃末端。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡蛋和牛奶放入一个中等大小的碗中搅拌。将面粉舀到盘子上。将玉米粉、面包屑、盐和胡椒粉放在另一个盘子上混合。将西红柿浸入面粉中裹上一层。然后将西红柿浸入牛奶和鸡蛋的混合物中；捞出面包屑以完全覆盖。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大的深煎锅中将油加热到 375 华氏度（190 摄氏度）。将西红柿分 4 或 5 个放入热油中，以防止它们相互接触；将一侧煎至酥脆并呈金黄色，然后翻转并煎另一侧。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将炸好的西红柿转移到铺有纸巾的盘子上沥干。对剩下的西红柿重复上述步骤。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-01-14",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/16760/best-fried-green-tomatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "75c039881f2c8a8e40e451c781fdc2e2",
+    "translated": true
+  }
+}

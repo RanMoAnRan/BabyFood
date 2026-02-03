@@ -4,7 +4,8 @@
   "min_age_month": 12,
   "tags": [
     "Bread",
-    "Mexican"
+    "Mexican",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 190,
@@ -112,7 +113,7 @@
   ],
   "warnings": [],
   "publish_date": "1999-09-20",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T07:35:24Z",
   "source_url": "https://www.allrecipes.com/recipe/7224/pan-de-muertos-mexican-bread-of-the-dead/",
   "origin_url": "",
   "source_name": "Allrecipes",

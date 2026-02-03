@@ -1,0 +1,66 @@
+{
+  "id": "ee7db2a919b4516719203defebe8a62e",
+  "title": "烤胡桃南瓜",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 100,
+  "cover_image": "images/dd56703cccb85c16a64004c7168616d0.webp",
+  "nutrition_tip": "这个烤胡桃南瓜食谱，只用黄油、盐和胡椒制成，是……",
+  "ingredients": [
+    {
+      "name": "1 个大胡桃南瓜，纵向切成两半并去籽",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙黄油，切成块",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜切面朝下放入 9x13 英寸的烤盘中。将 2 杯水倒入南瓜周围的盘子中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 ½ 小时，直至变软且易于用叉子刺穿，如果平底锅看起来干燥，则根据需要添加更多水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "从烤箱中取出；将每一半转移到盘子上，切面朝上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在每一半上涂上黄油，然后用盐和胡椒调味。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/159433/baked-butternut-squash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f0e86070954afee84d885590247b4e5f",
+    "translated": true
+  }
+}

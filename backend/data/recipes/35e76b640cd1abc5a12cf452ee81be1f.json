@@ -1,0 +1,104 @@
+{
+  "id": "35e76b640cd1abc5a12cf452ee81be1f",
+  "title": "奶奶的姜饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/f2a65d274c93ff6be077bf958911b840.webp",
+  "nutrition_tip": "奶奶的姜饼配方制作出脆嫩耐嚼、美味可口的经典杜松子酒……",
+  "ingredients": [
+    {
+      "name": "0.33333334326744 杯 肉桂糖",
+      "amount": ""
+    },
+    {
+      "name": "2 杯过筛的通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 姜末",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯起酥油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黑糖蜜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。将肉桂糖放入碗中；放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、生姜、小苏打、肉桂和盐筛入一个大碗中；搅拌直至充分混合。过筛二次。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大碗中用电动搅拌机将黄油搅打至奶油状。逐渐加入糖。加入鸡蛋和糖蜜；搅拌至松软。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将1/3面粉混合物筛入黄油混合物中；搅拌直至充分混合。筛入剩余的面粉混合物。搅拌直至形成柔软的面团。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "捏掉小块面团；搓成1英寸大小的球。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在肉桂糖中滚球，涂上肉桂糖；将其放在未抹油的烤盘上，间隔 2 英寸。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 10 分钟，直至顶部变圆并轻微破裂，中途更换架子。放在金属架上冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1997-12-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/10365/grandmas-gingersnap-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ba8ffbf3e975f0c74047d95d4d6b8657",
+    "translated": true
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "1c94d2397edf6a3b7795f7b5f08a1e8d",
+  "title": "黄油片状馅饼皮",
+  "min_age_month": 12,
+  "tags": [
+    "Pie",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 255,
+  "cover_image": "images/d37ece00070fc9a510b65ebd316bf1d8.webp",
+  "nutrition_tip": "这个全黄油馅饼皮配方制作了一个黄油面团，可以烘烤成酥脆的…",
+  "ingredients": [
+    {
+      "name": "1.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，切丁，然后冷藏",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯冰水，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉和盐放入一个大碗中。使用糕点搅拌机切入冷冻的切块黄油，直到混合物看起来像粗面包屑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "一次加入一汤匙冷水，用抹刀或双手搅拌直至面团混合在一起；您可能需要少于 1/4 杯的水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团做成圆盘状，用塑料包裹，冷藏至少 4 小时或过夜。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将冷冻面团放在撒有大量面粉的表面上，擀成 11 英寸的圆圈，根据需要在擀面杖中添加更多面粉。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "小心地将面团擀到擀面杖上，然后在 9 英寸的馅饼盘上展开。将面团均匀地压入盘子的底部和侧面。修剪掉多余的面团，并在边缘刻上凹槽。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "按照馅饼食谱中的指示进行盲烤或填充并烘烤。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-11-14",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/24094/butter-flaky-pie-crust/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3ec6802156d7bd44fd714f5dd26082a6",
+    "translated": true
+  }
+}

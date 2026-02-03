@@ -1,0 +1,78 @@
+{
+  "id": "658d9cfaba7386878825c4609a429c73",
+  "title": "烤玉米卷蘸酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "Canadian"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/3b2c17306d22d3911d7532fcbcd2aaf9.webp",
+  "nutrition_tip": "这个烤玉米饼蘸酱配方的特点是调味碎牛肉和奶油芝士分层......",
+  "ingredients": [
+    {
+      "name": "1 包（8 盎司）奶油奶酪，室温",
+      "amount": ""
+    },
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）玉米卷调味料混合物",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯莎莎酱",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切达干酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶油干酪均匀地铺在 8x8 英寸的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在大平底锅中用中高火煮碎牛肉并搅拌，直至碎牛肉变脆、变成褐色并煮熟，持续 5 到 10 分钟。加入水和玉米卷调味料搅拌均匀；小火煮 3 至 5 分钟，直至大部分液体蒸发。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将牛肉混合物涂在奶油干酪上；上面撒上莎莎酱，然后撒上切达干酪。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 20 分钟，直至起泡且奶酪融化。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-02-26",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/235145/baked-taco-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8094a08120e5de403d33b6af369db9c4",
+    "translated": true
+  }
+}

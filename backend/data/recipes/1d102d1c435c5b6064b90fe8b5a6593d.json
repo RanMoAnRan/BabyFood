@@ -1,0 +1,95 @@
+{
+  "id": "1d102d1c435c5b6064b90fe8b5a6593d",
+  "title": "迷你南瓜派",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/182226c4cbaaebca57cc7d9e0cf0a52a.webp",
+  "nutrition_tip": "这些迷你南瓜派很容易在松饼锅中用准备好的馅饼面团制作......",
+  "ingredients": [
+    {
+      "name": "1 个大鸡蛋，分开，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 包（14.1 盎司）9 英寸双皮馅饼糕点",
+      "amount": ""
+    },
+    {
+      "name": "24 个一次性迷你馅饼盘",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙南瓜派香料",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在一个小碗中搅打蛋白，直至稍微起泡。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在撒了面粉的表面上将每张糕点擀成大约 11 英寸见方的形状。使用3英寸圆刀将每张糕点切出12个圆。将糕点皮放入每个迷你馅饼盘中；用蛋清刷边缘。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "制作馅料：将蛋黄和剩余 2 个鸡蛋放入一个中等大小的碗中，搅拌直至混合。加入奶油芝士、南瓜泥、糖、香草精和南瓜派香料；打至光滑。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用勺子将大约 2 汤匙填充到每个外壳中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 分钟，直至外皮边缘呈金黄色且馅料凝固。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "从烤箱中取出并冷却 15 分钟，然后食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/219025/mini-pumpkin-pies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "01d5576fe7df56781232b558f3bc1f68",
+    "translated": true
+  }
+}

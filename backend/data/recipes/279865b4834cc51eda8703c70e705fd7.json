@@ -1,0 +1,92 @@
+{
+  "id": "279865b4834cc51eda8703c70e705fd7",
+  "title": "西兰花沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Salad",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/8339634392a0f3994104707646841023.webp",
+  "nutrition_tip": "这个简单的西兰花沙拉，配脆培根、红洋葱、杏仁、葡萄干和……",
+  "ingredients": [
+    {
+      "name": "0.5 磅培根",
+      "amount": ""
+    },
+    {
+      "name": "2 颗新鲜西兰花",
+      "amount": ""
+    },
+    {
+      "name": "1 个小红洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯杏仁片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙白葡萄酒醋",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将培根放入深煎锅中，用中高火煮至均匀棕色，持续 7 至 10 分钟；沥干，冷却，压碎。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将培根、西兰花、洋葱、葡萄干和杏仁一起放入碗中；搅拌均匀。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "制作调料：将蛋黄酱、糖和醋混合在一起，直至光滑。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将调料搅拌到沙拉中，直到西兰花均匀地裹上一层。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "根据需要立即食用或在食用前冷却沙拉。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/14280/fresh-broccoli-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b05c28fd1f0da5562447fb7bf39ca18b",
+    "translated": true
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "71d9c26744e35cd8cf217c93877199db",
+  "title": "内脏肉汁",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Sauce",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/4b7f340180eb76c432d47231f161ce0c.webp",
+  "nutrition_tip": "这种内脏肉汁配方是一种丰富、美味的南方节日最爱，由……制成。",
+  "ingredients": [
+    {
+      "name": "1 夸脱水",
+      "amount": ""
+    },
+    {
+      "name": "火鸡内脏",
+      "amount": ""
+    },
+    {
+      "name": "0.25 中黄洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 茎芹菜，切成两半",
+      "amount": ""
+    },
+    {
+      "name": "1 块鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14.5 盎司）鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "4 个大熟鸡蛋，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙玉米淀粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在 2 夸脱的平底锅中将水、内脏、洋葱、芹菜、肉汤、盐和胡椒一起煮 40 到 50 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将肝脏和颈部转移到切板上；去除颈部的肉并丢弃骨头。将肝脏和颈肉切碎。丢弃芹菜、洋葱和任何其他内脏。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将肉放回锅中。加入高汤和鸡蛋；用中火加热。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将牛奶和玉米淀粉在一个小碗中混合直至光滑；慢慢地倒入锅中搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将热量降低至最低；搅拌3至5分钟，直至肉汁变稠。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-22",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/13867/giblet-gravy-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "eec7af77f1e9e92a97f8e0209200ef1b",
+    "translated": true
+  }
+}

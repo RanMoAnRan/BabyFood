@@ -1,0 +1,92 @@
+{
+  "id": "36582d5f82f662b7e31a311959668ad0",
+  "title": "非常好的蛋酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "Cocktail",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 565,
+  "cover_image": "images/00d4144589d7d29ddac1486991d5916f.webp",
+  "nutrition_tip": "这个非常好的蛋酒配方是用蛋黄增稠的，用战争调味的……",
+  "ingredients": [
+    {
+      "name": "4 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2.5 茶匙香草精，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "5 整个丁香",
+      "amount": ""
+    },
+    {
+      "name": "12 个蛋黄",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "4 杯淡奶油",
+      "amount": ""
+    },
+    {
+      "name": "2.5 杯淡朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将牛奶、1/2 茶匙香草精、肉桂和丁香放入大平底锅中，用小火混合；搅拌并加热5分钟。将热量调至中低；逐渐煮沸。从火上移开。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中搅拌蛋黄，直至其变成浅黄色。加糖；搅拌至松软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将一些热牛奶混合物倒入蛋黄混合物中；快速搅拌以避免炒鸡蛋。继续加入热牛奶并搅拌直至所有牛奶都混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物倒回锅中。用中火煮，不断搅拌，直至浓稠，约3分钟；不要煮沸。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "应变；冷却1小时。加入奶油、朗姆酒、剩余 2 茶匙香草精和肉豆蔻。食用前冷藏 8 小时至过夜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2002-12-11",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/57028/amazingly-good-eggnog/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f248aa9b0805b07db1d3568f2db40bfe",
+    "translated": true
+  }
+}

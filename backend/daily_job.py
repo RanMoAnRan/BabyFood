@@ -5,6 +5,7 @@ import os
 import re
 import signal
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 import requests
 from PIL import Image
@@ -567,6 +568,200 @@ def build_allrecipes_com_data(
     return manifest, index, details_by_id
 
 
+def _allrecipes_page_url_from_slug(slug: str) -> str:
+    """
+    用 slug 推导出 source_url（用于计算 rid=md5(source_url) 并做去重）。
+    注意：必须与 allrecipes_com.fetch_recipe() 构造的 page_url 一致（包含末尾 /）。
+    """
+    s = str(slug or "").strip()
+    if not s:
+        return ""
+    if s.startswith("http://") or s.startswith("https://"):
+        return s
+    return f"https://www.allrecipes.com/recipe/{s.strip('/')}/"
+
+
+def build_allrecipes_com_incremental_data(
+    *,
+    target_total: int | None,
+    append_n: int | None,
+    max_pages: int,
+    download_images: bool,
+    batch_size: int,
+    existing_items: list[dict],
+    existing_ids: set[str],
+    verbose: bool = False,
+    allow_partial: bool = False,
+) -> tuple[dict, dict, dict]:
+    """
+    仅抓取 Allrecipes “新增”的部分（跳过 existing_ids），并把新 items 追加到 existing_items。
+    - target_total: 目标总数（existing + new）
+    - append_n: 只追加 N 条（优先级高于 target_total）
+    """
+    session = new_session()
+
+    existing_count = len(existing_items)
+    if append_n is not None:
+        need = max(0, int(append_n))
+    elif target_total is not None:
+        need = max(0, int(target_total) - existing_count)
+    else:
+        need = 0
+
+    if need <= 0:
+        print(f"[allrecipes_com] incremental: need={need} (existing={existing_count}). Nothing to do.", flush=True)
+        manifest = {
+            "version": "",
+            "updated_at": "",
+            "recipe_count": existing_count,
+            "latest_ids": [it.get("id") for it in existing_items[:10] if it and it.get("id")],
+            "source": {
+                "name": "Allrecipes",
+                "base_url": "https://www.allrecipes.com/recipes/",
+                "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。",
+            },
+        }
+        return manifest, {"version": "", "items": existing_items}, {}
+
+    # 尽量一次拉够候选 slug：需要已有 + 目标 + 少量 buffer，避免 sitemap 顺序变化导致不够用
+    # cap 是“候选链接数量”，不等于最终 recipe 数（会过滤 existing_ids + 详情抓取失败）。
+    buffer = 200
+    candidate_cap = max(existing_count + need + buffer, need + buffer)
+    candidate_cap = max(candidate_cap, max_pages * 50)
+
+    print(
+        f"[allrecipes_com] incremental: existing={existing_count} need={need} "
+        f"batch_size={batch_size} candidate_cap={candidate_cap}",
+        flush=True,
+    )
+
+    slugs = allrecipes_com.list_recipe_slugs(session, max_pages=max_pages, verbose=verbose, cap=candidate_cap)
+    print(f"[allrecipes_com] incremental: sitemap candidates={len(slugs)}", flush=True)
+
+    new_slugs: list[str] = []
+    for slug in slugs:
+        if allow_partial and _STOP_REQUESTED:
+            break
+        page_url = _allrecipes_page_url_from_slug(slug)
+        if not page_url:
+            continue
+        rid = md5(page_url)
+        if rid in existing_ids:
+            continue
+        new_slugs.append(slug)
+        if len(new_slugs) >= need:
+            break
+
+    if not new_slugs:
+        print("[allrecipes_com] incremental: no new slugs found. Nothing to append.", flush=True)
+        manifest = {
+            "version": "",
+            "updated_at": "",
+            "recipe_count": existing_count,
+            "latest_ids": [it.get("id") for it in existing_items[:10] if it and it.get("id")],
+            "source": {
+                "name": "Allrecipes",
+                "base_url": "https://www.allrecipes.com/recipes/",
+                "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。",
+            },
+        }
+        return manifest, {"version": "", "items": existing_items}, {}
+
+    if len(new_slugs) < need:
+        print(f"[allrecipes_com] incremental: only found {len(new_slugs)} new slugs (< need {need}).", flush=True)
+
+    items: list[dict] = list(existing_items)
+    details_by_id: dict[str, dict] = {}
+    latest: list[tuple[str, str]] = []
+
+    total = len(new_slugs)
+    bs = max(1, int(batch_size or 200))
+    batches = (total + bs - 1) // bs
+    for bi in range(batches):
+        if allow_partial and _STOP_REQUESTED:
+            break
+        start = bi * bs
+        end = min(total, start + bs)
+        print(f"[allrecipes_com] incremental: batch {bi + 1}/{batches} ({start + 1}-{end}/{total})", flush=True)
+        for slug in new_slugs[start:end]:
+            if allow_partial and _STOP_REQUESTED:
+                break
+            try:
+                pr = allrecipes_com.fetch_recipe(session, slug)
+            except Exception as e:
+                print(f"warn: allrecipes_com fetch failed: {slug}: {e}")
+                continue
+            rid = md5(pr.source_url)
+            if rid in existing_ids:
+                continue
+            existing_ids.add(rid)
+
+            cover = pr.cover_image_url
+            if download_images and cover:
+                cover = download_and_convert_cover(session, cover)
+
+            tags = allrecipes_com.map_tags(pr.meal_types, pr.categories, pr.food_groups)
+            min_age_month = infer_min_age_month(pr.title, pr.description, pr.ingredients, tags)
+
+            publish_date = parse_iso_date(pr.publish_date) or "1970-01-01"
+            time_cost = pr.prep_minutes if pr.prep_minutes is not None else 0
+
+            index_item = {
+                "id": rid,
+                "title": pr.title,
+                "min_age_month": min_age_month,
+                "tags": tags,
+                "difficulty": 1,
+                "time_cost": time_cost,
+                "cover_image": cover,
+                "publish_date": publish_date,
+                "source_name": "Allrecipes",
+            }
+            items.append(index_item)
+
+            tip = pr.description
+            if len(tip) > 80:
+                tip = tip[:80].rstrip() + "…"
+
+            detail = {
+                "id": rid,
+                "title": pr.title,
+                "min_age_month": min_age_month,
+                "tags": tags,
+                "difficulty": 1,
+                "time_cost": time_cost,
+                "cover_image": cover,
+                "nutrition_tip": tip,
+                "ingredients": pr.ingredients,
+                "steps": [{"step_index": i + 1, "img": "", "text": t} for i, t in enumerate(pr.steps)],
+                "warnings": [],
+                "publish_date": publish_date,
+                "updated_at": "",
+                "source_url": pr.source_url,
+                "origin_url": pr.origin_url,
+                "source_name": "Allrecipes",
+            }
+            details_by_id[rid] = detail
+            latest.append((publish_date, rid))
+
+    items.sort(key=lambda x: (x.get("publish_date", ""), x.get("title", "")), reverse=True)
+    latest_ids = [it.get("id") for it in items[:10] if it and it.get("id")]
+
+    manifest = {
+        "version": "",
+        "updated_at": "",
+        "recipe_count": len(items),
+        "latest_ids": latest_ids,
+        "source": {
+            "name": "Allrecipes",
+            "base_url": "https://www.allrecipes.com/recipes/",
+            "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。",
+        },
+    }
+    index = {"version": "", "items": items}
+    return manifest, index, details_by_id
+
+
 def build_all_data(
     limit: int | None,
     max_pages: int,
@@ -684,6 +879,9 @@ def main():
     parser.add_argument("--max-pages", type=int, default=20, help="最多翻页数（每页 24 条）")
     parser.add_argument("--nutrition-max-pages", type=int, default=0, help="Nutrition.gov 最多翻页数（0 表示不限制）")
     parser.add_argument("--allrecipes-limit", type=int, default=200, help="Allrecipes 最多抓取 N 条（0 表示不限制）")
+    parser.add_argument("--append", action="store_true", help="增量追加模式：在现有 backend/data 基础上追加，不覆盖全量")
+    parser.add_argument("--target-total", type=int, default=0, help="增量追加模式的目标总数（0 表示不使用）")
+    parser.add_argument("--batch-size", type=int, default=200, help="增量追加模式每批抓取条数（默认 200）")
     parser.add_argument("--no-images", action="store_true", help="跳过图片下载（调试用）")
     parser.add_argument("--no-translate", action="store_true", help="跳过中文翻译（默认会翻译详情文本）")
     parser.add_argument("--verbose", action="store_true", help="打印抓取进度")
@@ -695,7 +893,8 @@ def main():
         f"run: site={args.site} limit={args.limit or 0} max_pages={args.max_pages} nutrition_max_pages={args.nutrition_max_pages} "
         f"images={'off' if args.no_images else 'on'} translate={'off' if args.no_translate else 'on'} "
         f"dry_run={'yes' if args.dry_run else 'no'} allrecipes_limit={args.allrecipes_limit} "
-        f"partial={'yes' if args.allow_partial else 'no'}",
+        f"partial={'yes' if args.allow_partial else 'no'} append={'yes' if args.append else 'no'} "
+        f"target_total={args.target_total or 0} batch_size={args.batch_size}",
         flush=True,
     )
 
@@ -732,13 +931,49 @@ def main():
             allow_partial=args.allow_partial,
         )
     elif args.site == "allrecipes_com":
-        new_manifest, new_index, details = build_allrecipes_com_data(
-            limit=limit,
-            max_pages=args.max_pages,
-            download_images=download_images,
-            verbose=args.verbose,
-            allow_partial=args.allow_partial,
-        )
+        if args.append:
+            existing_items: list[dict] = []
+            existing_ids: set[str] = set()
+            if isinstance(old_index, dict) and isinstance(old_index.get("items"), list):
+                for it in old_index["items"]:
+                    if not isinstance(it, dict):
+                        continue
+                    if it.get("source_name") != "Allrecipes":
+                        continue
+                    rid = it.get("id")
+                    if not rid:
+                        continue
+                    existing_items.append(it)
+                    existing_ids.add(str(rid))
+
+            target_total = args.target_total or 0
+            if target_total <= 0:
+                target_total = None
+
+            append_n = None
+            # 兼容：append 模式下，--limit 解释为“追加 N 条”
+            if args.limit and args.limit > 0:
+                append_n = int(args.limit)
+
+            new_manifest, new_index, details = build_allrecipes_com_incremental_data(
+                target_total=target_total,
+                append_n=append_n,
+                max_pages=args.max_pages,
+                download_images=download_images,
+                batch_size=args.batch_size,
+                existing_items=existing_items,
+                existing_ids=existing_ids,
+                verbose=args.verbose,
+                allow_partial=args.allow_partial,
+            )
+        else:
+            new_manifest, new_index, details = build_allrecipes_com_data(
+                limit=limit,
+                max_pages=args.max_pages,
+                download_images=download_images,
+                verbose=args.verbose,
+                allow_partial=args.allow_partial,
+            )
     elif args.site == "all":
         new_manifest, new_index, details = build_all_data(
             limit=limit,

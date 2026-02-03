@@ -1,0 +1,107 @@
+{
+  "id": "0b1c9028d4bb93a445b6ee973ce61a56",
+  "title": "腌芦笋",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 170,
+  "cover_image": "images/3e4c192fa3bda4da57a228a1a26d974a.webp",
+  "nutrition_tip": "这个腌芦笋食谱用醋腌制最新鲜的春季芦笋，......",
+  "ingredients": [
+    {
+      "name": "30 根芦笋矛",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯粗盐",
+      "amount": ""
+    },
+    {
+      "name": "2 夸脱冷水",
+      "amount": ""
+    },
+    {
+      "name": "1.6666667461395 杯蒸馏白醋",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个白洋葱，切成圈",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙莳萝籽",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙芥菜籽",
+      "amount": ""
+    },
+    {
+      "name": "2 枝新鲜莳萝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙辣椒片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "修剪芦笋矛的切端；将它们切成3英寸长。放入一个大碗中，加入 1/3 杯盐。倒入水没过芦笋；静置 2 小时。沥干并用冷水冲洗，然后拍干。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将两个品脱大小的广口瓶放入沸水中消毒 5 分钟。在平底锅中用中火将醋、糖、洋葱、莳萝籽、1 茶匙盐和芥菜籽混合。煮沸并煮一分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将芦笋矛尖朝上装入热罐中，距边缘留出 1/2 英寸的空间。将一根莳萝小枝塞进每个罐子里；撒上 1/4 茶匙红辣椒片。将热酸洗液倒入罐子中，填充至距边缘 1/4 英寸以内。用干净的湿布擦拭边缘并用盖子密封。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将一个架子放在一个大汤锅的底部，并装满一半的水。煮沸并使用支架将罐子放入沸水中，间隔 2 英寸。倒入更多的沸水，盖住罐子至少 1 英寸。煮沸，盖上锅盖，煮 10 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将罐子冷却至室温。冷却后按盖子中心检查密封情况。它不应该移动。标签和日期；存放在阴凉避光的地方。如果任何罐子没有正确密封，请冷藏并在两周内食用。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/69722/pickled-asparagus/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9bea98d227e2f5dcc803bd5a3a08ec1a",
+    "translated": true
+  }
+}

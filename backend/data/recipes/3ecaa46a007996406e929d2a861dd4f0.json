@@ -1,0 +1,97 @@
+{
+  "id": "3ecaa46a007996406e929d2a861dd4f0",
+  "title": "辣椒瑞克的",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 180,
+  "cover_image": "images/8cb365d749bd5f654ea5002906222dd8.webp",
+  "nutrition_tip": "瑞克的辣椒食谱以绞碎的牛肉、豆类和香肠在锅中慢火慢炖......",
+  "ingredients": [
+    {
+      "name": "2 罐（29 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（28 盎司）番茄去皮切块",
+      "amount": ""
+    },
+    {
+      "name": "2 杯洋葱丁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "1 磅培根，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 磅辣香肠",
+      "amount": ""
+    },
+    {
+      "name": "3 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 瓶（32 盎司）山核桃烟熏烧烤酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "4 罐（15.25 盎司）芸豆，不沥干",
+      "amount": ""
+    },
+    {
+      "name": "2块（1盎司）不加糖的方形巧克力，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将番茄酱、番茄丁、洋葱和意大利调味料放入大锅或荷兰烤箱中，用中火混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，在大煎锅中用中火煮培根并搅拌，直至稍微变脆，大约需要 10 分钟。放在铺有纸巾的盘子上沥干水分，然后拌入番茄混合物中。排出煎锅中剩余的油脂。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在同一个煎锅中用中火煮并搅拌香肠，直至变成棕色，大约需要 10 分钟。放在铺有纸巾的盘子上沥干水分，然后拌入番茄混合物中。丢弃煎锅中剩余的油脂。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在同一个煎锅中用中火煮并搅拌碎牛肉，直至碎牛肉变褐色，大约需要 10 分钟。放在铺有纸巾的盘子上沥干水分，然后拌入番茄混合物中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将烧烤酱和辣椒粉加入番茄混合物中搅拌；品尝并调整调味料。加入芸豆和巧克力，搅拌；煮约2小时，直至味道充分混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/25687/chili-ricks/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4e3dc2523366be678c6de19263d4eae0",
+    "translated": true
+  }
+}

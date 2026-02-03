@@ -1,0 +1,117 @@
+{
+  "id": "6b7e55531e598bb9e18abcc2c8db0020",
+  "title": "鸡肉馅砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/8dd48ad0f1f7e7bf10d2043fe95f2f57.webp",
+  "nutrition_tip": "这个鸡肉和馅料砂锅菜很容易用烤鸡做，所以…",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（6 盎司）速煮馅料混合物（例如 Stove Top®），或更多口味",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "3 茎芹菜，切丁，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.5 盎司）低钠奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5罐（10.5盎司）低钠奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 只煮熟的烤鸡 - 去皮、去骨、肉丝",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。在 9x13 英寸烤盘上喷洒烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将水和 1/4 杯黄油放入平底锅中，用中火煮沸。加入馅料混合物并搅拌混合。将锅从火上移开，盖上盖子，静置约 5 分钟，直至水被吸收。用叉子将馅料弄松。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "准备馅料时，将 1 汤匙黄油放入煎锅中，用中火融化。加入洋葱和芹菜；煮5到10分钟，搅拌直至软化。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将两种浓缩汤与酸奶油放入碗中混合直至充分混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡丝铺在准备好的烤盘底部。将洋葱混合物铺在鸡肉上，用盐和胡椒调味。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "上面放上汤混合物，然后将馅料均匀地铺在上面。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 1 小时，直至馅料起泡且顶部呈金黄色。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-04-07",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/240220/rotisserie-chicken-and-stuffing-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9ecd1048001648713f59e0f1f0c4de88",
+    "translated": true
+  }
+}

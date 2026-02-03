@@ -1,0 +1,110 @@
+{
+  "id": "c39bdb9d643207f29a3467fb74d21d8b",
+  "title": "传统猪肉波索尔",
+  "min_age_month": 8,
+  "tags": [
+    "Entree",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 130,
+  "cover_image": "images/5c0990f40cddfe89e7415e19ba79952f.webp",
+  "nutrition_tip": "用这种传统的墨西哥 pozole 温暖你的肚子，其中包括猪肉、青智利......",
+  "ingredients": [
+    {
+      "name": "0.5 磅青智利辣椒，纵向切成两半并去籽",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1 磅无骨猪腰肉，切成 1 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（29 盎司）白色玉米粥，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（29 盎司）黄色玉米粥，沥干",
+      "amount": ""
+    },
+    {
+      "name": "3 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱架设置在距热源约 6 英寸的位置，并预热烤箱的烤鸡。在烤盘上铺上铝箔。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将切好的辣椒面朝下放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤炉下煮 5 到 8 分钟，直到辣椒皮变黑并起泡。将变黑的辣椒放入碗中，并用保鲜膜紧紧密封。让辣椒冷却后蒸约 20 分钟。取下保鲜膜，小心地去除并丢弃辣椒皮。将辣椒切丁。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在一个大锅中用中高温加热橄榄油。在热油中煮并搅拌洋葱和大蒜，直至变软并散发出香味，持续 5 至 10 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将猪肉放入洋葱和大蒜中搅拌；煮5到10分钟，搅拌直至猪肉变成棕色。将青辣椒丁加入猪肉中；煮5分钟，搅拌直至香味四溢。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将白玉米粥、黄玉米粥、鸡汤、水、小茴香、辣椒粉、盐和黑胡椒倒入猪肉混合物中。将混合物煮沸并煮15分钟；将火调至中低，煮至少 1 小时，直至味道混合且猪肉变软。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/234835/traditional-pork-posole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "be9bc47a00ff273e81475458e77d962d",
+    "translated": true
+  }
+}

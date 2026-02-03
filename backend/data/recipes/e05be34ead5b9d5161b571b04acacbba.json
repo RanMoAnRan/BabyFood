@@ -1,0 +1,104 @@
+{
+  "id": "e05be34ead5b9d5161b571b04acacbba",
+  "title": "巧克力片橙子西葫芦面包",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/879af7bf27196b957ed9ea6798a48185.webp",
+  "nutrition_tip": "这款巧克力片橙色西葫芦面包配方结合了口味和质地……",
+  "ingredients": [
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 杯磨碎的西葫芦",
+      "amount": ""
+    },
+    {
+      "name": "1 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎核桃",
+      "amount": ""
+    },
+    {
+      "name": "1 杯半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 橙皮碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在两个 9x5 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、小苏打、盐、肉豆蔻、肉桂和发酵粉一起过筛到碗中；放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡蛋放入碗中，用电动搅拌机搅拌至松软；加入糖搅拌直至充分混合。加入西葫芦、油、核桃、巧克力片、橙皮碎和香草精，搅拌均匀；加入面粉混合物。将面糊分装在准备好的面包盘之间。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 50 分钟，直至插入中心的牙签拔出时是干净的。从平底锅中取出面包之前，先在平底锅中稍微冷却。切片前将面包放入冰箱冷藏。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-06-23",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/6730/chocolate-chip-orange-zucchini-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d44164a486445b7ad772699da7963928",
+    "translated": true
+  }
+}

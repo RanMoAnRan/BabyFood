@@ -1,0 +1,70 @@
+{
+  "id": "b111921d285fc2e1524c6728931f6459",
+  "title": "烤红薯",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/1502eb2b487323a3822fb2b07b82c0ae.webp",
+  "nutrition_tip": "这个烤红薯食谱立方体和牛至调味红薯，......",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "3 个大红薯",
+      "amount": ""
+    },
+    {
+      "name": "2 撮干牛至",
+      "amount": ""
+    },
+    {
+      "name": "2 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "2 撮黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在玻璃或不粘烤盘的底部刷一些油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "土豆去皮；切成中等大小的立方体。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "转移到烤盘上。加入剩余的油，撒上牛至、盐和胡椒，然后搅拌均匀。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 分钟到 1 小时，直至软且叉软。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-04",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/18249/baked-sweet-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "204b606dd3573e7bd0d4d228f57fecf2",
+    "translated": true
+  }
+}

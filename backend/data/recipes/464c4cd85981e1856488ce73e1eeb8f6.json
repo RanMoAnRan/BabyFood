@@ -1,0 +1,81 @@
+{
+  "id": "464c4cd85981e1856488ce73e1eeb8f6",
+  "title": "健康墨西哥烤鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/006a2016979d200043865e25726e93c0.webp",
+  "nutrition_tip": "在这个食谱中，鸡胸肉是用平底锅煎的，然后与莎莎酱和奶酪一起烘烤……",
+  "ingredients": [
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "4 个去骨去皮鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "4 盎司墨西哥碎奶酪混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 杯莎莎酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中火加热植物油。用1/2小茴香、1/2蒜粉、盐和黑胡椒调味鸡胸肉的一侧；将鸡胸肉调味面朝下放入热油中。煎4至5分钟，直至鸡肉底部呈浅棕色。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用剩余的小茴香、剩余的大蒜粉、盐和黑胡椒调味每个鸡胸肉的顶部；将鸡肉翻面，煮 4 至 5 分钟，直至另一面呈浅棕色。如果煎锅变干，倒入足够的莎莎汁以防止烧焦。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将鸡胸肉转移到9英寸方形烤盘中；撒上墨西哥奶酪混合物。用更多的莎莎汁松开煎锅中的水滴，然后倒在鸡胸肉上。将莎莎酱舀到奶酪层上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡胸肉烘烤 20 到 25 分钟，直至中心不再呈粉红色且汁液清澈。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/232326/healthy-mexican-chicken-bake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "462fd356c5d3ecdfba8bbd9de8b467cd",
+    "translated": true
+  }
+}

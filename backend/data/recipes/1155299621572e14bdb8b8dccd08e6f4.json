@@ -1,0 +1,98 @@
+{
+  "id": "1155299621572e14bdb8b8dccd08e6f4",
+  "title": "意大利香肠意大利面南瓜",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/7a03acc78b2ace527cbf27398a4441ea.webp",
+  "nutrition_tip": "在这个简单的意大利香肠意大利面南瓜食谱中，意大利面南瓜取代了……",
+  "ingredients": [
+    {
+      "name": "1 个（3 磅）意大利面南瓜，切半并去籽",
+      "amount": ""
+    },
+    {
+      "name": "1 磅意大利碎香肠",
+      "amount": ""
+    },
+    {
+      "name": "1 个小洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 根芹菜肋骨，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个小胡萝卜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）番茄丁，配罗勒、大蒜和牛至",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5（6 盎司）罐装番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，压榨",
+      "amount": ""
+    },
+    {
+      "name": "1 杯马苏里拉奶酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在烤盘上铺上羊皮纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜切面朝下放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 25 分钟，直至南瓜开始软化。将烤箱温度降低至 350 华氏度（175 摄氏度）；继续烘烤大约25分钟，直到南瓜很容易被刀刺穿。凉爽的。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在大煎锅中用中火将香肠煮至棕色，大约需要 5 分钟。转移到盘子里；将水滴保留在煎锅中。将洋葱、芹菜和胡萝卜放入煎锅中：煮约 5 分钟，搅拌直至开始变软。加入煮熟的香肠、番茄丁、鸡汤、番茄酱和大蒜；煮约 15 分钟，直至味道混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用叉子将南瓜肉刮成意大利面条状的丝；转移到 9x13 英寸的砂锅盘中。加入番茄酱搅拌均匀；上面放上马苏里拉奶酪。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 25 分钟，直至起泡并呈金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/245505/italian-sausage-spaghetti-squash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "81d91f9422f155fdc5d27cb9ceded7bc",
+    "translated": true
+  }
+}

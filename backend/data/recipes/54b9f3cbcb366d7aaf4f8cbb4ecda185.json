@@ -1,0 +1,108 @@
+{
+  "id": "54b9f3cbcb366d7aaf4f8cbb4ecda185",
+  "title": "快速简便的空气炸玉米片",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "Mexican Inspired",
+    "Tex-Mex"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/09ce6d069c46758cbcb3691fcbd27f90.webp",
+  "nutrition_tip": "这些空气炸玉米片配上美味的牛肉、黑豆、奶酪和莎莎酱很简单……",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙玉米卷调味料",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙辣椒",
+      "amount": ""
+    },
+    {
+      "name": "盐和现磨黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "5 盎司薄玉米饼片",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5（15.25 盎司）罐头黑豆，冲洗并沥干",
+      "amount": ""
+    },
+    {
+      "name": "0.33 杯莎莎酱，或品尝",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 葱片",
+      "amount": ""
+    },
+    {
+      "name": "0.33 杯酸奶油，或更多适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将空气炸锅在 360 华氏度（182 摄氏度）下预热约 5 分钟。在空气炸锅的篮子上铺上箔纸或羊皮纸衬垫，然后喷上烹饪喷雾。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中火加热小煎锅，将碎牛肉煮至棕色且易碎，约 3 分钟；排出油脂。加入水、玉米卷调味料、辣椒、盐和胡椒。将煎锅从火上移开。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将玉米饼片放入篮子中，将其展开并稍微重叠，这样融化的奶酪就不会从开口的缝隙中滴落。将切达干酪均匀地撒在薯片上。仅在炸篮中添加几层薯片，中间夹有奶酪，或者仅添加单层并分批烹饪。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将碎牛肉和黑豆均匀地撒在奶酪上，在上面撒上葱，然后加入一勺莎莎酱。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将篮子放入空气炸锅中，煮 4 到 6 分钟，直至奶酪融化并边缘开始微棕色。玉米片会均匀快速地煮熟，但要密切观察，以免烧焦。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将玉米片放入盘中，用酸奶油装饰，然后立即食用。将额外的配料放入小碗中，让每个人都可以定制自己的玉米片。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2022-05-19",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/8389355/quick-and-easy-air-fryer-nachos/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a6584ee006d087f981724afb72ac3017",
+    "translated": true
+  }
+}

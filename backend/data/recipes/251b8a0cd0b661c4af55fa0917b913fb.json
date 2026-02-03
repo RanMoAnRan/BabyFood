@@ -1,0 +1,80 @@
+{
+  "id": "251b8a0cd0b661c4af55fa0917b913fb",
+  "title": "卡津调味料混合香料",
+  "min_age_month": 12,
+  "tags": [
+    "Spice Mix",
+    "Cajun",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/c1c7c3ce5b90ef50ae1027de5d249ef5.webp",
+  "nutrition_tip": "这种简单的卡真调味料混合物可以在家里用你家里的常见香料制作……",
+  "ingredients": [
+    {
+      "name": "2.5 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1.25 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "1.25 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙红辣椒片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将辣椒粉、盐、大蒜粉、牛至、百里香、黑胡椒、洋葱粉、辣椒和红辣椒片一起放入碗中搅拌直至均匀混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将香料混合物存放在密封容器中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2007-09-16",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/149221/cajun-spice-mix/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "84944046b324d5ce78f2915646ec785a",
+    "translated": true
+  }
+}

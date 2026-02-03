@@ -1,0 +1,116 @@
+{
+  "id": "06daefb1f7bb72c86175c7ba7aa24493",
+  "title": "烤箱烤火鸡胸肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 110,
+  "cover_image": "images/5c1f17d31df1541aba5c5b3b689306ec.webp",
+  "nutrition_tip": "这个烤箱烤火鸡胸肉食谱，涂上美味的调味黄油和......",
+  "ingredients": [
+    {
+      "name": "0.25 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙无盐大蒜和香草调味料混合物（例如 Mrs. Dash®）",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "1 个（3 磅）带皮火鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙葱末",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯干白葡萄酒",
+      "amount": ""
+    },
+    {
+      "name": "1 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 对半",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 1/4 杯黄油、大蒜、辣椒粉、意大利调味料、香草调味料、盐和胡椒粉放入碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将火鸡带皮的一面朝上放入烤盘中。用手指松开皮肤；将 1/2 的黄油混合物涂在火鸡上和皮下。保留剩余的黄油混合物。用铝箔将火鸡松松地搭在帐篷里。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入预热好的烤箱烤1小时。涂上剩余的黄油混合物，返回烤箱继续烹饪，直到汁液清澈，并且插入鸡胸最厚部分的即时读数温度计读数为 165 华氏度（74 摄氏度），大约需要 30 分钟。移至切菜板上并静置 10 至 15 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将约 1 汤匙的锅滴转移到中型煎锅中。加入葱，小火煮约 5 分钟，直至呈半透明状。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在煎锅中加入 1 汤匙黄油；加入酒搅拌，刮掉锅底的褐色碎片。将高汤和面粉搅拌至光滑。煮沸，不断搅拌，直至变稠。想要获得更浓郁、更淡的肉汁，可将其搅拌均匀。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将火鸡切片并配上肉汁。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/229658/oven-roasted-turkey-breast/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "87112e5a5253be91df51350a36388964",
+    "translated": true
+  }
+}

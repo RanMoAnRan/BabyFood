@@ -1,0 +1,74 @@
+{
+  "id": "1010bb64d211a26dff0fe1e83b2c1bfa",
+  "title": "土豆饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "Jewish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/fe76be3ce0e1b7f55e88b884a5cada5a.webp",
+  "nutrition_tip": "这个土豆拿铁食谱很经典，用土豆丝、磨碎的洋葱制成……",
+  "ingredients": [
+    {
+      "name": "3 个中等大小的赤褐色土豆，去皮",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋，打散或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙磨碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐，或更多调味",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯花生油 用于煎炸，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在配有刨丝器附件的食品加工机中将土豆磨碎。转移到粗棉布上；拧干以除去尽可能多的水分。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将 2 杯土豆放入一个中等大小的碗中（保留多余的以供其他用途）。加入鸡蛋、面粉、洋葱和盐；搅拌直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在大型重型煎锅中用中高火加热 1/4 英寸的油。加入大勺土豆混合物，压成 1/4 至 1/2 英寸厚的肉饼。煮至金黄色，每面煮 4 至 5 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放在铺有纸巾的盘子上沥干水分。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-15",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/16073/potato-latkes-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8401e0600b08d43ea595560c495a4690",
+    "translated": true
+  }
+}

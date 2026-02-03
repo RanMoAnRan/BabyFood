@@ -1,0 +1,54 @@
+{
+  "id": "903d15e6411a2a6782aa5b1e49c56194",
+  "title": "雪冰淇淋",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/018e0fc858aabfde91d4e18d316d0ced.webp",
+  "nutrition_tip": "这个雪冰淇淋食谱是全家人都可以做的有趣的冬季美食……",
+  "ingredients": [
+    {
+      "name": "1 加仑雪",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在外面放置一个大碗，收集约 1 加仑干净的雪花。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加入糖和香草精混合。加入适量的牛奶，搅拌至所需的稠度。立即上菜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T07:35:24Z",
+  "source_url": "https://www.allrecipes.com/recipe/24944/snow-ice-cream-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8cfbb909e59377a5e2986b170b0bf442",
+    "translated": true
+  }
+}
