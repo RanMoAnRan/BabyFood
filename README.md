@@ -75,3 +75,7 @@ GitHub Actions 会按计划执行 `backend/daily_job.py`，生成/更新 `data/`
   - 数据字段：会写入 `source_url` 与 `origin_url`（若页面提供）
 
 > 注意：即便是公共站点，也可能存在第三方图片/内容的例外；上线前建议抽样核对并保留溯源链接。
+
+### 数据更新
+  - https://purge.jsdelivr.net/gh/RanMoAnRan/BabyFood@main/backend/data/manifest.json
+  - https://purge.jsdelivr.net/gh/RanMoAnRan/BabyFood@main/backend/data/recipes_index.json
