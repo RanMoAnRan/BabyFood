@@ -1,35 +1,22 @@
 {
-  "version": "21568735830",
-  "updated_at": "2026-02-01T19:22:12Z",
+  "version": "2026-02-03T06:47:52Z",
+  "updated_at": "2026-02-03T06:47:52Z",
   "recipe_count": 200,
   "latest_ids": [
     "c393e3db22cb61f357b8306627a922cf",
     "24bd54b1b02d815532996e7101c88a82",
     "0660e88c74d8ccd2810d1a44546c0989",
     "c692585ca8b9a553b79e7fadc6289a07",
-    "9a30c682643cf1e7c6559df67a000a5e",
     "f7b53a43f7abf04ceecb7d725f926e3b",
     "0e7fb8df5d163c0d97006662eede708d",
-    "187795e5a836fc70b86decefedb852b2",
-    "173504a39719babbd960ac7c8d47b44b",
-    "6704cf605ec5ddf913497afa9e1a183f"
-  ],
-  "sources": [
-    {
-      "name": "Nutrition.gov (USDA)",
-      "base_url": "https://www.nutrition.gov/recipes/search",
-      "note": "USDA/NAL 站点内容一般为 public domain，但仍建议保留 source_url/origin_url 以便溯源。"
-    },
-    {
-      "name": "Allrecipes",
-      "base_url": "https://www.allrecipes.com/recipes/",
-      "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。"
-    }
+    "f938368fa7b1ef06b68e4bf5621dd6c9",
+    "e9ed6fe347c4410778d0acc29b52317b",
+    "cf93a8c7b85aec7050890f583267e27a",
+    "c631115d25cb6ef084668f8c122e82a3"
   ],
   "source": {
-    "name": "Multi-source recipes",
-    "base_url": "",
-    "note": "聚合多个站点数据；建议保留 source_url/origin_url 以便溯源与合规核对。"
-  },
-  "data_ref": "data-21568735830-1"
+    "name": "Allrecipes",
+    "base_url": "https://www.allrecipes.com/recipes/",
+    "note": "Allrecipes 内容版权较严格，上线前请核对可再分发范围，并保留 source_url/origin_url 以便溯源。"
+  }
 }

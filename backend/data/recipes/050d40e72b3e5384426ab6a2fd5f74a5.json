@@ -2,90 +2,12 @@
   "id": "050d40e72b3e5384426ab6a2fd5f74a5",
   "title": "二豆辣椒",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/bffa41f6b8f8bd6568c1e8458743eb95.webp",
   "nutrition_tip": "提前准备好这个辣椒，带个碗去上班做馅，平日里…",
-  "ingredients": [
-    {
-      "name": "碎牛肉",
-      "amount": "1 磅"
-    },
-    {
-      "name": "洋葱（切丁）",
-      "amount": "1"
-    },
-    {
-      "name": "芹菜（切丁）",
-      "amount": "2 茎"
-    },
-    {
-      "name": "胡萝卜（切丁）",
-      "amount": "2"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "4 丁香"
-    },
-    {
-      "name": "小茴香（磨碎）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "牛至",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "香菜",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "辣椒粉",
-      "amount": "1 1 / 2 茶匙"
-    },
-    {
-      "name": "番茄丁",
-      "amount": "1 罐"
-    },
-    {
-      "name": "番茄酱",
-      "amount": "2 罐"
-    },
-    {
-      "name": "水",
-      "amount": "2 杯"
-    },
-    {
-      "name": "黑豆（沥干）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "芸豆",
-      "amount": "1 罐"
-    },
-    {
-      "name": "红薯（生的，磨碎的）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "青椒（切碎）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "西葫芦（或西葫芦，切碎）",
-      "amount": "1 个小"
-    },
-    {
-      "name": "盐和胡椒（适量）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -105,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/two-bean-chili",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/two-bean-chili",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "0f193d21c2ce44b1ef13af5fafff0e16",
+    "source_hash": "a44a23aabdda43bc91fbc2f2908eaee3",
     "translated": true
   }
 }

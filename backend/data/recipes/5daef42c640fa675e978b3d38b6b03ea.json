@@ -2,66 +2,12 @@
   "id": "5daef42c640fa675e978b3d38b6b03ea",
   "title": "花生酱炒面",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/1193eb98b2d47f93eda68a8a4a24930b.webp",
   "nutrition_tip": "在这个炒菜食谱中享受花生、辣椒和生姜的味道。",
-  "ingredients": [
-    {
-      "name": "水",
-      "amount": "4 杯"
-    },
-    {
-      "name": "拉面（每份 3 盎司）",
-      "amount": "2 包"
-    },
-    {
-      "name": "鸡胸肉（去骨、去皮、切成细条）",
-      "amount": "2"
-    },
-    {
-      "name": "花生酱",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "酱油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "水",
-      "amount": "1 杯"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "红辣椒片",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "新鲜姜（切碎[或 1/2 茶匙姜末]）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "胡萝卜（切成薄片，约2杯）",
-      "amount": "2"
-    },
-    {
-      "name": "卷心菜（大头，薄片，约6杯）",
-      "amount": "1"
-    },
-    {
-      "name": "大葱（切成薄片）",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -96,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/stir-fry-noodles-peanut-sauce",
   "origin_url": "https://foodhero.org/recipes/stir-fry-noodles-with-peanut-sauce",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "24394be531f4a63087b07b6b249617c8",
+    "source_hash": "e7d1139d7f630818fcfd1f7dc0a9541b",
     "translated": true
   }
 }

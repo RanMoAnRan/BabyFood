@@ -2,57 +2,12 @@
   "id": "89325112e89a52936067de876e399ee2",
   "title": "每日 5 份沙拉",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/a037eb6953cd6dc6b8349ffa8dcf4355.webp",
   "nutrition_tip": "这种营养丰富的沙拉使用了十种不同的蔬菜，每份都均衡...",
-  "ingredients": [
-    {
-      "name": "菠菜叶（新鲜）",
-      "amount": "4 杯"
-    },
-    {
-      "name": "生菜",
-      "amount": "4 杯"
-    },
-    {
-      "name": "甜椒（（红色、黄色、橙色或绿色），切碎）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "樱桃番茄",
-      "amount": "2 杯"
-    },
-    {
-      "name": "西兰花（新鲜，切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "花椰菜（新鲜，切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "南瓜（黄色，新鲜，切片）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "黄瓜（切片）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "胡萝卜（切碎）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "西葫芦（新鲜，切片）",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -67,13 +22,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-05-17",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/5-day-salad",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/5-day-salad",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "6587074adb4f7c6b6d1e9da6188d3c5f",
+    "source_hash": "211837804f425039bc5467626a609580",
     "translated": true
   }
 }

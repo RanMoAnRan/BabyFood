@@ -2,44 +2,12 @@
   "id": "a1d5695e468a15a4fa1adf5e2914cea7",
   "title": "鳄梨芥末蛋",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/0a0c791d1222a09ec4e21cca7519cd33.webp",
   "nutrition_tip": "这些鳄梨芥末蛋非常适合作为零食或配菜。",
-  "ingredients": [
-    {
-      "name": "鸡蛋",
-      "amount": "2 大"
-    },
-    {
-      "name": "牛油果（去皮、去核）",
-      "amount": "1 / 4 大"
-    },
-    {
-      "name": "柠檬汁（或醋（例如白蒸馏酒、苹果酒），适量）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "橄榄油（或鳄梨油，根据需要调整稠度）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "盐（适量）",
-      "amount": "1 捏"
-    },
-    {
-      "name": "黑胡椒（适量）",
-      "amount": "1 捏"
-    },
-    {
-      "name": "辣椒粉（适量）",
-      "amount": "1 捏"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -79,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/avocado-deviled-eggs",
   "origin_url": "https://www.nutrition.va.gov/docs/Recipes/Breakfast/AvocadoDeviledEggsOCT2022.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "50522cd70213a91de6b788668fb41169",
+    "source_hash": "5c38e055cd446de3f0be0e5c663b5a13",
     "translated": true
   }
 }

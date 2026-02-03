@@ -2,20 +2,12 @@
   "id": "0899fe6915bfb9630c9ff01e713d51a0",
   "title": "香蕉冰淇淋",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/f8fa77290022a88554bb6dfaa831bd88.webp",
   "nutrition_tip": "这种冷冻食品仅使用一种简单且成本低廉的成分：香蕉。",
-  "ingredients": [
-    {
-      "name": "香蕉",
-      "amount": "6"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -40,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/banana-ice-cream",
   "origin_url": "https://reallifegoodfood.umn.edu/snacks-and-sweets/banana-ice-cream",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "125fd590c0b7a990cfff771a69e33517",
+    "source_hash": "3364a794ec8fa7da2155e9da6cb2f6be",
     "translated": true
   }
 }

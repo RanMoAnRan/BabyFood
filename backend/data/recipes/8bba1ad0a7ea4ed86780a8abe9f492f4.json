@@ -2,51 +2,12 @@
   "id": "8bba1ad0a7ea4ed86780a8abe9f492f4",
   "title": "羽衣甘蓝和红薯粉上的鸡蛋",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ccde1c569b1c754843241a69b6090504.webp",
   "nutrition_tip": "这道烘焙早餐菜是南方经典的现代演绎，以鸡蛋和......",
-  "ingredients": [
-    {
-      "name": "红薯",
-      "amount": "1 个大"
-    },
-    {
-      "name": "羽衣甘蓝（新鲜，切碎）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "植物油（分次使用）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "水",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "牛奶（脱脂）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "粗玉米粉（快速烹饪）",
-      "amount": "3 / 4 杯"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "鸡蛋",
-      "amount": "4 大"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -96,13 +57,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-08-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/eggs-over-kale-and-sweet-potato-grits",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/eggs-over-kale-and-sweet-potato-grits",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "f13b8aeb02996e80b59325462952a990",
+    "source_hash": "9b50c1c4f30540dcfaa3cfccc4c20f55",
     "translated": true
   }
 }

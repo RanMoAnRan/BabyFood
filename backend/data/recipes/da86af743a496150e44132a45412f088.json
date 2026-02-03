@@ -2,43 +2,22 @@
   "id": "da86af743a496150e44132a45412f088",
   "title": "蜘蛛三明治",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4f02a708880e81a3f24ad8520d11f67b.webp",
   "nutrition_tip": "孩子们一定会喜欢这款美味的蜘蛛三明治作为放学后的零食。",
-  "ingredients": [
-    {
-      "name": "面包片（全麦）",
-      "amount": "1 片"
-    },
-    {
-      "name": "坚果酱（或奶油干酪）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "椒盐卷饼棒",
-      "amount": "6 中"
-    },
-    {
-      "name": "蓝莓（或黑豆）",
-      "amount": "1 个中等"
-    }
-  ],
+  "ingredients": [],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-07-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/spider-sandwich",
   "origin_url": "https://eclkc.ohs.acf.hhs.gov/oral-health/cooks-corner-recipes-healthy-snacks/spider-sandwich",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "7a2c98baee66b01b398e26b4c7685e11",
+    "source_hash": "34c5412c5b7b6d688a1842b220ca55df",
     "translated": true
   }
 }

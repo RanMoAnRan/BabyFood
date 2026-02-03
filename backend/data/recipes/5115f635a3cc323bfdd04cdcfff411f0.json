@@ -2,48 +2,12 @@
   "id": "5115f635a3cc323bfdd04cdcfff411f0",
   "title": "炒菜花饭",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/c79ae520d78a239783d0c6b912339dc1.webp",
   "nutrition_tip": "只需一些简单的原料，花椰菜就可以制成米饭替代品......",
-  "ingredients": [
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "洋葱（切丁）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "大蒜（切碎，（或 1/4 茶匙大蒜粉））",
-      "amount": "1 丁香"
-    },
-    {
-      "name": "花椰菜（磨碎或切碎（4-5 杯））",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "柠檬汁（（可选））",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "欧芹（切碎（可选））",
-      "amount": "2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -68,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-03-31",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/sauteed-cauliflower-rice",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/sauteed-cauliflower-rice",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a0096eaa641d393b7b6396b913d897a1",
+    "source_hash": "8976c5641ab652a904fad9d9d955b469",
     "translated": true
   }
 }

@@ -1,0 +1,92 @@
+{
+  "id": "28c9af4ee9dc5b334602fb4e70074b7e",
+  "title": "红辣酱",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Dinner",
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/2248becb0033f6fe22c46638a454374c.webp",
+  "nutrition_tip": "这个红色辣酱玉米饼馅配方的特点是番茄酱、大蒜、洋葱和莎莎酱……",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯莎莎酱",
+      "amount": ""
+    },
+    {
+      "name": "2.5 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在大平底锅中用中火加热橄榄油。用热油将大蒜炒1至2分钟。加入番茄酱、莎莎酱、辣椒粉、洋葱、欧芹、罗勒、牛至、小茴香、黑胡椒和盐。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加水搅拌；煮沸。将火调至小火，煮 15 至 20 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-25",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/16431/red-enchilada-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3581a6fb9ad9a89df39cd4f9242ea5cc",
+    "translated": true
+  }
+}

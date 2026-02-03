@@ -2,43 +2,12 @@
   "id": "b72ddfc446941f0e9d42122477a501ae",
   "title": "干锅煎面包",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "午餐",
-    "晚餐",
-    "小吃",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/edaf6e4cbfd4899b52fbb71b5248d791.webp",
   "nutrition_tip": "这种纳瓦霍面包的变体使用一半全麦面粉来增加营养......",
-  "ingredients": [
-    {
-      "name": "面粉（白）",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "全麦面粉",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "泡打粉",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 捏"
-    },
-    {
-      "name": "水（温）",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "菜籽油（加上平底锅的额外油）",
-      "amount": "1 / 4 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -58,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/griddle-fry-bread",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/griddle-fry-bread",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "d00a4fec8359b8b224304f4522f0b84f",
+    "source_hash": "f4663285ade4b7ff9cddffd9775cf05b",
     "translated": true
   }
 }

@@ -2,36 +2,12 @@
   "id": "0b91dac3960cc94eda27cf10adcefd12",
   "title": "奶油蔬菜浸",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/9d5ae69794446be92dd2bd6bfceb8a9b.webp",
   "nutrition_tip": "这种典型洋葱酱的变化是一种有益心脏健康的选择，由低脂或……制成",
-  "ingredients": [
-    {
-      "name": "希腊酸奶（纯低脂或脱脂）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "洋葱粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "干莳萝",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "百里香（干）",
-      "amount": "1 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -46,13 +22,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/creamy-veggie-dip",
   "origin_url": "https://wicworks.fns.usda.gov/recipe/creamy-veggie-dip",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "8a5e68090560ee4f84cb06e343c2134e",
+    "source_hash": "675705e02d1e43ccf997399588584a72",
     "translated": true
   }
 }

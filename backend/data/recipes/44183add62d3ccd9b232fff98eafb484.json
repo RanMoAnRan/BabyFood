@@ -2,60 +2,12 @@
   "id": "44183add62d3ccd9b232fff98eafb484",
   "title": "摩洛哥五香火鸡汉堡",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/7ed7583dd7aa93ddef614af3f61a2fac.webp",
   "nutrition_tip": "传统夏季烧烤的改变，与精明的完美搭配……",
-  "ingredients": [
-    {
-      "name": "地面火鸡",
-      "amount": "2 磅"
-    },
-    {
-      "name": "辣椒粉",
-      "amount": "2 1 / 4 茶匙"
-    },
-    {
-      "name": "小茴香（磨碎）",
-      "amount": "3 / 4 茶匙"
-    },
-    {
-      "name": "香菜（磨碎）",
-      "amount": "3 / 4 茶匙"
-    },
-    {
-      "name": "肉桂",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "姜黄",
-      "amount": "3 / 4 茶匙"
-    },
-    {
-      "name": "肉豆蔻（磨碎）",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "调味盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黄洋葱（切碎）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -95,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/moroccan-spiced-turkey-burger",
   "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/Moroccan%20spiced%20turkey%20burger.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b6498021221639e147a92dd7ad093a72",
+    "source_hash": "8d25b261fd8abadf4caedff2615b51d0",
     "translated": true
   }
 }

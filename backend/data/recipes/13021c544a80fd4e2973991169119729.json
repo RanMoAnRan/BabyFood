@@ -2,68 +2,12 @@
   "id": "13021c544a80fd4e2973991169119729",
   "title": "烤蘑菇汉堡配白豆泥",
   "min_age_month": 6,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ae8ee1902399ea58252c9a01854a44e8.webp",
   "nutrition_tip": "全家人都会在任何晚上享用这些自制的蘑菇汉堡……",
-  "ingredients": [
-    {
-      "name": "大蒜（丁香，切碎）",
-      "amount": "2 大"
-    },
-    {
-      "name": "百里香（新鲜）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "卷豆（煮熟或罐装，沥干并冲洗）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "波托贝拉蘑菇（菌盖、茎已修剪）",
-      "amount": "8 大"
-    },
-    {
-      "name": "香醋",
-      "amount": "4 茶匙"
-    },
-    {
-      "name": "洋葱（红色，去皮，切成细环）",
-      "amount": "2 大"
-    },
-    {
-      "name": "汉堡面包（全麦）",
-      "amount": "4 大"
-    },
-    {
-      "name": "切达干酪（切成薄片，4等份）",
-      "amount": "2 盎司"
-    },
-    {
-      "name": "芝麻菜（冲洗干净并干燥）",
-      "amount": "1 / 2 盎司"
-    },
-    {
-      "name": "不粘烹饪喷雾（用于洋葱）",
-      "amount": "1 盎司"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -93,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-08-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/grilled-mushroom-burger-white-bean-puree",
   "origin_url": "https://bean.idaho.gov/recipe/grilled-mushroom-burger-with-white-bean-puree/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "ca538493c2b64c7ac4e2cd895ef6233d",
+    "source_hash": "dfaac10fd44f8a8d3cdeb811f1c19a69",
     "translated": true
   }
 }

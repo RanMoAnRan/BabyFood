@@ -1,0 +1,98 @@
+{
+  "id": "352a790e2ce32539a875ce80a0b865cd",
+  "title": "热软糖布丁蛋糕",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/31ed53097a60250a6eec22370a85fcaa.webp",
+  "nutrition_tip": "这个热软糖布丁蛋糕配方可以制作出浓郁的巧克力蛋糕，放在......",
+  "ingredients": [
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙不加糖可可粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯不加糖可可粉",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯热水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x9 英寸的烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、糖、2 汤匙可可粉、泡打粉和盐放入一个大碗中搅拌。加入牛奶和黄油搅拌至光滑。拌入核桃直至完全混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面糊均匀地铺入准备好的烤盘中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将红糖和 1/4 杯可可粉放入一个小碗中；撒在面糊上面。将热水倒在面糊上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至蛋糕中心几乎凝固。 （红糖、可可粉和热水会混合形成巧克力酱，在烘烤过程中会沉淀到蛋糕底部。）趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/220285/hot-fudge-pudding-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a7cc0eba66eb44eacebe22d043dc59eb",
+    "translated": true
+  }
+}

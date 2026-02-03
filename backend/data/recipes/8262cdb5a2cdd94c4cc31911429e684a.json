@@ -2,41 +2,12 @@
   "id": "8262cdb5a2cdd94c4cc31911429e684a",
   "title": "铝箔晚餐",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/b56b3a23eb1008ba5a321a68e6b4ee10.webp",
   "nutrition_tip": "在烤箱、烤架或凸轮上烹饪这些蔬菜和肉箔包......",
-  "ingredients": [
-    {
-      "name": "碎牛肉（或碎火鸡，瘦肉，冲洗并沥干）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "土豆（擦洗、去眼、切片）",
-      "amount": "2 大"
-    },
-    {
-      "name": "洋葱（去皮切片）",
-      "amount": "1 个大"
-    },
-    {
-      "name": "胡萝卜（擦洗并切片）",
-      "amount": "2 大"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "盐、胡椒或其他调味料（例如大蒜盐或烧烤调味料，按口味）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -81,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/foil-dinners",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/foil-dinners",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "4ad8f6a9543aa7c56b764feec9ae4f03",
+    "source_hash": "5619f173862f196964eac8508ec002a9",
     "translated": true
   }
 }

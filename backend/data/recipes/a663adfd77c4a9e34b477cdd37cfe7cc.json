@@ -2,46 +2,12 @@
   "id": "a663adfd77c4a9e34b477cdd37cfe7cc",
   "title": "炒饭",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/0276922cbd2ef077bd06ae9bc4238dee.webp",
   "nutrition_tip": "用这个简单的炒饭食谱让冷冻蔬菜味道鲜美。尝试配对...",
-  "ingredients": [
-    {
-      "name": "菜籽油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "混合蔬菜（冷冻）",
-      "amount": "3 杯"
-    },
-    {
-      "name": "糙米（煮熟）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "酱油（低钠）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 5 / 8 茶匙"
-    },
-    {
-      "name": "洋葱粉",
-      "amount": "1 5 / 8 茶匙"
-    },
-    {
-      "name": "鸡蛋（打散）",
-      "amount": "3 / 8"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -71,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/fried-rice",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/fried-rice/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c2eb7740260eef16e3671c766b878bba",
+    "source_hash": "2a34ff6df18ab639ff9ad890c5375139",
     "translated": true
   }
 }

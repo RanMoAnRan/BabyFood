@@ -2,63 +2,12 @@
   "id": "14a304595364e2f77aa10096da1e8dbf",
   "title": "简单的鱼炸玉米饼",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/93d566f1e4a3380a69b1ea177476e1d1.webp",
   "nutrition_tip": "这些鱼炸玉米饼是简单与兴奋的完美结合。",
-  "ingredients": [
-    {
-      "name": "酸奶油（脱脂）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "蛋黄酱（脱脂）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "香菜（切碎）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "玉米卷调味料（分次使用）",
-      "amount": "1 / 2 包"
-    },
-    {
-      "name": "鱼片（白鱼或鳕鱼，切成 1 英寸的块）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "卷心菜（红、绿，切丝）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "西红柿（切丁）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "玉米饼（6 英寸，加热）",
-      "amount": "12 中"
-    },
-    {
-      "name": "青柠（楔形，佐餐用）",
-      "amount": "1 个小"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -83,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-04-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/simple-fish-tacos",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/simple-fish-tacos",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "ede368260a09fa320348df62a64e7c19",
+    "source_hash": "c5c16558ee048d404c3cd4d8d2c548e1",
     "translated": true
   }
 }

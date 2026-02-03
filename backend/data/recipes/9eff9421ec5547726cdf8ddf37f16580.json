@@ -2,40 +2,12 @@
   "id": "9eff9421ec5547726cdf8ddf37f16580",
   "title": "羽衣甘蓝和卷心菜",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/5ea459e2be34945e590b75a48dc06ca6.webp",
   "nutrition_tip": "在膳食中添加更多绿色蔬菜，包括羽衣甘蓝和卷心菜。",
-  "ingredients": [
-    {
-      "name": "羽衣甘蓝（洗净、去蒂、切丝）",
-      "amount": "8 盎司"
-    },
-    {
-      "name": "卷心菜（切丝）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "醋",
-      "amount": "1 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -60,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/collard-greens-and-cabbage",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/collard-greens-and-cabbage/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "764d0c122c2d1e8c015889b823fb3e79",
+    "source_hash": "e6890a2a72b31c93722414b5dc303c92",
     "translated": true
   }
 }

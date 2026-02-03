@@ -2,53 +2,12 @@
   "id": "03ccfc5039822065abd4aca35c8ba581",
   "title": "简单的斯特罗加诺夫",
   "min_age_month": 8,
-  "tags": [
-    "晚餐",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/06918717ffa825882efa1623a9286446.webp",
   "nutrition_tip": "这种健康的传统牛肉沙拉酱使用瘦肉、原味酸奶、…",
-  "ingredients": [
-    {
-      "name": "全麦鸡蛋面（生）",
-      "amount": "8 盎司"
-    },
-    {
-      "name": "碎牛肉（瘦肉；或碎火鸡）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1"
-    },
-    {
-      "name": "灯笼椒（切碎）",
-      "amount": "1"
-    },
-    {
-      "name": "蘑菇罐头（沥干）",
-      "amount": "8 盎司"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "黑胡椒（磨碎）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "牛肉汤颗粒",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "原味酸奶（低脂）",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -83,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/easy-stroganoff",
   "origin_url": "https://efnep.ifas.ufl.edu/media/efnepifasufledu/pdfs/tc-recipes/Easy-Stroganoff.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a4a920bbcbe991cd476ce40467b1254c",
+    "source_hash": "0e4b111223e31ed3c44b050d9c2b254c",
     "translated": true
   }
 }

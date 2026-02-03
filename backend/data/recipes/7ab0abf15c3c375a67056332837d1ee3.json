@@ -2,38 +2,12 @@
   "id": "7ab0abf15c3c375a67056332837d1ee3",
   "title": "柑橘沙拉配柠檬酸奶",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "小吃",
-    "水果",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ee1ccacf5b9141151b3927cb08e0e2fe.webp",
   "nutrition_tip": "用这道甜美健康的水果沙拉结束您的用餐。",
-  "ingredients": [
-    {
-      "name": "橙子（去皮并切碎）",
-      "amount": "3"
-    },
-    {
-      "name": "葡萄柚（粉色或红色，去皮并切碎）",
-      "amount": "2"
-    },
-    {
-      "name": "红葡萄（无籽，减半）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "酸奶（低脂、柠檬）",
-      "amount": "1 个容器"
-    },
-    {
-      "name": "亲爱的",
-      "amount": "1 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -68,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/citrus-salad-lemon-yogurt",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/citrus-salad-lemon-yogurt",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b09184df86da142fab178f273a8d8ae9",
+    "source_hash": "f8fdab852bc6aa90f79e076603972e41",
     "translated": true
   }
 }

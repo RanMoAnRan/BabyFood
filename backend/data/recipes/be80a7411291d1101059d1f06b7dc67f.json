@@ -1,0 +1,83 @@
+{
+  "id": "be80a7411291d1101059d1f06b7dc67f",
+  "title": "花椰菜披萨皮",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/e3dabf38dd798e780bb6ed8982e772cb.webp",
+  "nutrition_tip": "美味的花椰菜披萨皮。你永远猜不到这种无谷物的外壳......",
+  "ingredients": [
+    {
+      "name": "0.5 颗花椰菜，粗切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯意大利碎奶酪混合物",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的新鲜欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的大蒜",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "使用光栅刀片将花椰菜片放入食品加工机的进料管中；脉冲直到所有花椰菜都被切碎。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蒸锅放入平底锅中，并加水至蒸锅底部下方。将水烧开。加入花椰菜，盖上锅盖，蒸约 15 分钟至变软。将花椰菜放入一个大碗中，冷藏约 15 分钟，偶尔搅拌直至冷却。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱预热至 450 华氏度（230 摄氏度）。在烤盘上铺上羊皮纸或硅胶垫。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将意大利奶酪混合物、欧芹、鸡蛋、大蒜、盐和胡椒倒入花椰菜中，搅拌均匀。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将混合物倒入准备好的烤盘上；压制成披萨饼皮。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 分钟，直至呈浅棕色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-05-31",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/232930/cauliflower-pizza-crust/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7f4700c65ba47488000144b92263a812",
+    "translated": true
+  }
+}

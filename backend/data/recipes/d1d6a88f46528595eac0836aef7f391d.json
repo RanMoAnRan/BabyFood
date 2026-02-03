@@ -1,0 +1,68 @@
+{
+  "id": "d1d6a88f46528595eac0836aef7f391d",
+  "title": "简易墨西哥胡椒波普尔酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/77cdd4182680f2554ce1d7760a941e8b.webp",
+  "nutrition_tip": "这个墨西哥胡椒波普酱配方很容易用奶油奶酪、切达干酪、罐头……制作。",
+  "ingredients": [
+    {
+      "name": "2 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1罐（4盎司）切碎的青辣椒，沥干",
+      "amount": ""
+    },
+    {
+      "name": "2 盎司罐装墨西哥辣椒丁，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 杯磨碎的帕尔马干酪",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶油干酪和蛋黄酱放入一个大碗中，直至光滑。拌入青辣椒和墨西哥辣椒；转移到可用于微波炉的盘子中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "撒上帕尔马干酪。用微波炉高火加热约 3 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/139012/jalapeno-popper-spread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "94b66218f70e15ddfd2a07124fa73708",
+    "translated": true
+  }
+}

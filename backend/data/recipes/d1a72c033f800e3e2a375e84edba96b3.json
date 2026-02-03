@@ -2,74 +2,12 @@
   "id": "d1a72c033f800e3e2a375e84edba96b3",
   "title": "花生炖菜",
   "min_age_month": 8,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/e7d230e4e954185e911dd8cb908b6c67.webp",
   "nutrition_tip": "这道奶油花生炖菜可以让你在寒冷的秋天或冬天感到温暖。",
-  "ingredients": [
-    {
-      "name": "糙米（即食）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "蔬菜汤（低钠；或鸡汤）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "脱水洋葱（切碎）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "大蒜粉（或 4 瓣大蒜）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "姜末",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "红辣椒（可选）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "红薯（切丁，去皮；或山药）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "西红柿（14.5 盎司，切块，带液体）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "花生酱（奶油状）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "牛奶（脱脂或 1%）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "小菠菜叶（粗切）",
-      "amount": "3 杯"
-    },
-    {
-      "name": "花生（切碎，干烤[可选]）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "葱（切成薄片[可选]）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -94,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/peanutty-stew",
   "origin_url": "https://foodhero.org/recipes/peanutty-stew",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c936d7abaa82fa44b77b4b8e09c5d19f",
+    "source_hash": "2a5fa32b73785a791800114dd617a26c",
     "translated": true
   }
 }

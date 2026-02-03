@@ -1,0 +1,102 @@
+{
+  "id": "fcfff189baff9485847e4e8b908af0c2",
+  "title": "佩罗吉斯",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/1e963ec8d52ccb17bd020d30f2dfe86e.webp",
+  "nutrition_tip": "这些 perogies 是用自制的面团制成的，里面填满了土豆、培根、奶酪……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.66666698455811 杯冷水",
+      "amount": ""
+    },
+    {
+      "name": "1 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "5 磅烤土豆",
+      "amount": ""
+    },
+    {
+      "name": "1 磅培根",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "0.25 磅培根",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（32 盎司）酸菜 - 沥干、冲洗并切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙酸奶油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "制作面团：将面粉、冷水、打散的鸡蛋和盐放入碗中；搅拌直至形成光滑的面团。盖上碗并放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作土豆馅：将土豆放入大锅中。加水盖住，煮沸，煮25至35分钟直至变软。沥干水分，放入锅中捣碎直至光滑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将培根放入大煎锅中，用中高火煮，偶尔翻转，直至均匀变成棕色，大约 10 分钟。将培根片放在纸巾上沥干。捣碎并搅拌成土豆泥。拌入奶酪；用盐和胡椒调味。放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "制作酸菜馅：将培根放入煎锅中，用中高火煮，偶尔翻动，直至均匀变褐色，约 10 分钟。沥干，压碎，放入一个中等大小的碗中。拌入酸菜，然后拌入酸奶油。搅拌均匀。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在撒了面粉的表面上将面团擀成 1/8 至 1/4 英寸的厚度。用饼干切刀或倒置的水杯切出 3 英寸的圆圈。在每个圆圈的中心放一勺土豆或酸菜馅，然后折叠起来，将边缘捏在一起以密封。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将一大锅淡盐水煮沸；将 perogies 放入沸水中煮 4 到 5 分钟，直到它们浮起来。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-22",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/23058/perogies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "38d5c13d8dd9581e638499d70edd796a",
+    "translated": true
+  }
+}

@@ -2,53 +2,12 @@
   "id": "6b023a94662731656374c2a59ac88e0d",
   "title": "自制鳄梨酱",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/dc2ac4a3755f27de3f5b243e659bfc0e.webp",
   "nutrition_tip": "你是鳄梨迷吗？按照这个食谱，将自制鳄梨酱带到您的餐桌上。",
-  "ingredients": [
-    {
-      "name": "鳄梨（成熟）",
-      "amount": "3"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "酸橙汁",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "罗马番茄（切丁）",
-      "amount": "2"
-    },
-    {
-      "name": "红洋葱（切碎）",
-      "amount": "1 1 / 5 杯"
-    },
-    {
-      "name": "墨西哥辣椒（切碎[注意：如果你想要额外的香料/热量，请包括种子]）",
-      "amount": "1 / 2"
-    },
-    {
-      "name": "香菜（新鲜，切碎[或 2 茶匙干香菜]）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -78,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-guacamole",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/homemade-guacamole",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "796e0cfae2c563ed4b620ca955a1caca",
+    "source_hash": "31c03e3f102aa9ee7705d7162b06d04d",
     "translated": true
   }
 }

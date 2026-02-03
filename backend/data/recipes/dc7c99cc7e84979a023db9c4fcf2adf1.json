@@ -1,0 +1,101 @@
+{
+  "id": "dc7c99cc7e84979a023db9c4fcf2adf1",
+  "title": "经典汉堡派",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/464243264e9c59e4b1a3dab2ddcad436.webp",
+  "nutrition_tip": "这个汉堡派的特色是碎牛肉和洋葱，上面撒上土豆泥和……",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "5 个土豆",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）青豆，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.75 盎司）浓缩番茄汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯温牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切达干酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。用烹饪喷雾润滑 1 1/2 夸脱的砂锅盘。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将土豆放入大锅中，盖上盐水；煮沸。将火调至中低，煮约 20 分钟直至变软；流走。放在一个大碗里冷却。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，用中高温加热一个大煎锅。在热煎锅中煮碎牛肉和洋葱并搅拌，直至牛肉易碎、均匀变成棕色且不再呈粉红色，大约需要 10 分钟。加入青豆和浓缩汤搅拌均匀；转移到准备好的砂锅里。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将冷却的土豆与温牛奶、打散的鸡蛋、大蒜、胡椒和盐一起捣碎，直至变得光滑；均匀地铺在牛肉混合物上。撒上切达干酪。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 25 到 30 分钟，直至奶酪融化且边缘开始变成棕色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/228637/classic-hamburger-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b12bcd8fcf9a7fa68efb040b4007dcc5",
+    "translated": true
+  }
+}

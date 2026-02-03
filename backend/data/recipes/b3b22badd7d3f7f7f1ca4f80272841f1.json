@@ -2,38 +2,12 @@
   "id": "b3b22badd7d3f7f7f1ca4f80272841f1",
   "title": "隔夜燕麦片",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "水果",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/b4e774c862110bc2dee78aeea6ebad2a.webp",
   "nutrition_tip": "前一天晚上准备好这个食谱，然后作为外带早餐或......",
-  "ingredients": [
-    {
-      "name": "燕麦片（生的，老式的）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "酸奶（低脂）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "牛奶（脱脂或 1%）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "浆果（新鲜或冷冻）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "苹果（切碎[约 1/3 个中等大小的苹果，直径 3 英寸]）",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -58,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/overnight-oatmeal",
   "origin_url": "https://foodhero.org/recipes/overnight-oatmeal",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "320c3a30feca57f8fad193a2adc07cf3",
+    "source_hash": "02f65b9182d422722fe8a068ca1ba11d",
     "translated": true
   }
 }

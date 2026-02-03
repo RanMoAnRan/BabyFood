@@ -2,65 +2,12 @@
   "id": "65a476e90dfdd5c941a546a86e05c390",
   "title": "蔬菜炒",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/db3bc196384caad36c6b97dc4105724e.webp",
   "nutrition_tip": "这个蔬菜炒菜食谱是流行外卖食品的健康版本......",
-  "ingredients": [
-    {
-      "name": "菜籽油",
-      "amount": "2 1 / 8 茶匙"
-    },
-    {
-      "name": "西兰花（切碎）",
-      "amount": "1 头"
-    },
-    {
-      "name": "花椰菜（切碎）",
-      "amount": "1 头"
-    },
-    {
-      "name": "芹菜（茎，切片）",
-      "amount": "2"
-    },
-    {
-      "name": "胡萝卜（切片）",
-      "amount": "2"
-    },
-    {
-      "name": "甜椒（切片）",
-      "amount": "1"
-    },
-    {
-      "name": "菠萝汁",
-      "amount": "12 汤匙"
-    },
-    {
-      "name": "糖",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "玉米淀粉",
-      "amount": "1 5 / 8 茶匙"
-    },
-    {
-      "name": "酱油（低钠）",
-      "amount": "1 5 / 8 茶匙"
-    },
-    {
-      "name": "糙米（煮熟）",
-      "amount": "2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -80,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/vegetable-stir-fry",
   "origin_url": "https://eatsmartmovemoreva.org/recipes/chinese-vegetable-stir-fry/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "249fbb88a0f27ec3764f891e5568c402",
+    "source_hash": "d1c9456698911d68371070fbf35a4112",
     "translated": true
   }
 }

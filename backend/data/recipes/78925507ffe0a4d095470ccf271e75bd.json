@@ -1,0 +1,55 @@
+{
+  "id": "78925507ffe0a4d095470ccf271e75bd",
+  "title": "沐浴尾巴",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Appetizer",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 170,
+  "cover_image": "images/821b2a6f4cacaa30109654449067ccca.webp",
+  "nutrition_tip": "Bagna cauda 是一种美味的意大利蘸酱，由凤尾鱼、大蒜和……制成。",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "10 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（2 盎司）凤尾鱼片，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 品脱浓奶油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在中型平底锅中用中火融化黄油。拌入大蒜，煮至香味四溢。将热量降至最低。加入凤尾鱼片和油。煮并搅拌直至变稠。从火上移开，盖上盖子并在冰箱中冷藏约 2 小时。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将混合物恢复到中火，偶尔搅拌，直至起泡。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-21",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/26705/bagna-cauda/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cd0269639de8cf7c2b1939eb6b43c159",
+    "translated": true
+  }
+}

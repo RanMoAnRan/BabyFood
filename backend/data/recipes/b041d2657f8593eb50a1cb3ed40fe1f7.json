@@ -1,72 +1,13 @@
 {
   "id": "b041d2657f8593eb50a1cb3ed40fe1f7",
   "title": "拉面煎锅",
-  "min_age_month": 8,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/81a55cacc3c1d7677eb75dab67ba8a15.webp",
   "nutrition_tip": "用更健康的自制调味料和蔬菜来提升你的面条包装......",
-  "ingredients": [
-    {
-      "name": "姜末",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "洋葱粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "盐（或适量）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黑胡椒（或适量）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "菜籽油（或蔬菜）",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "胡萝卜（切碎或切片）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "西兰花（冷冻炒混合物）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "豆腐（切成一口大小的块，煮熟）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "拉面（酱油味，切碎，丢弃佐料包）",
-      "amount": "1 包"
-    },
-    {
-      "name": "自制拉面调味料",
-      "amount": "1"
-    },
-    {
-      "name": "蔬菜汤（无钠）",
-      "amount": "2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -101,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-09-27",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/ramen-noodle-skillet",
   "origin_url": "https://extension.umaine.edu/food-health/recipes/ramen-noodle-skillet/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "9ebfd47e100fc43e11c6bcf8f8c53100",
+    "source_hash": "c96708ff56d3b381806b70761b73d754",
     "translated": true
   }
 }

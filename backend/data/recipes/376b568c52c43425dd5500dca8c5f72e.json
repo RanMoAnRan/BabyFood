@@ -2,58 +2,12 @@
   "id": "376b568c52c43425dd5500dca8c5f72e",
   "title": "西兰花切达菜肉馅煎蛋饼",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/45d65ead775c797e91fe1a4edf6675ec.webp",
   "nutrition_tip": "准备和烹饪大约需要 30 分钟，这使得这个菜肉馅煎蛋饼成为了一份简单的早餐......",
-  "ingredients": [
-    {
-      "name": "西兰花（冷冻，切碎）",
-      "amount": "10 盎司"
-    },
-    {
-      "name": "水",
-      "amount": ""
-    },
-    {
-      "name": "鸡蛋",
-      "amount": "8"
-    },
-    {
-      "name": "牛奶（脱脂或低脂）",
-      "amount": ""
-    },
-    {
-      "name": "芥末",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "调味盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "胡椒",
-      "amount": ""
-    },
-    {
-      "name": "切达干酪（切丝，低脂）",
-      "amount": "3 杯"
-    },
-    {
-      "name": "葱（切碎）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "胡萝卜（切丁）",
-      "amount": "1 个小"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -78,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-01-18",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/broccoli-cheddar-frittata",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/broccoli-cheddar-frittata",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b7ecb4e85bcd5256a371c97f3a9a7213",
+    "source_hash": "be514843b33f51b2a5626ef6ab51cacc",
     "translated": true
   }
 }

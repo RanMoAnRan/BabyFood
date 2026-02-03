@@ -2,34 +2,12 @@
   "id": "c3830421770b6e601f4bc9139e0314e7",
   "title": "花生酱球",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/a9d53150059d308c36d0d3e887b5da1c.webp",
   "nutrition_tip": "呼叫所有花生酱爱好者！尝尝这些零食，一点点加甜……",
-  "ingredients": [
-    {
-      "name": "花生酱",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "亲爱的",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "速溶奶粉（脱脂）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "全麦谷物（碎片）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -49,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/peanut-butter-balls",
   "origin_url": "https://extension.umaine.edu/food-health/recipes/peanut-butter-balls/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "561730af6a62da1d7ab0b6807dcdb2ee",
+    "source_hash": "cf16c3d85c722380f7f6737d70189e95",
     "translated": true
   }
 }

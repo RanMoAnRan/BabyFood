@@ -2,63 +2,12 @@
   "id": "1e2649acdd25ebee0fd6d903e3d5b0f0",
   "title": "一锅意大利面",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/527258600c6d646e807b999139384079.webp",
-  "nutrition_tip": "这个奶酪意大利面食谱很容易制作，孩子们喜欢它！",
-  "ingredients": [
-    {
-      "name": "碎牛肉（瘦肉，15% 脂肪）",
-      "amount": "1 / 2 磅"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "水",
-      "amount": "3 杯"
-    },
-    {
-      "name": "番茄酱（15 盎司）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "牛至（干）",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "糖",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "大蒜粉（或 2 瓣蒜）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "迷迭香",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "意大利面（12 盎司，破碎）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "帕尔马干酪（4 盎司，切丝）",
-      "amount": "1 杯"
-    }
-  ],
+  "nutrition_tip": "这个奶酪意大利面食谱很容易做，孩子们喜欢它！",
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -88,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/one-pan-spaghetti",
   "origin_url": "https://foodhero.org/recipes/one-pan-spaghetti",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "df0b4fb1e04e388dccec32def6ae0b57",
+    "source_hash": "a92d6349d13e683989e7db3793df759e",
     "translated": true
   }
 }

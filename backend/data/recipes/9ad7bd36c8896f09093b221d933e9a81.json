@@ -2,47 +2,12 @@
   "id": "9ad7bd36c8896f09093b221d933e9a81",
   "title": "鳄梨瓜早餐冰沙",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "小吃",
-    "水果",
-    "蔬菜",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/1f36a02e7c2293d7761519eeaa551615.webp",
   "nutrition_tip": "享用早餐冰沙，享用富含水果和蔬菜的早餐。&nb…",
-  "ingredients": [
-    {
-      "name": "鳄梨（成熟）",
-      "amount": "1 个大"
-    },
-    {
-      "name": "蜜瓜（块（约 1 片））",
-      "amount": "1 杯"
-    },
-    {
-      "name": "酸橙汁",
-      "amount": "1 1 / 2 茶匙"
-    },
-    {
-      "name": "牛奶（脱脂）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "酸奶（脱脂，原味）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "苹果汁（100% 果汁）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "亲爱的",
-      "amount": "1 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -67,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-12-11",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/avocado-melon-breakfast-smoothie",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/avocado-melon-breakfast-smoothie",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "5a0bf956ace649f317491556c6560d12",
+    "source_hash": "cec03af7d36f721ce74999afb543a843",
     "translated": true
   }
 }

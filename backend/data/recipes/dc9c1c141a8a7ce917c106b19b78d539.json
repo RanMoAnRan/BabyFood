@@ -2,40 +2,12 @@
   "id": "dc9c1c141a8a7ce917c106b19b78d539",
   "title": "柠檬酱芦笋",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/56f92fd79991001884484515795f74e5.webp",
   "nutrition_tip": "柠檬酱使新鲜芦笋成为任何场合的完美配菜。",
-  "ingredients": [
-    {
-      "name": "芦笋（冲洗并修剪）",
-      "amount": "20 根长矛"
-    },
-    {
-      "name": "柠檬（冲洗（去皮和榨汁））",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "蛋黄酱（低脂）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "欧芹（干）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "黑胡椒（磨碎）",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 16 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -55,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/asparagus-lemon-sauce",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=7&amp;rId=69",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b0a4d8587a46195969e4973e55f0537a",
+    "source_hash": "ba514ef869585648bf472c8231f5ae57",
     "translated": true
   }
 }

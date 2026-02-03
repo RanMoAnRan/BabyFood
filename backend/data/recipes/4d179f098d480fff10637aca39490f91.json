@@ -1,0 +1,80 @@
+{
+  "id": "4d179f098d480fff10637aca39490f91",
+  "title": "奶酪辣酱玉米饼馅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/096d90e6b12887ad43dd365a4c0e8207.webp",
+  "nutrition_tip": "这些辣酱玉米饼馅是切达干酪、洋葱、橄榄和蘑菇。我们…",
+  "ingredients": [
+    {
+      "name": "1 罐（15 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（6 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙克里奥尔风味调味料",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）玉米饼",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）切达干酪，切碎，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1罐（6盎司）熟橄榄片",
+      "amount": ""
+    },
+    {
+      "name": "1罐（6盎司）蘑菇片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个中等大小的碗中混合番茄酱、番茄酱和克里奥尔风格的调味料。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用微波炉或烤箱加热玉米饼；将它们浸入番茄酱混合物中，然后放入 9x13 英寸的砂锅中。在每个玉米饼中加入奶酪、洋葱、橄榄和蘑菇；卷。重复直到盘子装满。在上面撒上少量奶酪。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 25 至 30 分钟，或直至奶酪融化并起泡。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-06-26",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/22644/cheese-enchiladas/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c7b5625279e55dec8b2b70aae7f5194c",
+    "translated": true
+  }
+}

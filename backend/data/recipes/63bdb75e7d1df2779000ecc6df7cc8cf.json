@@ -2,49 +2,22 @@
   "id": "63bdb75e7d1df2779000ecc6df7cc8cf",
   "title": "烤胡萝卜薯条配酸奶葵花籽黄油酱",
   "min_age_month": 8,
-  "tags": [
-    "午餐",
-    "小吃",
-    "蔬菜",
-    "蛋白质",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/691637f8a7650358416b29c72b049839.webp",
-  "nutrition_tip": "给你的小胡萝卜换个造型。将这些烤胡萝卜与美味的食物一起上桌……",
-  "ingredients": [
-    {
-      "name": "希腊酸奶（脱脂、原味；或 1 1/2 杯 + 2 汤匙）",
-      "amount": "1 5 / 8 杯"
-    },
-    {
-      "name": "葵花籽黄油（或 1/4 杯 + 2 汤匙）",
-      "amount": "3 / 8 杯"
-    },
-    {
-      "name": "小胡萝卜（新鲜；或 1 磅 10 盎司）",
-      "amount": "6 杯"
-    },
-    {
-      "name": "盐（餐桌）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "菜籽油",
-      "amount": "2 1 / 4 茶匙"
-    }
-  ],
+  "nutrition_tip": "Give your baby carrots a makeover. Serve these&nbsp;baked carrots with a tasty d…",
+  "ingredients": [],
   "steps": [],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/baked-carrot-fries-yogurt-sunflower-seed-butter-dip",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "ccd405107b586797cf16f2c73acc3b17",
-    "translated": true
+    "source_hash": "2ab0e1073d34326d8bb95416bfea63ef",
+    "translated": false
   }
 }

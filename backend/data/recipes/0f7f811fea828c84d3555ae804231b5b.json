@@ -2,32 +2,12 @@
   "id": "0f7f811fea828c84d3555ae804231b5b",
   "title": "自制乳清干酪",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/f14d41ffa617dc2101639f12f411d0fa.webp",
   "nutrition_tip": "这种新鲜奶酪的制作非常简单！孩子们会从中得到乐趣……",
-  "ingredients": [
-    {
-      "name": "牛奶（全脂，无味）",
-      "amount": "1 加仑"
-    },
-    {
-      "name": "柠檬汁（或白蒸馏醋）",
-      "amount": "6 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 2 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -82,13 +62,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-05-31",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-ricotta-cheese",
   "origin_url": "https://www.maine.gov/doe/schools/nutrition/programs/culinary/recipesandphotos",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "0e48e4051bb7c0c00fd7bea19502b92e",
+    "source_hash": "0ce9346f470067bacf01916d9c195592",
     "translated": true
   }
 }

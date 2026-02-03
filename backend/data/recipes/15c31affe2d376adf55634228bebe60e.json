@@ -2,44 +2,12 @@
   "id": "15c31affe2d376adf55634228bebe60e",
   "title": "黑豆玉米饼",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "小吃",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/1a70afe2d98998fb4bd530b362e41c6e.webp",
   "nutrition_tip": "一周中的任何一个晚上都可以享用玉米饼！这个油炸玉米粉饼食谱可以提供......",
-  "ingredients": [
-    {
-      "name": "莎莎酱（chunky 或 pico de gallo）",
-      "amount": "3 / 4 杯"
-    },
-    {
-      "name": "黑豆（15.5 盎司，沥干并冲洗）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "奶酪（科尔比和蒙特利杰克，低脂，切丝）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "香菜（新鲜，切碎）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "玉米饼（面粉）",
-      "amount": "4 大"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 / 2 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -94,13 +62,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-08-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/black-bean-quesadilla",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/black-bean-quesadillas",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "88a997a23ec6e433277095302d50be73",
+    "source_hash": "61ba3658d7a28ad6ae128dcf607b715a",
     "translated": true
   }
 }

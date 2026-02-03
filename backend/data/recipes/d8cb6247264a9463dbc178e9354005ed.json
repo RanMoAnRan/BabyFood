@@ -2,51 +2,12 @@
   "id": "d8cb6247264a9463dbc178e9354005ed",
   "title": "苹果菠菜沙拉",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "水果",
-    "蔬菜",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/ef3502b37fe5313f32f31796ba45182c.webp",
   "nutrition_tip": "用这个简单、美味的沙拉为您的一天添加更多水果和蔬菜。",
-  "ingredients": [
-    {
-      "name": "菠菜叶",
-      "amount": "4 杯"
-    },
-    {
-      "name": "菜籽油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "苹果醋",
-      "amount": "2 1 / 2 汤匙"
-    },
-    {
-      "name": "糖",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "红洋葱（切碎）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "苹果（馅饼，切成一口大小的块）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "葡萄干（或蔓越莓干）",
-      "amount": "1 / 4 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -81,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/apple-spinach-salad",
   "origin_url": "https://reallifegoodfood.umn.edu/salads/apple-spinach-salad",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "9d828746ff7e4dcc2ffa07a3151d6e15",
+    "source_hash": "81f70891cdac93f17b9a2a115dc043ef",
     "translated": true
   }
 }

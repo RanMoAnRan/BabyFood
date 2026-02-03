@@ -1,55 +1,13 @@
 {
   "id": "e8e881fed28756e6f94ee99d19c81f44",
   "title": "自制鸡肉和饺子",
-  "min_age_month": 8,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/0fb740bc279ff94e849c76905d0c5bb7.webp",
   "nutrition_tip": "通过预煮，在不到 35 分钟的时间内制作出美味的家常舒适食物......",
-  "ingredients": [
-    {
-      "name": "鸡汤（低钠）",
-      "amount": "2 1 / 4 杯"
-    },
-    {
-      "name": "水",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "洋葱（去皮并切碎）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "混合蔬菜（冷冻（玉米、豌豆、胡萝卜和青豆））",
-      "amount": "4 1 / 2 杯"
-    },
-    {
-      "name": "鸡肉（煮熟并切碎）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "百里香（干）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "准备好的烘焙混合物（低脂）",
-      "amount": "1 1 / 4 杯"
-    },
-    {
-      "name": "牛奶（低脂）",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "蛋",
-      "amount": "1 个大"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -79,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-11-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-chicken-and-dumplings",
   "origin_url": "https://calfreshhealthyliving.cdph.ca.gov/en/recipes/Pages/Chicken-and-Dumplings.aspx",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "4b55e5bbdec4d95a6ad43d5223a10306",
+    "source_hash": "6268f071d0292e004885d398a406106b",
     "translated": true
   }
 }

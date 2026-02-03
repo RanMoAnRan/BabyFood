@@ -2,49 +2,12 @@
   "id": "293860cdf9555801b040703a1689e8a7",
   "title": "简易萨尔萨舞",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/e95c0dcbe337379558084b36a8a4ad52.webp",
   "nutrition_tip": "这种新鲜的番茄莎莎酱可为膳食增添风味，并与全麦辣椒完美搭配……",
-  "ingredients": [
-    {
-      "name": "罗马番茄（约 14 个，切丁）",
-      "amount": "2 磅"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "2 丁香"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "青辣椒（切碎，每个 4 盎司）",
-      "amount": "2 罐"
-    },
-    {
-      "name": "小茴香",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "香菜（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "塔巴斯科酱（适量）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -59,13 +22,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/easy-salsa",
   "origin_url": "https://web.extension.illinois.edu/fiesta/recipe.cfm?lang=en&amp;id=39",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "99724691efe79d0c2f01d5b387b7c930",
+    "source_hash": "9e3c80d6d9e138faf061f536ccaa2b72",
     "translated": true
   }
 }

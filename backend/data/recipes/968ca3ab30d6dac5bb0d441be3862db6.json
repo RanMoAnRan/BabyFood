@@ -2,65 +2,12 @@
   "id": "968ca3ab30d6dac5bb0d441be3862db6",
   "title": "燕麦山核桃华夫饼",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "水果",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/29af9ccdad10a530be373bb96b968d7e.webp",
-  "nutrition_tip": "孩子们会喜欢这些用全麦面粉和燕麦制成的全麦华夫饼。&n...",
-  "ingredients": [
-    {
-      "name": "全麦面粉",
-      "amount": "1 杯"
-    },
-    {
-      "name": "燕麦（快煮）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "泡打粉",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "糖",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "坚果（山核桃，无盐，切碎）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "鸡蛋（大，分开）",
-      "amount": "2"
-    },
-    {
-      "name": "牛奶（脱脂（脱脂））",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "浆果（草莓，减半）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "浆果（黑莓）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "浆果（蓝莓）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "糖（粉状）",
-      "amount": "1 茶匙"
-    }
-  ],
+  "nutrition_tip": "孩子们会喜欢这些用全麦面粉和燕麦制成的全麦华夫饼。&n…",
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -100,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-01-12",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/oatmeal-pecan-waffles",
   "origin_url": "https://www.nhlbi.nih.gov/health/educational/wecan/downloads/oatmeal-waffles-4x6.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c63d1527111f9eaed6249e9b972d8fd6",
+    "source_hash": "df6fbb49d1df7809a3063719919771f8",
     "translated": true
   }
 }

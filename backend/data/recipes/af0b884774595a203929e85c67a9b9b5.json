@@ -2,65 +2,12 @@
   "id": "af0b884774595a203929e85c67a9b9b5",
   "title": "西葫芦烤肉串",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/0862ece2fdda6df831250ee0c625cd39.webp",
   "nutrition_tip": "以夏季为中心的风味增强了新鲜农产品的享受。",
-  "ingredients": [
-    {
-      "name": "洋葱（红色，切成1英寸的块）",
-      "amount": "1 个大"
-    },
-    {
-      "name": "南瓜（绿色，切成 3/4 英寸厚的圆形）",
-      "amount": "2 个中等"
-    },
-    {
-      "name": "南瓜（黄色，切成 3/4 英寸厚的圆形）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "樱桃番茄",
-      "amount": "1 / 2 品脱"
-    },
-    {
-      "name": "罗勒（新鲜，切成丝带[约6片叶子]）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "牛至（新鲜，切碎[约 6 小枝]）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "2 1 / 2 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "5 丁香"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "红酒醋",
-      "amount": "4 汤匙"
-    },
-    {
-      "name": "柠檬汁（1 个整个柠檬）",
-      "amount": ""
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 / 4 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -90,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/summer-squash-kabobs",
   "origin_url": "https://www.ars.usda.gov/ARSUserFiles/80400500/pdf/4%20Summer%20Squash%20Kebobs.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "34ad07de18021a4d8b5309d91aaf5aac",
+    "source_hash": "5e680b6af5d6042352b302518297d0ea",
     "translated": true
   }
 }

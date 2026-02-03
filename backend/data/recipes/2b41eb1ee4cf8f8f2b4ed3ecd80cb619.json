@@ -1,43 +1,13 @@
 {
   "id": "2b41eb1ee4cf8f8f2b4ed3ecd80cb619",
   "title": "咖喱鸡卷",
-  "min_age_month": 8,
-  "tags": [
-    "午餐",
-    "水果",
-    "蛋白质",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/9b25fddf40ea38873bccb221f6511d91.webp",
   "nutrition_tip": "您可以在各种食谱中使用咖喱粉。在这个食谱中，它添加了……",
-  "ingredients": [
-    {
-      "name": "希腊酸奶（脱脂，原味）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "咖喱粉",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "鸡肉（去骨、去皮、煮熟、1/4 英寸切丁；或 6 盎司）",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "苹果（新鲜、未去皮、1/4 英寸切丁；切前用流水轻轻清洗苹果）",
-      "amount": "1 3 / 4 杯"
-    },
-    {
-      "name": "葡萄干（金色）",
-      "amount": "3 / 4 杯"
-    },
-    {
-      "name": "玉米饼（全麦；8 英寸宽，每个至少 42 克或 1 1/2 盎司）",
-      "amount": "6"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -72,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/curried-chicken-wraps",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "190b5cbfc7d68a76afa095eadc167fa1",
+    "source_hash": "4ad06560ba1545db028c51e360e15e15",
     "translated": true
   }
 }

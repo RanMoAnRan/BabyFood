@@ -2,46 +2,12 @@
   "id": "dcf40fa3d4f6cc884bcfc6edea1a0e9a",
   "title": "草莓芒果羊乳酪吐司",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "水果",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/9e834feaf2b0fc696eb94093783b7885.webp",
   "nutrition_tip": "草莓丁、芒果和脱脂羊奶酪提供了完美的平衡……",
-  "ingredients": [
-    {
-      "name": "芒果（成熟，分开）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "草莓（分次使用）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "羊奶酪（脱脂，碎）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "香醋",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "罗勒（留下，加 2 汤匙作为配料）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "全麦面包",
-      "amount": "4 片"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -51,7 +17,7 @@
     {
       "step_index": 2,
       "img": "",
-      "text": "将混合油醋汁倒在水果羊乳酪混合物上，轻轻搅拌。"
+      "text": "将混合好的油醋汁倒在水果羊乳酪混合物上，轻轻搅拌。"
     },
     {
       "step_index": 3,
@@ -71,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-04-26",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/strawberry-mango-feta-toast",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/strawberry-mango-feta-toast-points",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "2a7706cbfccf2612e7861be359f45a72",
+    "source_hash": "e0cace07f1c982980a7c10cc73668b63",
     "translated": true
   }
 }

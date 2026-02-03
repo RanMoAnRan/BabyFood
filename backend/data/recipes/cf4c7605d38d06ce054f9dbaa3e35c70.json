@@ -1,0 +1,59 @@
+{
+  "id": "cf4c7605d38d06ce054f9dbaa3e35c70",
+  "title": "香蕉牛奶咖啡",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Coffee",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/a85102ec3150fcbfdb6362ba50708434.webp",
+  "nutrition_tip": "牛奶和香蕉混合在一起直至呈奶油状，然后倒在冷萃咖啡上......",
+  "ingredients": [
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 个熟透的香蕉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙简单糖浆",
+      "amount": ""
+    },
+    {
+      "name": "冰块",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冷泡咖啡",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将牛奶、香蕉和简单糖浆放入搅拌机中混合；搅拌直至非常光滑，大约 1 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将两个 16 盎司的玻璃杯装满冰块。将咖啡分装在玻璃杯之间。将香蕉牛奶倒在上面，将其均匀地分配在玻璃杯之间。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-09-15",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/255355/banana-milk-coffee/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a8215831816628bdd9896831493b9121",
+    "translated": true
+  }
+}

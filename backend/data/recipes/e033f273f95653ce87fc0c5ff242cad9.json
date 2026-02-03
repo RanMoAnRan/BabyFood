@@ -2,49 +2,12 @@
   "id": "e033f273f95653ce87fc0c5ff242cad9",
   "title": "番茄和番茄西班牙凉菜汤",
   "min_age_month": 8,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/05fd8b8bb5cbea01a9afe706016ac275.webp",
   "nutrition_tip": "清淡爽口的夏日清凉汤。",
-  "ingredients": [
-    {
-      "name": "粘浆果（新鲜、去壳、冲洗并切成四等分）",
-      "amount": "1 / 2 磅"
-    },
-    {
-      "name": "西红柿（切碎，分次）",
-      "amount": "1 1 / 2 磅"
-    },
-    {
-      "name": "洋葱（白色，分开）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "辣椒（辣椒等辣味，切碎，包括种子）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "大蒜（切成四份）",
-      "amount": "1 丁香"
-    },
-    {
-      "name": "红酒醋",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "香菜（切碎）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -69,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-05-31",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/tomato-and-tomatillo-gazpacho",
   "origin_url": "https://nesfp.nutrition.tufts.edu/world-peas-food-hub/world-peas-csa/produce-recipes/tomato-and-tomatillo-gazpacho",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "4f8e9e4ce251206311d4ba8b29f485b3",
+    "source_hash": "a62c52e3eb9b86d818fab1f16341e0d5",
     "translated": true
   }
 }

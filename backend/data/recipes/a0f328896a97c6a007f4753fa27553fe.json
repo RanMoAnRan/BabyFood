@@ -2,57 +2,12 @@
   "id": "a0f328896a97c6a007f4753fa27553fe",
   "title": "早餐卷饼",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/0ef7118c2267f9b92769def9c8649c56.webp",
   "nutrition_tip": "在开始新的一天时带上这份早餐卷饼。",
-  "ingredients": [
-    {
-      "name": "鸡蛋",
-      "amount": "4"
-    },
-    {
-      "name": "牛奶 (1 %)",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "盐（适量）",
-      "amount": ""
-    },
-    {
-      "name": "胡椒（适量）",
-      "amount": ""
-    },
-    {
-      "name": "辣椒粉（适量）",
-      "amount": ""
-    },
-    {
-      "name": "石油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "玉米饼（10 英寸面粉玉米饼）",
-      "amount": "4"
-    },
-    {
-      "name": "豆类（脱脂豆泥）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "切达干酪（磨碎，4 盎司）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "番茄（切碎）",
-      "amount": "1"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -97,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/breakfast-burritos",
   "origin_url": "https://foodhero.org/recipes/breakfast-burritos",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a955f4e025ea36e99819c5b689ed2964",
+    "source_hash": "3a79db1e506a8c08ead327a08f5e1a3d",
     "translated": true
   }
 }

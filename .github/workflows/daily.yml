@@ -4,7 +4,25 @@ on:
   schedule:
     # 北京时间 03:00 ≈ UTC 19:00
     - cron: "0 19 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      site:
+        description: "手动运行时抓取的数据源（定时任务固定只跑 allrecipes_com）"
+        required: false
+        default: "allrecipes_com"
+        type: choice
+        options:
+          - allrecipes_com
+          - nutrition_gov
+          - all
+      allrecipes_limit:
+        description: "Allrecipes 最多抓取条数（0 表示不限制）"
+        required: false
+        default: "200"
+      nutrition_max_pages:
+        description: "Nutrition.gov 最多翻页数（0 表示不限制）"
+        required: false
+        default: "0"
 
 concurrency:
   group: daily-update-main
@@ -32,7 +50,23 @@ jobs:
         env:
           DATA_VERSION: ${{ github.run_id }}
           DATA_REF: data-${{ github.run_id }}-${{ github.run_attempt }}
-        run: python backend/daily_job.py
+        run: |
+          SITE="allrecipes_com"
+          ALLRECIPES_LIMIT="200"
+          NUTRITION_MAX_PAGES="0"
+
+          # 定时任务：固定只跑 Allrecipes
+          # 手动触发：可通过 inputs 选择站点/限制
+          if [ "${GITHUB_EVENT_NAME}" = "workflow_dispatch" ]; then
+            SITE="${{ inputs.site }}"
+            ALLRECIPES_LIMIT="${{ inputs.allrecipes_limit }}"
+            NUTRITION_MAX_PAGES="${{ inputs.nutrition_max_pages }}"
+          fi
+
+          python backend/daily_job.py \
+            --site "${SITE}" \
+            --allrecipes-limit "${ALLRECIPES_LIMIT}" \
+            --nutrition-max-pages "${NUTRITION_MAX_PAGES}"
 
       - name: Commit changes
         run: |

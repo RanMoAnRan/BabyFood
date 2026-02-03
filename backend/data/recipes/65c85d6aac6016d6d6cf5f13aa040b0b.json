@@ -1,0 +1,108 @@
+{
+  "id": "65c85d6aac6016d6d6cf5f13aa040b0b",
+  "title": "经典炖牛肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Pasta",
+    "Eastern European",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/eadee4e21b559e5f371e4c83a1034c1c.webp",
+  "nutrition_tip": "这个炖牛肉食谱是在炉子上用碎牛肉、西红柿、香草、…",
+  "ingredients": [
+    {
+      "name": "1 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个大黄洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（15 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14.5 盎司）番茄丁",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙干意大利香草调味料",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙调味盐，或适量",
+      "amount": ""
+    },
+    {
+      "name": "3 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "2 杯生肘通心粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大型荷兰烤箱中用中高温加热橄榄油。加入洋葱，煮 3 分钟，经常搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入碎牛肉，煮约 5 分钟，将肉打碎直至均匀变成棕色。加入大蒜，煮 3 分钟，经常搅拌。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入水、番茄酱、番茄丁、酱油、意大利调味料、调味盐和月桂叶，搅拌。煮至小火，盖上锅盖，煮 5 分钟，中途搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "加入未煮熟的通心粉，盖上锅盖，用中火煮 11 至 13 分钟，直至意大利面变软，期间偶尔搅拌。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "从火上移开，丢弃月桂叶，即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-05-10",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/213268/classic-goulash/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4646428e8c851c28d1cf1053cf29289d",
+    "translated": true
+  }
+}

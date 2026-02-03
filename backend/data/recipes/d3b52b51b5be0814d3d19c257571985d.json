@@ -1,71 +1,13 @@
 {
   "id": "d3b52b51b5be0814d3d19c257571985d",
   "title": "香蕉浆果松饼",
-  "min_age_month": 6,
-  "tags": [
-    "早餐",
-    "小吃",
-    "水果",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/7f40af555c8ff9cf3a1dc4114e2dcd2b.webp",
   "nutrition_tip": "为这些湿润的松饼提供果味和全麦的美味......",
-  "ingredients": [
-    {
-      "name": "不粘烹饪喷雾",
-      "amount": ""
-    },
-    {
-      "name": "苹果酱",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "糖",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "蛋",
-      "amount": "1 个大"
-    },
-    {
-      "name": "香蕉（熟的，捣碎）",
-      "amount": "2 大"
-    },
-    {
-      "name": "水",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "面粉（通用）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "全麦面粉",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "燕麦（快速烹饪）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "泡打粉",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "小苏打",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "蓝莓（或草莓，新鲜或冷冻）",
-      "amount": "1 / 4 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -110,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-12-11",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/banana-berry-muffins",
   "origin_url": "https://www.myplate.gov/recipes/myplate-cnpp/banana-berry-muffins",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "cf76fa52dcaea678b90b669329c33a6f",
+    "source_hash": "45c812c9302b7cb6321b789afa7d9b10",
     "translated": true
   }
 }

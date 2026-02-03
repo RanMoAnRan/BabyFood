@@ -2,36 +2,12 @@
   "id": "619bbccc98240d09afa88ba04dea63d7",
   "title": "脆脆鹰嘴豆零食",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/87c711f3c73918ffa8c61cb1cd448cf3.webp",
   "nutrition_tip": "轻轻烘烤，松脆，这些美味的鹰嘴豆零食是必备品！",
-  "ingredients": [
-    {
-      "name": "鹰嘴豆（鹰嘴豆，14-15 盎司罐头）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "小茴香",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 8 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -66,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/crunchy-chickpea-snacks",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/crunchy-chickpea-snacks",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a4fc5aeaac072178c6d2420d85c9b774",
+    "source_hash": "c574a4792c0f460a6bde29aaa173186e",
     "translated": true
   }
 }

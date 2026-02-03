@@ -2,61 +2,12 @@
   "id": "410836cbd8e5cb770e1ffdd66e67551c",
   "title": "番茄黄瓜沙拉",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/a3573642485e6a617696d1ef4d0f6e9d.webp",
   "nutrition_tip": "这种清爽的沙拉是利用蔬菜夏天的好方法......",
-  "ingredients": [
-    {
-      "name": "西红柿（立方体）",
-      "amount": "4 大"
-    },
-    {
-      "name": "黄瓜（切碎）",
-      "amount": "1 个大"
-    },
-    {
-      "name": "红洋葱（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "青椒（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "欧芹（切碎）",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "苹果醋",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "2 丁香"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "糖",
-      "amount": "1 / 2 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -81,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-04-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/tomato-and-cucumber-salad",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/tomato-and-cucumber-salad",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "d0e6024fd9141c4fb1a813cc085b48fb",
+    "source_hash": "d35802cbf2531025ae5d17b19e0031a7",
     "translated": true
   }
 }

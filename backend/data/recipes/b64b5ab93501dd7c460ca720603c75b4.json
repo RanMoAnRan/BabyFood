@@ -2,50 +2,12 @@
   "id": "b64b5ab93501dd7c460ca720603c75b4",
   "title": "“剩菜”西兰花土豆汤",
   "min_age_month": 6,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/3677b99eca3677915bae11c6815f5d05.webp",
   "nutrition_tip": "一道美味的白手起家的汤，在……的帮助下很快就做好了。",
-  "ingredients": [
-    {
-      "name": "西兰花（切碎）",
-      "amount": "4 杯"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 个小"
-    },
-    {
-      "name": "肉汤（鸡肉或蔬菜汤，低钠）",
-      "amount": "4 杯"
-    },
-    {
-      "name": "淡奶（脱脂）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "土豆（捣碎、剩下的或 1/2 杯土豆泥、即食并用水准备成 1 杯土豆）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "切达干酪（切丝）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "盐（适量）",
-      "amount": ""
-    },
-    {
-      "name": "黑胡椒（适量）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -90,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/leftovers-broccoli-potato-soup",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/broccoli-potato-soup",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b9b79f7019babff584523231be0cf4ca",
+    "source_hash": "8dc37bd6951b967e182cf7c9b5167070",
     "translated": true
   }
 }

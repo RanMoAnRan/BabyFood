@@ -2,45 +2,12 @@
   "id": "586e5dcb5a7ff00f317fdf6a207b88cd",
   "title": "苹果玉米片",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4a174f7d53dfe668d2a9932aa2ffaab7.webp",
   "nutrition_tip": "这些健康、果味的玉米片对于孩子来说制作起来很简单。",
-  "ingredients": [
-    {
-      "name": "柠檬汁",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "苹果（切成薄片）",
-      "amount": "2 个中等"
-    },
-    {
-      "name": "葵花籽（无盐，去壳）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "蔓越莓干（不加糖[或葡萄干]）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "巧克力片（迷你）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "花生酱（奶油风格）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "亲爱的",
-      "amount": "5 1 / 2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -80,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/apple-nachos",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/apple-nachos",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c3a2105f78b70059477c6b6a3c9a6f41",
+    "source_hash": "a2fa7e013c5eab8b01042b40d845652c",
     "translated": true
   }
 }

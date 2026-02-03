@@ -2,47 +2,22 @@
   "id": "7e69c41f21cd011e76fa5af6bf319249",
   "title": "新鲜芒果莎莎酱",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/f267ace49a0665dc0ba7a8020be52b94.webp",
-  "nutrition_tip": "这种甜美而浓郁的莎莎酱与烤或烤鱼或鸡肉完美搭配......",
-  "ingredients": [
-    {
-      "name": "芒果（去皮、去核、切丁或 1 杯解冻的冷冻块）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "红洋葱（切丁）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "香菜（可选）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "酸橙汁（瓶装或新鲜）",
-      "amount": "2 汤匙"
-    }
-  ],
+  "nutrition_tip": "This sweet and tangy salsa pairs perfectly with grilled or baked fish or chicken…",
+  "ingredients": [],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-05-31",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/fresh-mango-salsa",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/mango-salsa",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "5bbd1c614d41452788abf36f079b4b6e",
-    "translated": true
+    "source_hash": "73fd9bf7e0ef7678f8ea50f43d210fb9",
+    "translated": false
   }
 }

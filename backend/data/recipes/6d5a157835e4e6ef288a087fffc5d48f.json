@@ -2,24 +2,12 @@
   "id": "6d5a157835e4e6ef288a087fffc5d48f",
   "title": "西瓜冷却器",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/e59855b47d82056224dc80bfe929a9aa.webp",
   "nutrition_tip": "一款深受儿童喜爱的清爽饮料，仅含 2 种成分。",
-  "ingredients": [
-    {
-      "name": "西瓜（切块，去籽）",
-      "amount": "3 杯"
-    },
-    {
-      "name": "橙汁",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -44,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-06-21",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/watermelon-cooler",
   "origin_url": "https://foodhero.org/recipes/watermelon-cooler",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "e08992d351ae5a1d65e1235613299d91",
+    "source_hash": "caeefd7ae677cb5c328f334aecc72577",
     "translated": true
   }
 }

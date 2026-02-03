@@ -2,50 +2,12 @@
   "id": "6f68d0406c454ae44fc0d4e084f8759a",
   "title": "鸡肉辣酱玉米饼馅",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/0ba168a2bd677dfd0d89eb385972d16d.webp",
   "nutrition_tip": "这些美味的玉米卷饼里装满了嫩鸡肉、卷心菜、洋葱和奶酪……",
-  "ingredients": [
-    {
-      "name": "鸡肉（切碎，煮熟）",
-      "amount": "9 盎司"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 个小"
-    },
-    {
-      "name": "马苏里拉奶酪（切丝，部分脱脂）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "卷心菜（切丝）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "玉米饼（8 英寸）",
-      "amount": "5"
-    },
-    {
-      "name": "西红柿丁和青辣椒（稍微沥干）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "帕尔马干酪",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "不粘喷雾",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -90,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/chicken-enchiladas",
   "origin_url": "https://web.extension.illinois.edu/fiesta/recipe.cfm?lang=en&amp;id=404",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "0b5a89a5896530d07f6441f3a4e5c6f8",
+    "source_hash": "2249c341bf3d76463d9cadc0596dd528",
     "translated": true
   }
 }

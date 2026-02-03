@@ -1,87 +1,13 @@
 {
   "id": "78ecf10b2fe01cf779f4b1b164267a9e",
   "title": "健康胡萝卜蛋糕饼干",
-  "min_age_month": 6,
-  "tags": [
-    "小吃",
-    "水果",
-    "蔬菜",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/537ed08b7d8fa75c3e4933bf763fa5d3.webp",
   "nutrition_tip": "与家人和朋友分享这个健康的胡萝卜蛋糕饼干食谱。孩子们…",
-  "ingredients": [
-    {
-      "name": "红糖（包装）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "糖",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "石油",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "苹果酱（或其他水果泥）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "鸡蛋",
-      "amount": "2"
-    },
-    {
-      "name": "香草",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "面粉",
-      "amount": "1 杯"
-    },
-    {
-      "name": "全麦面粉",
-      "amount": "1 杯"
-    },
-    {
-      "name": "小苏打",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "泡打粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "肉桂（磨碎）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "肉豆蔻（磨碎）",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "生姜（磨碎）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "燕麦片（老式，生）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "胡萝卜（细碎，大约 3 个大）",
-      "amount": "5 1 / 2 杯"
-    },
-    {
-      "name": "葡萄干（或金色葡萄干）",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -121,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/healthy-carrot-cake-cookies",
   "origin_url": "https://foodhero.org/recipes/healthy-carrot-cake-cookies",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "4365034ca13cf4f0c3313ea308ff4866",
+    "source_hash": "18c025c1fa757ae6de0a634e153bc89b",
     "translated": true
   }
 }

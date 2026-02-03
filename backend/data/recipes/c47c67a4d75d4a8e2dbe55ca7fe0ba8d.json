@@ -2,58 +2,12 @@
   "id": "c47c67a4d75d4a8e2dbe55ca7fe0ba8d",
   "title": "Pupusas Revueltas（萨尔瓦多风格的填充玛莎蛋糕）",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/4a2a402e8771d546bfc5d106487032e3.webp",
   "nutrition_tip": "这道美味的萨尔瓦多菜肴通常与传统的卷心菜沙拉搭配……",
-  "ingredients": [
-    {
-      "name": "碎鸡胸肉",
-      "amount": "1 磅"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "洋葱（切细丁）",
-      "amount": "1 / 2 小"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "1 丁香"
-    },
-    {
-      "name": "灯笼椒（绿色，去籽，切碎）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "番茄（切碎）",
-      "amount": "1 个小"
-    },
-    {
-      "name": "盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "玉米粉（速溶 [masa harina]）",
-      "amount": "5 杯"
-    },
-    {
-      "name": "水",
-      "amount": "6 杯"
-    },
-    {
-      "name": "马苏里拉奶酪（低脂，磨碎）",
-      "amount": "1 / 2 磅"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -98,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/pupusas-revueltas-salvadoran-style-stuffed-masa-cakes",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?cId=0&amp;rId=176",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "e9f2dbf41fdf9e32a48cbc65ed5d8710",
+    "source_hash": "4b783ddb1a6df69c087ccef08b9557bc",
     "translated": true
   }
 }

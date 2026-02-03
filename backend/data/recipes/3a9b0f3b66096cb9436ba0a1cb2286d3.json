@@ -2,54 +2,12 @@
   "id": "3a9b0f3b66096cb9436ba0a1cb2286d3",
   "title": "红扁豆马铃薯饼",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "午餐",
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4d0ec41ced0e205899d7f08e80af47d7.webp",
   "nutrition_tip": "传统上，马铃薯饼是用土豆制成的煎饼，但这些马铃薯饼还包含......",
-  "ingredients": [
-    {
-      "name": "小扁豆（红，干）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "土豆（去皮可选）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "蛋",
-      "amount": "1 个大"
-    },
-    {
-      "name": "大蒜（切细片）",
-      "amount": "1 丁香"
-    },
-    {
-      "name": "磨碎的帕尔马干酪",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "辣酱（可选）",
-      "amount": "1 破折号"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黑胡椒（适量，可选）",
-      "amount": ""
-    },
-    {
-      "name": "菜籽油",
-      "amount": "2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -84,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2022-11-17",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/red-lentil-latkes",
   "origin_url": "https://snaped.fns.usda.gov/resources/nutrition-education-materials/healthy-thrifty-holiday-menus/hanukkah",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a9f8e838e865cb222f487ac5b4939985",
+    "source_hash": "9f65df0200a36c007355b5672d0d0013",
     "translated": true
   }
 }

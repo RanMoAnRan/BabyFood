@@ -1,0 +1,60 @@
+{
+  "id": "5511d265885ba5928971f4b8b59b75f9",
+  "title": "提前制作大蒜吐司",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Appetizer",
+    "Bread",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/584dea6114c7d5a64fce2c574842c841.webp",
+  "nutrition_tip": "直接从冰箱里拿出来自制大蒜吐司！铺上意大利面包片……",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "18 片厚意大利面包",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将黄油、帕尔马干酪、欧芹和大蒜粉放入碗中混合，直至充分混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面包片放在大烤盘上；涂上调味黄油。将烤盘放入冰箱约 1 小时，直至面包冻成固体。将面包转移到可重新密封的塑料冷冻袋中，并存放在冰箱中直至需要。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/231969/make-ahead-garlic-toast/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c4992717e23aeb980c79b011edcc0663",
+    "translated": true
+  }
+}

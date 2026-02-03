@@ -2,43 +2,12 @@
   "id": "32534b182a7ebc428f4c3e10cf8e711e",
   "title": "崛起和闪耀补鞋匠",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "午餐",
-    "小吃",
-    "水果",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/dc30d0114f1f606d0d645279d3f7006d.webp",
   "nutrition_tip": "享受这种美味的早餐或甜点。这个补鞋匠可以……",
-  "ingredients": [
-    {
-      "name": "桃子（罐装、切碎、切片）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "梨（切半、罐装、沥干并切片）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "李子（去核，每个切成两半）",
-      "amount": "6"
-    },
-    {
-      "name": "香草（摘录）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "橙子",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "格兰诺拉麦片（低脂）",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -73,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-12-05",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/rise-and-shine-cobbler",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/rise-and-shine-cobbler",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "826630362eafee48c7844e902d89459b",
+    "source_hash": "797113f7e9760df0857a4561389620ad",
     "translated": true
   }
 }

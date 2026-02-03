@@ -2,37 +2,12 @@
   "id": "67ae33df1f279d759ed9e1e36f1ec93a",
   "title": "香蕉燕麦饼干",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "水果",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/f6402d5a6a572e0d51885dc7553c57e6.webp",
   "nutrition_tip": "正在寻找不添加糖的零食？尝尝这些香蕉燕麦饼干吧——……",
-  "ingredients": [
-    {
-      "name": "香蕉（非常熟）",
-      "amount": "2"
-    },
-    {
-      "name": "燕麦（速食或老式）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "肉桂",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "香草",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "葡萄干",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -62,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/banana-oatmeal-cookies",
   "origin_url": "https://foodhero.org/recipes/banana-oatmeal-cookies",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "ef08605a9093c98b757ce38d80903990",
+    "source_hash": "3852d296ae0d1a1c44e700201813692c",
     "translated": true
   }
 }

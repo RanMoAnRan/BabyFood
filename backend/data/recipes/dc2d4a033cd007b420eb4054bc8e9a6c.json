@@ -1,55 +1,23 @@
 {
   "id": "dc2d4a033cd007b420eb4054bc8e9a6c",
   "title": "花生酱鹰嘴豆泥",
-  "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "蛋白质"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/8380262f5787ba1472f43eae20c7e542.webp",
-  "nutrition_tip": "尝试这种花生酱和鹰嘴豆泥与蔬菜或皮塔饼的新组合。",
-  "ingredients": [
-    {
-      "name": "鹰嘴豆（低钠，冲洗）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "肉汤（鸡肉，低钠）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "大蒜（切丁）",
-      "amount": "2 1 / 2 汤匙"
-    },
-    {
-      "name": "花生酱（（或其他坚果或种子黄油））",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "辣椒粉（（或用辣椒粉代替辣椒粉））",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 汤匙"
-    }
-  ],
+  "nutrition_tip": "Try this new combo of peanut butter and hummus with veggies or pita chips.",
+  "ingredients": [],
   "steps": [],
   "warnings": [],
   "publish_date": "2023-04-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/peanut-butter-hummus",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=12&amp;cId=13&amp;rId=158",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "19cb44128061c19fca2299e6081f19be",
-    "translated": true
+    "source_hash": "b20d5f8177c74ebc5e4f3d7b6d5a353f",
+    "translated": false
   }
 }

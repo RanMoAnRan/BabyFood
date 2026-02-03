@@ -2,53 +2,12 @@
   "id": "97364d5399025cb2ff9d0482ec0b100a",
   "title": "白豆鸡蛋沙克舒卡",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/deb21c358f64e53104e40ee8f376273e.webp",
   "nutrition_tip": "有了这个快速微波炉食谱，再也不用不吃早餐了。",
-  "ingredients": [
-    {
-      "name": "番茄酱（不加盐）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "豆（白豆（例如 Cannellini、Great Northern），沥干并冲洗）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "百里香（干）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "辣椒粉（甜或烟熏）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "洋葱粉",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 捏"
-    },
-    {
-      "name": "盐",
-      "amount": "1 捏"
-    },
-    {
-      "name": "黑胡椒粉",
-      "amount": "1 捏"
-    },
-    {
-      "name": "鸡蛋",
-      "amount": "2"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -83,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-01-12",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/white-bean-and-egg-shakshuka",
   "origin_url": "https://www.nutrition.va.gov/Recipes/Breakfast/docs/White-Bean-and-Egg-ShakshukaJUL2021.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "44b75331f447f9db64ec6cf52197a4ca",
+    "source_hash": "bebd8658409e34bb99ce2ad9f04558a7",
     "translated": true
   }
 }

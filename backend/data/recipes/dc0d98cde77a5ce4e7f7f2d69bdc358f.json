@@ -2,50 +2,12 @@
   "id": "dc0d98cde77a5ce4e7f7f2d69bdc358f",
   "title": "红、白、绿烤奶酪",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/3f90a4f2bcadfd18c44f03c0a457af50.webp",
   "nutrition_tip": "用这款美味的红、白、绿烤肉来改变你的冷三明治……",
-  "ingredients": [
-    {
-      "name": "大蒜（切碎，约 1/2 丁香）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "洋葱（切碎，约 1/2 杯）",
-      "amount": "1 个小"
-    },
-    {
-      "name": "菠菜（冷冻、解冻、沥干或 2 袋（每袋 10 盎司）新鲜菠菜叶）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "全麦面包",
-      "amount": "8 片"
-    },
-    {
-      "name": "番茄（洗净，切成4片）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "马苏里拉奶酪（切碎，部分脱脂）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "不粘喷雾",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -80,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/red-white-and-green-grilled-cheese",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=9&amp;rId=149",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "6fc1ba53a0d3c0705ca9802d797e6180",
+    "source_hash": "4db676d5b605dcd7c9454c351797c6f3",
     "translated": true
   }
 }

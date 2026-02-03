@@ -1,0 +1,111 @@
+{
+  "id": "0dd7eb240ffa97be04182b294c3e8024",
+  "title": "尖吻鲈配柠檬罗勒酱",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/c49e557978873794a1e1b3f20df38fe0.webp",
+  "nutrition_tip": "这种烤澳洲肺鱼或亚洲鲈鱼的特点是调味面包屑外皮......",
+  "ingredients": [
+    {
+      "name": "4 块（4 盎司）尖吻鲈鱼片（亚洲鲈鱼）",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙橄榄油，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 杯干面包屑",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙海鲜调味料（例如 Old Bay®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙柠檬皮屑",
+      "amount": ""
+    },
+    {
+      "name": "1 撮干百里香",
+      "amount": ""
+    },
+    {
+      "name": "1 杯融化的黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白葡萄酒",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙切碎的新鲜罗勒，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在鱼片上刷上橄榄油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "制作配料：将面包屑、海鲜调味料、大蒜粉、洋葱粉、柠檬皮和百里香放在一个大盘子上混合，直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将鱼片压入面包屑混合物中，以覆盖所有侧面。将涂有涂层的鱼片放在烤盘上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤10分钟。翻转鱼片并继续烘烤，直至鱼用叉子轻松剥落，再烘烤约 10 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "制作酱汁：将融化的黄油、柠檬汁、白葡萄酒和罗勒放入小碗中搅拌均匀。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将酱汁淋在鱼上即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/237613/barramundi-with-lemon-basil-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "af8f11a26ec7e34fdde64394954f93c6",
+    "translated": true
+  }
+}

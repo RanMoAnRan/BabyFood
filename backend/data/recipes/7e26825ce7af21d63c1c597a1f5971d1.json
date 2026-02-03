@@ -1,0 +1,90 @@
+{
+  "id": "7e26825ce7af21d63c1c597a1f5971d1",
+  "title": "卷心菜",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 95,
+  "cover_image": "images/358700a50faae94e85d261a0535a8999.webp",
+  "nutrition_tip": "Kapusta 是一道用洋葱、蘑菇和酸菜烘烤的波兰卷心菜。 …",
+  "ingredients": [
+    {
+      "name": "0.25 颗中等大小的卷心菜，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙黄油，分开",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个大蘑菇，切片",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯切片白蘑菇",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（32 盎司）酸菜，沥干并压榨",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将卷心菜放入中等大小的平底锅中；加水盖住。用大火煮沸；煮至变软，大约10分钟。流走。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "煮卷心菜时，在大煎锅中用中火融化 4 汤匙黄油。加入洋葱和蘑菇；炒5至7分钟，直至变软。从火上移开。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将沥干的卷心菜、洋葱蘑菇混合物、酸菜、糖、百里香、盐和胡椒放入 9x13 英寸的烤盘中；混合直至充分混合。将剩下的 2 汤匙黄油切成小块，放在上面。用铝箔盖住。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 1 小时，每 20 分钟搅拌一次。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-31",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/23362/kapusta/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "915eac826e4b6827d63422ac8229a085",
+    "translated": true
+  }
+}

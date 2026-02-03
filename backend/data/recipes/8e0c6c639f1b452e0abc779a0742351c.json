@@ -2,49 +2,12 @@
   "id": "8e0c6c639f1b452e0abc779a0742351c",
   "title": "芦笋巴马干酪",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/2fdc942b057dc8295ae48aa97f98d06e.webp",
   "nutrition_tip": "享用新鲜出炉的奶酪芦笋帕尔马干酪。",
-  "ingredients": [
-    {
-      "name": "芦笋（新鲜、洗净、修剪）",
-      "amount": "30 根长矛"
-    },
-    {
-      "name": "蘑菇（罐头）",
-      "amount": "4 盎司"
-    },
-    {
-      "name": "洋葱（绿色，切片）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "黄油（或人造黄油）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "面粉",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "牛奶",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "奶酪（磨碎的、帕尔马干酪或切达干酪）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -99,13 +62,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/asparagus-parmesan",
   "origin_url": "https://naldc.nal.usda.gov/catalog/CAT40000497",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "084d7fc1bfa29a402faf9834c74d2d5a",
+    "source_hash": "2791885727d8a6ed29f22e47e2c91bed",
     "translated": true
   }
 }

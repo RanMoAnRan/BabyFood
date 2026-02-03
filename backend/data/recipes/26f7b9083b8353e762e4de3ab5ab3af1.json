@@ -2,28 +2,12 @@
   "id": "26f7b9083b8353e762e4de3ab5ab3af1",
   "title": "烤南瓜子",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/d728edacca576b7d78297855a90c44fd.webp",
   "nutrition_tip": "保存烘烤南瓜中的种子，以制作美味的小吃。这些南瓜…",
-  "ingredients": [
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 汤匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 / 2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -53,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-09-27",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/roasted-pumpkin-seeds",
   "origin_url": "https://wicworks.fns.usda.gov/recipe/roasted-pumpkin-seeds",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "e6d9ee51f666551db8bf514268739567",
+    "source_hash": "97025c72c7992769db059c66145159c9",
     "translated": true
   }
 }

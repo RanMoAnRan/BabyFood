@@ -2,42 +2,12 @@
   "id": "874f692621453c80d1e7bd4f2173378e",
   "title": "杯子里的蔬菜煎蛋卷",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/56eaf08b43d7838c4f3f7813d2b6bb85.webp",
   "nutrition_tip": "制作素食煎蛋卷从未如此简单！将所有成分混合在一起……",
-  "ingredients": [
-    {
-      "name": "鸡蛋",
-      "amount": "2"
-    },
-    {
-      "name": "牛奶（低脂或脱脂/脱脂）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 捏"
-    },
-    {
-      "name": "胡椒",
-      "amount": "1 捏"
-    },
-    {
-      "name": "蘑菇（切碎）",
-      "amount": ""
-    },
-    {
-      "name": "切达干酪",
-      "amount": "2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -67,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-01-18",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/veggie-omelet-mug",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/veggie-omelet-mug",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "03c920e8cade1706647282d32c1b52be",
+    "source_hash": "a282dc892877349c572177cd21aa1ade",
     "translated": true
   }
 }

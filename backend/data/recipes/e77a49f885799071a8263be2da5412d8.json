@@ -1,0 +1,93 @@
+{
+  "id": "e77a49f885799071a8263be2da5412d8",
+  "title": "牛肉玉米卷饼配玉米饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/5111e9db3de39e7c82d5ac75f9d1365e.webp",
+  "nutrition_tip": "一个简单易行的牛肉辣酱玉米饼馅食谱，可以快速完成。地面蜜蜂…",
+  "ingredients": [
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个小洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1.5 盎司）干玉米卷饼酱混合物",
+      "amount": ""
+    },
+    {
+      "name": "10 个（10 英寸）玉米饼",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（2.25 盎司）黑橄榄片，沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在中型煎锅中用中高火煮碎牛肉和洋葱，直至牛肉均匀变成棕色且洋葱变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "根据包装说明准备辣酱玉米饼馅。将 1/4 杯酱汁倒入 9x13 英寸烤盘的底部。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将等份的碎牛肉混合物和约 1 盎司切达干酪放在每个玉米饼上，保留至少 1/2 杯奶酪。然后紧紧地卷起玉米饼。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将卷好的玉米饼接缝面朝下放入烤盘中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将剩余的酱汁倒在玉米卷饼顶部，撒上剩余的奶酪和橄榄。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 20 分钟，直至酱汁起泡且奶酪完全融化。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "装饰并搭配您最喜欢的配菜。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/26589/beef-enchiladas-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f38fddfd8683b0a8ad652a180d38b78a",
+    "translated": true
+  }
+}

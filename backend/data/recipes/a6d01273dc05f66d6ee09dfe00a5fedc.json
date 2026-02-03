@@ -1,42 +1,13 @@
 {
   "id": "a6d01273dc05f66d6ee09dfe00a5fedc",
-  "title": "自己动手混合路线",
+  "title": "自己动手混合混合",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/5c03621e36e0072cdbc0883c31b03b6f.webp",
   "nutrition_tip": "通过这款 DIY Tra 来让您在户外探险期间保持精力充沛……",
-  "ingredients": [
-    {
-      "name": "全麦麦片（方形）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "全麦麦片（O 型）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "全麦麦片（泡芙型）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "干果（您选择）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "椒盐卷饼（小）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "坚果（小）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -51,13 +22,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/do-it-yourself-trail-mix",
   "origin_url": "https://foodhero.org/recipes/do-it-yourself-trail-mix",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b3ff911dc339a92d714522669a3ab515",
+    "source_hash": "996ec9fa123ea3e2803e642a320b6302",
     "translated": true
   }
 }

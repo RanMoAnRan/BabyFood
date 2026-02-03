@@ -2,50 +2,12 @@
   "id": "b1f4eb9f8c7aaf52e6d9e80a91bff174",
   "title": "简易米饭布丁",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "小吃",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/df1381371bf02d62cfbed29187ce8b8b.webp",
   "nutrition_tip": "用微波炉煮这个适合儿童的米饭布丁。",
-  "ingredients": [
-    {
-      "name": "白米（普通米、生米、强化米）",
-      "amount": "2 / 3 杯"
-    },
-    {
-      "name": "水（温）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "黄油（或人造黄油，可选）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "脱脂奶粉",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "糖",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "香草",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "水",
-      "amount": "1 杯"
-    },
-    {
-      "name": "葡萄干（或其他干果）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -80,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/easy-rice-pudding",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/easy-rice-pudding",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "3ac5aed66b25a46c6c1f83539184d1e2",
+    "source_hash": "eeb987b1ed18a1bb934e4536fc4ef696",
     "translated": true
   }
 }

@@ -2,45 +2,12 @@
   "id": "edd7ff443da4daa0b49912713c8e79f8",
   "title": "平底锅香肠和蔬菜烘烤",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/ead5f7622ce6ffa1da3b4517e4336462.webp",
   "nutrition_tip": "在不到 40 分钟的时间内享用一顿健康的晚餐，里面有色彩缤纷的蔬菜和…",
-  "ingredients": [
-    {
-      "name": "不粘烹饪喷雾",
-      "amount": ""
-    },
-    {
-      "name": "灯笼椒和洋葱混合物（切丁、冷冻或 3-4 杯切片或切丁的新鲜蔬菜）",
-      "amount": "16 盎司"
-    },
-    {
-      "name": "香肠（预煮鸡肉链接，~2 个链接）",
-      "amount": "6 盎司"
-    },
-    {
-      "name": "胡桃南瓜（切丁、冷冻或约 2 杯新鲜切丁胡桃南瓜或红薯）",
-      "amount": "10 盎司"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "意大利调味料",
-      "amount": "1 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -85,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/sheet-pan-sausage-and-veggie-bake",
   "origin_url": "https://www.nutrition.va.gov/docs/Recipes/MainDishes/Sheet-Pan-Sausage-and-Veggie-BakeSEPT2021.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "bfe390be480579d8a50488bf399e3e83",
+    "source_hash": "8719fd887039dee053d786ae9b7b5c96",
     "translated": true
   }
 }

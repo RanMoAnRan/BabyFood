@@ -1,0 +1,75 @@
+{
+  "id": "6647919c7179a6037fab8a18e25873cf",
+  "title": "香醋烤猪腰肉",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 195,
+  "cover_image": "images/afd53c494d4a55d958b52482ed8412d6.webp",
+  "nutrition_tip": "这香脂猪里脊肉使用简单的香醋腌料，牛排季节……",
+  "ingredients": [
+    {
+      "name": "0.5 杯香醋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙牛排调味料",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 磅无骨烤猪腰肉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将醋和牛排调味料放入一个中等大小的碗中；搅拌直至调味料溶解。加入橄榄油搅拌直至混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将猪肉放入可重新密封的塑料袋中，然后将腌料倒在猪肉上。挤出空气并密封袋子；在冰箱中腌制2小时至过夜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "准备烹饪时，将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将猪肉和腌料一起放入玻璃烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤，偶尔涂油，直到插入里脊肉中心的即时读数温度计达到 145 华氏度（65 摄氏度）的内部温度，大约需要 1 小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "休息 10 分钟，然后切片食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2007-01-03",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/132815/balsamic-roasted-pork-loin/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f743d857a70c3e1802c1eda16849cca1",
+    "translated": true
+  }
+}

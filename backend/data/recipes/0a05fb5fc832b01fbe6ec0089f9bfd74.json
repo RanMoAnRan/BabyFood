@@ -2,36 +2,12 @@
   "id": "0a05fb5fc832b01fbe6ec0089f9bfd74",
   "title": "自制鹰嘴豆泥",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/c24588d8d957d77af233ef07f845ddfa.webp",
   "nutrition_tip": "这道经典的鹰嘴豆酱制作简单，是一道多才多艺的菜肴。供应鹰嘴豆泥……",
-  "ingredients": [
-    {
-      "name": "鹰嘴豆（也称为鹰嘴豆，煮熟）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "2 丁香"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "芝麻酱（芝麻酱，代替花生酱以获得甜味）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -46,13 +22,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-04-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/homemade-hummus",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/hummus",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "e8a9e2b5410db20ea7aee0f0018591b8",
+    "source_hash": "e97e4fe061225ac238201bfcdc9c2181",
     "translated": true
   }
 }

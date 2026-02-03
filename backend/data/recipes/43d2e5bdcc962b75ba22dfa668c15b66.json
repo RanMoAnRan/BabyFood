@@ -2,57 +2,12 @@
   "id": "43d2e5bdcc962b75ba22dfa668c15b66",
   "title": "蓝莓燕麦煎饼",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "水果",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/04b54639aaef7769140ddc00dc9bad27.webp",
   "nutrition_tip": "将燕麦片和煎饼这两种早餐最爱与这些美味的蓝色结合起来……",
-  "ingredients": [
-    {
-      "name": "燕麦片（生的，老式的）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "酪乳（低脂（可以替代 1 杯牛奶加 1 汤匙柠檬汁或醋））",
-      "amount": "1 杯"
-    },
-    {
-      "name": "全麦面粉",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "糖",
-      "amount": "1 1 / 2 汤匙"
-    },
-    {
-      "name": "泡打粉",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "小苏打",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "鸡蛋（打散）",
-      "amount": "1 个大"
-    },
-    {
-      "name": "黄油（无盐，融化，冷却）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "蓝莓（新鲜或冷冻）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "不粘喷雾",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -97,18 +52,18 @@
     {
       "step_index": 9,
       "img": "",
-      "text": "趁热享用。"
+      "text": "趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-12-27",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/blueberry-oatmeal-pancakes",
   "origin_url": "https://www.nutrition.va.gov/Recipes/Breakfast/docs/Blueberry-Oatmeal-PancakesJUL21.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "2e115f692d3985c95830e4ba3e951662",
+    "source_hash": "86387457476edeb37815773457b2072b",
     "translated": true
   }
 }

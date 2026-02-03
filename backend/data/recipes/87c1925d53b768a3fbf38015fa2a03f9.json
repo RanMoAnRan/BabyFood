@@ -1,0 +1,69 @@
+{
+  "id": "87c1925d53b768a3fbf38015fa2a03f9",
+  "title": "简单的烤土豆",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/46158fbd792944222fe0a94e8f83c6dd.webp",
+  "nutrition_tip": "将这些简单的烤土豆和肉饼主菜一起放入烤箱中……",
+  "ingredients": [
+    {
+      "name": "4 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "6 个中等大小的土豆，擦洗干净",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄油放入微波炉专用碗中，用高火加热 20 至 30 秒，直至融化。加入橄榄油、大蒜粉、盐和胡椒粉。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用叉子在每个土豆上戳大约 5 个孔。将每个土豆放在一张约 6 英寸宽的铝箔上。将黄油混合物刷在土豆上，确保均匀地涂在每个土豆上。用箔纸完全包裹起来。在包裹好的土豆上再戳5个洞。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中央烘烤土豆，直至用叉子轻松刺穿，大约需要 1 小时。切开土豆后，将剩余的黄油混合物涂抹在土豆上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-02-21",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/270750/simple-baked-potato/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "033549b5093436fde54ecc15d8926a19",
+    "translated": true
+  }
+}

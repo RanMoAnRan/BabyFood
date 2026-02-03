@@ -2,53 +2,12 @@
   "id": "66b9b8f5cc0d9e8bd16baf65108062b1",
   "title": "素煎锅鸡蛋",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/0ac6f0698a641779c86acfb611b9bc7e.webp",
   "nutrition_tip": "快速健康的早餐，富含蛋白质、蔬菜和切达干酪。",
-  "ingredients": [
-    {
-      "name": "鸡蛋",
-      "amount": "6 大"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "牛至（或罗勒）",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "切达干酪（切丝）",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "石油",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 个小"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "1 丁香"
-    },
-    {
-      "name": "混合蔬菜（新鲜、罐装或冷冻）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "番茄（切片）",
-      "amount": "1 个中等"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -78,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/veggie-skillet-eggs",
   "origin_url": "https://foodhero.org/recipes/veggie-skillet-eggs",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "0f2e1df6f6af01a991102c2d1b244e39",
+    "source_hash": "dcab52bcaaa0248b27cc65b1a67b0c3f",
     "translated": true
   }
 }

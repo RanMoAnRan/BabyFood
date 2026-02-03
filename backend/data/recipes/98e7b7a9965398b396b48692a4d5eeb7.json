@@ -1,82 +1,13 @@
 {
   "id": "98e7b7a9965398b396b48692a4d5eeb7",
   "title": "波多黎各黄车前草肉砂锅",
-  "min_age_month": 8,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/d416badad3a2528e7af4cff6d57fe425.webp",
   "nutrition_tip": "大蕉的天然甜味增强了波多黎各的风味......",
-  "ingredients": [
-    {
-      "name": "碎牛肉（瘦肉）",
-      "amount": "1 1 / 2 磅"
-    },
-    {
-      "name": "甜椒（绿色，无籽，切碎）",
-      "amount": "2 个中等"
-    },
-    {
-      "name": "洋葱（黄色，切碎）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "月桂叶",
-      "amount": "3"
-    },
-    {
-      "name": "香菜（切碎）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "牛肉汤（低钠）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "ajicitos（小甜椒）",
-      "amount": "5"
-    },
-    {
-      "name": "胭脂树膏 (achiote)",
-      "amount": "1 / 2 汤匙"
-    },
-    {
-      "name": "大蒜（切碎）",
-      "amount": "2 丁香"
-    },
-    {
-      "name": "番茄酱",
-      "amount": "1 杯"
-    },
-    {
-      "name": "大蕉（黄色，成熟，去皮）",
-      "amount": "8 大"
-    },
-    {
-      "name": "水",
-      "amount": "10 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "蛋白（打散）",
-      "amount": "5"
-    },
-    {
-      "name": "青豆（煮熟）",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "马苏里拉奶酪（切丝，低脂）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -116,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/puerto-rican-yellow-plantain-and-meat-casserole",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=1&amp;rId=206",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a86408d78d30ebedcda5067e31dc505b",
+    "source_hash": "97d98a64edfbe06ad96b2a4e8ccfea3f",
     "translated": true
   }
 }

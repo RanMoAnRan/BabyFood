@@ -56,30 +56,45 @@ def _extract_jsonld_recipe(soup: BeautifulSoup) -> Optional[dict]:
     return None
 
 
-def list_recipe_slugs(session: requests.Session, max_pages: int = 20) -> list[str]:
+def list_recipe_slugs(
+    session: requests.Session,
+    *,
+    max_pages: int | None = 20,
+    cap: int | None = None,
+) -> list[str]:
     slugs: list[str] = []
     seen = set()
-    for page in range(max_pages):
+    page = 0
+    while True:
+        if max_pages is not None and page >= max_pages:
+            break
         url = f"{SEARCH_URL}?page={page}"
         res = session.get(url, timeout=20)
         res.raise_for_status()
         soup = BeautifulSoup(res.text, "html.parser")
 
-        cards = soup.select("div.recipe[about^='/recipes/']")
+        # Drupal 11 站点页面结构会变：之前 slug 在 div.recipe 的 about 属性里，
+        # 现在通常出现在卡片内的 <a href="/recipes/<slug>"> 上。
+        cards = soup.select("div.recipe a[href^='/recipes/']")
         page_slugs = []
-        for card in cards:
-            about = card.get("about") or ""
-            if not about.startswith("/recipes/"):
+        for a in cards:
+            href = (a.get("href") or "").strip()
+            if not href.startswith("/recipes/"):
                 continue
-            slug = about[len("/recipes/") :]
+            slug = href[len("/recipes/") :].strip("/")
             if not slug or slug in seen:
                 continue
             seen.add(slug)
             page_slugs.append(slug)
             slugs.append(slug)
+            if cap is not None and len(slugs) >= cap:
+                break
 
         if not page_slugs:
             break
+        if cap is not None and len(slugs) >= cap:
+            break
+        page += 1
 
     return slugs
 

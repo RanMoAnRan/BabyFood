@@ -1,0 +1,77 @@
+{
+  "id": "2f59bf8b769b3904656f826e4bc3a248",
+  "title": "简单的炸玉米饼烘烤",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/4a710f33b9cf1daf7026ded1afb91d90.webp",
+  "nutrition_tip": "新月形面团上面撒上炸豆泥、碎牛肉和切达干酪……",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 包墨西哥玉米卷调味料",
+      "amount": ""
+    },
+    {
+      "name": "2 包（8 盎司）冷藏月牙卷",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（16 盎司）炸豆泥",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1 袋（10 盎司）生菜丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 8x10 英寸的烤盘上涂上烹饪喷雾；放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。将碎牛肉放入热煎锅中煮并搅拌，直至变成褐色且易碎，持续 5 至 7 分钟；排干并丢弃油脂。加入炸玉米饼调味料，直至牛肉均匀地裹上一层。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将月牙卷面团铺入准备好的烤盘底部；用勺子将豆泥舀到面团上。将煮熟的碎牛肉铺在豆泥上。将月牙卷面团的边缘包裹在牛肉上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 10 至 15 分钟，直至面团呈金黄色。撒上切达干酪和生菜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-02-26",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/232924/easy-taco-bake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "860e8e3ed43e358df455c6395506b011",
+    "translated": true
+  }
+}

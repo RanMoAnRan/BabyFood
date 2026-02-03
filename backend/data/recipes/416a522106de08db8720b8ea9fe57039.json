@@ -1,0 +1,64 @@
+{
+  "id": "416a522106de08db8720b8ea9fe57039",
+  "title": "妈妈的菠萝面包布丁",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/ba4c2edc09a532bf5d99b70ae6a32299.webp",
+  "nutrition_tip": "妈妈的菠萝面包布丁食谱很简单，依靠的是面包、罐头…",
+  "ingredients": [
+    {
+      "name": "5 片面包，切块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（20 盎司）菠萝碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋，打匀",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，融化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面包块放入 2 夸脱的烤盘中。加入菠萝、糖、鸡蛋和融化的黄油直至混合。用铝箔盖住烤盘。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约1小时，直至膨化并呈金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/232473/moms-pineapple-bread-pudding/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6817685324a43a3fb48ab30b5fdb0b9d",
+    "translated": true
+  }
+}

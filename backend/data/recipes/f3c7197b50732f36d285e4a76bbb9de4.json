@@ -2,62 +2,12 @@
   "id": "f3c7197b50732f36d285e4a76bbb9de4",
   "title": "豆腐早餐卷饼",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/05f2d358d1a7ecfe943e2bb9e092c15b.webp",
   "nutrition_tip": "这款豆腐卷饼是典型早餐卷饼的绝佳替代品……",
-  "ingredients": [
-    {
-      "name": "豆腐（坚硬、未调味、沥干、切块）",
-      "amount": "8 盎司"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "蘑菇（小蘑菇（cremini），切片）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "洋葱（切丁）",
-      "amount": ""
-    },
-    {
-      "name": "番茄（切丁）",
-      "amount": ""
-    },
-    {
-      "name": "灯笼椒（任何颜色，切丁）",
-      "amount": ""
-    },
-    {
-      "name": "盐",
-      "amount": ""
-    },
-    {
-      "name": "切达干酪（（2% 脂肪）切丝）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "全麦玉米饼（（8 英寸））",
-      "amount": "4"
-    },
-    {
-      "name": "奶酪（（Neufchatel），低脂，软化，分开）",
-      "amount": "4 汤匙"
-    },
-    {
-      "name": "萨尔萨舞（分开）",
-      "amount": "4 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -102,18 +52,18 @@
     {
       "step_index": 9,
       "img": "",
-      "text": "趁热享用。"
+      "text": "趁热食用。"
     }
   ],
   "warnings": [],
   "publish_date": "2023-01-19",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/tofu-breakfast-burrito",
   "origin_url": "https://www.nutrition.va.gov/Recipes/Breakfast/docs/Tofu-Breakfast-BurritosJUL21.pdf",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "9e1db425b7a12dc40cf802894eace089",
+    "source_hash": "29c16a38b60fca0ce738f935c89db38a",
     "translated": true
   }
 }

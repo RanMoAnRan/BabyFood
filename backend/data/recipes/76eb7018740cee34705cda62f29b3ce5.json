@@ -1,0 +1,50 @@
+{
+  "id": "76eb7018740cee34705cda62f29b3ce5",
+  "title": "无面粉花生酱饼干",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/e89406f0207a709fc045aa3934058f9f.webp",
+  "nutrition_tip": "重，美味，而且非常花生酱。你需要大量牛奶才能吃这些......",
+  "ingredients": [
+    {
+      "name": "1 杯花生酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（180 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将配料混合并用茶匙滴在饼干片上。烤8分钟。让其冷却。食谱做的不多，所以你可以根据自己的喜好加倍食谱。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1997-08-28",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/9998/flourless-peanut-butter-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cea308380a2ac26cfbfe025a3e410b3b",
+    "translated": true
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "87cbe7a294b27c2024ed7f58967292f0",
+  "title": "路易斯安那红薯煎饼",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/619adf30dd0fe346d0e6ca67b6178047.webp",
+  "nutrition_tip": "这个红薯煎饼食谱结合了红薯泥和肉豆蔻与......",
+  "ingredients": [
+    {
+      "name": "0.75 磅红薯",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯无盐黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋，打散",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将一个中等大小的平底锅加淡盐水煮沸。加入红薯，煮约 15 分钟，直至变软但仍然有点硬。沥干水分，然后立即浸入冷水中以松开皮。再次沥干；去除并丢弃皮肤。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、泡打粉、盐和肉豆蔻筛入一个中等大小的碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将红薯切碎，转移到另一个中等大小的碗中，然后捣碎。加入牛奶、融化的黄油和鸡蛋。逐渐加入面粉混合物直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在烤盘上涂上少许油脂，然后用中火预热。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "分批工作，将一大勺面糊倒入热煎锅上，煮 3 到 4 分钟，直至表面开始起泡。翻转并在另一面煎至金黄色，再煎 2 至 3 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/36168/louisiana-sweet-potato-pancakes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "54fdfa5eb84f0a1a2216ada673c3b43d",
+    "translated": true
+  }
+}

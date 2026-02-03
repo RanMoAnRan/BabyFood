@@ -2,41 +2,12 @@
   "id": "a2090e65c4372318787f4f50678c58ca",
   "title": "苹果烤橡子南瓜",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "水果",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/417606a80dae1ea7c17b09caf2d33901.webp",
   "nutrition_tip": "这个秋天灵感的食谱是一道温暖、甜美的配菜。",
-  "ingredients": [
-    {
-      "name": "橡子南瓜",
-      "amount": "2 小"
-    },
-    {
-      "name": "肉豆蔻",
-      "amount": ""
-    },
-    {
-      "name": "苹果（切碎）",
-      "amount": "3 杯"
-    },
-    {
-      "name": "黄油（或人造黄油）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "红糖",
-      "amount": "1 / 4 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -66,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/baked-acorn-squash-apples",
   "origin_url": "https://naldc.nal.usda.gov/catalog/1789377",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "f9a04fdb6995f427caecdfc5583058df",
+    "source_hash": "7a0ff8f61344c1c7f5c8aeb00727c0ba",
     "translated": true
   }
 }

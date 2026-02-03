@@ -354,7 +354,7 @@ def new_session() -> requests.Session:
 
 def build_nutrition_gov_data(
     limit: int | None,
-    max_pages: int,
+    max_pages: int | None,
     download_images: bool,
     *,
     verbose: bool = False,
@@ -363,7 +363,7 @@ def build_nutrition_gov_data(
     session = new_session()
 
     print(f"[nutrition_gov] 列表抓取中… max_pages={max_pages}", flush=True)
-    slugs = nutrition_gov.list_recipe_slugs(session, max_pages=max_pages)
+    slugs = nutrition_gov.list_recipe_slugs(session, max_pages=max_pages, cap=limit)
     if limit:
         slugs = slugs[:limit]
     print(f"[nutrition_gov] 获取到 {len(slugs)} 条 recipe 入口", flush=True)
@@ -575,6 +575,7 @@ def build_all_data(
     verbose: bool = False,
     allow_partial: bool = False,
     allrecipes_limit: int | None = None,
+    nutrition_max_pages: int | None = None,
 ) -> tuple[dict, dict, dict]:
     items: list[dict] = []
     details_by_id: dict[str, dict] = {}
@@ -593,10 +594,13 @@ def build_all_data(
                 src_limit = allrecipes_limit
             else:
                 src_limit = min(src_limit, allrecipes_limit)
+        src_pages = max_pages
+        if name == "nutrition_gov" and nutrition_max_pages is not None:
+            src_pages = nutrition_max_pages
         try:
             src_manifest, src_index, src_details = fn(
                 limit=src_limit,
-                max_pages=max_pages,
+                max_pages=src_pages,
                 download_images=download_images,
                 verbose=verbose,
                 allow_partial=allow_partial,
@@ -678,6 +682,7 @@ def main():
     )
     parser.add_argument("--limit", type=int, default=0, help="仅抓取前 N 条（0 表示全量）")
     parser.add_argument("--max-pages", type=int, default=20, help="最多翻页数（每页 24 条）")
+    parser.add_argument("--nutrition-max-pages", type=int, default=0, help="Nutrition.gov 最多翻页数（0 表示不限制）")
     parser.add_argument("--allrecipes-limit", type=int, default=200, help="Allrecipes 最多抓取 N 条（0 表示不限制）")
     parser.add_argument("--no-images", action="store_true", help="跳过图片下载（调试用）")
     parser.add_argument("--no-translate", action="store_true", help="跳过中文翻译（默认会翻译详情文本）")
@@ -687,7 +692,7 @@ def main():
     args = parser.parse_args()
 
     print(
-        f"run: site={args.site} limit={args.limit or 0} max_pages={args.max_pages} "
+        f"run: site={args.site} limit={args.limit or 0} max_pages={args.max_pages} nutrition_max_pages={args.nutrition_max_pages} "
         f"images={'off' if args.no_images else 'on'} translate={'off' if args.no_translate else 'on'} "
         f"dry_run={'yes' if args.dry_run else 'no'} allrecipes_limit={args.allrecipes_limit} "
         f"partial={'yes' if args.allow_partial else 'no'}",
@@ -704,6 +709,9 @@ def main():
     allrecipes_limit = args.allrecipes_limit or None
     if allrecipes_limit is not None and allrecipes_limit <= 0:
         allrecipes_limit = None
+    nutrition_max_pages = args.nutrition_max_pages
+    if nutrition_max_pages is not None and nutrition_max_pages <= 0:
+        nutrition_max_pages = None
     download_images = not args.no_images
 
     if args.allow_partial:
@@ -718,7 +726,7 @@ def main():
     if args.site == "nutrition_gov":
         new_manifest, new_index, details = build_nutrition_gov_data(
             limit=limit,
-            max_pages=args.max_pages,
+            max_pages=nutrition_max_pages,
             download_images=download_images,
             verbose=args.verbose,
             allow_partial=args.allow_partial,
@@ -739,6 +747,7 @@ def main():
             verbose=args.verbose,
             allow_partial=args.allow_partial,
             allrecipes_limit=allrecipes_limit,
+            nutrition_max_pages=nutrition_max_pages,
         )
     else:
         raise SystemExit(f"unsupported site: {args.site}")

@@ -2,53 +2,12 @@
   "id": "f2ad0c707a675329a05dc414dda3649a",
   "title": "枫盐腌猪排",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "水果",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 45,
+  "time_cost": 0,
   "cover_image": "images/878b56655f1065f04c4cf5ef1ab29c71.webp",
   "nutrition_tip": "猪肉和桃子是您下次烧烤的完美搭配。这甜甜的味道……",
-  "ingredients": [
-    {
-      "name": "水",
-      "amount": "1 杯"
-    },
-    {
-      "name": "枫糖浆",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "盐",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "胡椒",
-      "amount": "1 1 / 2 茶匙"
-    },
-    {
-      "name": "月桂叶（干）",
-      "amount": "1"
-    },
-    {
-      "name": "冰块",
-      "amount": "2 杯"
-    },
-    {
-      "name": "猪排（带骨，3/4 英寸厚，每块 8 盎司）",
-      "amount": "4"
-    },
-    {
-      "name": "植物油",
-      "amount": ""
-    },
-    {
-      "name": "桃子（成熟、坚硬、切半、去核）",
-      "amount": "3 个中等"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -68,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-07-24",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/maple-brined-pork-chops",
   "origin_url": "https://www.pork.org/maple-brined-pork-chops-with-grilled-peaches/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "efbcb397bcc0bd58ead3a13ce67e6beb",
+    "source_hash": "3f77b6b0a8767aafbb235be8e2e88a9c",
     "translated": true
   }
 }

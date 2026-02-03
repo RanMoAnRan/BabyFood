@@ -2,50 +2,12 @@
   "id": "9bc09b6fb9d8b0df97a1db9f6545fe73",
   "title": "果味法式吐司砂锅",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "水果",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/fd3c4a022fd25fb622cdfe0f638d71a1.webp",
   "nutrition_tip": "烤版法式吐司配上您最喜欢的水果。大约一个小时后准备好…",
-  "ingredients": [
-    {
-      "name": "面包片（切块，全麦）",
-      "amount": "8 杯"
-    },
-    {
-      "name": "水果（切片或切碎的水果，新鲜、冷冻或罐装并沥干）",
-      "amount": "2 罐"
-    },
-    {
-      "name": "鸡蛋（稍微打散）",
-      "amount": "4 大"
-    },
-    {
-      "name": "牛奶（低脂）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "香草",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "糖",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "黄油（软化）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "面粉（通用或全麦）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -85,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-10-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/fruity-french-toast-casserole",
   "origin_url": "https://foodhero.org/recipes/fruity-french-toast-casserole",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "0b100326816d77c1ccea939e153c04cf",
+    "source_hash": "c3d580b19759bc0c2e5ab8928bbf8a0c",
     "translated": true
   }
 }

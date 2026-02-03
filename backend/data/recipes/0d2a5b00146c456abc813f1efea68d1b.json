@@ -1,0 +1,90 @@
+{
+  "id": "0d2a5b00146c456abc813f1efea68d1b",
+  "title": "简易燕麦松饼",
+  "min_age_month": 8,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/113a0ce7956810e521c1bcde53bbe411.webp",
+  "nutrition_tip": "这些燕麦松饼是用基本的食品储藏室主食制成的，例如有益心脏健康的燕麦……",
+  "ingredients": [
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯快煮燕麦",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 425 华氏度（220 摄氏度）。在 12 个标准松饼杯上涂上油脂，或铺上松饼纸衬垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将牛奶和燕麦放入一个小碗中；浸泡 15 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大碗中将鸡蛋和油搅拌在一起；加入燕麦混合物搅拌。将面粉、糖、泡打粉和盐一起筛入另一个碗中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面粉混合物搅拌到湿成分中，直至完全混合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将面糊舀入准备好的松饼杯中，直至 2/3 满。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 到 25 分钟，直至将牙签插入松饼中心，拔出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-09-28",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/22458/easy-oatmeal-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d78eae7ecb01df5cfc2a4dacb1cc62e4",
+    "translated": true
+  }
+}

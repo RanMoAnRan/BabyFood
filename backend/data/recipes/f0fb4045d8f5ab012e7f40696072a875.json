@@ -2,29 +2,12 @@
   "id": "f0fb4045d8f5ab012e7f40696072a875",
   "title": "菠萝冷冻水果棒",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "水果",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/b360485872d95e7b86ca3b6625399699.webp",
   "nutrition_tip": "这些冷冻水果汽水含有水果、果汁和低脂酸奶，可以作为参考……",
-  "ingredients": [
-    {
-      "name": "菠萝（压碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "酸奶（低脂、水果味）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "橙汁（冷冻、浓缩（解冻））",
-      "amount": "6 盎司"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -44,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-06-20",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/pineapple-frozen-fruit-pops",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/frozen-fruit-pops",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "2059d96db5332f2a14d3cac245b28249",
+    "source_hash": "cd993621e1abebc962601af555b6341e",
     "translated": true
   }
 }

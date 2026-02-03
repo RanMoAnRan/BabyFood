@@ -2,33 +2,12 @@
   "id": "d9d35acb9a9d672a90e15c36d1ca413c",
   "title": "浆果面包布丁",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "水果",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/3492fc0d19a2c662ce4f7cca7083dce7.webp",
   "nutrition_tip": "这种无需烹饪的面包布丁，使用面包、浆果、酸奶和时间……",
-  "ingredients": [
-    {
-      "name": "浆果（（不加糖的冷冻蓝莓、切片草莓或覆盆子），解冻）",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "全麦面包（去皮）",
-      "amount": "5 片"
-    },
-    {
-      "name": "糖粉（可选）",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "酸奶（香草、低脂、可选）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -58,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-04-26",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/berry-bread-pudding",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/berry-bread-pudding",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c0a7c7422c5e8887c86db45ee83d6829",
+    "source_hash": "eac6c04d500b4d190d64d45c11ba7339",
     "translated": true
   }
 }

@@ -2,29 +2,12 @@
   "id": "d5a8c77008ecb156d32497a8f71cf295",
   "title": "五彩纸屑酸奶棒棒糖",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "水果",
-    "乳制品"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/a10cf0e285c91e25c59abd1ad07bc350.webp",
   "nutrition_tip": "带孩子们到厨房！这些奶油酸奶棒有 3 种简单的成分……",
-  "ingredients": [
-    {
-      "name": "酸奶（香草，低脂）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "浆果（新鲜或冷冻，使用您最喜欢的或品种；无需解冻冷冻浆果）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "椒盐卷饼棒（减半；或 6 块烘焙零食棒饼干）",
-      "amount": "3"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -69,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/confetti-yogurt-pops",
   "origin_url": "https://extension.umaine.edu/food-health/recipes/confetti-yogurt-pops/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c23a2a1da7cf2cfd6bc5aeca2e66cc77",
+    "source_hash": "c745c673079588902dc7f78715c035c5",
     "translated": true
   }
 }

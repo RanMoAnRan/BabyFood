@@ -2,32 +2,12 @@
   "id": "fa3291e4e71d681adc1793467df8e0bb",
   "title": "西瓜圣代",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "水果"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/7a9aaade99f00e6ae16b4b1497743234.webp",
   "nutrition_tip": "这些不含冰淇淋的红、白、蓝圣代冰淇淋里装满了大量的勺子……",
-  "ingredients": [
-    {
-      "name": "西瓜（球）",
-      "amount": "44 杯"
-    },
-    {
-      "name": "蓝莓（新鲜）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "搅打配料",
-      "amount": "4 汤匙"
-    },
-    {
-      "name": "洒水（可选）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -52,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-06-21",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/watermelon-sundaes",
   "origin_url": "https://fruitsandveggies.org/recipes/red-white-and-blue-watermelon-sundaes-2/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b8a62288d715ae5126b51e690ff963f4",
+    "source_hash": "13a25121fdead5be745d375622c23b5f",
     "translated": true
   }
 }

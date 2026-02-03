@@ -2,29 +2,12 @@
   "id": "8bd3d168c4ca27a8aea014f0fd2e66cc",
   "title": "脆脆鸡块",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/c986c80289f14a64b3ed9e08e8a7d2ed.webp",
   "nutrition_tip": "孩子和大人都会喜欢这些烤箱烤鸡块。",
-  "ingredients": [
-    {
-      "name": "鸡胸肉（去骨，去皮，切成1英寸的方块）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "烧烤酱",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "麦片（片）",
-      "amount": "3 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -64,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/crunchy-chicken-nuggets",
   "origin_url": "https://foodhero.org/recipes/crunchy-chicken-nuggets",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "50f0d2baa5a17bad357b1510596cf220",
+    "source_hash": "962f94c77bea5f93e01d317c5dce756e",
     "translated": true
   }
 }

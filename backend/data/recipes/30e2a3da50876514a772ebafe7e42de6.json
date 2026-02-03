@@ -4,11 +4,12 @@
   "min_age_month": 12,
   "tags": [
     "Dessert",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 80,
-  "cover_image": "images/f3eea4a3b58b42a7cbac2ca30b9ea8f1.webp",
+  "cover_image": "images/ff8133f2374dedbe2d6f3cdd78c53b4b.webp",
   "nutrition_tip": "这些红色天鹅绒芝士蛋糕布朗尼蛋糕口感湿润，带有美味的糖水……",
   "ingredients": [
     {
@@ -98,7 +99,7 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-18",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:42:46Z",
   "source_url": "https://www.allrecipes.com/recipe/231865/red-velvet-cheesecake-swirl-brownies/",
   "origin_url": "",
   "source_name": "Allrecipes",

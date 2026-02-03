@@ -2,36 +2,12 @@
   "id": "c671dbd6e8c49ef9e08d5a4d07b8240c",
   "title": "烤鸡",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/161791942adbe3916b2a6f8778c3e030.webp",
   "nutrition_tip": "将这只烤鸡作为晚餐的中心菜肴，或将其添加到沙拉、沙子中......",
-  "ingredients": [
-    {
-      "name": "意大利调味料",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "盐和胡椒（适量）",
-      "amount": ""
-    },
-    {
-      "name": "整只鸡",
-      "amount": "1"
-    },
-    {
-      "name": "橄榄油（或菜籽油）",
-      "amount": "1 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -66,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/roast-chicken",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/roast-chicken",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "5024b5f99346c09535a27d2fbde93132",
+    "source_hash": "3b0a76d9d830c7df4729d9793179de1d",
     "translated": true
   }
 }

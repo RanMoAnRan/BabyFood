@@ -1,0 +1,87 @@
+{
+  "id": "e5772bb9088076756ede14603a4e517b",
+  "title": "焗豆",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "New England",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/c99d4f25943026db42443328486ec1db.webp",
+  "nutrition_tip": "有点甜，有点辣！猪肉豆罐头被带到了新的高度……",
+  "ingredients": [
+    {
+      "name": "2 罐（15 盎司）猪肉焗豆",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯包装红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙准备好的芥末",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙红酒醋",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "2 片培根",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料并将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将罐装豆子与猪肉、红糖、洋葱、番茄酱、芥末、伍斯特酱、醋、盐和胡椒粉放入 9 英寸见方的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将培根片放在上面。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入已预热的烤箱中烘烤，直至酱汁变稠且培根煮熟，大约需要1小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-06",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/16428/baked-beans-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7d9c20687d45e14d49a7b1cff38563d5",
+    "translated": true
+  }
+}

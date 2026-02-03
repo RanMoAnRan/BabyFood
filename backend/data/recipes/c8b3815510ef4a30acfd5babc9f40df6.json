@@ -1,0 +1,55 @@
+{
+  "id": "c8b3815510ef4a30acfd5babc9f40df6",
+  "title": "地中海鸡肉腌料",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Lunch",
+    "Mediterranean Inspired",
+    "Greek"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/7488b71b5895a41cad73d338b9b5da7c.webp",
+  "nutrition_tip": "这种美味的腌料使任何鸡肉晚餐都充满活力。你可以在猪肉上尝试一下...",
+  "ingredients": [
+    {
+      "name": "0.5 杯新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯特级初榨橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙准备好的黄芥末（例如 French's®）",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙干牛至粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在碗中搅拌柠檬汁、橄榄油、大蒜、芥末和牛至。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-07-10",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/232470/mediterranean-chicken-marinade/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0d3caba670fa5132b9ec2688de9101f6",
+    "translated": true
+  }
+}

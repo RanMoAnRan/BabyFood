@@ -2,48 +2,12 @@
   "id": "dd04cd5e14dcd14f50676829077ebce8",
   "title": "全麦速食面包",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/81453839902c26257f1d193473ccb34e.webp",
   "nutrition_tip": "使用这款自制全麦面包作为开胃菜、三明治或吐司。",
-  "ingredients": [
-    {
-      "name": "面粉",
-      "amount": "1 杯"
-    },
-    {
-      "name": "全麦面粉",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "小苏打",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "泡打粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "盐",
-      "amount": "3 / 4 茶匙"
-    },
-    {
-      "name": "酪乳",
-      "amount": "2 杯"
-    },
-    {
-      "name": "油（蔬菜）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "红糖（包装）",
-      "amount": "3 汤匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -88,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/whole-wheat-quick-bread",
   "origin_url": "https://foodhero.org/recipes/whole-wheat-quick-bread",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b9052607a8db340f1f00fccc8625cb88",
+    "source_hash": "e0cd9f7fc4c190d3e670d487fd6e7cfb",
     "translated": true
   }
 }

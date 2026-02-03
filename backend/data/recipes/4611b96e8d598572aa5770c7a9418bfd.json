@@ -1,40 +1,13 @@
 {
   "id": "4611b96e8d598572aa5770c7a9418bfd",
   "title": "早餐香蕉船",
-  "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "小吃",
-    "水果",
-    "乳制品",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/228dcf3ac9c895dd00a372b146a15976.webp",
   "nutrition_tip": "这个补充能量的早餐香蕉片食谱是开始一天的好方法......",
-  "ingredients": [
-    {
-      "name": "香蕉",
-      "amount": "1 个小"
-    },
-    {
-      "name": "谷物（燕麦、玉米或格兰诺拉麦片）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "酸奶（低脂香草或草莓）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "蜂蜜（可选，一岁以下儿童可跳过）",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "菠萝（罐头、花边或块，沥干）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -59,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/breakfast-banana-split",
   "origin_url": "https://foodhero.org/recipes/breakfast-banana-split",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "6e683e95e3feb2a40ba08900395a5fca",
+    "source_hash": "e243803dc474cc6a78f7fb09d1874ae5",
     "translated": true
   }
 }

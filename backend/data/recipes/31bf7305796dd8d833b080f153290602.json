@@ -2,53 +2,12 @@
   "id": "31bf7305796dd8d833b080f153290602",
   "title": "烤豆腐咬",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "小吃",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/3caf26f72d274b47ce33f66abd121288.webp",
   "nutrition_tip": "这些美味的无肉小吃是完美的手指食物。",
-  "ingredients": [
-    {
-      "name": "不粘烹饪喷雾",
-      "amount": ""
-    },
-    {
-      "name": "豆腐（坚硬、冲洗并沥干，切成 1/2 英寸的立方体 [参见厨师提示]；或 1 磅 11 盎司）",
-      "amount": "27 盎司"
-    },
-    {
-      "name": "海鲜酱",
-      "amount": "3 汤匙"
-    },
-    {
-      "name": "酱油（低钠）",
-      "amount": "3 汤匙"
-    },
-    {
-      "name": "水（或 1 汤匙 + 1 茶匙）",
-      "amount": "4 茶匙"
-    },
-    {
-      "name": "全麦面粉",
-      "amount": "2 / 3 杯"
-    },
-    {
-      "name": "玉米粉（全麦，中度研磨）",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "芥末（干，磨碎；或 1/4 + 1/8 茶匙）",
-      "amount": "3 / 8 茶匙"
-    },
-    {
-      "name": "大蒜粉（或 1/4 + 1/8 茶匙）",
-      "amount": "3 / 8 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -98,13 +57,13 @@
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/baked-tofu-bites",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "cb84427dad1a2d9f8c824cc826ad8615",
+    "source_hash": "62adeb1b0cb036fc7a4bb94f46cb7725",
     "translated": true
   }
 }

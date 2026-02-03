@@ -2,44 +2,12 @@
   "id": "69e3c80796c250d4b89556cb16f61b90",
   "title": "越南新鲜夏卷",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/f2e74597aa5b3bf1c55cf14ee39f257d.webp",
   "nutrition_tip": "用新鲜蔬菜和香草制成的快速清爽的开胃菜",
-  "ingredients": [
-    {
-      "name": "胡萝卜（切成细长条）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "豆芽",
-      "amount": "2 杯"
-    },
-    {
-      "name": "黄瓜（去籽并切成细长条）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "葱（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "香菜（新鲜，切碎）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "薄荷（新鲜，切碎）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "宣纸包装纸",
-      "amount": "8"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -69,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/vietnamese-fresh-summer-rolls",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=0&amp;cId=7&amp;rId=247",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "5405740adf200898f2bdf797c9f69e83",
+    "source_hash": "e38abce43094266dfa901fc7b34ce78f",
     "translated": true
   }
 }

@@ -2,48 +2,12 @@
   "id": "edb27ea7bcd6f256fe39937234503cf2",
   "title": "天鹅绒般的牛油果香蒜酱",
   "min_age_month": 8,
-  "tags": [
-    "小吃",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/067df346e99e9bb854aedefa862a4de9.webp",
   "nutrition_tip": "用罗勒和松子提升传统鳄梨酱的品质，创造出这款天鹅绒般的迪……",
-  "ingredients": [
-    {
-      "name": "牛油果（去皮、去核、切成块）",
-      "amount": "2 个中等"
-    },
-    {
-      "name": "罗勒（叶）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "坚果（松子，无盐）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "3 汤匙"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "大蒜（丁香）",
-      "amount": "3 个中等"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -53,13 +17,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-12-11",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/velvety-avocado-pesto-dip",
   "origin_url": "https://www.tn.gov/wfhtn/resources/recipes/snacks/velvety-avocado-pesto-dip.html",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "1381a5dd48e01eb6093ca9ba5ede51d1",
+    "source_hash": "d823bc2073cabd58ab602886b4e4f6d5",
     "translated": true
   }
 }

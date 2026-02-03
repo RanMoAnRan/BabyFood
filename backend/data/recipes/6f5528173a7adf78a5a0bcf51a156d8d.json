@@ -2,44 +2,12 @@
   "id": "6f5528173a7adf78a5a0bcf51a156d8d",
   "title": "超级快的厚实番茄酱",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/a8c2afa7329a7eee593075a416277bc7.webp",
   "nutrition_tip": "在全麦面食上享用这种快速、厚实的番茄酱。",
-  "ingredients": [
-    {
-      "name": "橄榄油",
-      "amount": "2 茶匙"
-    },
-    {
-      "name": "大蒜（切碎，约 1 瓣）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "烤红辣椒（1 罐，沥干并切丁[或替代新鲜烤红辣椒]）",
-      "amount": "12 盎司"
-    },
-    {
-      "name": "番茄丁（每个 14.5 盎司，不加盐）",
-      "amount": "2 罐"
-    },
-    {
-      "name": "番茄汁（5 1/2 盎司，低钠）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "罗勒（新鲜、冲洗、干燥并切碎[或 1 茶匙干燥]）",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "黑胡椒粉",
-      "amount": "1 / 4 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -64,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/super-quick-chunky-tomato-sauce",
   "origin_url": "https://www.nhlbi.nih.gov/health/educational/wecan/eat-right/tomato-sauce.htm",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "af215488f9c9f65f8fada515a9f2b5a9",
+    "source_hash": "adc4e6154dbac5b6b87e33fa3b3a3278",
     "translated": true
   }
 }

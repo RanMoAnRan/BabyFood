@@ -44,7 +44,7 @@
     {
       "step_index": 1,
       "img": "",
-      "text": "收集原料。 1将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸弹簧盘上涂抹油脂。"
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9 英寸弹簧盘上涂抹油脂。"
     },
     {
       "step_index": 2,
@@ -74,13 +74,13 @@
   ],
   "warnings": [],
   "publish_date": "2018-09-18",
-  "updated_at": "2026-02-01T19:22:06Z",
+  "updated_at": "2026-02-03T06:42:46Z",
   "source_url": "https://www.allrecipes.com/recipe/268117/easy-condensed-milk-cake/",
   "origin_url": "",
   "source_name": "Allrecipes",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "5e346b8c1359aff67f48769afc7ef0cf",
+    "source_hash": "b1db8c504c43fa82409715aae8d01808",
     "translated": true
   }
 }

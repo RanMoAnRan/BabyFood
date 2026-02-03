@@ -1,0 +1,78 @@
+{
+  "id": "3727f76859b9949b4c1eba24fe600de0",
+  "title": "绿色冰沙碗",
+  "min_age_month": 8,
+  "tags": [
+    "Breakfast",
+    "Drink",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/fd9490681d18f42e71d204386a572b97.webp",
+  "nutrition_tip": "菠菜和香蕉冰沙上面有浆果、奇亚籽、杏仁和……",
+  "ingredients": [
+    {
+      "name": "3 杯新鲜菠菜",
+      "amount": ""
+    },
+    {
+      "name": "1 根香蕉",
+      "amount": ""
+    },
+    {
+      "name": "0.5（14 盎司）罐装椰奶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯冷冻芒果块",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯椰子水",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯新鲜覆盆子",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯新鲜蓝莓",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙格兰诺拉麦片",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙椰子片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙杏仁片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙奇亚籽",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在搅拌机中将菠菜、香蕉、椰奶、芒果和椰子水搅拌至光滑。将冰沙倒入碗中，上面撒上覆盆子、蓝莓、格兰诺拉麦片、椰子片、杏仁和奇亚籽。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-06-30",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/244825/green-smoothie-bowl/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ac76fb7854c76408a919b89d74fb3e36",
+    "translated": true
+  }
+}

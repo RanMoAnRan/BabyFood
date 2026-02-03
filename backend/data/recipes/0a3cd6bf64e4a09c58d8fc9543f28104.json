@@ -2,41 +2,12 @@
   "id": "0a3cd6bf64e4a09c58d8fc9543f28104",
   "title": "豆泥",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/4a721e2bb5d429db67a1f5ee63f324c6.webp",
   "nutrition_tip": "这些炸豆泥是罐装豆子的简单自制替代品。",
-  "ingredients": [
-    {
-      "name": "斑豆（干）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "水",
-      "amount": "6 杯"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "煮熟的豆子中的液体",
-      "amount": "1 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -66,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/refried-beans",
   "origin_url": "https://web.extension.illinois.edu/fiesta/recipe.cfm?lang=en&amp;id=165",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "e7061ed515a79f20e323786ed863790b",
+    "source_hash": "56fc897f7f62fe72a8d7c5e8cec094ef",
     "translated": true
   }
 }

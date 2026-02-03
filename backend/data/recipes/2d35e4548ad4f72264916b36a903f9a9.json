@@ -2,52 +2,12 @@
   "id": "2d35e4548ad4f72264916b36a903f9a9",
   "title": "胡萝卜、核桃和葡萄干蒸粗麦粉",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/3f54f9deba83929e82c9c6bf4480d680.webp",
   "nutrition_tip": "这道速煮谷物菜肴带有一丝甜味和坚果味，可搭配……",
-  "ingredients": [
-    {
-      "name": "粗麦粉",
-      "amount": "1 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "核桃（粗切）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "南瓜派香料（或肉桂）",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "水",
-      "amount": "1 1 / 3 杯"
-    },
-    {
-      "name": "葡萄干",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "胡萝卜（冲洗、去皮、切丝或切成薄片、切成两半）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -72,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-03-20",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/couscous-carrots-walnuts-and-raisins",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=1&amp;cId=8&amp;rId=56",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "58cb6c5c792c0ad0061693d91971ad65",
+    "source_hash": "0f313b916edc1d19bf13ea9b4d517a99",
     "translated": true
   }
 }

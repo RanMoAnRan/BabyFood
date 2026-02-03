@@ -2,38 +2,12 @@
   "id": "6660f4fcc2e2e0aa323ff8bd8d39c80a",
   "title": "玉米饼杯加鸡蛋",
   "min_age_month": 12,
-  "tags": [
-    "早餐",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/bb70153ff413f3fd828a4bdc3a8681dc.webp",
   "nutrition_tip": "为旅途中饥饿的孩子准备这些富含蛋白质的玉米饼杯。",
-  "ingredients": [
-    {
-      "name": "玉米饼（6 英寸，面粉）",
-      "amount": "4"
-    },
-    {
-      "name": "鸡蛋",
-      "amount": "4"
-    },
-    {
-      "name": "蘑菇（切碎）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "灯笼椒（切碎）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -83,13 +57,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/tortilla-cups-eggs",
   "origin_url": "https://eat-move-save.extension.illinois.edu/eat/recipes/tortilla-cups-eggs",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "c32cbf3b5e4329d198c98cf0ed489aa3",
+    "source_hash": "c8f3f4d5e1794ae75d829b2ff567b159",
     "translated": true
   }
 }

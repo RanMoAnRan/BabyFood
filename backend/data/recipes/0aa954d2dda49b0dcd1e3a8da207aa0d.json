@@ -2,40 +2,12 @@
   "id": "0aa954d2dda49b0dcd1e3a8da207aa0d",
   "title": "咸味燕麦片",
   "min_age_month": 8,
-  "tags": [
-    "早餐",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/79bd81b8c64400ba1834616283e51a85.webp",
   "nutrition_tip": "用这个用ch…制成的美味燕麦片食谱来改变你早上的燕麦碗……",
-  "ingredients": [
-    {
-      "name": "牛奶（脱脂或 1%）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "蔬菜汤（低钠）",
-      "amount": "1 1 / 2 杯"
-    },
-    {
-      "name": "燕麦（钢切）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "切达干酪（低脂，切丝）",
-      "amount": "1 / 3 杯"
-    },
-    {
-      "name": "葱（切丁）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "西红柿（切丁）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -60,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-09-27",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/savory-oatmeal",
   "origin_url": "https://foodhero.org/recipes/savory-oatmeal",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "b0a387b5818c9b3603ec20ce2b54a167",
+    "source_hash": "98b03ea4d5eb5e427c84968e03e130f0",
     "translated": true
   }
 }

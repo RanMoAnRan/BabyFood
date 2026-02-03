@@ -2,42 +2,12 @@
   "id": "5db916bc62c930b00ac83f1210276060",
   "title": "美味肉丸松饼",
   "min_age_month": 6,
-  "tags": [
-    "晚餐",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/d731556ea6d22a28631b9b9b433c17b3.webp",
   "nutrition_tip": "这些适合儿童的肉饼松饼味道浓郁，口感优美……",
-  "ingredients": [
-    {
-      "name": "蛋",
-      "amount": "1 个大"
-    },
-    {
-      "name": "牛奶（脱脂）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "碎牛肉（瘦肉）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "3 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "奶酪（任何品种，磨碎）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -67,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-03-20",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/savory-meatball-muffins",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/savory-meatloaf-muffins",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "4edc771c6095b71576c8d2436d6449f4",
+    "source_hash": "0554587e1e727b3902c3c3aa3dec4b11",
     "translated": true
   }
 }

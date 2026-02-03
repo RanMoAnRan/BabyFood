@@ -2,25 +2,12 @@
   "id": "154936cffbb21565612fb0994b0ad743",
   "title": "烤尤卡",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "小吃",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/72d0c62e6cdb1cf011f25005b40553a4.webp",
   "nutrition_tip": "酥脆可口！使用烹饪喷雾来减少脂肪。",
-  "ingredients": [
-    {
-      "name": "尤卡（新鲜，切成 3 英寸的部分并去皮；或 1 磅去皮冷冻尤卡或木薯）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "不粘烹饪喷雾",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -35,23 +22,23 @@
     {
       "step_index": 3,
       "img": "",
-      "text": "用漏勺将尤卡转移到切菜板上，让其冷却，然后将其纵向切成 3/4 英寸宽的楔形，丢弃薄木芯。"
+      "text": "用有槽勺将尤卡转移到切板上，让其冷却，然后将其纵向切成 3/4 英寸宽的楔形，丢弃薄木芯。"
     },
     {
       "step_index": 4,
       "img": "",
-      "text": "用烹饪喷雾轻轻喷洒饼干片。将尤卡楔形单层铺在饼干片上，然后在楔形上喷上烹饪喷雾。盖上箔纸并烘烤 8 分钟。揭开盖子并返回烤箱再烘烤 7 分钟。"
+      "text": "用烹饪喷雾轻轻喷洒饼干片。将尤卡楔形单层铺在饼干片上，并在楔形上喷上烹饪喷雾。盖上箔纸并烘烤 8 分钟。揭开盖子并返回烤箱再烘烤 7 分钟。"
     }
   ],
   "warnings": [],
   "publish_date": "2020-06-01",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/oven-fried-yuca",
   "origin_url": "https://healthyeating.nhlbi.nih.gov/recipedetail.aspx?linkId=14&amp;cId=10&amp;rId=166",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "266447dd6cc23ef73f566786d5d6312f",
+    "source_hash": "cfec1d721681c9694f5167e096431d78",
     "translated": true
   }
 }

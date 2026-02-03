@@ -2,74 +2,12 @@
   "id": "ff5b5625d3ac9aec6e8443e22ef415a0",
   "title": "波唑鸡",
   "min_age_month": 8,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/15d5caf503977c44b664bf2fde7034e7.webp",
   "nutrition_tip": "随着天气变冷，享受这道用玉米粥、红辣椒酱和……制成的炖菜。",
-  "ingredients": [
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "大蒜（切碎（或 1/2 茶匙大蒜粉））",
-      "amount": "2 丁香"
-    },
-    {
-      "name": "红辣椒酱（（10 盎司））",
-      "amount": "1 罐"
-    },
-    {
-      "name": "鸡汤",
-      "amount": "3 杯"
-    },
-    {
-      "name": "小茴香",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "牛至",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "玉米粥（（15 盎司）沥干并冲洗）",
-      "amount": "1 罐"
-    },
-    {
-      "name": "鸡肉（煮熟，切丝）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "卷心菜（切丝，可选）",
-      "amount": ""
-    },
-    {
-      "name": "萝卜（切片，可选）",
-      "amount": ""
-    },
-    {
-      "name": "酸橙汁（可选）",
-      "amount": ""
-    },
-    {
-      "name": "香菜（切碎，可选）",
-      "amount": ""
-    },
-    {
-      "name": "牛油果（切丁或切片，可选）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -99,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-08-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/pozole-chicken",
   "origin_url": "https://foodhero.org/recipes/pozole-chicken",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a2aeff1abd8367497bff7d4df3fc2fe4",
+    "source_hash": "190483e46a579b7d829fc2e83c7f0255",
     "translated": true
   }
 }

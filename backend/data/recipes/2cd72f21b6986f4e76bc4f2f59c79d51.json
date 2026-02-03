@@ -2,41 +2,12 @@
   "id": "2cd72f21b6986f4e76bc4f2f59c79d51",
   "title": "卷心菜舒适度",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/7d5c068108b136fd24b853f603dc7432.webp",
   "nutrition_tip": "卷心菜、洋葱和香菜种子使这道简单且便宜的配菜成为...",
-  "ingredients": [
-    {
-      "name": "洋葱（切片）",
-      "amount": "1"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "卷心菜（切片）",
-      "amount": "4 1 / 2 杯"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "香菜种子",
-      "amount": "1 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -66,13 +37,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-02-27",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/cabbage-comfort",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/cabbage-comfort",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "ae8dd61a669a4962e42cd350723841c4",
+    "source_hash": "8649632d9157feddd6a865a7441a1412",
     "translated": true
   }
 }

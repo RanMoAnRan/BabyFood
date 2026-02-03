@@ -1,0 +1,76 @@
+{
+  "id": "6d0d54aa4cd82b502a1a63f6c1af9458",
+  "title": "番茄培根果酱",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 125,
+  "cover_image": "images/dae597173b8d3a7944de7d964254f485.webp",
+  "nutrition_tip": "你可以将这种自制的甜咸番茄培根酱涂抹在几乎任何......",
+  "ingredients": [
+    {
+      "name": "0.5 磅熏培根",
+      "amount": ""
+    },
+    {
+      "name": "2 磅熟番茄，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个黄甜洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2.5 汤匙苹果醋",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "1 滴辣椒酱（例如 Tabasco®）",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在大煎锅中用中高火煮培根，偶尔翻动，直至均匀变成棕色，大约需要 10 分钟。将培根片放在纸巾上沥干。冷却后将培根弄碎。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将西红柿、甜洋葱、糖、苹果醋、盐、黑胡椒和辣酱一起放入平底锅中搅拌，煮沸，不断搅拌以溶解糖。拌入碎培根，用中火煮，经常搅拌，直到涂抹得很厚，大约需要 1 小时。调整盐和黑胡椒。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "冷却并用勺子倒入一个干净的 1 品脱带盖玻璃罐中；冰箱保存1周或冷冻2个月。如果冷冻，请将其放入小罐子中，并在使用前将罐子在冰箱中解冻过夜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/228140/tomato-and-bacon-jam/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7052c0f927c2a789f4795fd0d1bb39ba",
+    "translated": true
+  }
+}

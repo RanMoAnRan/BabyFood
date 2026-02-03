@@ -2,36 +2,12 @@
   "id": "6a5b0fffcafddf3cfbe1162b078c07cd",
   "title": "烤球芽甘蓝",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 5,
+  "time_cost": 0,
   "cover_image": "images/5bf628a72c0a89399daac068903555d0.webp",
   "nutrition_tip": "烤球芽甘蓝创造出一种温暖、可口、多功能的蔬菜菜肴……",
-  "ingredients": [
-    {
-      "name": "球芽甘蓝",
-      "amount": "6 杯"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "黑胡椒",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "柠檬汁",
-      "amount": "1 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -71,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/roasted-brussels-sprouts",
   "origin_url": "https://www.myplate.gov/recipes/supplemental-nutrition-assistance-program-snap/roasted-brussels-sprouts",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "fa0bd05178a0351ed826cad3e72d0a40",
+    "source_hash": "a71ad64243c6dd0fd4ac5d59a8d74eda",
     "translated": true
   }
 }

@@ -1,0 +1,97 @@
+{
+  "id": "a2f9461f58e4392bd28ac772cd58089d",
+  "title": "爱尔兰苏打面包松饼",
+  "min_age_month": 12,
+  "tags": [
+    "Bread",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/c6226e8f2cf1fc4fe6ddf00e7220a8b4.webp",
+  "nutrition_tip": "这些爱尔兰苏打面包松饼有多汁的葡萄干，上面点缀着香菜……",
+  "ingredients": [
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙香菜籽",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙发酵粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯酪乳",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油，融化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在松饼罐上铺上纸垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中混合面粉、葡萄干、1/2 杯加 2 汤匙糖、香菜籽、泡打粉、盐和小苏打。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个小碗中将酪乳和鸡蛋一起搅拌。搅拌成面粉混合物。将黄油拌入面糊中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊舀入准备好的松饼罐中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 到 30 分钟，直到插入中心的牙签拔出来时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/256753/irish-soda-bread-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bbe103bbda73b7fb58a213b15abc5324",
+    "translated": true
+  }
+}

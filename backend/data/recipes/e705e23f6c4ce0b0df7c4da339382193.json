@@ -1,0 +1,55 @@
+{
+  "id": "e705e23f6c4ce0b0df7c4da339382193",
+  "title": "隔夜奇亚籽燕麦",
+  "min_age_month": 6,
+  "tags": [
+    "Breakfast",
+    "Ingredient",
+    "Australian"
+  ],
+  "difficulty": 1,
+  "time_cost": 485,
+  "cover_image": "images/0e2e9b1d9fdc9cdf36106eac98075641.webp",
+  "nutrition_tip": "这种 4 种成分的隔夜奇亚籽燕麦食谱以杏仁奶、燕麦片、b…",
+  "ingredients": [
+    {
+      "name": "1 杯杏仁微风香草杏仁奶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯燕麦片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个中等大小的香蕉，捣碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙奇亚籽",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将杏仁奶、燕麦、香蕉泥和奇亚籽放入 1 品脱罐中。盖上盖子：摇匀直至充分混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "冷藏 8 小时至过夜，直至奇亚籽膨胀且燕麦混合物变稠且呈凝胶状。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-12-11",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/269573/overnight-chia-oats/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3a9c47bad1b30bcab189f2d5ba3e4026",
+    "translated": true
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "c9c3b0db28e015b2b4bc39f194d7c8e5",
+  "title": "咖啡利口酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/592daded58d623fd400413c858c1a05f.webp",
+  "nutrition_tip": "尝试这个简单的咖啡利口酒配方，用糖、伏特加和速溶咖啡制成......",
+  "ingredients": [
+    {
+      "name": "4 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "4 杯水",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯速溶咖啡颗粒",
+      "amount": ""
+    },
+    {
+      "name": "4 杯伏特加",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将糖和水放入 3 夸脱的平底锅中，用中火煮沸。减少热量并煮 10 分钟。从火上移开，加入速溶咖啡，搅拌 30 至 45 分钟，然后冷却。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "冷却后，加入伏特加和香草精搅拌。倒入干净的瓶子里。紧紧关闭瓶子并存放在阴凉处。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-23",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/18159/coffee-liqueur/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d2737e85e155376cefa42476eb14f0f9",
+    "translated": true
+  }
+}

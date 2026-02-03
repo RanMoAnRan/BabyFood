@@ -2,40 +2,12 @@
   "id": "a1670c795e00aa2ce0f9fce982bf0952",
   "title": "西兰花奶酪片",
   "min_age_month": 12,
-  "tags": [
-    "小吃",
-    "蔬菜"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/99159d86d6fc78e5acd4fae008186131.webp",
   "nutrition_tip": "孩子们会喜欢这些西兰花作为零食或配菜。",
-  "ingredients": [
-    {
-      "name": "西兰花，冲洗、切碎并煮熟",
-      "amount": "2 杯"
-    },
-    {
-      "name": "鸡蛋",
-      "amount": "2"
-    },
-    {
-      "name": "石油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 / 2 茶匙"
-    },
-    {
-      "name": "面包屑",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "奶酪（切达干酪、科尔比杰克干酪或帕尔马干酪）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -55,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-02-28",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/broccoli-cheese-bites",
   "origin_url": "https://eclkc.ohs.acf.hhs.gov/oral-health/cooks-corner-recipes-healthy-snacks/broccoli-cheese-bites",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "2e67e028929ae885d2c70c41057f9f63",
+    "source_hash": "919e57c4c4f04636331341366f6ce239",
     "translated": true
   }
 }

@@ -2,36 +2,12 @@
   "id": "b5c58289df7abff2e9cd309ab1e7be8c",
   "title": "火鸡玉米饼",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
   "time_cost": 0,
   "cover_image": "images/6d294041f8883bf4161c1d89d52e4e86.webp",
   "nutrition_tip": "用你最喜欢的蔬菜填满这个奶酪玉米饼。",
-  "ingredients": [
-    {
-      "name": "地面火鸡",
-      "amount": "1 磅"
-    },
-    {
-      "name": "帕尔马干酪",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "切碎的蔬菜（西红柿、青豆、胡萝卜、辣椒、西葫芦等）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "全麦玉米饼",
-      "amount": "8"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -56,13 +32,13 @@
   ],
   "warnings": [],
   "publish_date": "2021-12-16",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/turkey-quesadilla",
   "origin_url": "https://reallifegoodfood.umn.edu/cook/turkey-quesadilla",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "1ad9fa0195b8529b2f830f499153ed04",
+    "source_hash": "bb77ee2d76d72c08d6b7895df34e3105",
     "translated": true
   }
 }

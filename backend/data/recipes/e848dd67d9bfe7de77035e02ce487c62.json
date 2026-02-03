@@ -2,58 +2,12 @@
   "id": "e848dd67d9bfe7de77035e02ce487c62",
   "title": "芦笋蘑菇融化",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "蔬菜",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 15,
+  "time_cost": 0,
   "cover_image": "images/444db32463b669bb5189aea4745ae992.webp",
   "nutrition_tip": "这个温暖的奶酪三明治会让你的味蕾流口水。",
-  "ingredients": [
-    {
-      "name": "英式松饼",
-      "amount": "4"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "蘑菇（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "石油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "芦笋（修剪并横向切成 1/2 英寸的圆形）",
-      "amount": "1 磅"
-    },
-    {
-      "name": "百里香（磨碎的，或牛至或罗勒）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "醋",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "盐",
-      "amount": "1 破折号"
-    },
-    {
-      "name": "胡椒",
-      "amount": "1 破折号"
-    },
-    {
-      "name": "马苏里拉奶酪（3 盎司，切丝）",
-      "amount": "3 / 4 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -88,13 +42,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/asparagus-mushroom-melt",
   "origin_url": "https://foodhero.org/recipes/asparagus-mushroom-melt",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "d88bb15720bce98de79436f940806eb2",
+    "source_hash": "f7fee9374eef51f39d83438400da0a33",
     "translated": true
   }
 }

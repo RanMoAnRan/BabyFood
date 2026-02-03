@@ -2,45 +2,12 @@
   "id": "d67fd77858dc69391ac7e364fe8d7bb3",
   "title": "鱼沙拉",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/86de73f5383ef78c33117f47d464cb09.webp",
   "nutrition_tip": "想要一顿快速、丰盛的午餐吗？试试这个鱼沙拉配莎莎酱！",
-  "ingredients": [
-    {
-      "name": "鱼片（尝试鳕鱼、罗非鱼、鲷鱼或其他）",
-      "amount": "2 磅"
-    },
-    {
-      "name": "盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "胡椒",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "卷心菜（切丝；或生菜）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "蔬菜（切碎；尝试西红柿、黄瓜、胡萝卜、玉米、大葱、芹菜、鳄梨）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "牧场酱（低脂）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "萨尔萨舞",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -60,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/fish-salad",
   "origin_url": "https://foodhero.org/recipes/fish-salad",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a0fdc0b5d06677758efc332ebbe6c443",
+    "source_hash": "38e109e0f79c882d3b37f9b90c14cd09",
     "translated": true
   }
 }

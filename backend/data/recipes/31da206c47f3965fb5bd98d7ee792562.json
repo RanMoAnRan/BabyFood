@@ -1,0 +1,78 @@
+{
+  "id": "31da206c47f3965fb5bd98d7ee792562",
+  "title": "乡村苹果饺子",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/23f8349acc75c6c3d6029d31e6d60b8b.webp",
+  "nutrition_tip": "这些苹果饺子是用新鲜的苹果和月牙卷面团制成的，烘烤的……",
+  "ingredients": [
+    {
+      "name": "2 个大青苹果，去皮去核",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10 盎司）冷藏月牙卷面团",
+      "amount": ""
+    },
+    {
+      "name": "1 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（12 液量盎司）或一瓶 Mountain Dew ™",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将每个苹果切成 8 个相等的楔形；放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将月牙卷面团分成三角形。将每个苹果角卷成新月形卷三角形，从宽端开始，向尖头卷起。捏紧密封并放入准备好的烤盘中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在小平底锅中用小火融化黄油。将糖和肉桂加入融化的黄油中搅拌直至混合。倒在苹果饺子上，然后倒上苏打水。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 35 至 45 分钟，直至呈金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/102133/country-apple-dumplings/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4a382c2236fe7d051c7d8aef4c597cc9",
+    "translated": true
+  }
+}

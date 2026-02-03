@@ -1,0 +1,49 @@
+{
+  "id": "59de6b5ec1497d078515042664ca9dd2",
+  "title": "草莓奶油芝士糖霜",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/551ba7b75fae30599d5d5b8a8ce19cdc.webp",
+  "nutrition_tip": "自制草莓奶油芝士糖霜很容易使用 4 个简单的材料准备......",
+  "ingredients": [
+    {
+      "name": "8 盎司奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "4 个草莓，去壳并切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）糖果糖，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将奶油芝士、黄油和草莓放入碗中，用电动搅拌机搅拌至光滑细腻；逐渐击败糖果厂加糖直至达到所需的稠度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-12-08",
+  "updated_at": "2026-02-03T06:42:46Z",
+  "source_url": "https://www.allrecipes.com/recipe/256403/strawberry-cream-cheese-frosting/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "048c585ec19ef182465b3f5d6bb940f0",
+    "translated": true
+  }
+}

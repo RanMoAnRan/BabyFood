@@ -2,45 +2,12 @@
   "id": "057e7e4322d377d11b9e65d93c3f8957",
   "title": "照烧鸡肉和卷心菜",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/25d6afae87b0c4ee3f09db3c5822bb65.webp",
   "nutrition_tip": "通过这顿美味佳肴引入新口味。",
-  "ingredients": [
-    {
-      "name": "酱油（低钠）",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 1 / 2 茶匙"
-    },
-    {
-      "name": "黑胡椒（磨碎）",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "大蒜粉",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "生姜（磨碎）",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "鸡肉（大腿，去骨，去皮；约 9 根大腿或 1 磅 9 1/4 盎司）",
-      "amount": "25 1 / 4 盎司"
-    },
-    {
-      "name": "卷心菜（新鲜，切丝，1/4 英寸厚）",
-      "amount": "3 1 / 3 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -60,7 +27,7 @@
     {
       "step_index": 4,
       "img": "",
-      "text": "将鸡肉放入烤盘中。盖。在 40°F 或更低的冰箱中腌制 2 小时。将鸡肉翻过来腌制另一面。盖。在冰箱里再腌制2小时。接触未煮熟的鸡肉后要洗手（参见厨师提示）。"
+      "text": "将鸡肉放入烤盘中。覆盖。在 40°F 或更低的冰箱中腌制 2 小时。将鸡肉翻过来腌制另一面。覆盖。在冰箱里再腌制2小时。接触未煮熟的鸡肉后要洗手（参见厨师提示）。"
     },
     {
       "step_index": 5,
@@ -100,13 +67,13 @@
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/teriyaki-chicken-and-cabbage",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "a3a8cc91486bf5b60f6768a376c57bee",
+    "source_hash": "cdd7ae4576077c81111fc27a29c9f6d6",
     "translated": true
   }
 }

@@ -1,56 +1,13 @@
 {
   "id": "a1d08833747fbc0ff2f7723ef2c1f98d",
   "title": "微波炉牛肉玉米卷饼",
-  "min_age_month": 8,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蛋白质",
-    "乳制品",
-    "谷物"
-  ],
+  "min_age_month": 12,
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 10,
+  "time_cost": 0,
   "cover_image": "images/0131f3fa4219ae91c90fe23f9de86710.webp",
   "nutrition_tip": "在 30 分钟内将这些奶酪牛肉玉米卷饼完全放入微波炉中烹制……",
-  "ingredients": [
-    {
-      "name": "碎牛肉",
-      "amount": "1 磅"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 个中等"
-    },
-    {
-      "name": "菠菜（切碎）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "切达干酪（切丝）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "原味酸奶",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "盐",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "胡椒",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "全麦玉米饼（或玉米饼）",
-      "amount": "6"
-    },
-    {
-      "name": "葱（装饰用）",
-      "amount": ""
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -95,13 +52,13 @@
   ],
   "warnings": [],
   "publish_date": "2023-11-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/microwave-beef-enchiladas",
   "origin_url": "https://www.mass.gov/doc/beef-enchiladas-0/download",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "f063d5ff3a39cfed8989fc719ae752dd",
+    "source_hash": "fb364d35322f5ee0601f14e13509d566",
     "translated": true
   }
 }

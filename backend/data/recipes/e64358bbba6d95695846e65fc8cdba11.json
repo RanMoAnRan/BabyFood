@@ -2,53 +2,12 @@
   "id": "e64358bbba6d95695846e65fc8cdba11",
   "title": "三姐妹沙拉",
   "min_age_month": 12,
-  "tags": [
-    "晚餐",
-    "蔬菜",
-    "蛋白质"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/def6bf242900be80f2fa57156e3cdebd.webp",
   "nutrition_tip": "ᏎᎷ (she-lu) 玉米、ᏚᏯ (tu-ya) 豆类和 ᏩᎩᎦ (wa-gi-ga) 南瓜是三种主要的…",
-  "ingredients": [
-    {
-      "name": "糖",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "醋（白）",
-      "amount": "1 / 4 杯"
-    },
-    {
-      "name": "橄榄油",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "玉米（沥干）",
-      "amount": "2 罐"
-    },
-    {
-      "name": "黑豆（沥干并冲洗）",
-      "amount": "2 罐"
-    },
-    {
-      "name": "西葫芦（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "南瓜（黄色，切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "洋葱（切碎）",
-      "amount": "1 / 2 杯"
-    },
-    {
-      "name": "甜椒（绿色，切碎）",
-      "amount": "1 / 2 杯"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -68,13 +27,13 @@
   ],
   "warnings": [],
   "publish_date": "2024-10-31",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/three-sisters-salad",
   "origin_url": "https://food.ebci-nsn.gov/2021/07/19/three-sisters-salad/",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "8be450c32204e210ee459571bf4f9350",
+    "source_hash": "94b8075e0d32f21bab2c2b962d8f72d0",
     "translated": true
   }
 }

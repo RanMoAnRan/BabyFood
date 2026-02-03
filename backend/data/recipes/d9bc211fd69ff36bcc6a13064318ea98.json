@@ -2,51 +2,12 @@
   "id": "d9bc211fd69ff36bcc6a13064318ea98",
   "title": "西葫芦丝和意大利面",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "晚餐",
-    "蔬菜",
-    "乳制品",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/579f0f09dd8d0a2e767526cb085614d0.webp",
   "nutrition_tip": "情侣意大利面配蔬菜，孩子们会喜欢的。",
-  "ingredients": [
-    {
-      "name": "意大利面（法法尔/领结、全麦、未煮熟）",
-      "amount": "1 1 / 4 杯"
-    },
-    {
-      "name": "水",
-      "amount": "3 杯"
-    },
-    {
-      "name": "植物油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "大蒜（丁香，切碎）",
-      "amount": "1 1 / 2 茶匙"
-    },
-    {
-      "name": "西葫芦（新鲜、未去皮、切丝；切丝前用流水轻轻清洗西葫芦）",
-      "amount": "3 1 / 2 杯"
-    },
-    {
-      "name": "盐（餐桌）",
-      "amount": "1 / 4 茶匙"
-    },
-    {
-      "name": "黑胡椒（磨碎）",
-      "amount": "1 / 8 茶匙"
-    },
-    {
-      "name": "帕尔马干酪（磨碎）",
-      "amount": "2 茶匙"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -86,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2022-09-02",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/shredded-zucchini-and-pasta",
   "origin_url": "https://www.fns.usda.gov/tn/team-nutrition-recipes",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "e697f5a180a0e3bca8a799b46bce256c",
+    "source_hash": "800559929cef829015bce729f1fd1d73",
     "translated": true
   }
 }

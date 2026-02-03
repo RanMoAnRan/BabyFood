@@ -2,59 +2,12 @@
   "id": "fac9ec280a82041818db83edfc41ccae",
   "title": "阳光易拉宝",
   "min_age_month": 12,
-  "tags": [
-    "午餐",
-    "水果",
-    "蔬菜",
-    "蛋白质",
-    "谷物"
-  ],
+  "tags": [],
   "difficulty": 1,
-  "time_cost": 20,
+  "time_cost": 0,
   "cover_image": "images/8c6cb83e86647992417f8252964f1a13.webp",
   "nutrition_tip": "这种亚洲风味的卷饼既咸又甜，是一顿令人满意的午餐……",
-  "ingredients": [
-    {
-      "name": "鸡肉（煮熟，切丁）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "芹菜（切碎）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "橘子（罐装，沥干）",
-      "amount": "2 杯"
-    },
-    {
-      "name": "洋葱（切碎[绿色、红色或黄色]）",
-      "amount": "1 杯"
-    },
-    {
-      "name": "蛋黄酱",
-      "amount": "2 汤匙"
-    },
-    {
-      "name": "酱油",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "大蒜粉（或 2 瓣大蒜）",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "胡椒",
-      "amount": "1 茶匙"
-    },
-    {
-      "name": "玉米饼（全麦）",
-      "amount": "1 个大"
-    },
-    {
-      "name": "生菜叶（洗净并拍干）",
-      "amount": "4 个中等"
-    }
-  ],
+  "ingredients": [],
   "steps": [
     {
       "step_index": 1,
@@ -94,13 +47,13 @@
   ],
   "warnings": [],
   "publish_date": "2020-05-29",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-02-03T06:25:18Z",
   "source_url": "https://www.nutrition.gov/recipes/sunshine-roll-ups",
   "origin_url": "https://foodhero.org/recipes/sunshine-roll-ups",
   "source_name": "Nutrition.gov (USDA)",
   "_translation": {
     "dest": "zh-CN",
-    "source_hash": "226e81d3e4372afaed9e02e5696d7c2d",
+    "source_hash": "bfe1a3afc3b1e906623386bc8a096685",
     "translated": true
   }
 }
