@@ -1,0 +1,96 @@
+{
+  "id": "4ac2c5cefd8ad31b946d35f34700bc3b",
+  "title": "格里的爱尔兰炖牛肉",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Uk And Ireland",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 115,
+  "cover_image": "images/70c136509cc0719d6b270ce6bff00aa5.webp",
+  "nutrition_tip": "这道丰盛的爱尔兰炖菜由牛肉、土豆、胡萝卜、芹菜和洋葱制成……",
+  "ingredients": [
+    {
+      "name": "1 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 磅沙朗牛排，切成 1 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 根中等大小的胡萝卜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 根芹菜排骨，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 杯热水",
+      "amount": ""
+    },
+    {
+      "name": "2.5 汤匙干棕色肉汁混合物",
+      "amount": ""
+    },
+    {
+      "name": "2 块牛肉汤",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "8 个中等大小的土豆，切块",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在汤锅中用中火加热植物油。加入牛肉，煮 6 至 8 分钟，直至各面变成棕色。加入洋葱、胡萝卜和芹菜。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将水、肉汁混合物和肉汤在一个小碗中混合；倒入汤锅中。拌入伍斯特酱、辣椒粉和牛至。盖上盖子，小火煮1小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "拌入土豆。盖上锅盖，小火煮约 30 分钟，直至土豆很容易用叉子刺穿。用盐和胡椒调味。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-04",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/246419/gerrys-easy-irish-stew/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f6de58640d934515b3c59685109f1d1c",
+    "translated": true
+  }
+}

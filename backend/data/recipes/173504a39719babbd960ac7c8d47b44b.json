@@ -1,0 +1,104 @@
+{
+  "id": "173504a39719babbd960ac7c8d47b44b",
+  "title": "五香西葫芦胡萝卜松饼",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/56bb2857201b9196e8ac00b138b3ac02.webp",
+  "nutrition_tip": "这个五香西葫芦胡萝卜松饼食谱，配有温热的香料、葡萄干和核桃……",
+  "ingredients": [
+    {
+      "name": "1 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 杯磨碎的西葫芦",
+      "amount": ""
+    },
+    {
+      "name": "1 杯磨碎的胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 21 个松饼杯上涂上油脂或铺上纸垫。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄油、糖和鸡蛋放入一个大碗中，用电动搅拌机搅拌至呈奶油状；加入西葫芦、胡萝卜和香草精。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面粉、肉豆蔻、肉桂、盐、小苏打和泡打粉混合在一个单独的碗中；搅拌至西葫芦混合物中直至混合。拌入葡萄干和核桃。将面糊分装到准备好的松饼杯中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 17 分钟，直至插入中心的牙签拔出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/263786/spiced-zucchini-carrot-muffins/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c25a7e946c30d8dd537f99b04797662d",
+    "translated": true
+  }
+}

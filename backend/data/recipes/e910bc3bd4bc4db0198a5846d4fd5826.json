@@ -1,0 +1,79 @@
+{
+  "id": "e910bc3bd4bc4db0198a5846d4fd5826",
+  "title": "生菜沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/a07830fabd38d01e284e85d05047a949.webp",
+  "nutrition_tip": "这个 BLT 沙拉配生菜、脆培根、西红柿、脆脆的番茄……",
+  "ingredients": [
+    {
+      "name": "1 磅培根",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "1 颗长叶生菜 - 冲洗、干燥并切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个大西红柿，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 杯调味油煎面包块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将培根放入大煎锅中，用中高火煮，偶尔翻转，直至均匀变成棕色，大约 10 分钟。将培根片放在纸巾上沥干水分；弄碎并放在一边"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在搅拌机或食品加工机中将蛋黄酱、牛奶、大蒜粉和黑胡椒混合在一起；搅拌直至光滑。加盐调味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将生菜、碎培根、西红柿和油煎面包块放入一个大沙拉碗中。拌入调料，立即食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-25",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/14146/blt-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4b94c570b7c8aeb092a52d6dd18ad540",
+    "translated": true
+  }
+}

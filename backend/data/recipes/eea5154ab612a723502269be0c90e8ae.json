@@ -1,0 +1,92 @@
+{
+  "id": "eea5154ab612a723502269be0c90e8ae",
+  "title": "啤酒小子",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/6c8202909f82b6606e5ecfdad1dfd0f4.webp",
+  "nutrition_tip": "小孩子与洋葱和香料一起在啤酒中慢炖，味道极好，然后结束……",
+  "ingredients": [
+    {
+      "name": "4 罐（12 盎司）啤酒",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "10 香肠",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙红辣椒片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将啤酒和洋葱片放入一个大锅中；煮沸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将香肠、胡椒片、大蒜粉、盐和胡椒粉添加到啤酒和洋葱混合物中。将火调至中火，煮 10 至 12 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，将户外烤架预热至中高温，并在烤架上涂上少许油。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将香肠转移到盘子上。把火调小，让洋葱煮到需要的时候。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤架上烹制多味腊肠，偶尔转动以留下焦痕，直到中间不再呈粉红色，持续 5 到 10 分钟。插入中心的即时读数温度计读数应至少为 160 华氏度（70 摄氏度）。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将香肠与洋葱一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2007-09-26",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/149975/beer-brats/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f3759b506295da116a2efa0a7bf8259d",
+    "translated": true
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "a0f7f9790961c4f6f14c67a5801b3346",
+  "title": "爸爸的奶油黄瓜沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 130,
+  "cover_image": "images/fd979f8e7a7cbb57a79796b3069879c4.webp",
+  "nutrition_tip": "这道奶油黄瓜沙拉配有脆黄瓜片、甜洋葱、大蒜和……",
+  "ingredients": [
+    {
+      "name": "2 个大黄瓜，去皮并切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 个甜洋葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙海盐",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯蛋黄酱，或更多品尝",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙醋",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干莳萝草",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将黄瓜、洋葱和盐放入碗中混合。盖上保鲜膜，静置 15 至 30 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将黄瓜混合物放入放在碗或水槽上的漏勺中。沥干水分，偶尔搅拌，直至大部分液体和盐排出，需要 15 至 30 分钟。将沥干的黄瓜混合物转移到一个大碗中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蛋黄酱、醋、糖、莳萝、大蒜粉和胡椒粉放入碗中搅拌均匀。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "倒在黄瓜混合物上，搅拌直至涂上一层。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "用保鲜膜覆盖并冷藏 1 至 2 小时，然后食用。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/238423/dads-creamy-cucumber-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e798c7bd596fec8867819f06cccff8c5",
+    "translated": true
+  }
+}

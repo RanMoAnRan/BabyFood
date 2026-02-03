@@ -1,0 +1,55 @@
+{
+  "id": "0733fa3d8b4dc2794c9eb25b0e891740",
+  "title": "糖饼干釉",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/913a84386c1b88e4afe166f02b892ddb.webp",
+  "nutrition_tip": "这种糖饼干釉料可以着色，以创造出您需要的任何颜色......",
+  "ingredients": [
+    {
+      "name": "1 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 淡玉米糖浆",
+      "amount": ""
+    },
+    {
+      "name": "10 滴食用色素",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "搅拌糖果’糖、水和玉米糖浆一起放入碗中，直至光滑。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "如果需要，加入食用色素。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-10-17",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/11082/sugar-cookie-glaze/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "06747944fc08b2c75bda86c53ae9c6b8",
+    "translated": true
+  }
+}

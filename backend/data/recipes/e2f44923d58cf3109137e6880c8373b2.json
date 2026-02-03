@@ -1,0 +1,90 @@
+{
+  "id": "e2f44923d58cf3109137e6880c8373b2",
+  "title": "酪乳煎饼",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/13dee7c640cc7ae59eb31c80be82ef77.webp",
+  "nutrition_tip": "这个万无一失的酪乳煎饼食谱向您展示如何制作 12 个美味的煎饼......",
+  "ingredients": [
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "3 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "3 杯酪乳",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯黄油，融化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将面粉、糖、泡打粉、小苏打和盐放入一个大碗中。将酪乳、牛奶、鸡蛋和融化的黄油放入另一个碗中搅拌。将两种混合物分开，直到准备好烹饪为止。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中高火加热涂有少许油的煎锅或煎锅。您可以将水轻拂表面，如果水珠上升并发出嘶嘶声，则说明已准备就绪。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将湿混合物倒入干混合物中；用木勺或叉子搅拌直至混合在一起。面糊会有点块状，这正是你想要的。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊倒入或舀到预热的煎锅上，每个煎饼使用大约 1/2 杯面糊。煮至表面出现气泡，煮1至2分钟；用抹刀翻转，煮至另一面变成棕色。对剩余的面糊重复上述步骤。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/24530/buttermilk-pancakes-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "df3e7e4aa4fa8da43989bc006d6e5370",
+    "translated": true
+  }
+}

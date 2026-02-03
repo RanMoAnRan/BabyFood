@@ -1,0 +1,77 @@
+{
+  "id": "7c8ff03bf929b714311f62381b1c487b",
+  "title": "空气炸锅托斯通",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Mexican Inspired",
+    "Caribbean",
+    "South American",
+    "Latin"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/e6e4e32c9c432e74634aa6498b9ad6ed.webp",
+  "nutrition_tip": "这个波多黎各家庭的油炸版本的 tostones 食谱非常简单……",
+  "ingredients": [
+    {
+      "name": "2 颗绿色（未成熟）车前草",
+      "amount": ""
+    },
+    {
+      "name": "橄榄油烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "3 杯水，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将空气炸锅预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将车前草的尖端切掉。在皮上从一端到另一端垂直切割，确保只切穿厚皮，而不切入车前草果肉。将带皮的车前草切成 1 英寸的块。从你做的切口开始剥掉每一块的皮。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将车前草块放入空气炸锅篮中，然后喷洒橄榄油喷雾。空气炸5分钟。同时，准备一碗盐水。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用钳子从空气炸锅中取出车前草片。使用 tostonera（车前草粉碎机）将其粉碎至约 1/2 英寸的厚度。将捣碎的石头浸泡在盐水碗中，同时捣碎其余的。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将石块从盐水中取出，并用纸巾拍干。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将石头分批放回空气炸锅，每次在炸篮中填满一层。在顶部喷洒橄榄油喷雾，并用盐调味；空气炸5分钟。用钳子翻转，并在另一侧喷上橄榄油喷雾。加盐调味。空气炸至金黄色酥脆，再煎 4 至 5 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-01-11",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/270835/air-fryer-tostones/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b6fcbb152fc24f43b577eacc010377b6",
+    "translated": true
+  }
+}

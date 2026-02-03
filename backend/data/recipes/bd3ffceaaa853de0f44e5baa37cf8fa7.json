@@ -1,0 +1,101 @@
+{
+  "id": "bd3ffceaaa853de0f44e5baa37cf8fa7",
+  "title": "梅花扣",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/93083fed02ecc467c064bde4b350f6df.webp",
+  "nutrition_tip": "这个李子扣食谱的特点是由于湿润的......",
+  "ingredients": [
+    {
+      "name": "7 杯去核并切成四等分的李子",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "3 杯过筛的通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙发酵粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1/2 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将李子放入准备好的烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 1 ½ 杯白糖和 ⅔ 杯黄油放入一个大碗中，用电动搅拌机搅拌至光滑细腻；一次打一个鸡蛋，每次添加后打匀。加入3杯过筛的面粉、泡打粉和盐；加入牛奶和香草精搅拌至光滑。将面糊倒在李子上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将剩余的 1 杯糖、1/2 杯黄油、1/4 杯面粉和肉桂放入碗中，直至形成粗面包屑；撒在面糊上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 到 50 分钟，直到插入中心的牙签拔出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/215132/plum-buckle/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6af5ecf0661cbcb34a8fa8f82117d8a6",
+    "translated": true
+  }
+}

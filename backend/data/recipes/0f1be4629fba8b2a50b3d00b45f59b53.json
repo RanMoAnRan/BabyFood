@@ -1,0 +1,118 @@
+{
+  "id": "0f1be4629fba8b2a50b3d00b45f59b53",
+  "title": "印度咖喱鸡",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Indian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/072c6fc4d5560abf6e360f50c1951def.webp",
+  "nutrition_tip": "这种奶油印度咖喱鸡具有无与伦比的口味组合，谢谢......",
+  "ingredients": [
+    {
+      "name": "3 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个小洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙咖喱粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙磨碎的新鲜姜根",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "2 块去皮去骨鸡胸肉 - 切成一口大小的块",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯原味酸奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯椰奶",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个柠檬，榨汁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙辣椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在煎锅中用中火加热橄榄油。将洋葱炒至浅棕色。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加入大蒜、咖喱粉、肉桂、辣椒粉、月桂叶、生姜、糖和盐。继续搅拌2分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入鸡块、番茄酱、酸奶和椰奶。煮沸，调小火，煮 20 至 25 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "取出月桂叶，拌入柠檬汁和辣椒。再煮5分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2002-02-06",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/46822/indian-chicken-curry-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bb8fd9906f594c30254f171ba4682e9b",
+    "translated": true
+  }
+}

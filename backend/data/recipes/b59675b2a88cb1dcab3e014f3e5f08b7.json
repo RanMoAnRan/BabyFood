@@ -1,0 +1,70 @@
+{
+  "id": "b59675b2a88cb1dcab3e014f3e5f08b7",
+  "title": "意大利豌豆",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "Italian Inspired",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/07736eeef5c7151b6cafea56ea65b004.webp",
+  "nutrition_tip": "冷冻豌豆与大蒜和洋葱一起炒，然后慢火煮，味道棒极了……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "16 盎司冷冻青豆",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在煎锅中用中火加热橄榄油。拌入洋葱；煮约5分钟直至变软。拌入大蒜并煮1分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入冷冻豌豆并在高汤中搅拌。用盐和胡椒调味。盖上锅盖，煮约 5 分钟，直至豌豆变软。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2005-09-03",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/90209/italian-peas/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d69ee727c74e15b1b94e577a4d645072",
+    "translated": true
+  }
+}

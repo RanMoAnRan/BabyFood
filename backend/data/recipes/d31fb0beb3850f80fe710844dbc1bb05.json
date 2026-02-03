@@ -1,0 +1,90 @@
+{
+  "id": "d31fb0beb3850f80fe710844dbc1bb05",
+  "title": "烤大蒜香草虾",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 135,
+  "cover_image": "images/e3743179e6cc38f7ad8698d03a4da515.webp",
+  "nutrition_tip": "美味的烤虾，用新鲜的柠檬、大蒜、辣椒粉和香草调味......",
+  "ingredients": [
+    {
+      "name": "2 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙新鲜蒜末",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙意大利调味料，或品尝",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙干罗勒叶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙红糖，包装",
+      "amount": ""
+    },
+    {
+      "name": "2 磅大虾（每磅 21-25 只），去皮、去肠",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将辣椒粉、大蒜、意大利调味料、柠檬汁、橄榄油、胡椒、罗勒和红糖放入碗中搅拌直至完全混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "拌入虾并搅拌均匀，均匀地涂上腌料。盖上盖子冷藏至少2小时，翻转一次。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将户外烤架预热至中高温。在烤架上涂上少许油，并将其放置在距离热源约 4 英寸的地方。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将虾从腌料中取出，沥干多余的，并丢弃腌料。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将虾放在预热的烤架上煮，翻转一次，直到中心不透明，持续 5 到 6 分钟。立即上菜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/143394/grilled-garlic-and-herb-shrimp/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b30c3c64561920b5d11df423d5923c7f",
+    "translated": true
+  }
+}

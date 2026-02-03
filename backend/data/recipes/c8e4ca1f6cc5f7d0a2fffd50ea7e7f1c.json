@@ -1,0 +1,97 @@
+{
+  "id": "c8e4ca1f6cc5f7d0a2fffd50ea7e7f1c",
+  "title": "简易煎锅烤宽面条",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/3070ec6f0c10fc35f66c2ac1107b8abd.webp",
+  "nutrition_tip": "这个简单的煎锅烤宽面条食谱是在炉子上用碎牛肉、番茄……制作的。",
+  "ingredients": [
+    {
+      "name": "0.5 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5（28 盎司）罐意大利面酱",
+      "amount": ""
+    },
+    {
+      "name": "1罐（14.5盎司）番茄丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "2 杯马法达干面条",
+      "amount": ""
+    },
+    {
+      "name": "1 杯马苏里拉奶酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。排干并丢弃油脂。加入意大利面酱、西红柿、洋葱、大蒜、罗勒、牛至、盐和胡椒。小火煮约15分钟，直至酱汁变热。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，在一个大锅中倒入淡盐水，煮沸。将马法尔达面条煮沸约 8 分钟，直到咬起来又软又硬。流走。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将煮熟并沥干的面条加入酱汁中，搅拌直至完全覆盖。在上面撒上马苏里拉奶酪。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤箱架放置在距热源约 6 英寸的位置，并预热烤箱的烤鸡。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将煎锅放在热烤炉下，煮 3 到 5 分钟，直至奶酪呈金黄色并起泡。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-05-23",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/273775/skillet-lasagna/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "74c5321414b600b9ea44c46801af284f",
+    "translated": true
+  }
+}

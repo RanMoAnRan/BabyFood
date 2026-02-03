@@ -1,0 +1,73 @@
+{
+  "id": "20ee6f88fdf6808662cac3ab12c8ceae",
+  "title": "香肠和奶油芝士酿辣椒",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/155d43c46b48ab5a5c8069dd312f1115.webp",
+  "nutrition_tip": "这个简单的辣椒塞满香肠和奶油奶酪食谱，用猪肉制成......",
+  "ingredients": [
+    {
+      "name": "4 个大古巴辣椒，去茎，去籽",
+      "amount": ""
+    },
+    {
+      "name": "1 磅淡味意大利猪肉香肠",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯意大利面酱，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙磨碎的帕尔马干酪，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。在烤盘上铺上铝箔。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将一大锅水煮沸：加入辣椒。关火，浸泡辣椒直至变软，大约 5 分钟。凉爽的。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，将香肠和奶油干酪放入碗中混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用香肠混合物填充辣椒：放在准备好的烤盘上。将意大利面酱舀到上面：撒上帕尔马干酪。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 35 分钟，直至香肠混合物开始变成金黄色。插入中心的即时读数温度计读数应至少为 160 华氏度（71 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-01-11",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/282472/peppers-stuffed-with-sausage-and-cream-cheese/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "80ddb098b2df57dc11ca1a74e2bc42c0",
+    "translated": true
+  }
+}

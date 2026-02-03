@@ -1,0 +1,81 @@
+{
+  "id": "5147cc549f856dfe82353f42ee4a84fb",
+  "title": "简易肉丸",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Italian Inspired",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/24d6560c2a2ad9003be3f63ec53abdc9.webp",
+  "nutrition_tip": "这个快速肉丸食谱使用简单的原料，如鸡蛋、面包屑、大蒜……",
+  "ingredients": [
+    {
+      "name": "2 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙 意大利调味料",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙切碎的新鲜罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "2 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯 panko 面包屑",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中搅拌鸡蛋、意大利调味料、罗勒、盐、胡椒和大蒜粉，直至混合。加入碎牛肉和panko；充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将牛肉混合物塑造成约 40 个高尔夫球大小的肉丸（约 1 ½ 英寸）。放在未抹油、有边的烤盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 10 到 15 分钟，直至中心不再呈粉红色，中途翻转。插入中心的即时读数温度计读数应至少为 160 华氏度（70 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-08",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/278313/easy-meatballs/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8d0b3a0d0cb5af3666e4ff8eda25c024",
+    "translated": true
+  }
+}

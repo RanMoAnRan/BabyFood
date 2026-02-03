@@ -1,0 +1,80 @@
+{
+  "id": "9e4f0ec17e61faa5f8c734b5b19d33c0",
+  "title": "龙虾纽堡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/a5121f2dfdbe8e10bcfe6110b9d48472.webp",
+  "nutrition_tip": "龙虾纽堡是用龙虾肉块和浓郁的奶油雪利酒制成的……",
+  "ingredients": [
+    {
+      "name": "0.5 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "2 个大蛋黄，打散",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油或人造黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙干雪利酒或马德拉酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.75 磅煮熟的龙虾肉，切成块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将奶油和蛋黄放入小碗中搅拌直至充分混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在平底锅中用小火融化黄油。加入奶油混合物和雪利酒搅拌；煮5到8分钟，不断搅拌，直到混合物变稠；不要煮沸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "从火上移开，用盐、辣椒和肉豆蔻调味。拌入龙虾。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "返回炉子，用小火轻轻煮至热透，大约需要 5 分钟。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/57042/lobster-newburg/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a3b0b1a0888418e45172d2223c64f54a",
+    "translated": true
+  }
+}

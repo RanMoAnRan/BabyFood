@@ -1,0 +1,99 @@
+{
+  "id": "6a9d75af3faf0cbc73c70175f61e5c6b",
+  "title": "泥泞的心",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/0c069fa977ebfd9b2eed6bb084d67c9d.webp",
+  "nutrition_tip": "泥泞的心是这些节日巧克力花生酱的完美标题......",
+  "ingredients": [
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯松脆花生酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 包（12 盎司）牛奶巧克力片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在烤盘上铺上羊皮纸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡蛋、花生酱和糖放入碗中。面团要稍干；如果看起来太湿，则添加少量糖。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团放在两张蜡纸之间，然后擀成 1/2 英寸厚。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用心形饼干切刀切面团。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将心形放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 7 到 10 分钟，直至边缘呈金黄色。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "在烤盘上完全冷却。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "将巧克力片每隔 30 秒在微波炉中融化一次，直至完全融化，期间搅拌。"
+    },
+    {
+      "step_index": 10,
+      "img": "",
+      "text": "将每个饼干的底部和侧面浸入融化的巧克力中。"
+    },
+    {
+      "step_index": 11,
+      "img": "",
+      "text": "将饼干放在蜡纸上晾干。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/220023/muddy-hearts/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ad6645ff945661c9e41c1d7f784558a4",
+    "translated": true
+  }
+}

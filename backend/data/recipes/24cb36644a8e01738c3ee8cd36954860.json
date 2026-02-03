@@ -1,0 +1,84 @@
+{
+  "id": "24cb36644a8e01738c3ee8cd36954860",
+  "title": "热加勒戈（加勒西亚肉汤）",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "U.S.",
+    "Spanish"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/09bfe5ed7c57932f546df1a6a316b49b.webp",
+  "nutrition_tip": "Caldo gallego，一种传统的西班牙汤，里面充满了萝卜、萝卜青菜、白萝卜……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "8 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个西班牙香肠链接，切片",
+      "amount": ""
+    },
+    {
+      "name": "2 片厚片熏火腿，切丁，或更多片以调味",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等大小的土豆，去皮并切块",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的萝卜，去皮并切丁",
+      "amount": ""
+    },
+    {
+      "name": "8 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）白卷豆",
+      "amount": ""
+    },
+    {
+      "name": "3 杯切碎的萝卜青菜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在汤锅中用中火加热油。加入洋葱，炒至半透明，持续 5 至 10 分钟。加入大蒜；煮并搅拌1至2分钟直至散发出香味。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "拌入香肠和火腿；煮并搅拌 3 至 4 分钟，直至呈浅棕色。加入土豆和萝卜，然后倒入高汤煮沸。将火调至中低，盖上锅盖，小火煮约 20 分钟，直至土豆和萝卜变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将火调至中火，加入豆类和蔬菜搅拌；煮至少 3 分钟，直至蔬菜变软。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-02-09",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/240111/caldo-gallego/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "31e500dda808e6e09560eb4da80019c4",
+    "translated": true
+  }
+}

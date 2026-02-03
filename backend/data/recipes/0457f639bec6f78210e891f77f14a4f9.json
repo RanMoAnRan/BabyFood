@@ -1,0 +1,93 @@
+{
+  "id": "0457f639bec6f78210e891f77f14a4f9",
+  "title": "墨西哥胡椒波普尔酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/918f0a1d1a540fc6066fe61f0c96a93c.webp",
+  "nutrition_tip": "这款奶油墨西哥辣椒爆米花蘸酱配有脆培根片、辛辣墨西哥辣椒、切达干酪……",
+  "ingredients": [
+    {
+      "name": "7 片培根，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯马苏里拉奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯葱花",
+      "amount": ""
+    },
+    {
+      "name": "5 个墨西哥辣椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎黄油圆形饼干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯磨碎的帕尔马干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油，融化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作蘸酱：在大煎锅中用中高火煮培根并搅拌直至变脆，大约需要 10 分钟。用有槽的勺子转移到衬有纸巾的盘子上，并排干水分。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将奶油奶酪、蛋黄酱、切达干酪、马苏里拉奶酪、葱、墨西哥辣椒和培根一起放入碗中搅拌；放入9寸圆形烤盘中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "制作配料：将饼干、帕尔马干酪和融化的黄油在碗中混合。涂在奶油干酪混合物上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 至 30 分钟，直至起泡。用葱装饰，趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/233350/jalapeno-popper-dip/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "06d7dd25ae3a59886c11590cffcbc7f3",
+    "translated": true
+  }
+}

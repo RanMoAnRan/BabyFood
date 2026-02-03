@@ -1,0 +1,79 @@
+{
+  "id": "322d09ccca55cd42921d060ec765961f",
+  "title": "维基的安静小狗",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Appetizer",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/78887ee9096ea436631382db1aee5844.webp",
+  "nutrition_tip": "这个自制的安静小狗食谱将玉米粉和面粉与鸡蛋和骰子结合在一起......",
+  "ingredients": [
+    {
+      "name": "1 夸脱煎炸用油，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 杯自发面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯自发玉米面",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在深平底锅中用中火将 2 英寸油加热至 365 华氏度（185 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "当油加热时，将洋葱、糖和鸡蛋放入一个中等大小的碗中混合。加入面粉和玉米粉搅拌成面糊。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊倒入热油中，每次 4 茶匙，煎至金黄色，每面煎 1 至 2 分钟。转移到衬有纸巾的盘子上沥干。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/25241/vickis-hush-puppies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0141a429e97a7233224b103484e43c21",
+    "translated": true
+  }
+}

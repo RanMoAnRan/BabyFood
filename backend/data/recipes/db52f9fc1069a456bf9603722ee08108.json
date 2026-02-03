@@ -1,0 +1,76 @@
+{
+  "id": "db52f9fc1069a456bf9603722ee08108",
+  "title": "最好的牛排腌料",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/d9974930ef30ef7ed411b64c106e6195.webp",
+  "nutrition_tip": "这种简单的牛排腌料是橄榄油、酱油、香脂、芥末……的混合物。",
+  "ingredients": [
+    {
+      "name": "0.25 杯橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯香醋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酱油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐和胡椒粉调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个小碗中混合橄榄油、香醋、伍斯特酱、酱油、第戎芥末和大蒜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "使用时，根据需要在烹饪前腌制牛排。腌制的时间越长，味道就越浓。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-09-23",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/176770/the-best-steak-marinade/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "31ec03283d10122866f032c381f9e759",
+    "translated": true
+  }
+}

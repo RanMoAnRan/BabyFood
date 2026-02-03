@@ -1,0 +1,63 @@
+{
+  "id": "9db0d87b1493a9a6d60f9d2826d51376",
+  "title": "巧克力火锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "French",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/71058499221d351d99c33fc825398181.webp",
+  "nutrition_tip": "这种浓郁的巧克力火锅配方很容易用融化的巧克力、奶油……制作。",
+  "ingredients": [
+    {
+      "name": "32 盎司牛奶巧克力，磨碎",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.33333331346512 杯热水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙速溶咖啡粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙白糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将巧克力和浓奶油放入不粘锅中，中火加热。搅拌直至巧克力融化且混合物光滑。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "加入热水、咖啡粉、香草精和糖。继续加热，经常搅拌，直到火锅变得光滑。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-15",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/21307/chocolate-bar-fondue/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "45f7f15e94370f1a714547fac4351ebf",
+    "translated": true
+  }
+}

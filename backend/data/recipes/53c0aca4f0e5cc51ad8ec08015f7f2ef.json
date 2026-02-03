@@ -1,0 +1,59 @@
+{
+  "id": "53c0aca4f0e5cc51ad8ec08015f7f2ef",
+  "title": "披萨风车",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 32,
+  "cover_image": "images/a212ba8d6d800c0206b3267acb4047bc.webp",
+  "nutrition_tip": "你会想把尽可能多的这些小披萨轮零食塞进你的嘴里……",
+  "ingredients": [
+    {
+      "name": "1罐（8盎司）冷藏月牙卷面团",
+      "amount": ""
+    },
+    {
+      "name": "2 杯马苏里拉奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "24 片意大利辣香肠",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14 盎司）披萨酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一张大烤盘上，将 8 个月牙卷面团三角形捏成 4 个矩形。在每个矩形上铺上 6 片意大利辣香肠和适量的马苏里拉奶酪。纵向紧紧卷起，然后将其切成 4 块或更多块。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "放入预热好的烤箱中烘烤约12分钟至金黄色。与披萨酱一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/23702/pizza-pinwheels/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9ebb73800e8f872b57720fe3542d58f7",
+    "translated": true
+  }
+}

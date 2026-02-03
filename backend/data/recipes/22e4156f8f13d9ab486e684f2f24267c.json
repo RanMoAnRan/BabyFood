@@ -1,0 +1,94 @@
+{
+  "id": "22e4156f8f13d9ab486e684f2f24267c",
+  "title": "法国 加拿大人 图尔蒂埃",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "French Canadian",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/b6e104c0063acddf3a8271f36a3111e1.webp",
+  "nutrition_tip": "法式加拿大tourtière 是一种双层肉馅饼，配以美味的猪肉、牛肉、...",
+  "ingredients": [
+    {
+      "name": "1 磅瘦猪肉末",
+      "amount": ""
+    },
+    {
+      "name": "0.5 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干百里香，压碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙鼠尾草粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（14.1 盎司）双皮馅饼，解冻",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将猪肉、牛肉、洋葱、大蒜、水、盐、百里香、鼠尾草、黑胡椒和丁香放入平底锅中混合。用中火煮，偶尔搅拌，直至混合物沸腾。将火调至小火，煮约 5 分钟直至肉熟。让其冷却至室温。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用勺子将肉混合物倒入馅饼皮中。盖上顶部外壳并捏紧边缘以密封。在顶部外壳上切开缝隙，以便蒸汽逸出。用铝箔条盖住馅饼的边缘。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入预热好的烤箱烤20分钟；取出箔纸并返回烤箱。烘烤 15 至 20 分钟，直至呈金黄色。切片前冷却 10 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-06",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/20752/french-canadian-tourtiere/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b6596a4ed978a8d2e5306ca690d972dc",
+    "translated": true
+  }
+}

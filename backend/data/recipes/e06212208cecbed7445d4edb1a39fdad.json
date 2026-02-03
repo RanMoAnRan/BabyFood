@@ -1,0 +1,113 @@
+{
+  "id": "e06212208cecbed7445d4edb1a39fdad",
+  "title": "奶奶的柠檬酥皮派",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/a8e75816d284365a7a3e5a18fbf959cc.webp",
+  "nutrition_tip": "这个柠檬酥皮派有一个美味的酸自制柠檬馅料，在…",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙玉米淀粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 个柠檬，榨汁并擦皮",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "4 个蛋黄，打散",
+      "amount": ""
+    },
+    {
+      "name": "1 个（9 英寸）馅饼皮，烘烤",
+      "amount": ""
+    },
+    {
+      "name": "4 个蛋白",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙白糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料并将烤箱预热至 325 华氏度（165 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "制作柠檬馅料：在中型平底锅中将 1 杯糖、面粉、玉米淀粉和盐一起搅拌；加入水、柠檬汁和柠檬皮碎搅拌。用中高火煮，经常搅拌，直到混合物沸腾。拌入黄油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将蛋黄放入小碗中，逐渐加入 1/2 杯热糖混合物搅拌。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将蛋黄混合物搅拌回剩余的糖混合物中。煮沸并继续煮，同时不断搅拌直至浓稠。远离热源；将馅料倒入准备好的烤馅饼皮中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "制作蛋白酥皮配料：在玻璃碗、金属碗或陶瓷碗中用电动搅拌机将蛋白搅打至起泡。逐渐加入糖，继续搅拌直至形成硬峰。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "快速工作，将蛋白酥皮铺在馅饼馅料上，密封饼皮的边缘。如果您愿意，可以用勺子背面在蛋白酥皮顶部形成峰状。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将馅饼放入预热的烤箱中烘烤，直至蛋白酥皮呈金黄色，大约需要 20 至 25 分钟。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-05-05",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/15093/grandmas-lemon-meringue-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e0819a7720e3f38f1e2cee2f7dc3c300",
+    "translated": true
+  }
+}

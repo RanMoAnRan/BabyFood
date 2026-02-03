@@ -1,0 +1,96 @@
+{
+  "id": "1f84e1f1e63bd195f34d10679b911263",
+  "title": "芦笋乳蛋饼",
+  "min_age_month": 12,
+  "tags": [
+    "Brunch",
+    "Lunch",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/5efc2eb3147ef64949015de4f49a8a75.webp",
+  "nutrition_tip": "这个芦笋乳蛋饼里有新鲜的春芦笋、脆皮培根和S…",
+  "ingredients": [
+    {
+      "name": "1 磅新鲜芦笋，修剪并切成 1/2 英寸的块",
+      "amount": ""
+    },
+    {
+      "name": "10 片培根",
+      "amount": ""
+    },
+    {
+      "name": "2 个（8 英寸）未烘烤的馅饼壳",
+      "amount": ""
+    },
+    {
+      "name": "1 个蛋清，轻轻搅打",
+      "amount": ""
+    },
+    {
+      "name": "2 杯瑞士奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "4 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯半奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将芦笋放入蒸锅中，水深超过 1 英寸。盖上锅盖，煮 2 至 6 分钟，直至变软但仍坚硬。沥干并冷却。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将培根放入大煎锅中，用中高火煮，偶尔翻转，直至均匀变成棕色，大约 10 分钟。将培根片放在纸巾上沥干。弄碎并放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在馅饼壳上刷上打好的蛋白。将碎培根和蒸芦笋撒入馅饼壳中；将瑞士奶酪撒在培根和芦笋上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡蛋、对半、肉豆蔻、盐和胡椒粉放入碗中，搅拌均匀。将鸡蛋混合物倒在奶酪上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤乳蛋饼，直至馅料凝固，大约需要 35 到 40 分钟。食用前冷却至室温。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-06-09",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/20498/asparagus-quiche/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "50e8c466157678eca46671758dfdfbba",
+    "translated": true
+  }
+}

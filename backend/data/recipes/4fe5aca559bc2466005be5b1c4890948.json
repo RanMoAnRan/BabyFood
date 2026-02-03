@@ -1,0 +1,57 @@
+{
+  "id": "4fe5aca559bc2466005be5b1c4890948",
+  "title": "雅格炸弹",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/f3bc862fb3436ec7d72456389808726d.webp",
+  "nutrition_tip": "臭名昭著的野格炸弹——甘草味野格的流行组合……",
+  "ingredients": [
+    {
+      "name": "0.5 罐（8.3 盎司）柑橘味能量饮料（例如 Red Bull™）",
+      "amount": ""
+    },
+    {
+      "name": "1（1.5 液量盎司）jigger Jagermeister 利口酒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将能量饮料倒入一品脱玻璃杯中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将野格倒入小玻璃杯中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "祝酒并将酒倒入品脱玻璃杯中。下舱口！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-03-21",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/71546/jager-bomb/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "bf441bd3f0a5425b688e4c81287dacd6",
+    "translated": true
+  }
+}

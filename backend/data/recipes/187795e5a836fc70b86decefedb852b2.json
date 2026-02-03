@@ -1,0 +1,85 @@
+{
+  "id": "187795e5a836fc70b86decefedb852b2",
+  "title": "西瓜沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Salad",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/a808bd2b71cda0569d32ccb9ff45e36e.webp",
+  "nutrition_tip": "这道西瓜沙拉是用香甜多汁的西瓜、腌红洋葱、c…",
+  "ingredients": [
+    {
+      "name": "1 杯红洋葱片，纵向切开",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙酸橙汁",
+      "amount": ""
+    },
+    {
+      "name": "15 杯西瓜块",
+      "amount": ""
+    },
+    {
+      "name": "3 杯英国黄瓜块",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）羊奶酪，碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的新鲜香菜",
+      "amount": ""
+    },
+    {
+      "name": "碎黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "海盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将红洋葱片放入小碗中；倒在酸橙汁上。在准备沙拉时让洋葱腌制。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将西瓜、黄瓜、羊奶酪和香菜放入一个大碗中轻轻混合；用黑胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将西瓜沙拉与腌洋葱拌匀，并在食用前用海盐调味。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/111853/refreshing-watermelon-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9f8cb9800ed489cf0e872f5728e98ee4",
+    "translated": true
+  }
+}

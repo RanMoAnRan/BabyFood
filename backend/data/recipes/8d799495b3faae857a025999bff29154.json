@@ -1,0 +1,99 @@
+{
+  "id": "8d799495b3faae857a025999bff29154",
+  "title": "苹果酱蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 55,
+  "cover_image": "images/54a1cd41b0612611a8bdb4432f5544a0.webp",
+  "nutrition_tip": "这款苹果酱蛋糕配有多汁的葡萄干和核桃，并用肉桂和……调味。",
+  "ingredients": [
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冷冻苹果酱",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯葡萄干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 8 英寸蛋糕盘上涂上油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和黄油放入一个大碗中，用电动搅拌机搅拌直至呈奶油状。添加苹果酱；打得好。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入面粉、小苏打、肉桂和丁香，直至混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "拌入核桃和葡萄干。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将蛋糕糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 40 分钟，直到插入中心的牙签拔出来时是干净的。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热食用。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/7380/applesauce-cake-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c6ce9703bccb5ced6bb752f20ad30ea4",
+    "translated": true
+  }
+}

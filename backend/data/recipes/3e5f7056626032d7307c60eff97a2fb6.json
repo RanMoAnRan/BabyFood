@@ -1,0 +1,99 @@
+{
+  "id": "3e5f7056626032d7307c60eff97a2fb6",
+  "title": "面包机百吉饼",
+  "min_age_month": 12,
+  "tags": [
+    "Bread",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 165,
+  "cover_image": "images/dc8ccd590089d97edf240572d96a6972.webp",
+  "nutrition_tip": "这个简单的面包机百吉饼配方让你在家就能做出柔软耐嚼的百吉饼，妈妈……",
+  "ingredients": [
+    {
+      "name": "3 杯面包粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯温水（110 华氏度/45 摄氏度）",
+      "amount": ""
+    },
+    {
+      "name": "5 汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "2.25 茶匙活性干酵母",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "烧水",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙玉米粉",
+      "amount": ""
+    },
+    {
+      "name": "1 个大蛋白，打散",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙罂粟籽",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "按所列顺序将面粉、水、2 汤匙糖、酵母和盐放入面包机中，如果不同，则按照制造商建议的顺序进行。运行“面团”循环。循环完成后（约 90 分钟），将面团从机器中取出。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团翻到撒有少许面粉的表面上：静置 10 到 15 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团切成九等份。将每一块卷成一个小球，然后压扁成一个圆圈。用拇指在每个圆圈的中间戳一个洞。放回撒有面粉的表面上。用布盖住面团，静置 10 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "同时，在一个大锅中将 3 夸脱的水煮沸。将玉米粉撒在未抹油的烤盘上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将 3 汤匙糖放入沸水中搅拌。一次将两个百吉饼放入沸水中，分批工作，中途翻转，大约 1 分钟。用干净的毛巾短暂沥干。放在准备好的烤盘上。刷上蛋清：撒上罂粟籽。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤20至25分钟直至金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-09",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/7178/bread-machine-bagels/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3ac56ae1fbbf5f81f9fc424dda0b582d",
+    "translated": true
+  }
+}

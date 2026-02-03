@@ -1,0 +1,79 @@
+{
+  "id": "032561692d96b3df9661345c6f209beb",
+  "title": "自制凉拌卷心菜",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "Southern"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/feee62b560c4d7c69a9c18916945c158.webp",
+  "nutrition_tip": "这种无糖凉拌卷心菜是经典的，浸泡在醋和蛋黄酱酱中......",
+  "ingredients": [
+    {
+      "name": "1 汤匙蒸馏白醋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙准备好的第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "3 杯卷心菜丝",
+      "amount": ""
+    },
+    {
+      "name": "3 杯红卷心菜丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯磨碎的胡萝卜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯青椒丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的雷尔甜椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯芹菜丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个小碗中混合醋、蛋黄酱和芥末。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中混合卷心菜、胡萝卜、青椒和芹菜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将调料倒在蔬菜上，搅拌均匀以覆盖蔬菜。冷却后放在生菜叶上食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-21",
+  "updated_at": "2026-01-25T19:15:40Z",
+  "source_url": "https://www.allrecipes.com/recipe/20886/homemade-coleslaw/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "272df9de7988c99350815b05605aba0e",
+    "translated": true
+  }
+}

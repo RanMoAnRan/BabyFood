@@ -1,0 +1,90 @@
+{
+  "id": "08efee6d749e33d6699dd9af96601d49",
+  "title": "牙买加朗姆宾治",
+  "min_age_month": 12,
+  "tags": [
+    "Cocktail",
+    "Beverage",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/689635665b31f20b47956b5a1fa80122.webp",
+  "nutrition_tip": "一种热带朗姆宾治酒，由三种朗姆酒、菠萝汁、酸橙汁制成……",
+  "ingredients": [
+    {
+      "name": "2.5 杯菠萝汁",
+      "amount": ""
+    },
+    {
+      "name": "2.5 杯橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯 151 度朗姆酒（例如 Bacardi®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黑朗姆酒（例如 Meyer's®）",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯椰子味朗姆酒（例如 Malibu®）",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯新鲜酸橙汁",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙 石榴糖浆",
+      "amount": ""
+    },
+    {
+      "name": "1 个橙子，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个酸橙，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 个柠檬，切片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将菠萝汁、橙汁、151 度朗姆酒、黑朗姆酒、椰子味朗姆酒、酸橙汁和石榴糖浆放入潘趣酒碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将橙子片、酸橙片和柠檬片放入潘趣酒中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将潘趣酒舀入装满冰块的玻璃杯中，或将潘趣酒放入冰箱冷藏直至可以享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-07-13",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/236879/jamaican-rum-punch/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2c3473069ab951df4c46c304b61c5507",
+    "translated": true
+  }
+}

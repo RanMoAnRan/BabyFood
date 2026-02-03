@@ -1,0 +1,76 @@
+{
+  "id": "0b6da67d9c05c65fc89a894463b33434",
+  "title": "奶酪培根土豆圆",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "U.S.",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/0b3ba62e76cc2ade392c804aaaf3ccbd.webp",
+  "nutrition_tip": "将切片土豆与奶酪、培根和大葱一起放入烤箱中烘烤，制成土豆片……",
+  "ingredients": [
+    {
+      "name": "4 个中等烘烤土豆，切成 1/2 英寸的片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯融化的黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "8 片培根 - 煮熟并捣碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的葱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在烤盘上铺上羊皮纸。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "土豆片两面刷上黄油；将它们放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 30 至 40 分钟，直至用刀刺穿时呈浅棕色且变软，中途翻转切片。撒上切达干酪、碎培根和葱。继续烘烤 3 到 5 分钟，直至奶酪融化。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-28",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/18344/cheese-and-bacon-potato-rounds/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0fe0389614fab609d4a5220c3ce86888",
+    "translated": true
+  }
+}

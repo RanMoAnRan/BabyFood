@@ -1,0 +1,83 @@
+{
+  "id": "23756bc3b939f19d4ce94025f7448564",
+  "title": "枫鲑鱼",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/3a9a1c80b9fe5cc92d99265bd4d8a784.webp",
+  "nutrition_tip": "这些枫釉鲑鱼片是用美味的酱汁腌制和烘烤的……",
+  "ingredients": [
+    {
+      "name": "0.25 杯枫糖浆",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙蒜盐",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 磅三文鱼",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将枫糖浆、酱油、大蒜、蒜盐和胡椒粉放入小碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将三文鱼切成4块大小相等的鱼片；放入浅玻璃烤盘中，涂上枫糖浆混合物。盖上盘子，将三文鱼放入冰箱腌制 30 分钟，中途翻转一次。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将烤盘放入预热的烤箱中，不盖盖子烘烤三文鱼，直至肉质很容易用叉子剥落，大约需要 20 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2002-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/51283/maple-salmon/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7cb7567e5f3a77c7200dfb3f2db25de7",
+    "translated": true
+  }
+}

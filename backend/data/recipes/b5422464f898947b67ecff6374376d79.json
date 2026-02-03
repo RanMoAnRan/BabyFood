@@ -1,0 +1,93 @@
+{
+  "id": "b5422464f898947b67ecff6374376d79",
+  "title": "西兰花、米饭、奶酪和鸡肉砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/8ac91a5c2c3085d48270138c8bca8edd.webp",
+  "nutrition_tip": "这个鸡肉西兰花米饭砂锅配奶油汤和奶酪很容易准备……",
+  "ingredients": [
+    {
+      "name": "2 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 杯生方便米饭",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10 盎司）鸡肉块，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）冷冻切碎西兰花",
+      "amount": ""
+    },
+    {
+      "name": "1 磅加工奶酪食品，切成方块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.75 盎司）浓缩奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（10.75 盎司）浓缩奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯黄油，立方体",
+      "amount": ""
+    },
+    {
+      "name": "1 个小白洋葱，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在中型平底锅中将水煮沸；拌入速溶米饭，盖上盖子，离火。静置 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将准备好的米饭、鸡肉、西兰花、加工奶酪、浓缩蘑菇汤、浓缩鸡汤、牛奶、黄油和洋葱放入 9x13 英寸的烤盘中混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 30 至 35 分钟，直至奶酪融化。烹饪中途搅拌，以帮助奶酪均匀融化。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-04-23",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/25490/broccoli-rice-cheese-and-chicken-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4a751c49e21bec20606679ac1880e49d",
+    "translated": true
+  }
+}

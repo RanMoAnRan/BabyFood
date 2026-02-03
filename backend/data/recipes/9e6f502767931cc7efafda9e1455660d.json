@@ -1,0 +1,59 @@
+{
+  "id": "9e6f502767931cc7efafda9e1455660d",
+  "title": "奶油黄瓜片",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/e480c2c02f59b095b417774d830b254f.webp",
+  "nutrition_tip": "这种奶油黄瓜沙拉有丰富的调料，由蛋黄酱和牛奶制成，切片......",
+  "ingredients": [
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙白醋",
+      "amount": ""
+    },
+    {
+      "name": "1 根大黄瓜，切片",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将蛋黄酱、牛奶、糖和醋在碗中混合直至光滑。加入黄瓜，搅拌均匀。用盐和胡椒调味。食用前放入冰箱冷藏 30 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/79311/creamed-cucumber-slices/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e715eafe69caddbc5b3fc98e98cdbdb2",
+    "translated": true
+  }
+}

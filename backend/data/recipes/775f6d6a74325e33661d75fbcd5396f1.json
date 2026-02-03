@@ -1,0 +1,65 @@
+{
+  "id": "775f6d6a74325e33661d75fbcd5396f1",
+  "title": "水壶玉米",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/6123a3683be0e1e8bd47bb7584557ce1.webp",
+  "nutrition_tip": "这个水壶玉米食谱是在炉子上制作的，只有三种成分......",
+  "ingredients": [
+    {
+      "name": "0.25 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯未爆开的爆米花粒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集这些原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大锅中用中火加热植物油。拌入爆米花仁和糖。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上锅盖并不断摇动锅，以防止糖烧焦。当爆裂速度减慢至每 2 至 3 秒一次时，将锅从火上移开并摇动几分钟，直至爆裂停止。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将爆米花倒入一个大碗中并冷却，偶尔搅拌以打碎大块。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-26",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/20808/kettle-corn/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e432a211bd59beba51a0b65c346e19b9",
+    "translated": true
+  }
+}

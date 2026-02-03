@@ -1,0 +1,70 @@
+{
+  "id": "faa3f9341333ed6972203687ae2ed887",
+  "title": "终极冷冻草莓玛格丽塔",
+  "min_age_month": 12,
+  "tags": [
+    "Cocktail",
+    "Beverage",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/04725eed02a6f7b37aaa6c50247aa0f1.webp",
+  "nutrition_tip": "草莓玛格丽塔是炎热夏日的清爽鸡尾酒。准备好在米…",
+  "ingredients": [
+    {
+      "name": "2 杯冰块，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "6 液量盎司龙舌兰酒",
+      "amount": ""
+    },
+    {
+      "name": "2 液量盎司 三秒",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司冷冻切片草莓糖浆",
+      "amount": ""
+    },
+    {
+      "name": "4 液体盎司冷冻浓缩酸橙汁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料并在搅拌机中加入冰块。脉冲直至冰被压碎。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "倒入龙舌兰酒和三秒酒，然后加入草莓和浓缩酸橙汁。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "搅拌直至光滑，大约需要 30 秒。倒入四个玛格丽塔酒杯（带或不带盐边）并立即享用。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-02-19",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/24494/ultimate-frozen-strawberry-margarita/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cda38f6c97cf09f6eabe93a31efb3fb8",
+    "translated": true
+  }
+}

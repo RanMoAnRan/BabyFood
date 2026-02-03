@@ -1,0 +1,91 @@
+{
+  "id": "5012e922ebef0331b6e6a8df949e6439",
+  "title": "蘑菇酱",
+  "min_age_month": 8,
+  "tags": [
+    "Sauce",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/e3466c2d2396a301348b24540addebc6.webp",
+  "nutrition_tip": "美味可口的蘑菇酱，由新鲜蘑菇、青葱、牛肉干制成……",
+  "ingredients": [
+    {
+      "name": "0.25 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 杯新鲜切片蘑菇",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙青葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的蘑菇",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯红酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙干百里香",
+      "amount": ""
+    },
+    {
+      "name": "1 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛肉汤",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙葛根粉",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "现磨黑胡椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在中型平底锅中用中火融化 1/4 杯黄油。加入2杯蘑菇片；炒至软。将蘑菇从锅中取出；放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在锅中加入 1 汤匙黄油。加入葱；煮并搅拌直至半透明。加入 ½ 杯切碎的蘑菇，煮至软。加入红酒、百里香和月桂叶；煮约1分钟，直至酱汁减少一点。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将竹芋溶解在 1/4 杯冷牛肉汤中。将剩余的肉汤搅拌成酱汁；煮沸。加入葛粉混合物，搅拌至浓稠。添加保留的蘑菇。用盐和现磨黑胡椒调味。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-13",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/14631/mushroom-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f36df0e82445e4706361e0fad48d5d12",
+    "translated": true
+  }
+}

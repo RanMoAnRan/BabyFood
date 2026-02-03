@@ -1,0 +1,88 @@
+{
+  "id": "e39bde7a2bf1d71eaede809f8bdf9941",
+  "title": "烤大蒜面包",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Appetizer",
+    "Italian Inspired",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/28ecfb844819f5dd3d325af8f1624e69.webp",
+  "nutrition_tip": "这个大蒜吐司食谱充满了风味，这要归功于大蒜的美味组合……",
+  "ingredients": [
+    {
+      "name": "1 条（1 磅）意大利面包",
+      "amount": ""
+    },
+    {
+      "name": "5 汤匙黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，压碎",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙特级初榨橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 杯 马苏里拉奶酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱架放置在距热源约 6 英寸的位置，并预热烤箱的烤鸡。将面包切成十片 1 英寸的片。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将黄油、大蒜、油、牛至、盐和胡椒粉放入碗中混合；将黄油混合物涂抹在每片面包的一侧；将面包片涂黄油的一面朝上，单层放在烤盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤炉下煮约 3 分钟，直至略呈棕色，经常检查以免烧焦。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在面包片上铺上奶酪，然后返回烤炉，直到奶酪呈浅棕色并融化，大约需要 2 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-05-23",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/21060/toasted-garlic-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "501e76b32e11739a875164de534ec608",
+    "translated": true
+  }
+}

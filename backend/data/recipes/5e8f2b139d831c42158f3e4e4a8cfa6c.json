@@ -1,0 +1,79 @@
+{
+  "id": "5e8f2b139d831c42158f3e4e4a8cfa6c",
+  "title": "无酵母披萨皮",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Entree",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/06d8b272b632cb61ac3f7de7f19c47ec.webp",
+  "nutrition_tip": "这种无酵母披萨面团制作起来又快又容易，无需等待几个小时……",
+  "ingredients": [
+    {
+      "name": "1.3333333730698 杯 通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯脱脂牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、泡打粉和盐放入碗中混合；加入牛奶和橄榄油，搅拌直至形成柔软的面团。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团放在撒有少许面粉的表面上，揉捏 10 次。将面团揉成球状；盖上一个倒置的碗，静置 10 分钟。同时，将烤箱预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面团在烤盘上擀成 12 英寸的圆形。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将饼皮放入预热好的烤箱中烘烤 8 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "添加您最喜欢的配料，烘烤约 10 到 15 分钟，直至外皮呈金黄色。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/244638/no-yeast-pizza-crust/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0a07cd2472ff2122ff3dc84dd3dca206",
+    "translated": true
+  }
+}

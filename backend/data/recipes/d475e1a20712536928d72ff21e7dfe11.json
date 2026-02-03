@@ -1,0 +1,94 @@
+{
+  "id": "d475e1a20712536928d72ff21e7dfe11",
+  "title": "EAGLE BRAND 烤南瓜蛋奶冻",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 50,
+  "cover_image": "images/9cdda0754a2d6669ded563fa1bebd708.webp",
+  "nutrition_tip": "这些南瓜蛋奶冻光滑、柔滑，充满节日风味。你的客人...",
+  "ingredients": [
+    {
+      "name": "3 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯 100% 纯南瓜",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙南瓜派香料",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14 盎司）EAGLE BRAND® 甜炼乳",
+      "amount": ""
+    },
+    {
+      "name": "1.3333333730698 杯全脂牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯生奶油，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 撮肉桂粉，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大碗中搅拌鸡蛋。加入南瓜和南瓜派香料搅拌直至混合。加入炼乳、牛奶、香草精和盐，搅拌直至混合。倒入六个 6 盎司的蛋奶冻杯中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将蛋奶冻杯放入 9x13 英寸的烤盘中。将盘子放在预热烤箱中间的中心架上。将沸水倒入锅中，倒入蛋奶杯周围，深度为 1 1/4 英寸。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "烘烤约 35 分钟，直到中心几乎凝固。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "从烤盘中取出蛋奶冻杯，放在金属架上冷却。热食或冷食。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在上菜前撒上生奶油并撒上肉桂粉。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-05-28",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/232887/baked-pumpkin-custard-from-eagle-brand/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4daa78300a876d901fe51265a11cb54d",
+    "translated": true
+  }
+}

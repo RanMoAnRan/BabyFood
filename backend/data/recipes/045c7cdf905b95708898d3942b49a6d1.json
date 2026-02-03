@@ -1,0 +1,76 @@
+{
+  "id": "045c7cdf905b95708898d3942b49a6d1",
+  "title": "自制运动饮料（又名 Greatade）",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 0,
+  "cover_image": "images/a1ee22731c9672b9be521b1b189e0c06.webp",
+  "nutrition_tip": "用您可能已经拥有的一些原料制作您自己的运动饮料......",
+  "ingredients": [
+    {
+      "name": "8 杯新鲜冷水，分开",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙喜马拉雅粉红盐",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙钙镁粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯鲜榨橙汁，滤过",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的柠檬，榨汁",
+      "amount": ""
+    },
+    {
+      "name": "2 个中等大小的酸橙，榨汁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将 1 杯水倒入一个大锅中。加入蜂蜜、盐、钙镁粉和辣椒。将锅放在小火上，搅拌直至成分溶解。远离热源并使其恢复至室温。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将果汁添加到锅中的室温混合物中。倒入剩余的 7 杯水，搅拌直至充分混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-03-17",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/246681/homemade-sports-drink-aka-greaterade/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f19f452ae53408cb4d9b9f8560badff7",
+    "translated": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "3ced8a49be14a1f2a968cd6863a4e2d1",
+  "title": "蜂蜜芥末火腿釉",
+  "min_age_month": 12,
+  "tags": [
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/ed27f3573d673d523b9b986f9f3d8dc1.webp",
+  "nutrition_tip": "这种简单的蜂蜜芥末火腿釉结合了菠萝汁、糖、蜂蜜和穆……",
+  "ingredients": [
+    {
+      "name": "1 杯蜂蜜",
+      "amount": ""
+    },
+    {
+      "name": "1 杯黄芥末或辣芥末",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯红糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯菠萝汁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将蜂蜜、芥末、红糖和菠萝汁放入碗中混合，直至混合均匀。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/277330/honey-mustard-ham-glaze/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0c077c7da975bfc58dce311c88ae6b5f",
+    "translated": true
+  }
+}

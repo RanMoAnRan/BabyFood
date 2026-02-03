@@ -1,0 +1,123 @@
+{
+  "id": "602078020b750e556333073f06454539",
+  "title": "哈瓦那地狱火辣椒",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/9bd46c7fea3c6b49415b9788e0605fc3.webp",
+  "nutrition_tip": "这个哈瓦那地狱火辣椒食谱充满了来自墨西哥辣椒和哈巴的香料......",
+  "ingredients": [
+    {
+      "name": "0.5 磅培根",
+      "amount": ""
+    },
+    {
+      "name": "1 磅地面圆形",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎猪肉",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（16 盎司）整罐去皮番茄，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（28 盎司）碎番茄",
+      "amount": ""
+    },
+    {
+      "name": "2 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（12 液量盎司）啤酒",
+      "amount": ""
+    },
+    {
+      "name": "1 个黄洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 个青椒，切丁",
+      "amount": ""
+    },
+    {
+      "name": "8 个阿纳海姆辣椒，去籽并切丁",
+      "amount": ""
+    },
+    {
+      "name": "6 个墨西哥辣椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "6 个哈瓦那辣椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 盎司番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 盎司智利酱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙牛肉汤颗粒",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙 孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙碎红辣椒片",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（16 盎司）辣椒豆罐头，沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将培根放入大汤锅中，用中高火煮至均匀棕色。用纸巾吸干水分；劈。沥干锅中多余的水滴，留下足够的水滴覆盖底部。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将牛肉和猪肉放在同一锅中，用中高火加热。加入整个西红柿、碎西红柿、水、啤酒、洋葱、甜椒、阿纳海姆辣椒、墨西哥胡椒、哈瓦那辣椒、番茄酱、辣椒粉、辣椒酱、肉汤颗粒、小茴香、胡椒片和大蒜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将热量降至最低；煮45至60分钟，偶尔搅拌，加入培根和豆类；再煮30分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/25370/habanero-hellfire-chili/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d2049fc761fa37569286b413e9f60cfe",
+    "translated": true
+  }
+}

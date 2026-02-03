@@ -1,0 +1,86 @@
+{
+  "id": "6490ad63ce8a708314e71cbb1407a75c",
+  "title": "烤火腿和奶酪滑块",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/5de2e9ee1661fe6fb9586cb7294afcb2.webp",
+  "nutrition_tip": "这些烤火腿和奶酪滑块是迷你卷，里面塞满了熟食火腿并融化......",
+  "ingredients": [
+    {
+      "name": "0.75 杯融化的黄油",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙 第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "1.5 汤匙罂粟籽",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙干洋葱末",
+      "amount": ""
+    },
+    {
+      "name": "24 个迷你三明治卷",
+      "amount": ""
+    },
+    {
+      "name": "1 磅切成薄片的熟熟食火腿",
+      "amount": ""
+    },
+    {
+      "name": "1 磅切成薄片的瑞士奶酪",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在碗中混合黄油、第戎芥末、伍斯特沙司、罂粟籽和干洋葱。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将卷的顶部与底部分开；将底部的碎片放在准备好的烤盘中一层。将约 1/2 的火腿铺在卷上；添加一层瑞士奶酪，然后在上面放上剩余的火腿片。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面包卷的顶部放在三明治上。将芥末混合物均匀地倒在面包卷上"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 20 分钟，直至面包卷呈浅棕色且奶酪融化。将火腿和奶酪层切成单独的卷即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/216756/baked-ham-and-cheese-party-sandwiches/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "75e20f3f51932e81a93bd699263b65f0",
+    "translated": true
+  }
+}

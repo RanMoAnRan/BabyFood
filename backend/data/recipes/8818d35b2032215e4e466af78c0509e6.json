@@ -1,0 +1,86 @@
+{
+  "id": "8818d35b2032215e4e466af78c0509e6",
+  "title": "奶油芝士蟹肉寿司卷",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Appetizer",
+    "Japanese",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/edb35cb9e0b25bc929404cc299a65600.webp",
+  "nutrition_tip": "这个蟹肉寿司卷采用仿蟹肉配方，美味又令人惊讶……",
+  "ingredients": [
+    {
+      "name": "1 杯生白米饭",
+      "amount": ""
+    },
+    {
+      "name": "2 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙米醋",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 张海苔片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 根黄瓜，去皮并纵向切片",
+      "amount": ""
+    },
+    {
+      "name": "2 块仿蟹腿",
+      "amount": ""
+    },
+    {
+      "name": "0.5（3 盎司）包奶油干酪，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙切碎的新鲜姜根",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将米和水放入平底锅中，用大火煮沸。将火调至中低，盖上锅盖，小火煮 20 至 25 分钟，直至米饭变软且液体被吸收。加入米醋和盐搅拌。让其完全冷却。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "铺上海藻片。用水润湿双手，然后将冷却的米饭均匀地铺在每张纸上，沿一侧边缘纵向留出 1/2 英寸的间隙。将黄瓜条、仿蟹肉条和奶油奶酪沿着缝隙对面的一侧直线排列在米饭上。将寿司从配料卷到海藻片暴露的一端。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "使用锋利的湿刀，将每个卷切成 5 或 6 块。与切碎的姜一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/169856/cream-cheese-and-crab-sushi-rolls/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "02c714e9a49548f6356d5efdf15a52e8",
+    "translated": true
+  }
+}

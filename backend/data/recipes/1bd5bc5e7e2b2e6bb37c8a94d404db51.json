@@ -1,0 +1,117 @@
+{
+  "id": "1bd5bc5e7e2b2e6bb37c8a94d404db51",
+  "title": "菠菜乳蛋饼",
+  "min_age_month": 12,
+  "tags": [
+    "Brunch",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/655e0ff05dec4dc15f5b6dc904596dbb.webp",
+  "nutrition_tip": "这个菠菜乳蛋饼里有很多蔬菜，还有香草羊乳酪和切达干酪……",
+  "ingredients": [
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个小洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（10 盎司）冷冻切碎菠菜，解冻并沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（4.5 盎司）蘑菇，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 包（6 盎司）香草和大蒜羊乳酪，粉碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）切达干酪丝，分开",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 个深盘馅饼壳",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在中型煎锅中用中火融化黄油。加入洋葱和大蒜，炒至浅棕色，大约 7 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入菠菜、蘑菇、羊乳酪和 1/2 杯切达干酪。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物倒入准备好的馅饼皮中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡蛋和牛奶放入一个中等大小的碗中，搅拌直至混合。用盐和胡椒调味。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将菠菜混合物倒在馅饼皮上，让鸡蛋混合物与菠菜混合物充分混合。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤15分钟。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "在顶部撒上剩余的切达干酪，烘烤至中心凝固，再烘烤 35 到 40 分钟。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "短暂冷却后切片并食用，大约需要 10 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-03-04",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/16664/spinach-quiche/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "58dcd180721a4c547848352e11142076",
+    "translated": true
+  }
+}

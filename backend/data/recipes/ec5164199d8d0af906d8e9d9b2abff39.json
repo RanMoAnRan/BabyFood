@@ -1,0 +1,91 @@
+{
+  "id": "ec5164199d8d0af906d8e9d9b2abff39",
+  "title": "神奇的洋葱圈面糊",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 95,
+  "cover_image": "images/879dacc0cc7c31e647ce990acad92d61.webp",
+  "nutrition_tip": "这个洋葱圈面糊配方仅包含 5 种成分，可带来美味的脆脆口感……",
+  "ingredients": [
+    {
+      "name": "2 个大洋葱，切成圈",
+      "amount": ""
+    },
+    {
+      "name": "1 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "煎炸用植物油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将洋葱圈放入一碗冰水中浸泡1小时；沥干并用纸巾拍干。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 1 杯加 2 汤匙面粉、牛奶、鸡蛋、2 汤匙植物油和盐放入碗中，搅拌至光滑。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在油炸锅或大平底锅中将油加热至 375 华氏度（190 摄氏度）。分批工作，将洋葱圈浸入面糊中，直至均匀涂上面糊；在盘子上单层排列。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将裹好的洋葱圈分批放入热油中煎至金黄色酥脆，约 5 分钟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "转移到衬有纸巾的盘子上沥干。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/238377/fantastic-onion-ring-batter/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2ed4edef25cee2df9b67c186196c6667",
+    "translated": true
+  }
+}

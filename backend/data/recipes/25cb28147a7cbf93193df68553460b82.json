@@ -1,0 +1,112 @@
+{
+  "id": "25cb28147a7cbf93193df68553460b82",
+  "title": "自制馄饨汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Asian Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/dedb07be74628df0efdcc7cdc0c9e8c5.webp",
+  "nutrition_tip": "猪肉馄饨在鸡汤中与中国蔬菜一起炖，在这丰盛的......",
+  "ingredients": [
+    {
+      "name": "1束葱，切成1/2英寸的块，分成几份",
+      "amount": ""
+    },
+    {
+      "name": "6 个新鲜蘑菇，切片",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎猪肉",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙芝麻油",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯干面包屑",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（16 盎司）馄饨皮",
+      "amount": ""
+    },
+    {
+      "name": "8 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "16 只生的中号虾，去皮、去肠",
+      "amount": ""
+    },
+    {
+      "name": "1 颗中等大小的白菜，撕成 2 英寸的碎片",
+      "amount": ""
+    },
+    {
+      "name": "16 颗荷兰豆",
+      "amount": ""
+    },
+    {
+      "name": "1 少许酱油，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 少许芝麻油，适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将葱切丁，留出除了 1 汤匙以外的所有洋葱。将蘑菇切成片，留下一汤匙以外的所有蘑菇。将1汤匙葱和1汤匙蘑菇片切碎，与猪肉末、1汤匙香油、1汤匙酱油、鸡蛋、面包屑、盐和胡椒粉一起放入碗中。搅拌使猪肉馅充分混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将约一汤匙的猪肉馅舀到每个馄饨皮的中心。用手指或糕点刷用水轻轻润湿馄饨皮的边缘。将包装纸的一个角折叠到填充物上的另一角上，形成三角形。将边缘压在一起以密封。将三角形的两个长端弄湿，将它们折叠在一起，然后用力按压以密封。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡汤放入大平底锅中，用中火煮沸。将馄饨一颗一颗放入肉汤中，煮3至5分钟，直至馄饨浮到表面。将火调至小火，轻轻拌入虾、白菜和保留的切片蘑菇。让汤再煮2分钟，直到虾变成粉红色，然后放入荷兰豆荚。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用剩余的葱、少许酱油和香油装饰，即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-12-24",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/185519/homemade-wonton-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1131597cad17c3e8aa674ca45a46920b",
+    "translated": true
+  }
+}

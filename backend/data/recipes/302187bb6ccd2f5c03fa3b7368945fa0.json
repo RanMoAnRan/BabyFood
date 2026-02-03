@@ -1,0 +1,93 @@
+{
+  "id": "302187bb6ccd2f5c03fa3b7368945fa0",
+  "title": "菠萝砂锅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "Southern",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/f6a16c0003630e33408848e8ac6190c2.webp",
+  "nutrition_tip": "这个菠萝砂锅配切达干酪和黄油饼干皮是一个经典......",
+  "ingredients": [
+    {
+      "name": "1 罐（20 盎司）菠萝块",
+      "amount": ""
+    },
+    {
+      "name": "1罐（20盎司）菠萝碎，沥干",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.333 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "40 块黄油圆形饼干（例如 Ritz®），压碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，融化，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "沥干菠萝块罐头，保留 1/4 杯菠萝汁用于此食谱。丢弃剩余的果汁或保留以供其他用途。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将沥干的菠萝块和保留的 1/4 杯果汁放入一个大碗中。加入沥干、压碎的菠萝、奶酪、糖和面粉；混合以结合。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "倒入 1 ½ 夸脱的砂锅中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将饼干屑和融化的黄油在一个小碗中混合；撒在菠萝混合物上。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "放入预热好的烤箱中烘烤至金黄色，约30分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/214024/southern-pineapple-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "27de5f5d6df8cbcff7baa790ffb2a079",
+    "translated": true
+  }
+}

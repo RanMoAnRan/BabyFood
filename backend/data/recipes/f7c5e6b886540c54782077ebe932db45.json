@@ -1,0 +1,92 @@
+{
+  "id": "f7c5e6b886540c54782077ebe932db45",
+  "title": "桑格利亚汽酒！桑格利亚汽酒！",
+  "min_age_month": 12,
+  "tags": [
+    "Cocktail",
+    "Spanish",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/70580f0458503e658c340e16108bc4d1.webp",
+  "nutrition_tip": "这个桑格利亚汽酒配方很容易用西班牙红酒、橙汁、白兰地……制作。",
+  "ingredients": [
+    {
+      "name": "1 瓶（750 毫升）干红葡萄酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白兰地",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯三秒",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯冷冻浓缩柠檬水",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯橙汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的橙子，切成圆形",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的柠檬，切成圆形",
+      "amount": ""
+    },
+    {
+      "name": "1 个中等大小的酸橙，切成圆形",
+      "amount": ""
+    },
+    {
+      "name": "8 颗樱桃",
+      "amount": ""
+    },
+    {
+      "name": "2 杯碳酸水",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将红酒、白兰地、橙皮酒、浓缩柠檬水、橙汁、柠檬汁和糖放入碗中混合。加入橙子、柠檬、酸橙片和黑樱桃。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "立即加冰食用，或冷藏 8 小时至过夜以获得最佳风味。对于起泡的桑格利亚汽酒，请在食用前添加苏打水。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/72612/sangria-sangria/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2d79cc533aa9810b4674a91c26571274",
+    "translated": true
+  }
+}

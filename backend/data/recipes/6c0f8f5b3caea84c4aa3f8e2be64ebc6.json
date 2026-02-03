@@ -1,0 +1,106 @@
+{
+  "id": "6c0f8f5b3caea84c4aa3f8e2be64ebc6",
+  "title": "南瓜奶油糖果饼干",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/be4616cfa7ec8c8a833c1f2bceed641a.webp",
+  "nutrition_tip": "这个南瓜奶油糖果饼干配方是用南瓜泥和奶油制成的……",
+  "ingredients": [
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯菜籽油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 杯奶油糖果片",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙糖果糖，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在 2 个烤盘上铺上羊皮纸；油纸涂上黄油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、泡打粉、小苏打、肉桂和盐放入碗中搅拌。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在装有桨叶附件的立式搅拌机的碗中将白糖和鸡蛋一起搅拌，直至光滑且呈奶油状。用橡皮刮刀刮掉碗的侧面和桨。加入南瓜泥、油和香草精，低速搅拌直至混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面粉混合物低速搅入南瓜混合物中，直至完全混合：拌入奶油糖片。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将 ¼ 杯面团（间隔 2 ½ 英寸）放到准备好的烤盘上：用抹刀将面团顶部稍微压平。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 分钟，直至边缘呈金黄色。在将饼干转移到金属架上完全冷却之前，先在烤盘上短暂冷却。在饼干上撒上糖果。糖。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/235287/pumpkin-butterscotch-cookies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "ff0fcc947de5294bdb49bd3cf996c582",
+    "translated": true
+  }
+}

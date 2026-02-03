@@ -1,0 +1,66 @@
+{
+  "id": "3192b944d4d940d8dd80103ce73902e3",
+  "title": "热黄油朗姆酒单份",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/fa6d3e4fdb02b4914cdf8a5d391b8aa6.webp",
+  "nutrition_tip": "在寒冷的冬日，没有什么比熊熊的炉火和炎热的天气更能营造心情了……",
+  "ingredients": [
+    {
+      "name": "1 茶匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙红糖",
+      "amount": ""
+    },
+    {
+      "name": "1 撮肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 多香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "1 滴香草精",
+      "amount": ""
+    },
+    {
+      "name": "2 盎司朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "1 杯开水，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将黄油、糖、肉桂、肉豆蔻、五香粉和香草精放入爱尔兰咖啡杯的底部。倒入朗姆酒和热水。搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/268140/hot-buttered-rum-single-serving/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d631650de6df647431da87fdaf1f3179",
+    "translated": true
+  }
+}

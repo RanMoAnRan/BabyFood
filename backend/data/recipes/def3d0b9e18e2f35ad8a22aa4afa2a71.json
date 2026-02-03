@@ -1,0 +1,87 @@
+{
+  "id": "def3d0b9e18e2f35ad8a22aa4afa2a71",
+  "title": "卷心菜卷砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 100,
+  "cover_image": "images/02d2de976f1a532e00167fa639f3a1ba.webp",
+  "nutrition_tip": "这个卷心菜卷砂锅将切碎的卷心菜与碎牛肉、番茄酱结合在一起......",
+  "ingredients": [
+    {
+      "name": "2 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "3.5 磅切碎的卷心菜",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（29 盎司）番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯生白米饭",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14 盎司）牛肉汤",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）并收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。排干并丢弃油脂。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将卷心菜、番茄酱、洋葱、米饭和盐放入一个大碗中。加入煮熟的碎牛肉翻炒。将混合物倒入 9x13 英寸的烤盘中，然后将牛肉汤倒在上面。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "盖上盖子，放入预热好的烤箱中烘烤1小时。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "搅拌，重新盖上盖子，然后烘烤 20 到 30 分钟，直到卷心菜变软，米饭煮熟。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-11-10",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/14690/cabbage-roll-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "28219b714b54a893e4399476c65c8e35",
+    "translated": true
+  }
+}

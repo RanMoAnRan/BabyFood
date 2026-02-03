@@ -1,0 +1,84 @@
+{
+  "id": "67a0e768cce7ddf176f4ac487f3e0cd4",
+  "title": "照烧三文鱼",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 85,
+  "cover_image": "images/b509939832a3e51b62c44b006a06c20c.webp",
+  "nutrition_tip": "这个很棒的照烧三文鱼食谱以自制的甜味和咸味码头为特色......",
+  "ingredients": [
+    {
+      "name": "0.25 杯芝麻油",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酱油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙红糖，或更多适量",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙芝麻",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙芥末粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙姜末",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "4 块（6 盎司）鲑鱼排",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将芝麻油、柠檬汁、酱油、红糖、芝麻、芥末粉、生姜和大蒜粉放入小锅中，用小火混合。煮沸，搅拌直至糖溶解。留出 1/2 杯腌料用于涂抹。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将剩余的腌料倒入可重新密封的塑料袋中。加入三文鱼排，涂上腌料，挤出多余的空气，然后密封袋子。在冰箱里腌制1到2小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将烤箱架放置在距热源约 6 英寸的位置，并预热烤箱的烤鸡。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将三文鱼排放在预热的烤炉下烤 5 分钟，在三文鱼上刷上保留的腌料。翻转并继续烤约 5 分钟，直到鲑鱼变得不透明且容易剥落。刷上腌料。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-05",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/228285/teriyaki-salmon/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a8c449e3db86e8a3c989374e466671af",
+    "translated": true
+  }
+}

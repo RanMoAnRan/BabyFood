@@ -1,0 +1,121 @@
+{
+  "id": "a317f1c184c8a39670bd85d82b101ae9",
+  "title": "简易凤梨酥",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/675aac7b016dce98d20c2da3a29b744c.webp",
+  "nutrition_tip": "这个菠萝蛋糕是用碎菠萝从头开始制作的，上面放着……",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "1/2 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（20 盎司）菠萝碎和果汁",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）奶油干酪",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯无盐黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。用烹饪喷雾润滑 9x13 烤盘。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、白糖、小苏打和盐放入一个大碗中，在中间挖一个洞。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入鸡蛋、碎菠萝汁和香草精；搅拌直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒入准备好的烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 35 分钟，直至顶部变成深褐色，并且用牙签插入蛋糕中心，取出时是干净的。让蛋糕在金属架上的盘子中冷却 1 到 2 小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "制作糖霜：将奶油干酪和黄油放入搅拌碗中混合，制成糖霜；用电动搅拌器搅拌至光滑，大约1分钟。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "添加糖果商&#39;糖和香草精；搅拌至奶油状，再搅拌约 1 或 2 分钟。"
+    },
+    {
+      "step_index": 8,
+      "img": "",
+      "text": "在冷却的蛋糕上涂上糖霜。"
+    },
+    {
+      "step_index": 9,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-12-09",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/15857/easy-pineapple-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "142201e1daf7b6f503673fad894c6528",
+    "translated": true
+  }
+}

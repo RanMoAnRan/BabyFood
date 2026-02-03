@@ -1,0 +1,88 @@
+{
+  "id": "c8d0514d464d59e9255bf8731f72e2ee",
+  "title": "土豆泥和培根早餐砂锅",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "U.S.",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/5ca7ea339ef4773a33c376e3e781243d.webp",
+  "nutrition_tip": "这个Tater Tot早餐砂锅配培根、鸡蛋和切达干酪很快……",
+  "ingredients": [
+    {
+      "name": "1 磅培根，切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 包（32 盎司）冷冻一口大小的薯块（例如 Tater Tots®）",
+      "amount": ""
+    },
+    {
+      "name": "12 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将培根放入大煎锅中，用中高火煮 5 到 8 分钟，偶尔翻转，直至均匀变成棕色。用纸巾沥干培根的水分。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将培根铺在 9x13 英寸烤盘的底部并盖上。将土豆块铺在培根上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将鸡蛋、牛奶、盐和胡椒粉放入碗中搅拌；倒在一层土豆块上。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在上面放上切达干酪，然后在预热的烤箱中烘烤，直到中心变热，大约需要 1 小时。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-12-29",
+  "updated_at": "2026-01-24T19:15:41Z",
+  "source_url": "https://www.allrecipes.com/recipe/242266/tater-tot-and-bacon-breakfast-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "318355eaef8298df95650ab648b741bf",
+    "translated": true
+  }
+}

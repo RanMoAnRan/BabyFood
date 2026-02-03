@@ -1,0 +1,51 @@
+{
+  "id": "9df406a4e1398675d1b8711b4f0f03d5",
+  "title": "罐装焦糖（Dulce de Leche）",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "South American"
+  ],
+  "difficulty": 1,
+  "time_cost": 240,
+  "cover_image": "images/898521f966bcd0ce0ab5ef48001c4263.webp",
+  "nutrition_tip": "制作炼乳焦糖的简单方法；只要放一罐加甜的浓缩液……",
+  "ingredients": [
+    {
+      "name": "1 罐（14 盎司）甜炼乳",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "撕掉炼乳罐上的标签。将未开封的罐头放入 3 1/2 至 4 1/2 夸脱的慢炖锅中。将水倒入慢炖锅中，直至罐子完全被水淹没。盖上慢炖锅的盖子。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "高火煮 3 1/2 至 4 1/2 小时，确保罐子始终充满水。用钳子取出热罐；冷却至少 25 分钟，直至可以安全处理。不要在罐头还热的时候打开罐头，因为罐头内的压力可能会导致热牛奶汁喷出。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "打开罐子并将内容物倒入有盖的碗中。加入香草精搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-10-31",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/260896/caramel-in-a-can-dulce-de-leche/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fa2d0872eb3eb0b1578dddcdedb381b4",
+    "translated": true
+  }
+}

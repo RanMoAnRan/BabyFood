@@ -1,0 +1,45 @@
+{
+  "id": "ad7ae9bcf9b5e56bf243e4c06fe2329a",
+  "title": "奶油水牛蘸酱",
+  "min_age_month": 8,
+  "tags": [
+    "Sauce",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/0783dae81b3982c392ef8b381686f2c7.webp",
+  "nutrition_tip": "用这款奶油水牛蘸酱来招待您的炸鸡或炸虾，它是……",
+  "ingredients": [
+    {
+      "name": "0.25 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙热水牛城鸡翅酱（例如 Frank's® REDHOT 水牛城鸡翅酱）",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙蜂蜜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将蛋黄酱、水牛翅酱和蜂蜜放入碗中搅拌直至光滑。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-20",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/240343/creamy-buffalo-dipping-sauce/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1f896a9e9ab3b6403ed82c7f8ff24aa4",
+    "translated": true
+  }
+}

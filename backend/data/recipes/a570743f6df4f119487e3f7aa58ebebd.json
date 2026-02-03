@@ -1,0 +1,99 @@
+{
+  "id": "a570743f6df4f119487e3f7aa58ebebd",
+  "title": "薯饼脆皮乳蛋饼",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Brunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 75,
+  "cover_image": "images/28c027e8c48266ab998f6081cc977c4a.webp",
+  "nutrition_tip": "乳蛋饼搭配薯饼作为外皮，可以制作出美味的早餐或早午餐食谱。混合…",
+  "ingredients": [
+    {
+      "name": "3 杯碎土豆丝",
+      "amount": ""
+    },
+    {
+      "name": "0.33333298563957 杯黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "调味盐适量",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯 熟火腿丁",
+      "amount": ""
+    },
+    {
+      "name": "1/3 杯 切碎的红甜椒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "1 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将薯饼放入一个中等大小的碗中。融化 5 汤匙黄油，倒在薯饼上，根据需要加入调味盐或蒜粉调味。添加 1 个鸡蛋，搅拌均匀，然后将混合物压到 9 英寸弹簧平底锅或馅饼盘的底部和侧面。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 25 至 30 分钟，直至土豆呈金黄色且边缘酥脆。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "烘烤面包皮时，将剩余的一汤匙黄油放入中型煎锅中，用中高火融化。加入火腿、胡椒、葱；煮约 4 分钟，搅拌直至灯笼椒稍微变软。从火上移开。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "饼皮准备好后，将火腿混合物铺在底部；将奶酪均匀地撒在上面。将剩下的 5 个鸡蛋和奶油放入一个中等大小的碗中，搅拌；加入盐和胡椒调味，搅拌直至充分混合。将混合物均匀地倒在火腿和奶酪混合物上。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将烤箱温度降低至 350 华氏度（175 摄氏度）。在预热的烤箱中烘烤约 35 分钟，直至馅料膨化且乳蛋饼边缘呈浅棕色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/43475/hash-brown-quiche/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2d69df6165533039359ed29b1abb18c7",
+    "translated": true
+  }
+}

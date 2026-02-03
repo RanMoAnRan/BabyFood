@@ -1,0 +1,79 @@
+{
+  "id": "a817b1ca4f05f1f921e74cb254429fdd",
+  "title": "杯子里的桃子馅饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/db77d561d1c87fbf1b1456b489dee851.webp",
+  "nutrition_tip": "这个简单的杯子里的桃子馅饼配方是用桃子丁、糖和c…",
+  "ingredients": [
+    {
+      "name": "1 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙脱脂奶粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "1 个（4 盎司）容器桃丁，沥干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将黄油放入微波炉安全杯中。用微波炉加热约 20 秒直至融化。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖、面粉、奶粉、泡打粉、肉桂和盐放入一个小碗中：加水搅拌。用叉子将糖混合物倒入杯子中融化的黄油中，搅拌至面糊充分混合；在上面添加桃子。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用微波炉以 70% 的功率加热 2 分钟。静置约 1 分钟。稍微凉一下。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/240561/peach-cobbler-in-a-mug/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e71773fa0bdc0f4fb0a777359d46095a",
+    "translated": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "cf53c32d15454074c916bbf4074b46f8",
+  "title": "香肠球",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/cc8c7be4a2bd9c74c1b8974b7ee09ccc.webp",
+  "nutrition_tip": "香肠球是一道多才多艺的菜肴。供应这些美味的切达干酪香肠......",
+  "ingredients": [
+    {
+      "name": "1 磅碎猪肉香肠，室温",
+      "amount": ""
+    },
+    {
+      "name": "2 杯饼干烘焙混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 磅切达干酪，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将室温香肠、饼干混合物和切达干酪丝混合在一个大碗中；用手搅拌直至充分混合。混合物一开始可能看起来很干，但要继续搅拌，直到均匀地混合在一起。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将混合物搓成约30个核桃大小的球；转移到烤盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 20 至 25 分钟，直至香肠呈金黄色且熟透。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-09-03",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/21649/sausage-balls/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6563cc0c8654d873bd3712f49e2e858b",
+    "translated": true
+  }
+}

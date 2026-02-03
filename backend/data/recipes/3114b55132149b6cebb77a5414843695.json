@@ -1,0 +1,90 @@
+{
+  "id": "3114b55132149b6cebb77a5414843695",
+  "title": "最好的速溶锅扇贝土豆",
+  "min_age_month": 8,
+  "tags": [
+    "Side Dish",
+    "U.S."
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/5991f3ce98be1994d7dadc5043be197f.webp",
+  "nutrition_tip": "这个快速简单的速溶锅扇贝土豆食谱是丰富和奶油智慧......",
+  "ingredients": [
+    {
+      "name": "2 磅育空金土豆或红土豆，切成 1/4 英寸的片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯蔬菜汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝，分开",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙肉豆蔻",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将土豆、肉汤和盐放入多功能高压锅（例如速溶锅）中混合。关闭并锁上盖子。根据制造商的说明选择高压；将计时器设置为 1 分钟。等待 10 到 15 分钟以建立压力。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "根据制造商的说明，使用快速释放方法小心释放压力，大约需要 5 分钟。解锁并取下盖子。将土豆转移到 8 英寸深的方形烤盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 1 ½ 杯切达干酪、奶油、大蒜粉、黑胡椒和肉豆蔻搅拌到速溶锅中剩余的液体中。选择炒功能；煮约 5 分钟，直至呈奶油状。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，将烤箱架放置在距热源约 6 英寸的位置，并预热烤箱的烤鸡。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将奶酪酱倒在土豆上：撒上剩余的 ½ 杯切达干酪。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烤至奶酪呈金黄色，大约需要 5 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-09",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/263876/best-instant-pot-scalloped-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "760da53d7790a6783734bbcea922d771",
+    "translated": true
+  }
+}

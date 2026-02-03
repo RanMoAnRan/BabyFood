@@ -1,0 +1,76 @@
+{
+  "id": "1887f665aab9c25fc82e44e3e1aa0ae1",
+  "title": "墨西哥胡椒玛格丽塔酒",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Cocktail",
+    "Mexican"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/df148994c295a8c23a1a2d7ff1a8b417.webp",
+  "nutrition_tip": "尝尝这款用新鲜墨西哥辣椒、龙舌兰酒、三重塞制成的墨西哥胡椒玛格丽塔……",
+  "ingredients": [
+    {
+      "name": "粗盐",
+      "amount": ""
+    },
+    {
+      "name": "冰块",
+      "amount": ""
+    },
+    {
+      "name": "4 液量盎司龙舌兰酒",
+      "amount": ""
+    },
+    {
+      "name": "2 液量盎司三秒",
+      "amount": ""
+    },
+    {
+      "name": "2 个酸橙，榨汁",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙龙舌兰花蜜",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个墨西哥辣椒，去籽并切丁",
+      "amount": ""
+    },
+    {
+      "name": "1 个酸橙，切成楔形",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将 1/4 到 1/2 英寸的盐倒在一个小浅盘上。用水润湿 2 个玛格丽塔酒杯的边缘，然后浸入盐中。装满冰块并放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在摇酒壶中装满冰块。将龙舌兰酒、三秒酒、酸橙汁、龙舌兰花蜜和墨西哥辣椒倒入摇酒壶中。盖上盖子并剧烈摇晃，直到摇酒器的外部结霜。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "滤入准备好的玻璃杯中。用酸橙角装饰即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/218313/jalapeno-margaritas/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0e1b76dfc02c1ea52f3beaa155d8c844",
+    "translated": true
+  }
+}

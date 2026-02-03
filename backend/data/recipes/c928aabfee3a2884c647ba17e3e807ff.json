@@ -1,0 +1,86 @@
+{
+  "id": "c928aabfee3a2884c647ba17e3e807ff",
+  "title": "简易奶油鸡肉砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/a6cbba4e509d35acba0e00b1f8e344c7.webp",
+  "nutrition_tip": "这个奶油鸡肉砂锅是用黄油饼干皮烘烤的。这很容易…",
+  "ingredients": [
+    {
+      "name": "1 片黄油圆形饼干（如 Ritz®），压碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "4 杯水",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（32 液体盎司）鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    },
+    {
+      "name": "3 块去皮去骨鸡胸肉，切块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（26 盎司）浓缩奶油鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 容器（24 盎司）酸奶油，或适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。将饼干和融化的黄油一起放入碗中；放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将水和鸡汤放入锅中，用大火煮沸；用盐和黑胡椒调味。添加鸡肉；把火调小，煮5到7分钟，偶尔搅拌，直到鸡肉中心不再呈粉红色。沥干并放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大碗中将鸡汤奶油和酸奶油一起搅拌。加入煮熟的鸡肉翻炒。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物转移到 9x13 英寸的烤盘中。在上面撒上饼干混合物。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 25 至 30 分钟，直至起泡。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/218621/easy-creamy-chicken-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4b6166034f42779eb51eef1cffccf813",
+    "translated": true
+  }
+}

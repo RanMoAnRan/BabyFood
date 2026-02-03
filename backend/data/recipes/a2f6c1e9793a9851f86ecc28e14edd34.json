@@ -1,0 +1,123 @@
+{
+  "id": "a2f6c1e9793a9851f86ecc28e14edd34",
+  "title": "慢炖锅奶酪西兰花汤",
+  "min_age_month": 8,
+  "tags": [
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 290,
+  "cover_image": "images/3b23f2baeec75680135be27e3ba2a5e9.webp",
+  "nutrition_tip": "一个简单的慢炖锅奶酪西兰花汤食谱，从炉灶开始，但是……",
+  "ingredients": [
+    {
+      "name": "1 个中等大小的黄洋葱，大致切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 瓣大蒜，大致切碎",
+      "amount": ""
+    },
+    {
+      "name": "10 汤匙咸黄油，分开",
+      "amount": ""
+    },
+    {
+      "name": "3 杯鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "2 包 Swanson® Flavor Boost™ 浓缩鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 袋（16 盎司）冷冻西兰花小花",
+      "amount": ""
+    },
+    {
+      "name": "19 盎司加工奶酪食品（例如 Velveeta®），切成方块",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蒙特利杰克奶酪丝",
+      "amount": ""
+    },
+    {
+      "name": "2 盎司奶油干酪",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯浓奶油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将洋葱和大蒜放入食品加工机的碗中；脉冲直至切碎。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中火融化 2 汤匙黄油。加入洋葱大蒜混合物；煮5到8分钟，直到开始变成棕色。将洋葱混合物转移到 5 夸脱或更大的慢炖锅中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡汤和浓缩风味剂混合在一个碗中。放在一边。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将剩余的 8 汤匙（1 棒）黄油加入煎锅中；加热直至熔化并冒泡。加入面粉搅拌；煮并搅拌3分钟。慢慢加入鸡汤混合物；用盐和黑胡椒调味。煮，不断搅拌，直至光滑且没有结块；煮沸。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将西兰花搅拌入肉汤混合物中；煮10分钟，经常搅拌。使用大漏勺将西兰花转移到慢炖锅中，在煎锅中留下尽可能多的肉汤混合物。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将加工奶酪食品、切达奶酪、蒙特利杰克奶酪和奶油奶酪放入肉汤混合物中搅拌混合；加入牛奶和奶油搅拌。将奶酪混合物转移到慢炖锅中；搅拌直至充分混合。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "盖上慢炖锅。低火煮，每小时搅拌一次，持续 4 小时。凉爽的;食用前稍微变稠。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-05-30",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/282496/slow-cooker-cheesy-broccoli-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "644e6065bc81d9535f9eb5f9af39bd7c",
+    "translated": true
+  }
+}

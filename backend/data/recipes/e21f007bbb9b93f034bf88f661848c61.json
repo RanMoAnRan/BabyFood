@@ -1,0 +1,98 @@
+{
+  "id": "e21f007bbb9b93f034bf88f661848c61",
+  "title": "布雷特慢炖锅烤土豆汤",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 285,
+  "cover_image": "images/9ad756deb12f41c3d208dae5550b4222.webp",
+  "nutrition_tip": "用慢炖锅慢炖布雷特的烤土豆汤食谱，里面有培根……",
+  "ingredients": [
+    {
+      "name": "3 磅红土豆，未去皮，切成 1/2 英寸的方块",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14.5 盎司）鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "1 个白洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）脆熟培根，碎",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯半杯",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯切达干酪丝，加上更多装饰用",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯酸奶油，加上更多装饰用",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙切碎的新鲜韭菜",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将土豆、鸡汤、洋葱、黄油、盐和黑胡椒放入慢炖锅中混合。覆盖。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用高火煮 4 到 5 小时，直到汤味融合并且土豆变得非常柔软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入培根、对半、切达干酪和酸奶油。低火煮 15 至 20 分钟，直至浓稠呈奶油状。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用土豆捣碎器将汤捣碎至您想要的稠度。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用额外的切达干酪、酸奶油和香葱装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-02-01",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/259797/bretts-slow-cooker-loaded-baked-potato-soup/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dd01c791f2e3675a5ad1af5d7975d15c",
+    "translated": true
+  }
+}

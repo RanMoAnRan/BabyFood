@@ -5,11 +5,12 @@
   "tags": [
     "Dinner",
     "Lunch",
-    "American"
+    "American",
+    "publisher-tested"
   ],
   "difficulty": 1,
   "time_cost": 35,
-  "cover_image": "images/9611f724a357ecad2f7aa78a4c21b2ca.webp",
+  "cover_image": "images/b212ffe54d31f0e85ea691d129de811d.webp",
   "nutrition_tip": "Sloppy Joes 很容易用瘦碎牛肉、基本食品配料和……制作。",
   "ingredients": [
     {
@@ -68,7 +69,7 @@
   ],
   "warnings": [],
   "publish_date": "2000-09-30",
-  "updated_at": "2026-01-21T06:41:24Z",
+  "updated_at": "2026-01-26T19:22:39Z",
   "source_url": "https://www.allrecipes.com/recipe/24264/sloppy-joes-ii/",
   "origin_url": "",
   "source_name": "Allrecipes",

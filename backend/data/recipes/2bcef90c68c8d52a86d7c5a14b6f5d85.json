@@ -1,0 +1,87 @@
+{
+  "id": "2bcef90c68c8d52a86d7c5a14b6f5d85",
+  "title": "慢煮白辣椒",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 500,
+  "cover_image": "images/2c328f5320b9808fa8a83449f2c1a22e.webp",
+  "nutrition_tip": "这个慢煮白辣椒食谱，用白豆制成，充满了......",
+  "ingredients": [
+    {
+      "name": "2 磅去皮去骨鸡胸肉，切块",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（14.5 盎司）鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "5 罐（14 盎司）海军豆，冲洗并沥干",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14 盎司）白玉米，沥干",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（4 盎司）切碎的青辣椒",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙干洋葱末，或适量",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙蒜末",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙红辣椒片",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将鸡肉和鸡汤放入平底锅中，用中火煮沸；煮7到10分钟，直到鸡肉不再呈粉红色且汁液清澈。将鸡肉和肉汤转移到慢炖锅中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将海军豆、玉米、青辣椒、洋葱粉、小茴香、大蒜、胡椒片、牛至和盐放入鸡肉混合物中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上慢炖锅。小火煮 8 至 9 小时，直至味道混合。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/223464/slow-cooked-white-chili/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "2b94098a2fa9ee5e344dbc6e4c5aba31",
+    "translated": true
+  }
+}

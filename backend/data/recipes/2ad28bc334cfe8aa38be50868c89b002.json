@@ -1,0 +1,76 @@
+{
+  "id": "2ad28bc334cfe8aa38be50868c89b002",
+  "title": "花生酱苹果脆",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "New England"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/bcc81ec1c76e992d50dce19e25fde36c.webp",
+  "nutrition_tip": "花生酱苹果脆食谱，包括新鲜的苹果片，上面覆盖着……",
+  "ingredients": [
+    {
+      "name": "2 杯苹果，去皮切片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "6 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙花生酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在8英寸方形浅烤盘上涂上油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将苹果片放入准备好的平底锅中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将糖、面粉、肉桂和盐放入碗中；加入黄油和花生酱，搅拌至易碎。将花生酱混合物涂在苹果上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟，直至顶部呈金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/259203/peanut-butter-apple-crisp/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fc97cb5e19377bd49bac744e6b383e39",
+    "translated": true
+  }
+}

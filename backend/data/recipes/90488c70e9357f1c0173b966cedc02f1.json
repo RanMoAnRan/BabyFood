@@ -1,0 +1,81 @@
+{
+  "id": "90488c70e9357f1c0173b966cedc02f1",
+  "title": "煎鸡蛋三明治",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/c136da8cf105e0980631d9cc46c296e1.webp",
+  "nutrition_tip": "尝试这个煎鸡蛋三明治食谱，你永远不会想买一个快餐......",
+  "ingredients": [
+    {
+      "name": "2 茶匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "4 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "4 片加工美国奶酪",
+      "amount": ""
+    },
+    {
+      "name": "8 片烤白面包",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙番茄酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中高温融化黄油。将鸡蛋打入锅中，煮至所需的硬度。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在鸡蛋煮熟之前，在每个鸡蛋上放一片奶酪；继续煮直到奶酪融化。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将每个鸡蛋转移到烤面包片上。用盐和胡椒给鸡蛋调味。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将蛋黄酱和番茄酱涂在剩下的面包片上，然后用面包覆盖鸡蛋，制成 4 个三明治。趁热食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-08-29",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/21004/fried-egg-sandwich/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "cfe28403620f1fc7b1ad48e97184445c",
+    "translated": true
+  }
+}

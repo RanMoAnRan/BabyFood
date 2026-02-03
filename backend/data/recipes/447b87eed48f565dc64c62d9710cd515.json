@@ -1,0 +1,79 @@
+{
+  "id": "447b87eed48f565dc64c62d9710cd515",
+  "title": "翻炒",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Puerto Rican",
+    "South American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/18cd2e48781597c2dc7ef576cdd8f254.webp",
+  "nutrition_tip": "Sofrito 是一种美味芳香的混合物，由西红柿、洋葱、辣椒、香菜、...",
+  "ingredients": [
+    {
+      "name": "10 个 ajies dulces 辣椒，去掉顶部",
+      "amount": ""
+    },
+    {
+      "name": "4 个洋葱，切成大块",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等大小的西红柿，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 个青椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个红甜椒，去籽并切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 个中等头大蒜，去皮",
+      "amount": ""
+    },
+    {
+      "name": "25 根香菜茎（带叶）",
+      "amount": ""
+    },
+    {
+      "name": "25 根雷索茎（带叶）",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黑胡椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将 ají dulce 辣椒、洋葱、西红柿、青椒、红辣椒和大蒜放入食品加工机中混合；脉冲几次。加入香菜茎、recao 茎、盐和胡椒。加工直至达到半块状莎莎酱（不是水状）稠度。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "存放在可重新密封的塑料冷冻袋中。根据需要使用或分批冷冻。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/52491/sofrito/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8562aa49de75d61e6d5f09caadfd21e8",
+    "translated": true
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "b10c6fdd3a04ad1f6d5e3d54c1fed83c",
+  "title": "黑豆和胡桃南瓜辣酱玉米饼馅砂锅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Mexican Inspired"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/d36f064fb6403c342f2a71e664072bec.webp",
+  "nutrition_tip": "这个黑豆和胡桃南瓜辣酱玉米饼馅砂锅菜谱是用托尔制成的……",
+  "ingredients": [
+    {
+      "name": "1 个胡桃南瓜 - 去皮，纵向切成两半，去籽",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙植物油",
+      "amount": ""
+    },
+    {
+      "name": "1 个小洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香菜粉",
+      "amount": ""
+    },
+    {
+      "name": "2 撮辣椒",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（15.5 盎司）黑豆，冲洗并沥干",
+      "amount": ""
+    },
+    {
+      "name": "12 盎司切达干酪丝，分开",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10 盎司）淡辣玉米卷饼酱",
+      "amount": ""
+    },
+    {
+      "name": "8 个玉米饼，如果需要的话可以更多",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在烤盘上涂油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用叉子在胡桃南瓜果肉上刺几次；将切面朝下放在准备好的烤盘上。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 45 分钟直至变软。当南瓜肉冷却到可以处理时，将其舀入碗中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在平底锅中用中火加热油。加入洋葱和大蒜；煮5到10分钟，搅拌直至洋葱变软。加入孜然、香菜和辣椒搅拌；加入南瓜、黑豆和 ½ 切达干酪，搅拌直至热透。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在11x7英寸的烤盘底部倒入薄薄的一层玉米卷饼酱；将剩余的辣酱玉米饼馅倒入一个带有侧面的大盘子中。将 1 个玉米饼两面浸入大盘中的玉米卷饼酱中；转移到平坦的工作表面。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "用勺子将红薯馅料排成一条线穿过中间的玉米饼；将玉米饼卷在馅料周围以将其包住。将卷好的玉米饼，接缝面朝下，放入准备好的烤盘中。对剩余的玉米饼和红薯馅重复上述步骤。在玉米卷饼上撒上剩余的 1/2 切达干酪。用铝箔盖住盘子。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 40 分钟，直至热透且奶酪融化。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/244861/black-bean-and-butternut-squash-enchilada-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6ddeb98832207af27c26291c7372178b",
+    "translated": true
+  }
+}

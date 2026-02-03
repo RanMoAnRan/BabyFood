@@ -1,0 +1,62 @@
+{
+  "id": "0680f6ebea77281f1aa38f7da0fe9217",
+  "title": "纯枫糖",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Canadian",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 65,
+  "cover_image": "images/79a1982f8af6abd5f9b5f621f38cc98f.webp",
+  "nutrition_tip": "这种枫糖是用煮熟的枫糖浆与核桃、霉菌......混合制成的。",
+  "ingredients": [
+    {
+      "name": "2 杯纯枫糖浆",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将糖果温度计连接到一个大的厚底平底锅上。将枫糖浆在平底锅中用中高温煮沸，偶尔搅拌，直到糖浆达到 235 华氏度（110 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "从火上移开并冷却至 175 华氏度（80 摄氏度），无需搅拌，大约需要 10 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用木勺快速搅拌混合物，直至浓稠、呈奶油状且颜色变浅，大约需要 5 分钟。拌入切碎的坚果。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒入模具中；使其在室温下冷却直至凝固。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将糖果脱模。在密封容器中最多可保存 1 个月。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/142723/pure-maple-candy/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5f7d7a19848200877732af2496243bda",
+    "translated": true
+  }
+}

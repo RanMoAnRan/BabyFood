@@ -1,0 +1,73 @@
+{
+  "id": "f138bf16d3a04edfe3e7d87e68f9603c",
+  "title": "蓝色夏威夷鸡尾酒",
+  "min_age_month": 12,
+  "tags": [
+    "Cocktail",
+    "Beverage",
+    "Hawaiian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/7f2c6f6ec6151660564ff47819b965bb.webp",
+  "nutrition_tip": "蓝色夏威夷是一款经典的提基鸡尾酒，由朗姆酒、椰子奶油、果酱制成……",
+  "ingredients": [
+    {
+      "name": "1 杯碎冰",
+      "amount": ""
+    },
+    {
+      "name": "2 液量盎司菠萝汁",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司淡朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司蓝色库拉索利口酒",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司椰子奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 片菠萝片",
+      "amount": ""
+    },
+    {
+      "name": "1 颗 黑樱桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将碎冰、菠萝汁、朗姆酒、蓝柑橘和椰子奶油放入搅拌机中混合。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "高速搅拌直至光滑且均匀的蓝色。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "倒入冰镇的高球杯中。用一片菠萝和樱桃装饰。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-07-13",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/222550/blue-hawaiian-cocktail/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4bbb987f3a6eed3f0dc2dd5256382c6e",
+    "translated": true
+  }
+}

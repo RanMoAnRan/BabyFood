@@ -1,0 +1,73 @@
+{
+  "id": "0a2f219821ed5db3cbba3e5e77e8a9cb",
+  "title": "塔塔酱",
+  "min_age_month": 8,
+  "tags": [
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/d01b549f6659081c773d1630702120c1.webp",
+  "nutrition_tip": "这种鞑靼酱是一种简单、美味的蘸酱，适合炸虾、蟹饼和鱼……",
+  "ingredients": [
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙甜泡菜调味品",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙洋葱碎",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个小碗中将蛋黄酱、调料和洋葱混合在一起。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入柠檬汁搅拌；用盐和胡椒调味。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "食用前盖上盖子并冷藏至少 1 小时。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-07-23",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/12788/tartar-sauce-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7d8422acce7433ab90b80274aed76c33",
+    "translated": true
+  }
+}

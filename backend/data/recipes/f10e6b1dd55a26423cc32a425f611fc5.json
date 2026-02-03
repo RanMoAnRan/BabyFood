@@ -1,0 +1,86 @@
+{
+  "id": "f10e6b1dd55a26423cc32a425f611fc5",
+  "title": "皮尼奥利饼干",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Italian"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/29c70596491ad65f9f9271eabbee437f.webp",
+  "nutrition_tip": "这些金色的pignoli饼干很容易用松子、杏仁酱、鸡蛋制作......",
+  "ingredients": [
+    {
+      "name": "烹饪喷雾",
+      "amount": ""
+    },
+    {
+      "name": "12 盎司杏仁酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "4 个蛋白，分开",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯松子",
+      "amount": ""
+    },
+    {
+      "name": "擀面用通用面粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集原料。将烤箱预热至 325 华氏度（165 摄氏度）。在 2 个饼干片上铺上箔纸；用烹饪喷雾轻轻涂抹箔纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将杏仁酱和白糖放入食品加工机中；混合直至混合。添加糖果商的糖和2个蛋白；搅拌直至光滑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个小碗中搅拌剩余的 2 个蛋白。将松子放在浅盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "双手撒上少许面粉，将面团擀成 1 英寸的球。将球涂上蛋白，抖掉多余的蛋白，然后滚入松子，轻轻按压以粘住。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将球排列在饼干片上，并稍微压平，形成 1 1/2 英寸的圆形。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 15 至 18 分钟，直至呈浅棕色。暂时放在饼干片上，然后转移到金属架上冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1997-10-04",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/10022/pignoli-cookies-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "528cbeed91268f96dc41fe7ea75bd6f0",
+    "translated": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "107720ad09e6b247e1e990a80ac9791b",
+  "title": "空气炸锅红薯薯条",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/d67ee6c93cdb6452df7dd54801f4aa48.webp",
+  "nutrition_tip": "这些空气炸锅红薯条，用大蒜和辣椒粉调味，很脆，…",
+  "ingredients": [
+    {
+      "name": "1 个中等大小的红薯，去皮",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙菜籽油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙甜辣椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将空气炸锅预热至 400 华氏度（200 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将红薯切成 1/2 英寸宽的薯条。放入装有菜籽油的碗中；扔到外套上。用盐、胡椒粉、蒜粉和辣椒粉调味；搅拌直至所有薯条都均匀地涂上一层。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "如有必要，可分批工作，将薯条均匀地放入空气炸锅篮中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "放入预热的空气炸锅中煎至金黄色，大约10分钟。重复烹饪剩余的薯条。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-01",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/264825/air-fried-sweet-potato-fries/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dd10deb27501c6688f57be540257484a",
+    "translated": true
+  }
+}

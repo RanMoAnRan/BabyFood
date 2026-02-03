@@ -1,0 +1,54 @@
+{
+  "id": "4ffb3086c097f302012c9832677193aa",
+  "title": "西班牙咖啡",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Coffee",
+    "Spanish"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/835a76f3e17137d901f7791d218f9ad9.webp",
+  "nutrition_tip": "这款西班牙咖啡鸡尾酒添加了超标朗姆酒、三秒咖啡和咖啡……",
+  "ingredients": [
+    {
+      "name": "1.5 茶匙超细糖",
+      "amount": ""
+    },
+    {
+      "name": "1 液量盎司 151 度朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "0.75 液量盎司三秒（例如 Bols®）",
+      "amount": ""
+    },
+    {
+      "name": "2.5 液量盎司咖啡味利口酒（例如 Kahlua®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯现煮咖啡",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将糖倒入浅盘中。将酒杯或爱尔兰咖啡杯的边缘打湿，然后浸入糖中。添加朗姆酒和三秒。使用长火柴或打火机小心地点燃混合物。慢慢转动玻璃杯，直到糖开始焦糖化。倒入咖啡利口酒以熄灭火焰。上面放上热咖啡。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-01-18",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/270061/spanish-coffee/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5e7d0f1924b3d6075ef732a21382b45a",
+    "translated": true
+  }
+}

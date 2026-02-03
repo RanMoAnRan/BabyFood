@@ -1,0 +1,41 @@
+{
+  "id": "62392208fbb8fc36a0a25b46ae442047",
+  "title": "二料水果酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/69c52cc6051a637c3a1d07cfc292b2b6.webp",
+  "nutrition_tip": "鸡尾酒会上，果盘常常不被人注意，但当你做…",
+  "ingredients": [
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（7 盎司）棉花糖奶油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "使用电动搅拌机，将奶油干酪搅打至光滑。加入棉花糖奶油并搅拌至光滑。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-29T19:28:08Z",
+  "source_url": "https://www.allrecipes.com/recipe/15420/fruit-dip-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "0e89b292057faf9861869d72c955a237",
+    "translated": true
+  }
+}

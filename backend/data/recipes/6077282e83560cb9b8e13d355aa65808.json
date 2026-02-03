@@ -1,0 +1,78 @@
+{
+  "id": "6077282e83560cb9b8e13d355aa65808",
+  "title": "老式内脏馅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "U.S.",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/838b7b9d1388abd26b2b017a1f0f16b7.webp",
+  "nutrition_tip": "用这个老式的食谱做内脏馅很容易，足够……",
+  "ingredients": [
+    {
+      "name": "一只火鸡的 1 袋内脏",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯芹菜丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙家禽调味料",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "8 杯干面包块",
+      "amount": ""
+    },
+    {
+      "name": "1 杯鸡汤，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将内脏切成小块。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在中型煎锅中用中火融化黄油。加入内脏，煮 2 分钟。加入芹菜和洋葱；煮约 5 分钟，搅拌直至变软。从火上移开，拌入家禽调味料、盐和胡椒。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面包屑放入一个大碗中。加入内脏混合物和足够的肉汤，轻轻润湿面包。馅料已准备好，可以根据需要烘烤。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-07-30",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/22543/old-fashioned-giblet-stuffing/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fae0f0b2f145dd981e0b61e5b21c2596",
+    "translated": true
+  }
+}

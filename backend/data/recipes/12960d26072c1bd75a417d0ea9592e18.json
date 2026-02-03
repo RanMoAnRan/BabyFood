@@ -1,0 +1,75 @@
+{
+  "id": "12960d26072c1bd75a417d0ea9592e18",
+  "title": "沉船砂锅",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/fd237c078aa2b4dfde44c53b6ff24086.webp",
+  "nutrition_tip": "这个沉船砂锅可以将碎牛肉、通心粉和蔬菜等简单的食材变成…",
+  "ingredients": [
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（7.25 盎司）通心粉和奶酪混合物",
+      "amount": ""
+    },
+    {
+      "name": "1罐（14.5盎司）番茄丁",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冷冻豌豆",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冷冻玉米",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙调味盐（例如 LAWRY'S®），或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝，分开",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将通心粉和奶酪包中的意大利面和奶酪混合物搅拌到牛肉中。加入西红柿、牛奶、豌豆和玉米；煮沸，调至中低火，盖上锅盖，小火煮约 12 分钟，直至面条变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用调味盐调味。将 1/2 的切达干酪放入盘中搅拌至融化。上面放上剩余的奶酪。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-05-15",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/240605/shipwreck-dinner/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9edbe513dfd64fa886b05ed66857c53b",
+    "translated": true
+  }
+}

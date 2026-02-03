@@ -1,0 +1,67 @@
+{
+  "id": "dffd0bfdc7913f57ff9591683bc297b9",
+  "title": "炒卷心菜和培根",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/f8949912f8f9d4ac4828afe27cf5f7a3.webp",
+  "nutrition_tip": "卷心菜和洋葱在培根油中煎炸，配上脆皮培根和……",
+  "ingredients": [
+    {
+      "name": "3 片培根，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "6 杯卷心菜，切成薄楔形",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙水",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 白糖",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙苹果醋",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将培根放入一个又大又深的煎锅中。用中高火煮至均匀棕色。取出培根，放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在热培根油中煮洋葱直至变软。加入卷心菜，加入水、糖、盐和胡椒粉搅拌。煮大约 15 分钟，直到卷心菜枯萎。拌入培根。食用前撒上醋。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/23685/fried-cabbage-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "e4a73ca4c2dd7ac570f30c7e53a92171",
+    "translated": true
+  }
+}

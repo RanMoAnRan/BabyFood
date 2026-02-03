@@ -1,0 +1,63 @@
+{
+  "id": "05cdc9890a3a7a04eb589c8e5b964ad1",
+  "title": "炸玉米饼肉",
+  "min_age_month": 12,
+  "tags": [
+    "Entree",
+    "Mexican Inspired",
+    "Tex-Mex"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/f6883d1d2ab3777eca6816096235a902.webp",
+  "nutrition_tip": "这个炸玉米饼肉食谱简直是最好的，可以使一批调味地面成为......",
+  "ingredients": [
+    {
+      "name": "1 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙蒜盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙芹菜盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）番茄酱，或更多适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "用中高温加热一个大煎锅。在热煎锅中煮碎牛肉并搅拌 5 至 7 分钟，直至变成棕色且易碎。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用洋葱粉、大蒜盐、芹菜盐和小茴香给牛肉调味。将番茄酱倒在牛肉上，搅拌均匀，小火煮约 5 分钟，直至稍微变稠。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-07-17",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/239930/taco-meat/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5ab7aa2c7f0ed14e7e76b078bb449325",
+    "translated": true
+  }
+}

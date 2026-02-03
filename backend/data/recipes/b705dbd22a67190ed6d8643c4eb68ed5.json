@@ -1,0 +1,76 @@
+{
+  "id": "b705dbd22a67190ed6d8643c4eb68ed5",
+  "title": "熔岩蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/c2879696e79beab43dc2b3e5e4d1138f.webp",
+  "nutrition_tip": "熔岩蛋糕是一种颓废的独立甜点，趁热吃时会露出融化的巧克力……",
+  "ingredients": [
+    {
+      "name": "6.5 块（1 盎司）半甜巧克力块，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油，切成 8 块",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋，室温",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "4 茶匙不加糖可可粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮盐",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 400 华氏度（200 摄氏度）。在四个 6 盎司的小模子上涂上油脂并撒上面粉。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将巧克力和黄油放入双锅顶部，放在沸水中。经常搅拌，用橡皮抹刀刮擦两侧以避免烧焦，直到巧克力融化，大约需要 5 分钟。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将鸡蛋和糖放入一个大碗中；用电动搅拌机搅拌约5分钟，直至变白变稠。加入融化的巧克力、面粉、可可粉和少许盐，直至混合。将面糊倒入准备好的模子中，然后放在烤盘上。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 10 到 13 分钟，直至两侧凝固，但中间仍不稳定。食用前冷却 5 分钟。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-19",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/276304/lava-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "8c1d0f298e85b6f32eaf2e23b0b0e50d",
+    "translated": true
+  }
+}

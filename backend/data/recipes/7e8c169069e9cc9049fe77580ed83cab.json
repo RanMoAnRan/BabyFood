@@ -1,0 +1,80 @@
+{
+  "id": "7e8c169069e9cc9049fe77580ed83cab",
+  "title": "绝对美味的希腊沙拉酱",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "Greek",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 10,
+  "cover_image": "images/d5ac307070b84eac377b3280f665d644.webp",
+  "nutrition_tip": "这种希腊沙拉酱很容易用红酒醋、橄榄油和……制作。",
+  "ingredients": [
+    {
+      "name": "1.5 夸脱橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯 大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯胡椒",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯洋葱粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯第戎芥末",
+      "amount": ""
+    },
+    {
+      "name": "2 夸脱红酒醋",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将橄榄油、大蒜粉、牛至、罗勒、胡椒、盐、洋葱粉和第戎芥末混合在一个非常大的容器中。慢慢倒入醋，同时剧烈搅拌直至充分混合。在室温下密封保存。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "倒在沙拉上即可享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/36520/absolutely-fabulous-greekhouse-dressing/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "55431db7ab892b9af08fc701c2415681",
+    "translated": true
+  }
+}

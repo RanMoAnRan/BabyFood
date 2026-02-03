@@ -1,0 +1,116 @@
+{
+  "id": "e3ffed6532bbfbb68548ceb92f088438",
+  "title": "桑布萨",
+  "min_age_month": 12,
+  "tags": [
+    "Appetizer",
+    "East African",
+    "African"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/c1917a492bcfabd76d72c7ec55167de7.webp",
+  "nutrition_tip": "这些索马里桑布萨的特色是春卷皮，里面装满了调味的地面……",
+  "ingredients": [
+    {
+      "name": "2 汤匙橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "1 个小洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 根韭菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙小豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙胡椒",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙水，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "1 包（14 盎司）春卷皮",
+      "amount": ""
+    },
+    {
+      "name": "1 夸脱煎炸用油，或根据需要",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在大煎锅中用中低火加热橄榄油。加入洋葱、韭菜和大蒜；煮并搅拌直至洋葱透明。加入碎牛肉；煮并搅拌，直到仍然呈淡粉色，大约完成一半。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用小茴香、小豆蔻、盐和胡椒调味；搅拌均匀。继续煮，直到牛肉变成棕色且易碎。将煎锅从火上移开。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面粉和水在一个小碗中混合，制成稀糊。一次使用一张包装纸，折叠成圆锥形。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用牛肉混合物填充圆锥体，关闭顶部，并用糊状物密封。重复此操作，直到包装纸或馅料用完。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在油炸锅或大平底锅中将油加热至 365 华氏度（170 摄氏度）。应该有足够的油来淹没桑布萨。用热油将桑布萨炸至金黄色，一次几个。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "移至铺有纸巾的盘子上沥干。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/53603/sambusa/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "d12b3f212469fb2e0d08ce26ecdbde09",
+    "translated": true
+  }
+}

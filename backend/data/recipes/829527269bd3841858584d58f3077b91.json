@@ -1,0 +1,69 @@
+{
+  "id": "829527269bd3841858584d58f3077b91",
+  "title": "祖母的磅蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Cake",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 100,
+  "cover_image": "images/708ba4543d04ec73ef4ca6bffc5a51e9.webp",
+  "nutrition_tip": "这种传统的磅蛋糕食谱使用等量的黄油、糖、鸡蛋和花……",
+  "ingredients": [
+    {
+      "name": "3 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 杯黄油，软化",
+      "amount": ""
+    },
+    {
+      "name": "6 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "4 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在三个 8x4 英寸的面包盘上涂上油脂，然后铺上羊皮纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和黄油放入一个大碗中，用电动搅拌机中速搅打至松软。加入鸡蛋，一次一个，每次添加后搅拌均匀。交替加入面粉和牛奶，从面粉开始到结束，直到完全混合。不要过度混合。将面糊均匀地分布在准备好的面包盘中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 70 分钟，直至用牙签插入蛋糕中心，取出来时是干净的。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在每个平底锅的边缘划一把小刀。让蛋糕在平底锅中冷却 10 分钟，然后翻转，剥去羊皮纸，并在金属架上完全冷却。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-09-07",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/21702/grandmothers-pound-cake-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "be6d09516c43f8439a4d30c7428d9fee",
+    "translated": true
+  }
+}

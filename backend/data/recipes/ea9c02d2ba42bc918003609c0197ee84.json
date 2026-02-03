@@ -1,0 +1,84 @@
+{
+  "id": "ea9c02d2ba42bc918003609c0197ee84",
+  "title": "浓郁的巧克力松露派",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 495,
+  "cover_image": "images/7ccd9875d04b71f0fa5cd6693c3cfc2a.webp",
+  "nutrition_tip": "这款免烤巧克力松露派的馅料丰富而甘美，由蜂蜜制成……",
+  "ingredients": [
+    {
+      "name": "12 盎司半甜巧克力片",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯浓奶油，分开",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯过筛糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "1 个（9 英寸）准备好的巧克力饼干面包屑外壳",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将巧克力片和 1/2 奶油放入微波炉安全盘中；高火煮 1 至 2 分钟，每 30 秒搅拌一次直至光滑。冷却至室温。加入糖和香草精搅拌。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用电动搅拌机在碗中搅拌剩余的奶油，直至形成软峰。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "高速搅拌巧克力混合物，每次 1/3。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用勺子将巧克力奶油舀入饼皮中。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "食用前冷藏至少 8 小时。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "切片并与一团生奶油一起食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-03-31",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/12643/rich-chocolate-truffle-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "7c51effda7018c4cb71de223f00f64ed",
+    "translated": true
+  }
+}

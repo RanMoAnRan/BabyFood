@@ -1,0 +1,101 @@
+{
+  "id": "7a5060b48d08805af3bd0b28de4356d6",
+  "title": "鸡腿鸡汤",
+  "min_age_month": 8,
+  "tags": [
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 105,
+  "cover_image": "images/3dffecdc2059926540b38a102595889e.webp",
+  "nutrition_tip": "鸡大腿煮熟，然后与洋葱、大蒜、彩椒、辣椒一起炖……",
+  "ingredients": [
+    {
+      "name": "2 夸脱水",
+      "amount": ""
+    },
+    {
+      "name": "5 块鸡大腿",
+      "amount": ""
+    },
+    {
+      "name": "6 根胡萝卜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "3 茎芹菜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个大洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个青椒，切碎",
+      "amount": ""
+    },
+    {
+      "name": "4 块鸡汤，捣碎",
+      "amount": ""
+    },
+    {
+      "name": "3 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 包（10 盎司）冷冻切碎菠菜",
+      "amount": ""
+    },
+    {
+      "name": "4 盎司细鸡蛋面",
+      "amount": ""
+    },
+    {
+      "name": "8 盎司肉饺子",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在一个大锅里装满水，然后将鸡腿放入锅中。煮沸，然后转小火，小火煮约 45 分钟，直至肉从骨头上脱落。取出鸡肉，切肉，然后将肉放回锅中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将胡萝卜、芹菜、洋葱、灯笼椒、鸡精、大蒜放入锅中搅拌；煮10至15分钟，直至蔬菜变软。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "拌入冷冻菠菜，煮至变软，持续 5 至 10 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "同时，将一大锅水烧开。将鸡蛋面放入水中煮 8 至 10 分钟，直至有嚼劲。沥干并放在一边。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将意大利饺子拌入汤中，煮至变软，需要 10 至 15 分钟。加入煮熟的鸡蛋面、盐和胡椒粉搅拌。加热即可食用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-03",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/26384/chicken-soup-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4a397f7084306630664884d7fe88c42b",
+    "translated": true
+  }
+}

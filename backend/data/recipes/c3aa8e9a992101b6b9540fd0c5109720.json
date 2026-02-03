@@ -1,0 +1,74 @@
+{
+  "id": "c3aa8e9a992101b6b9540fd0c5109720",
+  "title": "完美的柠檬凝乳",
+  "min_age_month": 12,
+  "tags": [
+    "Jam / Jelly",
+    "English",
+    "British"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/0aff802b35e5ad8951ed9d29eb8ce6ec.webp",
+  "nutrition_tip": "柠檬凝乳酸甜可口，丝般柔滑。制作一个很容易……",
+  "ingredients": [
+    {
+      "name": "0.75 杯新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯无盐黄油，立方体",
+      "amount": ""
+    },
+    {
+      "name": "3 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙磨碎的柠檬皮",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将柠檬汁、糖、黄油、鸡蛋和柠檬皮放入 2 夸脱的平底锅中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用中低火煮，不断搅拌以防止鸡蛋凝结，直到混合物开始变稠并且气泡浮到表面，大约需要 5 到 6 分钟。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "把锅从火上移开；将柠檬凝乳放入一个大碗中，并在上面放一块保鲜膜，以防止结皮。凝乳冷却后会变得更稠。存放在冰箱中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/53683/perfect-lemon-curd/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a3287bbb573e65d1bc8f1c79d3508642",
+    "translated": true
+  }
+}

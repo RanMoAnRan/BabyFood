@@ -1,0 +1,104 @@
+{
+  "id": "15b0f6f3f3cc6420e8420cd7b26c6041",
+  "title": "快速简单的布朗尼蛋糕",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/4449cc8fad24b74799b1f6e15adea72e.webp",
+  "nutrition_tip": "这个简单的布朗尼食谱从头开始制作丰富而软糖的巧克力布朗尼......",
+  "ingredients": [
+    {
+      "name": "烘焙喷雾",
+      "amount": ""
+    },
+    {
+      "name": "2 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯黄油，融化",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯可可粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯半核桃",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的平底锅上涂上烘焙喷雾。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在一个大碗中搅拌糖、面粉、融化的黄油、鸡蛋、可可粉、香草精、泡打粉和盐，直至混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将面糊倒入准备好的平底锅中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "用核桃半块装饰。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 20 到 30 分钟，直至顶部起皱并且牙签上出现一些潮湿的面包屑。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将锅放在金属架上完全冷却，然后切成方块。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/9599/quick-and-easy-brownies/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "5cce4e9c83fdc55065ce7258ee5785d2",
+    "translated": true
+  }
+}

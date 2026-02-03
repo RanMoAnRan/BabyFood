@@ -1,0 +1,57 @@
+{
+  "id": "a45a55545b3f1cf35851d6b76ea79916",
+  "title": "主厨约翰的鲜奶油",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "French Inspired",
+    "French"
+  ],
+  "difficulty": 1,
+  "time_cost": 2885,
+  "cover_image": "images/9b6dbc6a09ad9ed411ea2c6923f1c3fd.webp",
+  "nutrition_tip": "法式鲜奶油很容易在家里用浓奶油和酪乳制作。它有一个…",
+  "ingredients": [
+    {
+      "name": "2 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "3 汤匙发酵酪乳",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将奶油和酪乳放入玻璃罐中混合。用粗棉布（或任何透气材料）紧紧覆盖，并在室温（70 至 75 华氏度（21 至 24 摄氏度））下放置约 24 小时，直至变稠。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "搅拌混合物，然后拧上盖子。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "使用前冷藏 24 小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2012-05-14",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/222387/chef-johns-creme-fraiche/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "375922d70b7b89b373ee249b7a786191",
+    "translated": true
+  }
+}

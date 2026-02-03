@@ -1,0 +1,77 @@
+{
+  "id": "948de625d4f13a067c12785adb57f0bc",
+  "title": "热狗洋葱",
+  "min_age_month": 12,
+  "tags": [
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 40,
+  "cover_image": "images/3cb840b5ad10cc263513a409f1a7669e.webp",
+  "nutrition_tip": "这款热狗洋葱酱是用糖、芥末、辣椒、番茄酱调味的……",
+  "ingredients": [
+    {
+      "name": "2 汤匙玉米油",
+      "amount": ""
+    },
+    {
+      "name": "1 个特大洋葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙辣椒酱（例如 Frank's RedHot®）",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙准备好的黄芥末",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙 辣椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙番茄酱",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在平底锅中用中火加热油。加入切好的洋葱；煮约 5 分钟，搅拌直至洋葱变软并变成半透明。加入辣酱、黄芥末、糖、辣椒粉、盐、黑胡椒和辣椒。将火调至中低，继续煮约 5 分钟。加入水和番茄酱搅拌；煮约20分钟，直至液体减少。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/218797/hot-dog-onions/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "fbe1395aced2e1e4996eaf608b1dafcf",
+    "translated": true
+  }
+}

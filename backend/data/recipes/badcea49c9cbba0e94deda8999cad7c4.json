@@ -1,0 +1,75 @@
+{
+  "id": "badcea49c9cbba0e94deda8999cad7c4",
+  "title": "法式炸洋葱",
+  "min_age_month": 12,
+  "tags": [
+    "Ingredient",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/11943752123b93e435fe09ab74481a9b.webp",
+  "nutrition_tip": "美味的自制法式炸洋葱。告别商店购买并超越您的……",
+  "ingredients": [
+    {
+      "name": "3 个大洋葱，切成细环",
+      "amount": ""
+    },
+    {
+      "name": "2 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "2 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮大蒜粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 撮洋葱粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 白胡椒粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "煎炸用植物油",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将洋葱浸泡在牛奶中 5 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将面粉、大蒜粉、洋葱粉、白胡椒和盐混合。加入一把洋葱，拌匀。取出剩余的洋葱，一次一把，重复上述步骤。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在大煎锅或油炸锅中加热油。分批煎洋葱，根据需要搅拌，直至均匀变成棕色，每次 2 至 3 分钟。用纸巾沥干水分，并用更多的盐调味。存放在密封容器中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-11-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/269078/french-fried-onions/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9dffe104556bfdbb0a54dac5a21834bf",
+    "translated": true
+  }
+}

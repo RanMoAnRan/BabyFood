@@ -1,0 +1,99 @@
+{
+  "id": "d6bfae3612b95b5b1805c16597d26c62",
+  "title": "丰收沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Dinner",
+    "Side Dish",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/c1fd24a593cc2ef44f30e913e226cde3.webp",
+  "nutrition_tip": "这个收获沙拉食谱用新鲜菠菜、蓝纹奶酪、鳄梨、......",
+  "ingredients": [
+    {
+      "name": "0.5 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "1 束菠菜，冲洗干净并撕成一口大小的碎片",
+      "amount": ""
+    },
+    {
+      "name": "2 个西红柿，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 个牛油果 - 去皮、去核、切丁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个红洋葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蔓越莓干",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蓝纹奶酪碎",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯核桃油",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙红树莓果酱（带籽）",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙红酒醋",
+      "amount": ""
+    },
+    {
+      "name": "加盐调味",
+      "amount": ""
+    },
+    {
+      "name": "新鲜磨碎的黑胡椒粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 375 华氏度（190 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将核桃单层铺在烤盘上。在预热的烤箱中烘烤约 5 分钟，直至核桃开始变褐色。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将核桃、菠菜、西红柿、鳄梨、红洋葱、蔓越莓和蓝纹奶酪放入一个大碗中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将核桃油、果酱和醋放入小碗中搅拌：用盐和黑胡椒调味。倒在沙拉上；扔到外套上。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-10-15",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/23783/harvest-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "890b6a4e93d5327f1bd686e37c0b3922",
+    "translated": true
+  }
+}

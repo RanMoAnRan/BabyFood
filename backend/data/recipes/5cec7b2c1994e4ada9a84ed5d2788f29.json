@@ -1,0 +1,73 @@
+{
+  "id": "5cec7b2c1994e4ada9a84ed5d2788f29",
+  "title": "简单的速溶锅土豆泥",
+  "min_age_month": 6,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/77bd642d99fa91bcd009766182398f6e.webp",
+  "nutrition_tip": "这些速溶锅土豆泥很容易制作，只需在一锅中捣碎......",
+  "ingredients": [
+    {
+      "name": "1.25 磅育空黄金土豆",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯水",
+      "amount": ""
+    },
+    {
+      "name": "2 块鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯无盐黄油，立方体",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "如果需要，将土豆削皮，然后切成 1 英寸的方块。将水和肉汤块放入多功能高压锅（例如Instant Pot）中。选择炒功能并煮 4 分钟。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "搅拌土豆和水，然后打碎肉汤块。关闭并锁上盖子。根据制造商的说明选择高压；将计时器设置为 10 分钟。等待 10 到 15 分钟以建立压力。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "根据制造商的说明，使用自然释放方法释放压力，大约 10 分钟。使用快速释放方法小心释放剩余压力。取出锅并小心地沥干大部分液体。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "添加酸奶油、黄油和牛奶。用土豆捣碎器轻轻捣碎，以达到您想要的稠度。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-09-10",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/281604/simple-instant-pot-mashed-potatoes/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "eacf2e60cc163dfe0ffae403275d872f",
+    "translated": true
+  }
+}

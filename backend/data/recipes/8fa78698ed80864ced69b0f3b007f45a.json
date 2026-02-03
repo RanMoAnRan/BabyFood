@@ -1,0 +1,53 @@
+{
+  "id": "8fa78698ed80864ced69b0f3b007f45a",
+  "title": "牛奶面包",
+  "min_age_month": 12,
+  "tags": [
+    "Snack",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 120,
+  "cover_image": "images/411538f895858500ddbce3e28ae5eac7.webp",
+  "nutrition_tip": "面包机用这种基本的白面包证明了它的价值，它需要......",
+  "ingredients": [
+    {
+      "name": "1.125 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "3 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "3汤匙白糖",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙活性干酵母",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "按照制造商推荐的顺序将原料放入面包机的烤盘中。选择常规白面包周期；按开始。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-02-14",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/17126/milk-bread/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "175cd7f619a32393be93326123bed0b9",
+    "translated": true
+  }
+}

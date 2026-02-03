@@ -1,0 +1,77 @@
+{
+  "id": "6f7312d4dc22f9b44db4d044929d29e5",
+  "title": "花生酱馅饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 140,
+  "cover_image": "images/87394c1a9149f11873ab602fa42f838b.webp",
+  "nutrition_tip": "这个自制的花生酱派配方制作了奶油花生酱，里面充满了……",
+  "ingredients": [
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯奶油花生酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "1 个（16 盎司）容器冷冻搅打配料，解冻，分开",
+      "amount": ""
+    },
+    {
+      "name": "1 个（9 英寸）准备好的全麦饼干皮",
+      "amount": ""
+    },
+    {
+      "name": "15 个微型巧克力花生酱杯（例如 Reese's®），未包装",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "混合奶油奶酪、花生酱和糖果。加糖直至光滑。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "拌入 1/2 搅打过的配料，然后将混合物倒入全麦饼干皮中。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将剩余的搅打配料涂在花生酱混合物上，并用花生酱杯装饰。食用前冷藏至少 2 小时或过夜。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2008-06-30",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/9174/peanut-butter-pie/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b507ea9d5794dc8f8b0000407378eb35",
+    "translated": true
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "530854aae8962a9eb92596a2b417508a",
+  "title": "慢炖锅咖喱鸡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Indian Inspired",
+    "Indian"
+  ],
+  "difficulty": 1,
+  "time_cost": 135,
+  "cover_image": "images/b3b19b4b9cb33e7396986ffe02570d0e.webp",
+  "nutrition_tip": "这种慢炖锅咖喱鸡结合了椰奶、生姜、鸡肉和香料……",
+  "ingredients": [
+    {
+      "name": "3 磅去皮去骨鸡胸肉半块",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（14 盎司）椰奶",
+      "amount": ""
+    },
+    {
+      "name": "2 个洋葱，切丁",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙新鲜大蒜末",
+      "amount": ""
+    },
+    {
+      "name": "4 汤匙 切碎的鲜姜",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙姜黄粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 garam masala",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 香菜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙咖喱粉",
+      "amount": ""
+    },
+    {
+      "name": "4 片月桂叶",
+      "amount": ""
+    },
+    {
+      "name": "1 根肉桂棒",
+      "amount": ""
+    },
+    {
+      "name": "盐和黑胡椒粉适量",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将鸡肉、椰奶、洋葱、番茄酱、大蒜、生姜、小茴香、姜黄、加拉姆马萨拉、香菜、咖喱粉、月桂叶、肉桂棒、盐和胡椒加入慢炖锅中。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用高火煮 2 到 3 小时，直到鸡肉中心不再呈粉红色且汁液清澈。插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。取出并丢弃月桂叶和肉桂棒。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-06-22",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/273875/slow-cooker-chicken-curry/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9bb7e7b14328d35030ad08b6092397d7",
+    "translated": true
+  }
+}

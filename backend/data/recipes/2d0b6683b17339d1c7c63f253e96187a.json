@@ -1,0 +1,72 @@
+{
+  "id": "2d0b6683b17339d1c7c63f253e96187a",
+  "title": "巴哈马妈妈",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/d017f3350fda93e3a6f20c073756a348.webp",
+  "nutrition_tip": "用两种朗姆酒、橙子和菠萝调配这款巴哈马妈妈鸡尾酒......",
+  "ingredients": [
+    {
+      "name": "1 杯碎冰",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司橙汁",
+      "amount": ""
+    },
+    {
+      "name": "1 液体盎司菠萝汁",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液体盎司朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液量盎司椰子味朗姆酒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 液体盎司石榴糖浆",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将碎冰、橙汁、菠萝汁、普通朗姆酒、椰子味朗姆酒和石榴糖浆放入搅拌机中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "搅拌直至饮料呈泥状。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "上菜并享用。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2000-04-05",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/17309/bahama-mama/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "b090f7a8212e5955d10c48d28bb6d36a",
+    "translated": true
+  }
+}

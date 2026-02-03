@@ -1,0 +1,50 @@
+{
+  "id": "9472e14486aab1746affe719cb714822",
+  "title": "炒白菜",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 45,
+  "cover_image": "images/4dd4fb4f0d063c846e8c5947e011bc92.webp",
+  "nutrition_tip": "炒卷心菜配培根、洋葱和青椒是一道美味的配菜……",
+  "ingredients": [
+    {
+      "name": "1 磅培根，切丁",
+      "amount": ""
+    },
+    {
+      "name": "2 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯 青椒丁",
+      "amount": ""
+    },
+    {
+      "name": "1 颗卷心菜，切碎",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "在煎锅中用中火将培根、洋葱和甜椒一起煮并搅拌，直到培根开始变成棕色，大约需要 10 分钟。加入卷心菜，不断搅拌，煮 20 至 30 分钟，直至卷心菜变软且透明。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/235987/fried-cabbage/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "6c5a59b8c2575e98d5f8ff278f57b149",
+    "translated": true
+  }
+}

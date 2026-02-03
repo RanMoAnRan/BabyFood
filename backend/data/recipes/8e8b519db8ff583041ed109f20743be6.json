@@ -1,0 +1,79 @@
+{
+  "id": "8e8b519db8ff583041ed109f20743be6",
+  "title": "完美的基本汉堡",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/f7f3bb2db6aae0111b8825eee6ed419f.webp",
+  "nutrition_tip": "这个汉堡肉饼食谱结合了碎牛肉、面包屑和调味料......",
+  "ingredients": [
+    {
+      "name": "1 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 磅碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯细干面包屑",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将户外烤架预热至高温，并在烤架上涂少许油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡蛋、盐和胡椒放入一个中等大小的碗中搅拌。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "加入碎牛肉和面包屑；用手或叉子搅拌直至充分混合。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "形成四个 3/4 英寸厚的肉饼。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将肉饼放在预热的烤架上。盖上盖子，每面煮 6 至 8 分钟，或煮至所需的熟度。插入中心的即时读数温度计读数应至少为 160 华氏度（70 摄氏度）。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "趁热享用吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/25473/the-perfect-basic-burger/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dbbf1e30c2a88ab1ede430af598b03bc",
+    "translated": true
+  }
+}

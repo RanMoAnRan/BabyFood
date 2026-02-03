@@ -1,0 +1,102 @@
+{
+  "id": "17347e2db5dbb7189fab9e1773f537bb",
+  "title": "速溶墨西哥米饭",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "Side Dish",
+    "American",
+    "Mexican",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 35,
+  "cover_image": "images/0f394e66e5aaa9580d531077738b41b9.webp",
+  "nutrition_tip": "用速溶锅制作西班牙米饭，加入香料、肉汤和番茄酱……",
+  "ingredients": [
+    {
+      "name": "1 汤匙鳄梨油，或根据需要更多",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个中等大小的洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "2 大瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯长粒米",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯低钠鸡汤",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯番茄酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮辣椒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "打开多功能高压锅（如Instant Pot）；选择炒功能并调整至中度。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用鳄梨油覆盖锅底。煮并搅拌洋葱直至变软，持续 4 至 5 分钟。加入大蒜，煮约 30 秒，直至散发出香味。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将米加入锅中；混合直至涂上油并呈浅棕色。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "倒入鸡汤；搅拌锅底的褐色碎片。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "加入番茄酱、盐、孜然和辣椒。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "关闭并锁上盖子。密封排气口并选择高压功能。设置7分钟的计时器；等待 10 到 15 分钟以建立压力。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "根据制造商的说明，使用快速释放方法小心释放压力，大约需要 5 分钟。解锁并取下盖子。上菜前搅拌米饭。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-06-07",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/263330/instant-pot-mexican-rice/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "54715cb80f59f52f192e99b9e35f6dc4",
+    "translated": true
+  }
+}

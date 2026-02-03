@@ -1,0 +1,50 @@
+{
+  "id": "c743a0341f1eddacda68df4522ab8ad1",
+  "title": "是拉差蒜泥蛋黄酱",
+  "min_age_month": 8,
+  "tags": [
+    "Sauce",
+    "Asian"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/0facd66c988ff56fc1c5796e536b2d4f.webp",
+  "nutrition_tip": "是拉差蒜泥蛋黄酱是一种美味的奶油和辛辣的蘸酱，很容易…",
+  "ingredients": [
+    {
+      "name": "1 杯蛋黄酱",
+      "amount": ""
+    },
+    {
+      "name": "2汤匙是拉差辣酱",
+      "amount": ""
+    },
+    {
+      "name": "1 个酸橙，榨汁",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将蛋黄酱和是拉差酱一起放入碗中搅拌直至颜色一致；加入酸橙汁并搅拌。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2015-03-25",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/241872/sriracha-aioli/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3e6f649d84e8e707bb0065f764d23627",
+    "translated": true
+  }
+}

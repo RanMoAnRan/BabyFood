@@ -1,0 +1,104 @@
+{
+  "id": "124007a464d1a04f6a1db984006bf018",
+  "title": "蔓越莓开心果脆饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "Italian",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/1287dd663b92f5d5db890038adeaa8a4.webp",
+  "nutrition_tip": "这些蔓越莓开心果脆饼是用多汁的红蔓越莓和脆脆的葡萄制成的……",
+  "ingredients": [
+    {
+      "name": "0.75 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯淡橄榄油",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙香草精",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙杏仁提取物",
+      "amount": ""
+    },
+    {
+      "name": "2 个大鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1.75 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1.5 杯开心果",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯蔓越莓干",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 300 华氏度（150 摄氏度）。在饼干片上铺上羊皮纸。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将糖和油在一个大碗中混合直至充分混合。加入香草和杏仁提取物，然后加入鸡蛋。将面粉、泡打粉和盐混合在另一个碗中；逐渐搅拌至鸡蛋混合物中直至混合。用手拌入开心果和蔓越莓。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面团分成两半。在准备好的饼干片上将每一块形成 12x2 英寸的圆木。面团可能很粘；用冷水弄湿手，这样更容易处理面团。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 35 分钟，直至原木呈浅棕色。从烤箱中取出并放置冷却 10 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将烤箱温度降低至 275 华氏度（135 摄氏度）。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "将原木沿对角线切成 3/4 英寸厚的切片。将饼干切面朝下放在饼干片上。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "将饼干烘烤 8 到 10 分钟直至干燥。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-02-20",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/10638/cranberry-pistachio-biscotti/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "df4730cb902a0205971db44f6fd5c1d8",
+    "translated": true
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "e4f1d2998a05a281dde393be6b171205",
+  "title": "最好的金枪鱼砂锅",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 30,
+  "cover_image": "images/a0cf2306eb767b4eb20ad7bad240b60f.webp",
+  "nutrition_tip": "这个经典的金枪鱼砂锅结合了面条、奶油酱、豌豆和脆脆的……",
+  "ingredients": [
+    {
+      "name": "1 包（12 盎司）鸡蛋面",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（10.5 盎司）浓缩奶油蘑菇汤",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切达干酪丝，分开",
+      "amount": ""
+    },
+    {
+      "name": "2 罐（5 盎司）金枪鱼罐头，沥干",
+      "amount": ""
+    },
+    {
+      "name": "1 杯冷冻青豆",
+      "amount": ""
+    },
+    {
+      "name": "0.5（4.5 盎司）罐装蘑菇片",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯切碎的洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 杯碎薯片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在一个大锅中倒入淡盐水并煮沸。加入鸡蛋面，煮7至9分钟，直至变软而紧实；流走。同时，将烤箱预热至 425 华氏度（220 摄氏度）。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面条、浓缩汤、1 杯奶酪、金枪鱼、豌豆、蘑菇和洋葱放入一个大碗中，搅拌均匀。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将混合物转移到 9x13 英寸的烤盘中。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在混合物上撒上碎薯片和剩余的 1 杯奶酪。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "在预热的烤箱中烘烤约 15 至 20 分钟，直至奶酪融化且边缘呈浅金黄色。"
+    },
+    {
+      "step_index": 7,
+      "img": "",
+      "text": "趁热享用。享受！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1999-10-20",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/17219/best-tuna-casserole/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "a192c5c5d0b325975f6163b4e52f8be0",
+    "translated": true
+  }
+}

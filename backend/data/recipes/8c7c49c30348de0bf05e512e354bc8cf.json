@@ -1,0 +1,87 @@
+{
+  "id": "8c7c49c30348de0bf05e512e354bc8cf",
+  "title": "南瓜核桃蛋糕",
+  "min_age_month": 6,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/beb6f7b326850abb6958d5ab52ad241d.webp",
+  "nutrition_tip": "这个简单的南瓜核桃蛋糕食谱是南瓜和香料的混合物......",
+  "ingredients": [
+    {
+      "name": "1 罐（15 盎司）罐装南瓜泥",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（12 液量盎司）淡奶",
+      "amount": ""
+    },
+    {
+      "name": "4 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙五香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 包（18.25 盎司）黄色蛋糕粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯核桃碎",
+      "amount": ""
+    },
+    {
+      "name": "0.875 杯人造黄油，软化",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。在 9x13 英寸的烤盘上涂上少许油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将南瓜、淡奶、鸡蛋、糖、肉桂、肉豆蔻、五香粉和盐放入一个大碗中：转移到准备好的平底锅中。将干蛋糕混合物撒在上面，然后撒上核桃，淋上融化的人造黄油。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在预热好的烤箱中烘烤35分钟。将烤箱温度降低至 325 华氏度（165 摄氏度）；继续烘烤 15 分钟，直至用牙签插入中心，拔出时是干净的。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/29884/pumpkin-walnut-cake/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "1e3f059ece53987105c333c33411fd2d",
+    "translated": true
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "2f99abdf1b37f841e68a0ebdf94d0ea4",
+  "title": "烤肉（韩式烧烤）",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Korean"
+  ],
+  "difficulty": 1,
+  "time_cost": 80,
+  "cover_image": "images/4521cc3c1dcab77de1777a3b6aeee5c9.webp",
+  "nutrition_tip": "牛小排薄片在甜热的腌料中短暂腌制，…",
+  "ingredients": [
+    {
+      "name": "1.25 磅无骨牛小排，顺着纹理切成 1/8 英寸厚的片",
+      "amount": ""
+    },
+    {
+      "name": "4 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯磨碎的黄洋葱",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙新鲜磨碎的姜根",
+      "amount": ""
+    },
+    {
+      "name": "1汤匙烤芝麻油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙 淡红糖，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯新鲜磨碎的亚洲梨",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙韩国红辣椒片 (gochugaru)",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙粗盐",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙植物油，再加一些用于刷锅",
+      "amount": ""
+    },
+    {
+      "name": "2 杯热米饭，或根据需要",
+      "amount": ""
+    },
+    {
+      "name": "2 片葱片装饰",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将大蒜、磨碎的洋葱、磨碎的姜、烤芝麻油和红糖放入搅拌碗中混合。加入磨碎的梨、酱油和红辣椒片。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将肉放入腌料中，搅拌均匀，使各面都沾上酱汁。盖上盖子并冷藏1至2小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用盐和少许植物油给肉调味。折腾。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在铸铁煎锅上刷上少许植物油，然后放在高温下。当煎锅非常热时，单层加入牛肉，煮至肉的边缘开始焦糖化并且水分开始蒸发，每面煮 2 至 3 分钟。浇在热米饭上，上面撒上葱片。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2016-09-29",
+  "updated_at": "2026-01-31T19:19:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/255591/bulgogi-beef-korean-style-barbecue/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "4fda81e6c7e8e14152e5222d03dc9b40",
+    "translated": true
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "479cbaf995ff833bcb16d05bf8336bf5",
+  "title": "慢炖锅水牛鸡肉三明治",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "Lunch",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 370,
+  "cover_image": "images/936d2e0f254fdb0c353de4025da4bbad.webp",
+  "nutrition_tip": "这个慢炖锅水牛鸡食谱非常容易准备。非常适合辣…",
+  "ingredients": [
+    {
+      "name": "4 块去皮去骨鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 瓶（17.5 液体盎司）水牛城鸡翅酱，分装",
+      "amount": ""
+    },
+    {
+      "name": "0.5（1 盎司）包干牧场沙拉酱混合物",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙黄油",
+      "amount": ""
+    },
+    {
+      "name": "6 个三明治卷，纵向分割",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将鸡胸肉放入慢炖锅中；倒入 3/4 的鸡翅酱和牧场沙拉酱混合物。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "盖上锅盖，低火煮 6 至 7 小时。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "用两把叉子在炊具中切碎鸡肉。拌入黄油。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将鸡肉丝和酱汁堆放在三明治卷上。与剩余的水牛酱一起食用。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "上菜并享用！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-20",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/176132/slow-cooker-buffalo-chicken-sandwiches/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "351ea894a20846ca725d53e0191767d4",
+    "translated": true
+  }
+}

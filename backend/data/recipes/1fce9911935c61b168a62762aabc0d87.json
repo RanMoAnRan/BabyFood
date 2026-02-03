@@ -1,0 +1,79 @@
+{
+  "id": "1fce9911935c61b168a62762aabc0d87",
+  "title": "花生酱球",
+  "min_age_month": 8,
+  "tags": [
+    "Dessert",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 215,
+  "cover_image": "images/32c32b9f6a1ad9443e9808c9023fe73a.webp",
+  "nutrition_tip": "这个花生酱球食谱是一个免烤奇迹——来自花生的浓郁和奶油味......",
+  "ingredients": [
+    {
+      "name": "2.25 杯奶油花生酱",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "4 杯糖果糖",
+      "amount": ""
+    },
+    {
+      "name": "3 杯脆米粉",
+      "amount": ""
+    },
+    {
+      "name": "2 杯半甜巧克力片",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将花生酱和黄油放入中型平底锅中，用小火将其融化；经常搅拌。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "混合糖果’糖和麦片一起放入一个大碗中，直至充分混合。倒入花生酱混合物，搅拌至充分混合；混合物会易碎，但按压时会粘在一起。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "团成1英寸的球；放在衬有羊皮纸的饼干片上。用保鲜膜覆盖并冷藏 3 小时至过夜直至变硬。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在双锅中用小火融化巧克力。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "将 1 个花生酱球放入巧克力中；用两把叉子将混合物卷起来涂上。让多余的巧克力滴回锅中；放在铺有羊皮纸的金属架上。对剩余的花生酱球重复上述步骤。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "食用前冷藏直至变硬。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-02-20",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/10670/peanut-butter-balls-iii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c70d32c355a318e955f24d5a2a6dcdc6",
+    "translated": true
+  }
+}

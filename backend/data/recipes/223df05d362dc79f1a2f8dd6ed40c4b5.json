@@ -1,0 +1,109 @@
+{
+  "id": "223df05d362dc79f1a2f8dd6ed40c4b5",
+  "title": "有史以来最好的汉堡",
+  "min_age_month": 8,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 20,
+  "cover_image": "images/d66c7ba2fa431b3dd1cac9f073f2e755.webp",
+  "nutrition_tip": "整个夏天你都会做的最好的汉堡食谱！这些多汁的汉堡包是…",
+  "ingredients": [
+    {
+      "name": "1.5 磅瘦碎牛肉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 个洋葱，切碎",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切碎的科尔比杰克奶酪或切达奶酪",
+      "amount": ""
+    },
+    {
+      "name": "1 个鸡蛋",
+      "amount": ""
+    },
+    {
+      "name": "1 个（1 盎司）信封干洋葱汤混合物",
+      "amount": ""
+    },
+    {
+      "name": "1 瓣大蒜，切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1茶匙酱油",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙伍斯特酱",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干欧芹",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干罗勒",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牛至",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙碎干迷迭香",
+      "amount": ""
+    },
+    {
+      "name": "盐和胡椒调味",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。将户外烤架预热至高温，并在烤架上涂上少许油。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "同时，将碎牛肉、洋葱、奶酪、鸡蛋、洋葱汤混合物、蒜末、蒜粉、酱油、伍斯特酱、欧芹、罗勒、牛至、迷迭香、盐和胡椒放入一个大碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "用手将混合物做成 4 个肉饼。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "在预热的烤架上煮肉饼，直至中心不再呈粉红色且汁液清澈，每面约 4 到 5 分钟。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "插入中心的即时读数温度计读数应至少为 165 华氏度（74 摄氏度）。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2018-06-08",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/72657/best-hamburger-ever/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "f5011c3b49d60783349201a5307df87e",
+    "translated": true
+  }
+}

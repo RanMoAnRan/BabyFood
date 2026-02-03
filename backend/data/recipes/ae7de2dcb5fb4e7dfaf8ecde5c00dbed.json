@@ -1,0 +1,93 @@
+{
+  "id": "ae7de2dcb5fb4e7dfaf8ecde5c00dbed",
+  "title": "桃子覆盆子馅饼",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 60,
+  "cover_image": "images/5e51316ae0d064e0aff345bed7a3d270.webp",
+  "nutrition_tip": "这个快速简单的桃子覆盆子馅饼食谱，用新鲜水果、糖制成......",
+  "ingredients": [
+    {
+      "name": "4 杯切片新鲜桃子",
+      "amount": ""
+    },
+    {
+      "name": "0.25 杯糖",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯新鲜覆盆子",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙新鲜柠檬汁",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯黄油",
+      "amount": ""
+    },
+    {
+      "name": "1.25 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "2 汤匙发酵粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 350 华氏度（175 摄氏度）。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将桃子、¼ 杯糖、覆盆子、柠檬汁和肉桂放入碗中。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将黄油放入9x13英寸的玻璃烤盘中，放入预热烤箱直至融化；从烤箱中取出盘子并旋转以覆盖底部。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "将剩余的 1 杯糖、面粉、泡打粉和盐放入另一个碗中；加入牛奶搅拌直至均匀湿润。倒入准备好的烤盘中。将桃子混合物涂在上面。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "在预热的烤箱中烘烤 45 分钟至金黄色。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-06-18",
+  "updated_at": "2026-01-28T19:25:52Z",
+  "source_url": "https://www.allrecipes.com/recipe/53297/peach-raspberry-cobbler/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "3c7255ee106522a47dc1b23bde0fdce2",
+    "translated": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "80a8e0cb89a822b1f6646d0cf1054ef4",
+  "title": "Haldi Ka Doodh（热姜黄牛奶）",
+  "min_age_month": 12,
+  "tags": [
+    "Drink",
+    "Beverage",
+    "Indian"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/099cc880f02fae291950a5e7c7b41baa.webp",
+  "nutrition_tip": "热姜黄奶，或 haldi ka doodh，是一种传统的印度饮料，由……制成",
+  "ingredients": [
+    {
+      "name": "0.25 茶匙姜黄粉，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.25 茶匙小豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 姜末",
+      "amount": ""
+    },
+    {
+      "name": "1 撮丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "1 撮 多香粉粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯牛奶",
+      "amount": ""
+    },
+    {
+      "name": "0.75 茶匙蜂蜜，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.125 茶匙香草精",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将姜黄、小豆蔻、黑胡椒、生姜、丁香和五香粉放入小碗中搅拌；放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "在小平底锅中用中火加热牛奶，直至热透，持续 3 到 4 分钟；将蜂蜜和香草精搅拌到牛奶中直至完全溶解。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将 1 茶匙姜黄混合物搅入牛奶混合物中；将火调至中低，小火煮 2 至 3 分钟，直至味道混合。将混合物倒入过滤器中。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2017-11-14",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/236294/haldi-ka-doodh-hot-turmeric-milk/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "17e576ae810d6f4640b5b5e1d1ecf0bf",
+    "translated": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "2d60deae77220b5cbaa1f28f5db6c7b3",
+  "title": "简单的加拉姆玛沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Spice Mix",
+    "Indian"
+  ],
+  "difficulty": 1,
+  "time_cost": 5,
+  "cover_image": "images/75076d614d5a52bf4a1327ef979f47a1.webp",
+  "nutrition_tip": "这个加拉姆马沙拉食谱可以制作出一种快速而简单的芳香混合物……",
+  "ingredients": [
+    {
+      "name": "1 汤匙孜然粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙香菜粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙小豆蔻粉",
+      "amount": ""
+    },
+    {
+      "name": "1.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙肉桂粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙丁香粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙肉豆蔻粉",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将孜然、香菜、豆蔻、胡椒、肉桂、丁香和肉豆蔻放入碗中混合。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将混合物放入密封容器中，并存放在阴凉干燥的地方。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2013-05-13",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/142967/easy-garam-masala/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "63e69de60d0e5bebe8d7d66244d04695",
+    "translated": true
+  }
+}

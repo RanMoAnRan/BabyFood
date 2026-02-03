@@ -1,0 +1,59 @@
+{
+  "id": "b87b2af3dcf65b7efc0ab4646a25fc54",
+  "title": "烤土豆酱",
+  "min_age_month": 8,
+  "tags": [
+    "Appetizer",
+    "Snack",
+    "Condiment",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 490,
+  "cover_image": "images/20a53d51f32f6e607445178629ad05a6.webp",
+  "nutrition_tip": "这种烤土豆酱是经典烤土豆配料的奶油混合物，包括……",
+  "ingredients": [
+    {
+      "name": "1 包（8 盎司）奶油干酪，软化",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 包（1 盎司）牧场调料混合物",
+      "amount": ""
+    },
+    {
+      "name": "3 个葱，切成薄片",
+      "amount": ""
+    },
+    {
+      "name": "1 杯切达干酪丝",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488（3盎司）可以真正的培根块",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将奶油奶酪、酸奶油和牧场沙拉酱放入一个大碗中，搅拌至光滑。拌入葱、切达干酪和培根块。食用前盖上盖子并冷藏过夜。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/218324/baked-potato-dip-ii/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "dbba8b77768a40e9ae2996b3ffdc2805",
+    "translated": true
+  }
+}

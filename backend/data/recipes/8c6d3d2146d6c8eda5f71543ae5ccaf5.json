@@ -1,0 +1,88 @@
+{
+  "id": "8c6d3d2146d6c8eda5f71543ae5ccaf5",
+  "title": "水牛鸡肉意大利面",
+  "min_age_month": 12,
+  "tags": [
+    "Dinner",
+    "American"
+  ],
+  "difficulty": 1,
+  "time_cost": 25,
+  "cover_image": "images/e655f289a1431638e4350298a32659d4.webp",
+  "nutrition_tip": "这道炉灶面食提供了水牛城所有令人舔指的美味……",
+  "ingredients": [
+    {
+      "name": "2 杯通心粉意大利面",
+      "amount": ""
+    },
+    {
+      "name": "2 杯切碎的熟鸡胸肉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙干牧场沙拉酱混合物（例如 Hidden Valley Ranch®）",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙大蒜粉",
+      "amount": ""
+    },
+    {
+      "name": "1 包（8 盎司）Neufchatel 奶酪",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（8 盎司）酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯水牛城鸡翅酱（例如 Frank's RedHot®）",
+      "amount": ""
+    },
+    {
+      "name": "0.5 杯切达干酪丝",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将一大锅淡盐水煮沸。将通心粉放入沸水中煮约 12 分钟，偶尔搅拌直至变软且咬起来坚硬。沥干并放在一边。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "用牧场调味料、盐、胡椒和大蒜粉给鸡肉调味。放在一边。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "同时，将纳沙泰尔奶酪、酸奶油和水牛翅酱放入大平底锅中，用小火混合。煮约 3 分钟，不断搅拌，直至充分混合。加入切达干酪并充分搅拌直至融化。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "加入意大利面和鸡肉，继续烹饪，直至充分混合并加热透。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2020-03-20",
+  "updated_at": "2026-01-27T19:26:04Z",
+  "source_url": "https://www.allrecipes.com/recipe/273599/buffalo-chicken-pasta/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "c9494c0535339817b3d777cd1b3aa6f4",
+    "translated": true
+  }
+}

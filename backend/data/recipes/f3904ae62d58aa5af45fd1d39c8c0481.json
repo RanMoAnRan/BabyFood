@@ -1,0 +1,86 @@
+{
+  "id": "f3904ae62d58aa5af45fd1d39c8c0481",
+  "title": "三豆沙拉",
+  "min_age_month": 12,
+  "tags": [
+    "Lunch",
+    "Side Dish",
+    "Salad",
+    "American",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 735,
+  "cover_image": "images/74b9a4270e706c597edaeceec1e0f180.webp",
+  "nutrition_tip": "这道由青豆、蜡豆和芸豆制成的三豆沙拉可以保持...",
+  "ingredients": [
+    {
+      "name": "1 罐（15 盎司）绿豆",
+      "amount": ""
+    },
+    {
+      "name": "1 磅蜡豆",
+      "amount": ""
+    },
+    {
+      "name": "1 罐（15 盎司）芸豆，沥干并冲洗",
+      "amount": ""
+    },
+    {
+      "name": "1 个洋葱，切成细环",
+      "amount": ""
+    },
+    {
+      "name": "0.75 杯白糖，或适量",
+      "amount": ""
+    },
+    {
+      "name": "0.66666668653488 杯蒸馏白醋",
+      "amount": ""
+    },
+    {
+      "name": "0.33333334326744 杯植物油",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙黑胡椒粉",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙芹菜籽",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将青豆、蜡豆、芸豆、洋葱、糖、醋、植物油、盐、胡椒粉和芹菜籽混合在一起。放入冰箱冷藏至少12小时。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "享受吧！"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-11-25",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/13637/three-bean-salad/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "9dcc920990e52cdd5ac0f40fd3272b64",
+    "translated": true
+  }
+}

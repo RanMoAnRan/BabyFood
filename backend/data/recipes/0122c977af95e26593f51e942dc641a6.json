@@ -1,0 +1,75 @@
+{
+  "id": "0122c977af95e26593f51e942dc641a6",
+  "title": "爱尔兰苏打面包",
+  "min_age_month": 12,
+  "tags": [
+    "Breakfast",
+    "Irish"
+  ],
+  "difficulty": 1,
+  "time_cost": 70,
+  "cover_image": "images/cf280c2298d16ddc77a1483b1027f5dd.webp",
+  "nutrition_tip": "这个爱尔兰苏打面包配方使用酸奶油来获得丰富、湿润、蛋糕般的质感……",
+  "ingredients": [
+    {
+      "name": "4 杯通用面粉",
+      "amount": ""
+    },
+    {
+      "name": "1 杯白糖",
+      "amount": ""
+    },
+    {
+      "name": "2 茶匙泡打粉",
+      "amount": ""
+    },
+    {
+      "name": "1 茶匙小苏打",
+      "amount": ""
+    },
+    {
+      "name": "0.5 茶匙盐",
+      "amount": ""
+    },
+    {
+      "name": "1 品脱酸奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 杯葡萄干",
+      "amount": ""
+    },
+    {
+      "name": "3 个鸡蛋",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "将烤箱预热至 325 华氏度（165 摄氏度）。在两个 8x4 英寸的面包盘上涂抹油脂。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "混合面粉、糖、泡打粉、小苏打和盐。加入酸奶油、葡萄干和鸡蛋；混合直至混合。将面糊均匀地分布在准备好的平底锅之间。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "将面包放入预热好的烤箱中烘烤 1 小时。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "1998-06-30",
+  "updated_at": "2026-01-26T19:22:39Z",
+  "source_url": "https://www.allrecipes.com/recipe/6750/irish-soda-bread-i/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "501184de88bed3e518dd4ab6844199d5",
+    "translated": true
+  }
+}

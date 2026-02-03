@@ -1,0 +1,71 @@
+{
+  "id": "d0b5a6605f0b14934093f244549247b3",
+  "title": "巧克力甘纳许",
+  "min_age_month": 12,
+  "tags": [
+    "Dessert",
+    "French",
+    "publisher-tested"
+  ],
+  "difficulty": 1,
+  "time_cost": 15,
+  "cover_image": "images/e8d8a003e5d78635f4321cfc98ae90be.webp",
+  "nutrition_tip": "这种丝滑的巧克力甘纳许仅由巧克力和奶油制成，非常适合...",
+  "ingredients": [
+    {
+      "name": "9 盎司苦乐参半的巧克力，大致切碎",
+      "amount": ""
+    },
+    {
+      "name": "1 杯浓奶油",
+      "amount": ""
+    },
+    {
+      "name": "1 汤匙黑朗姆酒",
+      "amount": ""
+    }
+  ],
+  "steps": [
+    {
+      "step_index": 1,
+      "img": "",
+      "text": "收集所有原料。"
+    },
+    {
+      "step_index": 2,
+      "img": "",
+      "text": "将巧克力放入中等大小的搅拌碗中。"
+    },
+    {
+      "step_index": 3,
+      "img": "",
+      "text": "在小平底锅中用中火加热奶油。煮沸，仔细观察，因为即使沸腾几秒钟，它也会从锅中沸腾出来。"
+    },
+    {
+      "step_index": 4,
+      "img": "",
+      "text": "奶油沸腾后，立即将其倒在搅拌碗中的巧克力上。搅拌直至巧克力融化且混合物光滑，然后加入朗姆酒搅拌。"
+    },
+    {
+      "step_index": 5,
+      "img": "",
+      "text": "使用甘纳许作为蛋糕釉，稍微冷却 5 到 10 分钟。开始在蛋糕的中心倒入釉料，然后向外涂抹。"
+    },
+    {
+      "step_index": 6,
+      "img": "",
+      "text": "对于蓬松的糖霜或巧克力馅料，使其冷却至浓稠（在冰箱中最多 1 小时），然后搅打至松软。像传统糖霜一样用抹刀涂抹。"
+    }
+  ],
+  "warnings": [],
+  "publish_date": "2019-04-02",
+  "updated_at": "2026-01-23T19:27:12Z",
+  "source_url": "https://www.allrecipes.com/recipe/33647/chocolate-ganache/",
+  "origin_url": "",
+  "source_name": "Allrecipes",
+  "_translation": {
+    "dest": "zh-CN",
+    "source_hash": "34de01d435ff168e278a1a67df974679",
+    "translated": true
+  }
+}
