@@ -52,7 +52,7 @@ jobs:
           DATA_REF: data-${{ github.run_id }}-${{ github.run_attempt }}
         run: |
           SITE="allrecipes_com"
-          ALLRECIPES_LIMIT="200"
+          ALLRECIPES_LIMIT="1000"
           NUTRITION_MAX_PAGES="0"
 
           # 定时任务：固定只跑 Allrecipes
